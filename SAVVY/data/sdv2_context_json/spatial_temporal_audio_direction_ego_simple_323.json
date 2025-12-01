@@ -1,0 +1,124 @@
+{
+    "event": "The speech topic 'asking about food taste' comes up.",
+    "start_time": "3:39",
+    "end_time": "3:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark brown/black hair, wearing dark-rimmed glasses, a black or dark navy blue V-neck sweater over a light blue collared shirt, and blue jeans. He is the other person in the scene, not the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:40": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "2:16": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "2:25": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "2:40": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "2:56": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "3:39": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "3:40": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "3:55": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "4:00": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "4:12": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "4:30": {
+                "distance": "1.2",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "sounding object (other person)",
+        "description": "At the time of the event, the camera wearer is facing the other person (sounding object) who is seated at the dining table.",
+        "key_frames": {
+            "3:39": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "3:40": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "3:41": {
+                "distance": "1.2",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking about food taste\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_323",
+    "video_id": "loc3_script3_seq4_rec2"
+}

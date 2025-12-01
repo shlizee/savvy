@@ -1,0 +1,116 @@
+{
+    "event": "When the speech topic 'asking about duration of guitar playing' comes up, relative to a robot standing by the rectangular wooden coffee table and facing the black decorative animal sculpture, determining where the speaker is.",
+    "start_time": "01:16",
+    "end_time": "01:20",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a man wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short dark hair and a lavalier microphone clipped to his shirt. He is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "00:04": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "00:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:29": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "00:33": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "00:50": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "00:55": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "01:07": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "01:16": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "01:52": {
+                "distance": "2.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular coffee table made of light-to-medium brown wood. It has items on it, including coasters, books, and a small decorative piece.",
+        "key_frames": {
+            "00:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:19": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:41": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:59": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:16": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:49": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A black sculpture of a four-legged animal, possibly a stylized dog or deer. It is located on the floor, visible through large glass windows, likely on a patio or in a sunroom area.",
+        "key_frames": {
+            "00:09": {
+                "distance": "6.0",
+                "direction": "50"
+            },
+            "00:17": {
+                "distance": "6.0",
+                "direction": "55"
+            },
+            "00:26": {
+                "distance": "6.0",
+                "direction": "55"
+            },
+            "00:47": {
+                "distance": "6.0",
+                "direction": "55"
+            },
+            "01:16": {
+                "distance": "6.0",
+                "direction": "50"
+            },
+            "01:29": {
+                "distance": "6.0",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the black decorative animal sculpture, when the speech topic: \"asking about duration of guitar playing\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_281",
+    "video_id": "loc3_script2_seq1_rec1"
+}

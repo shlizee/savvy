@@ -1,0 +1,180 @@
+{
+    "event": "The TV is narrating the goal of reaching dragons during the movie Shrek 2.",
+    "start_time": "3:46",
+    "end_time": "3:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, likely 50-65 inches, mounted on a light-colored wooden media console. It is displaying the movie Shrek 2.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:51": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:47": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:15": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is sitting on a couch in the living room, watching TV.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:47": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A male with curly brown hair, wearing glasses, a light teal short-sleeved collared shirt, and dark shorts. He is also wearing wired earbuds and is sitting on the couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:11": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "3:00": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "3:30": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "3:47": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "4:00": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "4:20": {
+                "distance": "1.8",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "1.8",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"(tv) narrating the goal of reaching dragons\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_32",
+    "video_id": "loc1_script2_seq7_rec1"
+}

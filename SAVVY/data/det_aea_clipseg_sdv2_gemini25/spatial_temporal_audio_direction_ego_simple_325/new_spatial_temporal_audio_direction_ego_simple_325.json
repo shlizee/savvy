@@ -1,0 +1,124 @@
+{
+    "event": "Stating intention to put leftovers aside",
+    "start_time": "0:17",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green/teal short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": -70
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": -80
+            },
+            "0:12": {
+                "distance": "1.2",
+                "direction": -70
+            },
+            "0:17": {
+                "distance": "1.5",
+                "direction": -30
+            },
+            "0:29": {
+                "distance": "2.5",
+                "direction": 45
+            },
+            "1:28": {
+                "distance": "2.0",
+                "direction": 60
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": 70
+            },
+            "2:09": {
+                "distance": "1.5",
+                "direction": 70
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": 80
+            },
+            "2:32": {
+                "distance": "1.8",
+                "direction": 75
+            },
+            "2:37": {
+                "distance": "2.5",
+                "direction": 110
+            },
+            "2:39": {
+                "distance": "3.0",
+                "direction": 100
+            },
+            "2:41": {
+                "distance": "3.5",
+                "direction": 90
+            },
+            "2:54": {
+                "distance": "2.0",
+                "direction": 70
+            },
+            "2:56": {
+                "distance": "2.2",
+                "direction": 80
+            },
+            "3:01": {
+                "distance": "2.5",
+                "direction": 80
+            },
+            "3:07": {
+                "distance": "1.5",
+                "direction": 70
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The perspective of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera View",
+        "description": "The direction the camera is pointing (0 degrees). At the event time (0:17), this is generally towards the kitchen island/counter area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating intention to put leftovers aside\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_325",
+    "video_id": "loc3_script3_seq5_rec2"
+}

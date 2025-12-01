@@ -1,0 +1,160 @@
+{
+    "event": "The other person asks the camera wearer if they want to put an item (creamer) back.",
+    "start_time": "01:17",
+    "end_time": "01:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short dark hair, wearing a white plain t-shirt and light blue shorts. Face is intentionally blurred in the video. Appears to be of average height and build. He is seated at a small, round/oval wooden drop-leaf table for the duration of his appearance. He is interacting with the camera wearer, receiving coffee, creamer, popcorn, and a spoon.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "00:16": {
+                "distance": "1.3",
+                "direction": "10"
+            },
+            "00:32": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:37": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "00:40": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:49": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "01:03": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "01:07": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:17": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:19": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:31": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by the first-person participant, capturing an egocentric view. Its position is the origin (0,0) for distance and direction measurements.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Same as the sounding object: Adult male with short dark hair, wearing a white plain t-shirt and light blue shorts. Face is intentionally blurred. Seated at a small wooden table.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "00:16": {
+                "distance": "1.3",
+                "direction": "10"
+            },
+            "00:32": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:37": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "00:40": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:49": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "01:03": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "01:07": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:17": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:19": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:31": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about putting item back\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_91",
+    "video_id": "loc2_script2_seq4_rec2"
+}

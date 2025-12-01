@@ -1,0 +1,155 @@
+{
+    "event": "Commenting on the coffee maker's sleekness",
+    "start_time": "1:33",
+    "end_time": "1:46",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly brown hair, wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She is barefoot. She is wearing a small microphone pack on her waistband.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "2.8",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:49": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "1:15": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:20": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:27": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:33": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:37": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:43": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:46": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:52": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "2:00": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "2:10": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "2:20": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "2:35": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "2:40": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "2:48": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "2:52": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "2:58": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "3:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:12": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 2.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"commenting on the coffee maker's sleekness\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_12",
+    "video_id": "loc1_script2_seq3_rec1"
+}

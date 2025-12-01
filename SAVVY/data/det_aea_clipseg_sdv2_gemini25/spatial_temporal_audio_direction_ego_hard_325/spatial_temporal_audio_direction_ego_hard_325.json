@@ -1,0 +1,100 @@
+{
+    "event": "The other person explains their tiredness from being on their feet.",
+    "start_time": "0:05",
+    "end_time": "0:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair, balding on top, and is of average build. He wears a watch on his left wrist. Approximate height 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "35"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "1.3",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "1.3",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "1.4",
+                "direction": "25"
+            },
+            "2:00": {
+                "distance": "1.4",
+                "direction": "25"
+            },
+            "2:30": {
+                "distance": "1.4",
+                "direction": "25"
+            },
+            "2:48": {
+                "distance": "1.4",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the wearer's viewpoint at the origin.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:52": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Coffee Table",
+        "description": "A low, rectangular wooden coffee table. At the time of the event, the camera is primarily facing this object.",
+        "key_frames": {
+            "0:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining tiredness from being on feet\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_325",
+    "video_id": "loc3_script3_seq2_rec2"
+}

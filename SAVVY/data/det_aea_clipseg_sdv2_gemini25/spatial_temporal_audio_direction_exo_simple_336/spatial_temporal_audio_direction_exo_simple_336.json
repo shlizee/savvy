@@ -1,0 +1,148 @@
+{
+    "event": "A woman asks about what activity will be done on the couch.",
+    "start_time": "0:02",
+    "end_time": "0:06",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long, dark, curly hair, wearing a yellow knitted short-sleeve top over a white t-shirt, and light blue jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.7",
+                "direction": "-28"
+            },
+            "0:02": {
+                "distance": "1.7",
+                "direction": "-25"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "1.9",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-6"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "3.2",
+                "direction": "40"
+            },
+            "0:30": {
+                "distance": "3.2",
+                "direction": "40"
+            },
+            "0:45": {
+                "distance": "3.2",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "3.2",
+                "direction": "40"
+            },
+            "1:15": {
+                "distance": "3.2",
+                "direction": "40"
+            },
+            "1:30": {
+                "distance": "3.2",
+                "direction": "40"
+            },
+            "1:38": {
+                "distance": "3.2",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "Large wooden rectangular dining table, light brown wood. Initially has a Connect Four game, a glass, and a bag of chips on it. Approximately 2m long, 1m wide.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "0:12": {
+                "distance": "4.5",
+                "direction": "90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black Decorative Animal Sculpture",
+        "description": "A black, four-legged animal sculpture, resembling a stylized dog or similar creature. Approximately 0.6m long and 0.35m high. Positioned on the wooden floor near large glass windows/doors.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.6",
+                "direction": "34"
+            },
+            "0:01": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:02": {
+                "distance": "3.3",
+                "direction": "25"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.2",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the black decorative animal sculpture, when the speech topic: \"asking about couch activity\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_336",
+    "video_id": "loc3_script2_seq7_rec1"
+}

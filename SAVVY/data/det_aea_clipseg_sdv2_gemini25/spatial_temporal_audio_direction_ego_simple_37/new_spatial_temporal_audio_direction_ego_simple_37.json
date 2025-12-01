@@ -1,0 +1,92 @@
+{
+    "event": "The other person instructs on the placement of flowers by saying 'This has got to go back where it belongs' while handling the flower vase.",
+    "start_time": "0:01:41",
+    "end_time": "0:01:44",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing glasses, a light green/teal short-sleeved collared shirt, and dark shorts. Approximate height 1.7-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:00:08": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "0:00:20": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:00:39": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "0:00:51": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:00:58": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:01:01": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:01:21": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:01:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:01:32": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "0:01:42": {
+                "distance": "0.8",
+                "direction": "35"
+            },
+            "0:01:57": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:02:02": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:02:09": {
+                "distance": "3.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The person with curly dark hair, wearing glasses, a light green/teal short-sleeved collared shirt, and dark shorts.",
+        "key_frames": {
+            "0:01:42": {
+                "distance": "0.8",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing placement of flowers\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_37",
+    "video_id": "loc1_script2_seq6_rec2"
+}

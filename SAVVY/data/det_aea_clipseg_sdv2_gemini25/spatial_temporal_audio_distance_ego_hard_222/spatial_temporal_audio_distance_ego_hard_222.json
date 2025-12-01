@@ -1,0 +1,272 @@
+{
+    "event": "The speech topic: \"instructing not to move french press while pressing\" comes up.",
+    "start_time": "02:45",
+    "end_time": "02:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white short-sleeved t-shirt, a yellow knitted vest, light blue jeans, and light-colored socks with a pattern. She has a tattoo on her left forearm.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:02": {
+                "distance": "1.7",
+                "direction": "35"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:44": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:20": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "1:33": {
+                "distance": "0.5",
+                "direction": "-65"
+            },
+            "1:44": {
+                "distance": "0.4",
+                "direction": "-50"
+            },
+            "1:53": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "1:59": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "2:03": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "2:23": {
+                "distance": "0.4",
+                "direction": "-45"
+            },
+            "2:27": {
+                "distance": "0.5",
+                "direction": "-50"
+            },
+            "2:33": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "2:41": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "02:46": {
+                "distance": "0.65",
+                "direction": "-70"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "2:56": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "3:02": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "3:06": {
+                "distance": "0.8",
+                "direction": "-65"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera. View is egocentric.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "woman",
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white short-sleeved t-shirt, a yellow knitted vest, light blue jeans, and light-colored socks with a pattern. She has a tattoo on her left forearm.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:02": {
+                "distance": "1.7",
+                "direction": "35"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:44": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:20": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "1:33": {
+                "distance": "0.5",
+                "direction": "-65"
+            },
+            "1:44": {
+                "distance": "0.4",
+                "direction": "-50"
+            },
+            "1:53": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "1:59": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "2:03": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "2:23": {
+                "distance": "0.4",
+                "direction": "-45"
+            },
+            "2:27": {
+                "distance": "0.5",
+                "direction": "-50"
+            },
+            "2:33": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "2:41": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "02:46": {
+                "distance": "0.65",
+                "direction": "-70"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "2:56": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "3:02": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "3:06": {
+                "distance": "0.8",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": "0.65",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing not to move french press while pressing\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_222",
+    "video_id": "loc3_script2_seq3_rec1"
+}

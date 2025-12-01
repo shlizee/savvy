@@ -1,0 +1,132 @@
+{
+    "event": "Imagine you are a robot standing by the sink with a tap and facing the black decorative animal sculpture, when the speech topic: \"suggesting pretending to sip\" comes up, relative to where you are facing, where is the speaker: left, right, or back?",
+    "start_time": "02:10",
+    "end_time": "02:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a yellow knitted vest over a white t-shirt, light blue jeans, and socks. She is also wearing glasses.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:20": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "00:33": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "00:57": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "01:19": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "01:33": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "01:58": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "02:08": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "02:23": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "02:34": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "02:50": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "03:05": {
+                "distance": "0.8",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Sink with tap",
+        "description": "A white porcelain sink with a silver tap, located in a kitchen island.",
+        "key_frames": {
+            "00:18": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:25": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "00:37": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:03": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:29": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A black, stylized animal sculpture, possibly a rabbit or llama, sitting on the coffee table in the living room.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "00:03": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "00:20": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:26": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:37": {
+                "distance": "2.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the sink with a tap and facing the black decorative animal sculpture, when the speech topic: \"suggesting pretending to sip\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_303",
+    "video_id": "loc3_script2_seq3_rec1"
+}

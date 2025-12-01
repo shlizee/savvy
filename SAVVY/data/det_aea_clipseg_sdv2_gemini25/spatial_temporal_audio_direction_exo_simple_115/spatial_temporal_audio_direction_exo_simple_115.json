@@ -1,0 +1,108 @@
+{
+    "event": "observing evidence of recent cooking activity",
+    "start_time": "0:40",
+    "end_time": "0:42",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man wearing a white short-sleeved t-shirt, light blue shorts, and dark-rimmed glasses. He has short dark hair. He is holding a yellow can (drink). Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:39": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "Built-in stainless steel double wall oven, located in the kitchen cabinetry on the wall to the right when entering from the living room.",
+        "key_frames": {
+            "0:25": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "2.8",
+                "direction": "65"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "Built-in stainless steel dishwasher, located under the kitchen counter, to the left of the sink, which is to the left of the double wall oven.",
+        "key_frames": {
+            "0:25": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:41": {
+                "distance": "3.2",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the built-in stainless steel dishwasher, when the speech topic: \"observing evidence of recent cooking activity\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_115",
+    "video_id": "loc2_script2_seq2_rec2"
+}

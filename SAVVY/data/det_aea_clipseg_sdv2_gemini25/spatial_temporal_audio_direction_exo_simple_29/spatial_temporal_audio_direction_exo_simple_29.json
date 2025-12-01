@@ -1,0 +1,108 @@
+{
+    "event": "The speech topic: 'choosing the dog mug' comes up, and the location of the speaker (man) is determined relative to a hypothetical robot in the bedroom.",
+    "start_time": "0:30",
+    "end_time": "0:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing a light green short-sleeved button-up shirt, dark shorts, and black socks/shoes. He has headphones around his neck and a small black rectangular device clipped to his shirt pocket. He is also wearing glasses at times.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:19": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:58": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:06": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:12": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Bed",
+        "description": "Large bed with a tall, grey, upholstered, rectangular headboard. Bedding appears to be white or light-colored.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Ottoman",
+        "description": "White or light grey, fabric-covered, rounded-rectangle ottoman bench, located at the foot of the bed.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the bed and facing the white rounded-rectangle ottoman bench, when the speech topic: \"choosing the dog mug\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_29",
+    "video_id": "loc1_script2_seq3_rec2"
+}

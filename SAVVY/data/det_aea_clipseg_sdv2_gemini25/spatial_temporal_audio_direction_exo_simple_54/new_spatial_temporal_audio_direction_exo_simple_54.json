@@ -1,0 +1,156 @@
+{
+    "event": "A person is speaking about confirming upload attempts.",
+    "start_time": "0:37",
+    "end_time": "0:58",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing glasses, a light blue/green short-sleeved collared shirt, dark shorts, and black socks/shoes. He has headphones around his neck. He is approximately 1.7-1.8 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:38": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:55": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "1:11": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "2:15": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "2:48": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "3:08": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "3:36": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "4:01": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "4:22": {
+                "distance": "2.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from wall painting",
+        "description": "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.",
+        "key_frames": {
+            "0:05": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "3:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "4:22": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to wall painting",
+        "description": "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.",
+        "key_frames": {
+            "0:05": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:15": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "4:22": {
+                "distance": "2.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing the light-gray armchair closer to the wall painting, when the speech topic: \"confirming upload attempts\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_54",
+    "video_id": "loc1_script2_seq7_rec1"
+}

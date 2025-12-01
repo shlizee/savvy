@@ -1,0 +1,112 @@
+{
+    "event": "explaining limited guitar skill due to focusing on self-accompaniment",
+    "start_time": "01:36",
+    "end_time": "01:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, wavy brown hair, wearing a yellow sleeveless knitted top over a white short-sleeved t-shirt, and light blue cuffed jeans. She has glasses pushed up onto her head. She is of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "00:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:07": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "00:10": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:13": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "00:48": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:51": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "00:56": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "01:00": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "01:20": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "01:36": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "01:40": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "01:50": {
+                "distance": "1.8",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, representing the wearer's point of view. The wearer is male, wearing a green t-shirt and a gold watch.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:52": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "woman",
+        "description": "The woman being spoken to, same as the sounding object during the conversation.",
+        "key_frames": {
+            "00:56": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "01:36": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "01:40": {
+                "distance": "1.8",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"explaining limited guitar skill due to focusing on self-accompaniment\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_214",
+    "video_id": "loc3_script2_seq1_rec2"
+}

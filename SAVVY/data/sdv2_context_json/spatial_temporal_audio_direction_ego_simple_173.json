@@ -1,0 +1,179 @@
+{
+    "event": "Speech topic 'identifying the egg cooking as a different task' comes up.",
+    "start_time": "0:52",
+    "end_time": "0:56",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene. A male with curly dark hair, wearing a bone conduction headset over his ears, a grey short-sleeved polo-style shirt, and dark shorts. Approximately 1.7-1.8 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:52": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "0:55": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:37": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:49": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:33": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:37": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's point of view.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person in the scene. A male with curly dark hair, wearing a bone conduction headset over his ears, a grey short-sleeved polo-style shirt, and dark shorts. Approximately 1.7-1.8 meters tall.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:52": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "0:55": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:37": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:49": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:33": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:37": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"identifying the egg cooking as a different task\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_173",
+    "video_id": "loc2_script3_seq31_rec1"
+}

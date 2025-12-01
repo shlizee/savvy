@@ -1,0 +1,116 @@
+{
+    "event": "When the speech topic: \"stating they are looking at the pool\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "start_time": "0:16",
+    "end_time": "0:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, likely male, wearing a grey t-shirt and dark shorts. Their hair appears dark and somewhat curly. They are holding a phone in their right hand during parts of the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:55": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "2:27": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "A black, flat-surface electric cooktop integrated into a granite countertop. It has at least one visible burner with red indicator lights when on.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:14": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:53": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "1:21": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:14": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:29": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "pool",
+        "description": "An outdoor swimming pool visible through large glass sliding doors. The pool area includes patio furniture and is surrounded by a yard.",
+        "key_frames": {
+            "0:02": {
+                "distance": "7.0",
+                "direction": "45"
+            },
+            "0:10": {
+                "distance": "7.0",
+                "direction": "45"
+            },
+            "0:17": {
+                "distance": "7.0",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "7.0",
+                "direction": "45"
+            },
+            "0:51": {
+                "distance": "7.0",
+                "direction": "45"
+            },
+            "2:16": {
+                "distance": "7.0",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "When the speech topic: \"stating they are looking at the pool\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_187",
+    "video_id": "loc2_script3_seq33_rec1"
+}

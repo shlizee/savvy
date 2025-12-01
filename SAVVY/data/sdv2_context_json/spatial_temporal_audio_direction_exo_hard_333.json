@@ -1,0 +1,244 @@
+{
+    "event": "Determine the speaker's location relative to a robot standing by the TV and facing the window when the speech topic is 'acknowledging viewer preference for video setup'.",
+    "start_time": "0:44",
+    "end_time": "0:52",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The sounding object is a person, likely male, wearing a green t-shirt and blue jeans. He is holding a smartphone and appears to be showing a video on it. His face is not clearly visible due to the camera angle and lighting.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A black flat-screen TV mounted on a light-colored wooden entertainment unit. The unit has shelves with various items.",
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "0:11": {
+                "distance": "3.2",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-65"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:36": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:41": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:46": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:51": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:57": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:02": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:07": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:18": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:23": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:29": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with balcony view",
+        "description": "Large glass sliding doors and windows offering a view of a balcony and trees/hills in the distance. The sky is bright blue.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:41": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:46": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:57": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:07": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:12": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:18": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:23": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:29": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:35": {
+                "distance": "4.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the tv by the fireplace and facing the window with a balcony view, when the speech topic: \"acknowledging viewer preference for video setup\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_333",
+    "video_id": "loc3_script2_seq7_rec1"
+}

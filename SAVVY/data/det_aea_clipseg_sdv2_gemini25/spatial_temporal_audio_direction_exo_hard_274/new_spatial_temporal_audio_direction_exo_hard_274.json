@@ -1,0 +1,160 @@
+{
+    "event": "Determine the relative position of the speaker when the speech topic 'continuing hypothetical bleeding scenario' comes up, from the perspective of a robot standing by the double-basin rectangular sink and facing the round sink.",
+    "start_time": "03:02",
+    "end_time": "03:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a grey polo shirt, dark shorts, and glasses. Appears to be of average height and build. This is the person who speaks about the 'hypothetical bleeding scenario'.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "2.3",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:12": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "2:20": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "03:02": {
+                "distance": "1.2",
+                "direction": "80"
+            },
+            "03:05": {
+                "distance": "1.2",
+                "direction": "80"
+            },
+            "03:08": {
+                "distance": "1.2",
+                "direction": "80"
+            },
+            "03:15": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "03:28": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "03:45": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "The main kitchen sink with two rectangular basins, likely a dark composite material, set into a granite countertop along the wall. It has a gooseneck-style metal tap. The robot is positioned here.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:15": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "2:40": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "03:05": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "03:20": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "03:35": {
+                "distance": "2.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A smaller, circular sink, likely stainless steel, set into a granite countertop on the kitchen island. It has a smaller metal tap. The robot is facing this object.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:29": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "03:05": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "03:43": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the round sink with a tap, when the speech topic: \"continuing hypothetical bleeding scenario\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_274",
+    "video_id": "loc2_script3_seq5_rec2"
+}

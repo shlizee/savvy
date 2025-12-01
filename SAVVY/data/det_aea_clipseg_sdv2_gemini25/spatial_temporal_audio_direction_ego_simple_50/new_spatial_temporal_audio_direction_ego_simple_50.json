@@ -1,0 +1,147 @@
+{
+    "event": "The TV is narrating the climb to the highest tower room.",
+    "start_time": "04:11",
+    "end_time": "04:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches diagonally. It is mounted on a light-colored wooden media console with cabinet doors.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person viewpoint of the camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with curly brown hair, wearing glasses, a light teal/blue short-sleeved collared shirt, and dark shorts.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "0:44": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "2:11": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "2:18": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "2:29": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "2:47": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "3:08": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "4:17": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "4:22": {
+                "distance": "1.5",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the climb to the highest tower room\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_50",
+    "video_id": "loc1_script2_seq7_rec1"
+}

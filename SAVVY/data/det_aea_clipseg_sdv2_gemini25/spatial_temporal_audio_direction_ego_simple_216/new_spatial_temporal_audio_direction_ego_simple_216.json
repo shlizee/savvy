@@ -1,0 +1,116 @@
+{
+    "event": "Camera wearer commenting positively on the current cooking outcome, asking for the location of the other person (Michael) relative to the camera wearer's facing direction.",
+    "start_time": "2:02",
+    "end_time": "2:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The 'other person' (Michael). Adult male wearing a light blue/turquoise short-sleeved polo shirt and khaki shorts. He has dark, short hair, and wears glasses. Approximate height 1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:33": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:47": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "1:56": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:03": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:13": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:42": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:59": {
+                "distance": "2.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The perspective of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "direction camera is pointing",
+        "description": "The direction the camera is facing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"commenting positively on current cooking outcome\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_216",
+    "video_id": "loc2_script3_seq34_rec2"
+}

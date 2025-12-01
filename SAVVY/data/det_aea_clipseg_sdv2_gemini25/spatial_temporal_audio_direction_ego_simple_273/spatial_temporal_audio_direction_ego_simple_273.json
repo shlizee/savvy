@@ -1,0 +1,140 @@
+{
+    "event": "The speech topic 'commenting video teaches becoming tycoon' comes up.",
+    "start_time": "0:24",
+    "end_time": "0:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark curly hair, wearing a yellow knitted short-sleeve top over a white t-shirt, and light blue jeans. She is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose point of view the video is from. They are sitting on a couch, holding a phone.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A woman with long dark curly hair, wearing a yellow knitted short-sleeve top over a white t-shirt, and light blue jeans. She is sitting on a couch to the right of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"commenting video teaches becoming tycoon\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_273",
+    "video_id": "loc3_script2_seq7_rec1"
+}

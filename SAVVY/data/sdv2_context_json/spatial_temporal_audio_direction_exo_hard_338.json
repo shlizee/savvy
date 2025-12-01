@@ -1,0 +1,124 @@
+{
+    "event": "A person asks another about their personal investments.",
+    "start_time": "01:07",
+    "end_time": "01:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with long dark hair, wearing a yellow knitted top over a white short-sleeved shirt and blue jeans. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "00:02": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "00:04": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:40": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "00:51": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "01:07": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "01:37": {
+                "distance": "1.0",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Piano",
+        "description": "A black upright piano located against the wall, to the right of a bookshelf and fireplace.",
+        "key_frames": {
+            "00:06": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "00:08": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "00:40": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "00:51": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "01:07": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "01:37": {
+                "distance": "4.0",
+                "direction": "40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with balcony view",
+        "description": "Large glass sliding doors and windows offering a view of a balcony and trees outside.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "00:04": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "00:06": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "00:40": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "00:51": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "01:07": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "01:37": {
+                "distance": "5.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the piano and facing the window with a balcony view, when the speech topic: \"asking about personal investments\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_338",
+    "video_id": "loc3_script2_seq7_rec1"
+}

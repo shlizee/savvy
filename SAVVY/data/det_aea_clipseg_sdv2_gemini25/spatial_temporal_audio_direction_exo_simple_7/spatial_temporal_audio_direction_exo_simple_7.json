@@ -1,0 +1,108 @@
+{
+    "event": "Stating the recording duration (1m 45s)",
+    "start_time": "01:45",
+    "end_time": "01:47",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person operating the camera and speaking. At the time of the event (01:45), this person is sitting on the main living room sofa and holding up a smartphone which is recording. One arm with a tattoo is visible.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0m",
+                "direction": "0deg"
+            },
+            "0:07": {
+                "distance": "0m",
+                "direction": "0deg"
+            },
+            "0:16": {
+                "distance": "0m",
+                "direction": "0deg"
+            },
+            "0:35": {
+                "distance": "0m",
+                "direction": "0deg"
+            },
+            "0:42": {
+                "distance": "0m",
+                "direction": "0deg"
+            },
+            "01:45": {
+                "distance": "0m",
+                "direction": "0deg"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair. It is one of two similar armchairs located near a large arched window. This specific armchair is positioned closer to a small, dark-framed painting on the wall and a white interior door, to the right side of the living room when viewed from the main sofa.",
+        "key_frames": {
+            "0:04": {
+                "distance": "3.0m",
+                "direction": "40deg"
+            },
+            "0:17": {
+                "distance": "2.5m",
+                "direction": "15deg"
+            },
+            "0:31": {
+                "distance": "2.0m",
+                "direction": "5deg"
+            },
+            "0:40": {
+                "distance": "2.5m",
+                "direction": "-10deg"
+            },
+            "01:15": {
+                "distance": "2.8m",
+                "direction": "-20deg"
+            },
+            "01:38": {
+                "distance": "2.5m",
+                "direction": "-15deg"
+            },
+            "01:50": {
+                "distance": "2.5m",
+                "direction": "-15deg"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Set of nested coffee tables",
+        "description": "A set of two circular, nested coffee tables. The larger, lower table has a light-colored top (possibly stone or light wood) and a dark frame/legs. The smaller, taller table is similar in style. They are positioned in front of the main living room sofa. A potted plant is on the larger table for part of the video, and drinks/remotes are also present.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5m",
+                "direction": "0deg"
+            },
+            "0:18": {
+                "distance": "1.0m",
+                "direction": "-30deg"
+            },
+            "0:32": {
+                "distance": "0.7m",
+                "direction": "10deg"
+            },
+            "0:35": {
+                "distance": "0.2m",
+                "direction": "0deg"
+            },
+            "01:36": {
+                "distance": "0.5m",
+                "direction": "0deg"
+            },
+            "01:45": {
+                "distance": "0.5m",
+                "direction": "0deg"
+            },
+            "01:55": {
+                "distance": "0.6m",
+                "direction": "5deg"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray armchair closer to the wall painting and facing a set of nested coffee tables, when the speech topic: \"stating the recording duration (1m 45s)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_7",
+    "video_id": "loc1_script2_seq1_rec1"
+}

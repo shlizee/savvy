@@ -1,0 +1,140 @@
+{
+    "event": "A creak sound comes up, and the task is to determine the direction of the sounding object relative to a hypothetical robot standing by the white recessed fireplace and facing the wooden china cabinet.",
+    "start_time": "0:11",
+    "end_time": "0:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A light blue, arched wooden front door with a black handle and a floral wreath (with pink and white flowers and green leaves) on it. It has a small window with a black cross-shaped mullion. The door is set in a stone archway and is the source of the creak sound as it opens.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "0:11": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "0:12": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:14": {
+                "distance": "0.7",
+                "direction": "-90"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white recessed fireplace with a dark wooden mantelpiece. It has a small, arched firebox opening. There are decorations on the mantel, including a string of carrot-shaped items, some small figurines/dolls, and a round mirror above it.",
+        "key_frames": {
+            "0:10": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:36": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:57": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden china cabinet",
+        "description": "A tall, wooden china cabinet with a dark brown finish. It has glass doors on the upper section, displaying white china. The lower section has solid wooden doors/drawers. It is positioned to the left of an arched doorway leading to another part of the house.",
+        "key_frames": {
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:55": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing the wooden china cabinet, when the creak sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_12",
+    "video_id": "loc1_script2_seq1_rec2"
+}

@@ -1,0 +1,136 @@
+{
+    "event": "The other person is asked if they want a lot or a little portion, and they request a small portion initially.",
+    "start_time": "0:00:59",
+    "end_time": "0:01:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a green short-sleeved polo shirt, blue jeans, and glasses. They also have earbuds in. Approximate height appears to be average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:00:03": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:00:12": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "0:00:14": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:01:00": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:01:02": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:01:21": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:01:22": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:01:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:01:31": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:01:54": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:02:01": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:02:07": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:02:15": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:02:19": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:02:24": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:02:54": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:02:57": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:03:29": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:03:31": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:03:36": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:04:08": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:04:13": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:04:20": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:04:36": {
+                "distance": "2.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"requesting small portion initially\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_313",
+    "video_id": "loc3_script3_seq4_rec1"
+}

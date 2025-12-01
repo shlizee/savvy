@@ -1,0 +1,85 @@
+{
+    "event": "Distance between the stainless steel double wall oven and the speech sound source (man in blue shirt) when the oven is identified during the kitchen tour.",
+    "start_time": "0:27",
+    "end_time": "0:28",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A stainless steel double wall oven, built into light brown wooden kitchen cabinets. It has two oven doors, one above the other, with black glass windows and stainless steel handles and trim. Standard appliance size, approximately 0.6m wide and 1.2m high.",
+        "is_static": true,
+        "key_frames": {
+            "0:28": {
+                "distance": "2.8",
+                "direction": "-40"
+            },
+            "0:31": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:32": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Man in blue shirt (Speech Sound Source)",
+        "description": "Adult male wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, glasses, and wired earphones. He is acting as the tour guide and is the source of the speech identifying the kitchen.",
+        "is_static": false,
+        "key_frames": {
+            "0:14": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "1:44": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen wall with oven",
+        "description": "The kitchen area, specifically the wall containing the oven, towards which the man (reference_object) is gesturing and looking when identifying the oven.",
+        "key_frames": {
+            "0:27": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "When the speech topic: \"identifying the kitchen area on the tour\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_93",
+    "video_id": "loc2_script2_seq2_rec1"
+}

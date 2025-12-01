@@ -1,0 +1,156 @@
+{
+    "event": "A person asks about putting items in the dishwasher.",
+    "start_time": "2:14",
+    "end_time": "2:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a male with curly dark hair, wearing glasses, a dark (navy or black) V-neck sweater over a light blue collared shirt, and blue jeans. Approximate height 1.7-1.8m. This is the person who initiates the speech topic.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:22": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:27": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:27": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:36": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:14": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:25": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:49": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "3:03": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "3:08": {
+                "distance": "3.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace made of light-colored stacked stone with a dark firebox, located in the living room area against a wall.",
+        "key_frames": {
+            "0:26": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:46": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:57": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "1:38": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "2:10": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "2:24": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "2:37": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "3:05": {
+                "distance": "4.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Gray reclining lounge chair with ottoman",
+        "description": "A modern-style gray reclining lounge chair with a matching gray ottoman, located in the living room area, somewhat centrally.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:46": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:57": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "1:25": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "1:38": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "2:10": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "2:24": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "2:37": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "3:05": {
+                "distance": "3.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the fireplace and facing the gray reclining lounge chair with ottoman, when the speech topic: \"asking about putting items in dishwasher\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_383",
+    "video_id": "loc3_script3_seq5_rec1"
+}

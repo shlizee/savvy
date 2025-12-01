@@ -1,0 +1,150 @@
+{
+    "event": "Distance between the window with a pool view and the speech sound source when the speech topic \"confirming popcorn availability\" is mentioned.",
+    "start_time": "0:20",
+    "end_time": "0:21",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt, khaki shorts, and glasses. He is the one who confirms popcorn availability. His mouth is the sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:26": {
+                "distance": "4.8",
+                "direction": "-45"
+            },
+            "0:36": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:22": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with a pool view",
+        "description": "Large sliding glass door, consisting of multiple glass panels (estimated 4-5 main sections, total width estimated at 3.75 meters, height estimated at 2.5 meters). It provides a view of an outdoor pool area and forms a significant portion of the exterior wall.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "0:10": {
+                "distance": "2.6",
+                "direction": "-40"
+            },
+            "0:21": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:40": {
+                "distance": "2.7",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Speech sound source (Person in blue shirt)",
+        "description": "Adult male, wearing a light blue/teal polo shirt, khaki shorts, and glasses. Same as sounding_object.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:26": {
+                "distance": "4.8",
+                "direction": "-45"
+            },
+            "0:36": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:22": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": 2.0,
+    "question": "When the speech topic: \"confirming popcorn availability\" is mentioned, what is the distance between the window with a pool view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_121",
+    "video_id": "loc2_script2_seq4_rec1"
+}

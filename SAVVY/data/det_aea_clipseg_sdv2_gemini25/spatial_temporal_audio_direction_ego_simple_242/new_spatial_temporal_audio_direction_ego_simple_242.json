@@ -1,0 +1,204 @@
+{
+    "event": "The speech topic 'greeting and asking how someone is doing' comes up.",
+    "start_time": "0:05",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a yellow sleeveless knit top over a white short-sleeved t-shirt, and light blue cuffed jeans. She is also wearing glasses on her head and light-colored socks. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:14": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:04": {
+                "distance": "1.6",
+                "direction": "30"
+            },
+            "1:09": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:15": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:25": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:35": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:45": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:50": {
+                "distance": "1.6",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:52": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman",
+        "description": "A woman with long dark brown hair, wearing a yellow sleeveless knit top over a white short-sleeved t-shirt, and light blue cuffed jeans. She is also wearing glasses on her head and light-colored socks. Approximate height 1.6-1.7m.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:14": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:04": {
+                "distance": "1.6",
+                "direction": "30"
+            },
+            "1:09": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:15": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:25": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:35": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:45": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:50": {
+                "distance": "1.6",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"greeting and asking how someone is doing\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_242",
+    "video_id": "loc3_script2_seq1_rec2"
+}

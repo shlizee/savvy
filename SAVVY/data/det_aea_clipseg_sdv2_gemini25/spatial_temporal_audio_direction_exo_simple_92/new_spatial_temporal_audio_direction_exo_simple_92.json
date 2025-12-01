@@ -1,0 +1,76 @@
+{
+    "event": "A thud sound occurs, and the task is to determine its direction (left, right, or back) relative to a hypothetical robot standing by a pool-view window and facing a two-seater dining table.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Dark brown or black front door, likely wooden or metal, with a large central glass panel featuring ornate black wrought iron scrollwork. It has a similar sidelight panel to its right. Standard residential door height (approx 2m) and width (approx 0.9m). The thud sound is produced when this door closes.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "170"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "150"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Sliding Glass Doors (Window with a pool view)",
+        "description": "Large multi-panel sliding glass doors, likely with aluminum or vinyl frames and clear glass. They provide a view of an outdoor pool and patio area and span a significant portion of the kitchen wall at the back of the house.",
+        "key_frames": {
+            "0:47": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Dining Table (Two-seater dining table)",
+        "description": "A rectangular wooden dining table, dark brown or black, located in a dining area/nook adjacent to the kitchen island. It is shown with chairs. Standard dining height.",
+        "key_frames": {
+            "0:44": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the two-seater dining table, when the thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_92",
+    "video_id": "loc2_script2_seq1_rec2"
+}

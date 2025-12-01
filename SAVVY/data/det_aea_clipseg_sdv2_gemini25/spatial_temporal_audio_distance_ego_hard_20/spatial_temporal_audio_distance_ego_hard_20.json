@@ -1,0 +1,304 @@
+{
+    "event": "The other person states their intention to attempt eating the mango.",
+    "start_time": "2:49",
+    "end_time": "2:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly brown hair, wearing glasses, a light teal short-sleeved collared shirt, and dark shorts. He is also wearing wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.6",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:26": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "0:36": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:52": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:56": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "1:03": {
+                "distance": "0.6",
+                "direction": "25"
+            },
+            "1:21": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:39": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:56": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:10": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "2:16": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:23": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:29": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:37": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:43": {
+                "distance": "0.5",
+                "direction": "15"
+            },
+            "2:49": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:53": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "3:09": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:15": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:22": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "3:28": {
+                "distance": "0.7",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer's hands are often visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The other person is a male with curly brown hair, wearing glasses, a light teal short-sleeved collared shirt, and dark shorts. He is also wearing wired earbuds.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.6",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:26": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "0:36": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:52": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:56": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "1:03": {
+                "distance": "0.6",
+                "direction": "25"
+            },
+            "1:21": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:39": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:56": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:10": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "2:16": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:23": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:29": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:37": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:43": {
+                "distance": "0.5",
+                "direction": "15"
+            },
+            "2:49": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:53": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "3:09": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:15": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:22": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "3:28": {
+                "distance": "0.7",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating intention to attempt eating the mango\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_20",
+    "video_id": "loc1_script2_seq4_rec1"
+}

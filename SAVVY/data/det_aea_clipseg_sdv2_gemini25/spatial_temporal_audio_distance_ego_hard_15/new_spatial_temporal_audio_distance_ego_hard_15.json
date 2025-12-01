@@ -1,0 +1,143 @@
+{
+    "event": "The camera wearer comments on the other person taking a long sip of coffee.",
+    "start_time": "3:11",
+    "end_time": "3:12",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved crop top, light blue high-waisted jeans, and glasses. She is also wearing a small black pack on her right hip, possibly a microphone pack, with a wire running up her back. She is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "0:23": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "0:28": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:35": {
+                "distance": "2.7",
+                "direction": "10"
+            },
+            "0:43": {
+                "distance": "2.6",
+                "direction": "5"
+            },
+            "0:49": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "1:06": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "2.4",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "2.4",
+                "direction": "-5"
+            },
+            "1:38": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:52": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "2:05": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "2:18": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "2:38": {
+                "distance": "2.4",
+                "direction": "-10"
+            },
+            "2:45": {
+                "distance": "2.4",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "2.3",
+                "direction": "-5"
+            },
+            "2:55": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "3:03": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:07": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:11": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:14": {
+                "distance": "0.7",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "0.7",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"commenting on taking a long sip\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_15",
+    "video_id": "loc1_script2_seq3_rec1"
+}

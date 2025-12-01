@@ -1,0 +1,200 @@
+{
+    "event": "A person is speaking about encouraging enjoyment of the weather.",
+    "start_time": "1:45",
+    "end_time": "1:47",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with short dark hair, wearing glasses, a light-colored (appears white or off-white) t-shirt, and light blue shorts. He is seated on a sofa.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "2.1",
+                "direction": "-3"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "1.7",
+                "direction": "-18"
+            },
+            "0:32": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:08": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "1:11": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:13": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:17": {
+                "distance": "1.6",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "1.7",
+                "direction": "-12"
+            },
+            "1:33": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:46": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "1:56": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "2:03": {
+                "distance": "1.6",
+                "direction": "-8"
+            },
+            "2:11": {
+                "distance": "1.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wall-mounted tv",
+        "description": "A large, black, flat-screen television mounted on the wall, above a wooden entertainment console. The console has shelves with various items.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.2",
+                "direction": "-50"
+            },
+            "0:38": {
+                "distance": "2.8",
+                "direction": "-55"
+            },
+            "0:40": {
+                "distance": "2.7",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "3.1",
+                "direction": "-55"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:31": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:38": {
+                "distance": "2.9",
+                "direction": "-55"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:55": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "2:05": {
+                "distance": "3.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace",
+        "description": "A white fireplace structure with a black metal screen covering the opening. It is situated between two tall, arched windows with white plantation shutters.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "3.6",
+                "direction": "2"
+            },
+            "0:32": {
+                "distance": "3.7",
+                "direction": "5"
+            },
+            "0:36": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "3.6",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "3.6",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "3.6",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "3.6",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "3.6",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "3.6",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"encouraging enjoyment of the weather\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_99",
+    "video_id": "loc2_script2_seq1_rec2"
+}

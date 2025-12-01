@@ -1,0 +1,162 @@
+{
+    "event": "Speaker talks about giving a game piece holder",
+    "start_time": "0:32",
+    "end_time": "0:36",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult man wearing a light blue/turquoise polo shirt, khaki shorts, white sneakers, and glasses (which he later takes off). He has a gold-colored watch on his left wrist. He has short, dark hair, balding on top. His face is blurred. He is seated on a bar stool at the kitchen island for the majority of the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dishwasher",
+        "description": "Built-in stainless steel dishwasher, located under the kitchen counter. It is positioned to the right of the refrigerator and to the left of the kitchen sink when facing the counter. It has a horizontal handle near the top.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:34": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Refrigerator",
+        "description": "Large, stainless steel, double-door refrigerator with an ice/water dispenser on its left door. It is located to the left of the dishwasher along the same kitchen counter.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.8",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "3.2",
+                "direction": "35"
+            },
+            "0:17": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "0:34": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "2:30": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "3:00": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "3:30": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "4:00": {
+                "distance": "2.8",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel refrigerator, when the speech topic: \"giving a game piece holder\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_158",
+    "video_id": "loc2_script2_seq5_rec1"
+}

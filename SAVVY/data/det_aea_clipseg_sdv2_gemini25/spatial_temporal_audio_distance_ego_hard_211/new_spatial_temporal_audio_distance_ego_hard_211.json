@@ -1,0 +1,172 @@
+{
+    "event": "The other person compliments the home's beauty.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, wavy brown hair. She is wearing a yellow, sleeveless, knitted vest-style top over a white short-sleeved t-shirt, light blue cuffed jeans, and light-colored patterned socks. She appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:11": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:51": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:58": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, representing the first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The woman who is speaking and moving within the scene. Same as the sounding object in this context.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:11": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:51": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:58": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"complimenting the home's beauty\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_211",
+    "video_id": "loc3_script2_seq1_rec2"
+}

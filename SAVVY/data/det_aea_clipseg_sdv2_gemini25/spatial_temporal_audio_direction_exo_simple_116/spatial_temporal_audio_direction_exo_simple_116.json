@@ -1,0 +1,88 @@
+{
+    "event": "A person expresses appreciation for paintings in the kitchen.",
+    "start_time": "0:58",
+    "end_time": "1:00",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, short dark hair, wearing glasses, a plain white/light-cream colored t-shirt, and light blue shorts. Barefoot. Holding a yellow can (drink).",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "~2.5",
+                "direction": "~40"
+            },
+            "0:12": {
+                "distance": "~2.0",
+                "direction": "~0"
+            },
+            "0:16": {
+                "distance": "~1.5",
+                "direction": "~0"
+            },
+            "0:33": {
+                "distance": "~2.5",
+                "direction": "~30"
+            },
+            "0:48": {
+                "distance": "~1.0",
+                "direction": "~0"
+            },
+            "0:55": {
+                "distance": "~2.0",
+                "direction": "~0"
+            },
+            "0:59": {
+                "distance": "~2.0",
+                "direction": "~0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A stainless steel double-basin rectangular sink with a gooseneck tap, set into a granite countertop. Part of the main kitchen counter.",
+        "key_frames": {
+            "0:24": {
+                "distance": "~1.5",
+                "direction": "~-30"
+            },
+            "0:26": {
+                "distance": "~1.0",
+                "direction": "~-45"
+            },
+            "0:28": {
+                "distance": "~0.5",
+                "direction": "~-60"
+            },
+            "0:58": {
+                "distance": "~2.0",
+                "direction": "~-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Electric cooktop",
+        "description": "A black, flat electric cooktop, likely glass-ceramic, with multiple burners, set into the granite countertop of the kitchen island.",
+        "key_frames": {
+            "0:23": {
+                "distance": "~2.0",
+                "direction": "~5"
+            },
+            "0:40": {
+                "distance": "~1.5",
+                "direction": "~-10"
+            },
+            "0:51": {
+                "distance": "~1.0",
+                "direction": "~0"
+            },
+            "0:58": {
+                "distance": "~1.0",
+                "direction": "~-5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the electric cooktop, when the speech topic: \"expressing appreciation for the paintings\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_116",
+    "video_id": "loc2_script2_seq2_rec2"
+}

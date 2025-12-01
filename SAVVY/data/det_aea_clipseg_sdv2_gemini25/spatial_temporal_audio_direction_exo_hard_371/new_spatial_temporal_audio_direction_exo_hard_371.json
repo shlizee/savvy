@@ -1,0 +1,124 @@
+{
+    "event": "When the speech topic 'suggesting san jose as a major stop' comes up, relative to a robot standing by the tv by the fireplace and facing the light-gray two-seater couch, where is the speaker.",
+    "start_time": "1:30",
+    "end_time": "1:39",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with short, curly, light brown hair. Wearing a dark navy long-sleeved sweater over a light blue collared shirt. Wearing blue jeans and light-colored socks (white sneakers with dark laces are visible later when legs are uncrossed). Appears to be male. Seated on the light-gray two-seater couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large black flatscreen television, approximately 50-60 inches diagonally, mounted on a stone-clad wall above a modern, recessed fireplace. The fireplace has a wooden mantel.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "0:03": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:05": {
+                "distance": "3.2",
+                "direction": "55"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "2:40": {
+                "distance": "3.0",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch with a modern design and light-colored wooden legs. It has a pillow with a repeating pattern of small, dark dogs on a light background. During the event, a red and white chevron-patterned throw blanket is draped over its left armrest (from the speaker's perspective). The sounding object (speaker) is seated on this couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the tv by the fireplace and facing the light-gray two-seater couch, when the speech topic: \"suggesting san jose as a major stop\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_371",
+    "video_id": "loc3_script3_seq2_rec1"
+}

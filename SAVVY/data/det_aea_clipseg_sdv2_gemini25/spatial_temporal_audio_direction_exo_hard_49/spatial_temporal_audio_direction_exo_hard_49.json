@@ -1,0 +1,182 @@
+{
+    "event": "A person comments on a mango's poor appearance.",
+    "start_time": "02:39",
+    "end_time": "02:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a woman with long dark hair (braided/ponytailed down her back), wearing glasses, a black short-sleeved scoop-neck T-shirt (appears to be a crop top), and light blue denim shorts. A small lavalier microphone is clipped to the neckline of her shirt.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:05": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:11": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "00:27": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "00:37": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:43": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:48": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "01:00": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "01:13": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "01:19": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "01:34": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "01:50": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "02:15": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "02:39": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "02:43": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "02:53": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "03:00": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "03:12": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "03:25": {
+                "distance": "1.2",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wooden dining table",
+        "description": "A large, rectangular wooden dining table with a light-colored fabric runner in the center. It is surrounded by several upholstered chairs. Various items such as mugs, bowls, food containers, and electronics are placed on it throughout the video.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:39": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:25": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "A large, two-door stainless steel refrigerator with handles. It is located in the kitchen area, against the back wall, to the right of the kitchen island (from the camera's general perspective).",
+        "is_static": true,
+        "key_frames": {
+            "00:07": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "00:12": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "00:20": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "00:47": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "01:14": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "01:30": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "02:00": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "02:39": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "03:00": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "03:25": {
+                "distance": "4.5",
+                "direction": "25"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the wooden dining table and facing the stainless steel refrigerator, when the speech topic: \"commenting on mango's poor appearance\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_49",
+    "video_id": "loc1_script2_seq4_rec2"
+}

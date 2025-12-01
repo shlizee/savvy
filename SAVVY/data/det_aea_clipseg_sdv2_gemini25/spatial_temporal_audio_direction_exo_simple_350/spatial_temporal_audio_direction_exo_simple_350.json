@@ -1,0 +1,92 @@
+{
+    "event": "A person speaks, confirming that a task is likely finished.",
+    "start_time": "0:58",
+    "end_time": "1:00",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Thomas), with curly brown hair, wearing glasses and a dark sweater or long-sleeved shirt. He is seated on a couch in the living room during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:19": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:26": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:53": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A large, modern-style couch, upholstered in light gray or beige fabric. It appears to be a long three-seater or part of a sectional. Thomas, the speaker, is sitting on this couch. It is located in the main living area of the house.",
+        "key_frames": {
+            "0:19": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:26": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:53": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "rectangular dining table",
+        "description": "A wooden dining table, rectangular in shape, accompanied by chairs. It is positioned near a set of large windows, in an area adjacent to the kitchen and living room.",
+        "key_frames": {
+            "0:15": {
+                "distance": "5.5",
+                "direction": "-35"
+            },
+            "0:20": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "0:28": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "0:53": {
+                "distance": "5.5",
+                "direction": "-65"
+            },
+            "0:59": {
+                "distance": "5.8",
+                "direction": "-85"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the rectangular dining table, when the speech topic: \"confirming task is likely finished\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_350",
+    "video_id": "loc3_script3_seq1_rec1"
+}

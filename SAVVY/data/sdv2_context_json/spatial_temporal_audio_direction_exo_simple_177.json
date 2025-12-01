@@ -1,0 +1,124 @@
+{
+    "event": "Speaker discusses cleaning up a spill.",
+    "start_time": "0:22",
+    "end_time": "0:24",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person (adult male) wearing a light-colored (appears beige or off-white) short-sleeved t-shirt and light blue shorts. He has dark hair and is seen sitting on a bar stool at a wooden counter, interacting with a Scrabble game. His face is blurred in parts of the video. This is the person who says 'that spill cleaned up'.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:02": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "0:07": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "0:22": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "0:47": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:02": {
+                "distance": "0.7",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with tap",
+        "description": "A round, stainless steel sink with a tall, gooseneck-style chrome tap. It is embedded in a speckled (grey, beige, black) granite countertop, which is part of a kitchen island.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:22": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:47": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, with two oven compartments stacked vertically. It is built into light brown wooden kitchen cabinetry against a wall. The top oven has a digital display.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:02": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:47": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "3.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel double wall oven, when the speech topic: \"identifying spill for clean up\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_177",
+    "video_id": "loc2_script2_seq6_rec2"
+}

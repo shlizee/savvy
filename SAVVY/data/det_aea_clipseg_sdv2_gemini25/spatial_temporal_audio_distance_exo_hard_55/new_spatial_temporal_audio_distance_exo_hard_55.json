@@ -1,0 +1,128 @@
+{
+    "event": "Distance between the TV and the speech sound source (interpreted as the camera/observer) when the TV is narrating the princess's enchantment.",
+    "start_time": "3:13",
+    "end_time": "3:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 60-inch diagonal (approx. 1.35m wide x 0.8m high). It is placed on a light-colored wooden media console. The console has three cabinet sections and is about 1.8m wide.",
+        "is_static": true,
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:21": {
+                "distance": "2.9",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "2.9",
+                "direction": "-5"
+            },
+            "1:33": {
+                "distance": "2.9",
+                "direction": "-5"
+            },
+            "2:06": {
+                "distance": "2.9",
+                "direction": "-3"
+            },
+            "2:51": {
+                "distance": "2.9",
+                "direction": "-3"
+            },
+            "3:13": {
+                "distance": "2.9",
+                "direction": "-3"
+            },
+            "3:16": {
+                "distance": "2.9",
+                "direction": "-3"
+            },
+            "3:32": {
+                "distance": "2.9",
+                "direction": "-2"
+            },
+            "4:00": {
+                "distance": "2.9",
+                "direction": "-2"
+            },
+            "4:20": {
+                "distance": "2.9",
+                "direction": "-2"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the recording device, likely a smartphone, held by a person sitting on a couch or armchair. This is interpreted as the location of the 'speech sound source' for the purpose of measuring the distance from the TV (which is narrating).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:23": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "The television screen which the camera (and the person holding it) is primarily facing during the event.",
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:21": {
+                "distance": "2.9",
+                "direction": "-5"
+            },
+            "1:33": {
+                "distance": "2.9",
+                "direction": "-5"
+            },
+            "3:13": {
+                "distance": "2.9",
+                "direction": "-3"
+            },
+            "3:16": {
+                "distance": "2.9",
+                "direction": "-3"
+            },
+            "4:20": {
+                "distance": "2.9",
+                "direction": "-2"
+            }
+        }
+    },
+    "prediction": "2.9",
+    "question": "When the speech topic: \"(tv) narrating the princess's enchantment\" is mentioned, what is the distance between the tv and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_55",
+    "video_id": "loc1_script2_seq7_rec1"
+}

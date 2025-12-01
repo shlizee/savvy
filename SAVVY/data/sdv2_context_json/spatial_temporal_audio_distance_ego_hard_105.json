@@ -1,0 +1,180 @@
+{
+    "event": "inquiring about the presence of vinyl records",
+    "start_time": "0:16",
+    "end_time": "0:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male, wearing a white t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He is initially sitting on a couch and later walks around the house.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:01": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:16": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:06": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:10": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "1:18": {
+                "distance": "8.0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "8.5",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "9.0",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "9.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the video, worn by a person who is initially sitting and then walks.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person in the scene, who is the subject of the distance measurement.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:01": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:16": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:06": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:10": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "1:18": {
+                "distance": "8.0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "8.5",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "9.0",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "9.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "1.2",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"inquiring about the presence of vinyl records\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_105",
+    "video_id": "loc2_script2_seq8_rec1"
+}

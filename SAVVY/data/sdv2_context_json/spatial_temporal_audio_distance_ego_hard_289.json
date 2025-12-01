@@ -1,0 +1,120 @@
+{
+    "event": "The speech topic: \"suggesting cooking together\" comes up.",
+    "start_time": "0:18",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male, appearing to be middle-aged, with short dark hair. He is wearing a light green/teal short-sleeved polo shirt and blue jeans. He is of average height and build. Throughout his appearances, he is carrying one or more brown paper grocery bags.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "4.5",
+                "direction": "40"
+            },
+            "0:18": {
+                "distance": "4.8",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "0:39": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "40"
+            },
+            "1:01": {
+                "distance": "4.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera provides a first-person perspective from the wearer. The wearer is sitting on a couch in a living room from 0:04 onwards. The living room is furnished with a coffee table, another couch, bookshelves, and a fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A prominent stone-faced fireplace with a dark wooden mantel. Above the mantelpiece, there is a large landscape painting. The fireplace is built into one of the walls of the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:42": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:01": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "1:02": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting cooking together\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_289",
+    "video_id": "loc3_script3_seq1_rec2"
+}

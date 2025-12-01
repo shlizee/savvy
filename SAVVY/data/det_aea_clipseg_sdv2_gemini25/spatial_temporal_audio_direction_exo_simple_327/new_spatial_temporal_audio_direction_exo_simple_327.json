@@ -1,0 +1,116 @@
+{
+    "event": "jokingly claiming making the chips",
+    "start_time": "1:26",
+    "end_time": "1:27",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with a receding hairline, wearing glasses, a short-sleeved turquoise/green polo shirt, and blue jeans. He is also wearing a watch on his left wrist and has a wired earpiece in his right ear, with the wire running down his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:18": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:57": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:52": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A large, light-colored wooden rectangular dining table with a smooth finish. It has simple, straight legs. During the event, it has two coffee mugs and a bag of chips on it.",
+        "key_frames": {
+            "0:28": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:32": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:52": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "A stainless steel double wall oven, built into the dark wood kitchen cabinetry. It has two oven compartments stacked vertically, each with a handle.",
+        "key_frames": {
+            "0:02": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "5.0",
+                "direction": "75"
+            },
+            "0:50": {
+                "distance": "5.0",
+                "direction": "45"
+            },
+            "0:58": {
+                "distance": "4.5",
+                "direction": "60"
+            },
+            "1:26": {
+                "distance": "4.5",
+                "direction": "60"
+            },
+            "1:52": {
+                "distance": "4.5",
+                "direction": "60"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the stainless steel double wall oven, when the speech topic: \"jokingly claiming making the chips\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_327",
+    "video_id": "loc3_script2_seq4_rec2"
+}

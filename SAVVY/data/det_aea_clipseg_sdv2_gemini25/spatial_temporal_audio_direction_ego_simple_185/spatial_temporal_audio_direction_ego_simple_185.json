@@ -1,0 +1,124 @@
+{
+    "event": "The speech topic 'agreeing with the plan to add oil' comes up, and the location of the other person relative to the camera wearer is determined.",
+    "start_time": "02:04",
+    "end_time": "02:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/light blue short-sleeved polo shirt and khaki/light brown shorts. He has short, dark hair and is wearing glasses. Average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:02": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "00:05": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "00:06": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "00:08": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "00:38": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "00:40": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "00:50": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "01:00": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "01:06": {
+                "distance": "0.8",
+                "direction": "50"
+            },
+            "01:17": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "01:32": {
+                "distance": "0.8",
+                "direction": "50"
+            },
+            "02:02": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "02:04": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "02:07": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "02:12": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "02:18": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "02:28": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:35": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "02:38": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general direction of interaction",
+        "description": "The direction the camera is pointing, which is generally towards the kitchen counter where the other person is located during the event.",
+        "key_frames": {
+            "02:04": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"agreeing with the plan to add oil\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_185",
+    "video_id": "loc2_script3_seq31_rec2"
+}

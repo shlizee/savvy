@@ -1,0 +1,152 @@
+{
+    "event": "Speech topic: \"describing stop locations as random\"",
+    "start_time": "0:59",
+    "end_time": "1:28",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The sounding object is a male with curly dark hair. He is wearing glasses (seemingly for reading, as he handles them), a dark navy or black long-sleeved sweater or shirt over a light blue collared shirt, blue jeans, and white socks. He is sitting on the light-gray three-seater couch for the duration of the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:28": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:41": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "2:48": {
+                "distance": "2.2",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch. It has a red and white chevron-patterned blanket draped over its left armrest (from the initial camera perspective). There are also throw pillows on it. The sounding object (speaker) is sitting on this couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:28": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:41": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "2:48": {
+                "distance": "2.2",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A television mounted on the wall above a stone fireplace. Above the television, there is a large landscape painting. The fireplace is made of stacked light-colored stones with a wooden mantelpiece.",
+        "key_frames": {
+            "0:00": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "0:59": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "1:15": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "1:28": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "1:41": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "2:00": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "2:30": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "2:48": {
+                "distance": "4.2",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the tv by the fireplace, when the speech topic: \"describing stop locations as random\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_359",
+    "video_id": "loc3_script3_seq2_rec1"
+}

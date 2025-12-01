@@ -1,0 +1,153 @@
+{
+    "event": "Determine the relative position of the other person when they state they took an allergy pill earlier, relative to where the camera wearer is facing.",
+    "start_time": "02:06",
+    "end_time": "02:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person, whose face is pixelated for privacy. This individual appears to be an adult male with curly dark hair. Throughout the video, they are seen wearing a grey short-sleeved polo-style shirt, dark-colored shorts (possibly navy blue or black), black athletic shoes with white soles, and has black over-ear headphones resting around their neck. Their approximate height seems average for an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "2:01": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "02:07": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "2:12": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "2:17": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "2:37": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "3:05": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "3:13": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "3:25": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "3:37": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:42": {
+                "distance": "2.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The camera, representing the first-person perspective of the camera wearer. The wearer's hands are sometimes visible, showing a turquoise t-shirt sleeve and a gold-colored digital watch on the left wrist. At the start, the wearer is holding a black power bank and a smartphone.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stovetop",
+        "description": "A black, flat, glass-ceramic electric stovetop, integrated into a kitchen island with a light-colored speckled granite countertop. The stovetop has visible circular heating zones and touch controls. It is rectangular in shape, approximately 60-70 cm wide. This is what the camera wearer is facing at the moment the event occurs.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:32": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "3:45": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating taking allergy pill earlier\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_236",
+    "video_id": "loc2_script3_seq5_rec2"
+}

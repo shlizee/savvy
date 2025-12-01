@@ -1,0 +1,176 @@
+{
+    "event": "The speaker admits not knowing how an item (a French press) works.",
+    "start_time": "0:01:13",
+    "end_time": "0:01:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A female person with long, dark, curly hair, wearing a yellow knitted vest over a white t-shirt, light blue jeans, and socks (one with colorful dots, the other plain). She is also wearing glasses. At the time of speech, she is holding a silver and glass French press.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:02": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:33": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:44": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:13": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "1:20": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "1:33": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:08": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "2:23": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "2:35": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "3:00": {
+                "distance": "0.9",
+                "direction": "-20"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A modern, light-gray fabric two-seater couch with wooden legs. It has several pillows on it, including one shaped like a llama and others with colorful patterns.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "0:23": {
+                "distance": "4.2",
+                "direction": "80"
+            },
+            "0:31": {
+                "distance": "4.5",
+                "direction": "85"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A stone-clad fireplace with a wooden mantelpiece. There is a painting above the mantelpiece. The fireplace opening is dark, and some items are visible inside.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "3.2",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "3.8",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "50"
+            },
+            "0:23": {
+                "distance": "3.8",
+                "direction": "55"
+            },
+            "0:31": {
+                "distance": "4.0",
+                "direction": "65"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the fireplace, when the speech topic: \"admitting not knowing how item works\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_300",
+    "video_id": "loc3_script2_seq3_rec1"
+}

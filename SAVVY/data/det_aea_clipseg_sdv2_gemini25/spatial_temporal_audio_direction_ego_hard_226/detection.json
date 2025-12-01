@@ -1,0 +1,41 @@
+{
+    "01978": {
+        "Adult male, wearing a dark grey/blue t-shirt and dark shorts. He has curly dark hair. Approximate height around 1.7-1.8 meters.": {
+            "direction": 62.13,
+            "distance": 1.84,
+            "det_conf": [
+                0.48723092675209045,
+                0.5184398889541626,
+                0.6495294570922852,
+                0.29559651017189026,
+                0.529949426651001
+            ]
+        }
+    },
+    "03023": {
+        "Adult male, wearing a dark grey/blue t-shirt and dark shorts. He has curly dark hair. Approximate height around 1.7-1.8 meters.": {
+            "direction": 11.28,
+            "distance": 1.0,
+            "det_conf": [
+                0.5209070444107056,
+                0.5601999759674072,
+                0.2407146841287613,
+                0.05458015203475952,
+                0.5412081480026245
+            ]
+        }
+    },
+    "03080": {
+        "Adult male, wearing a dark grey/blue t-shirt and dark shorts. He has curly dark hair. Approximate height around 1.7-1.8 meters.": {
+            "direction": 20.35,
+            "distance": 1.0,
+            "det_conf": [
+                0.54326993227005,
+                0.08323952555656433,
+                0.15630149841308594,
+                0.16244511306285858,
+                0.19924327731132507
+            ]
+        }
+    }
+}

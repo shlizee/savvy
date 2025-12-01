@@ -1,0 +1,204 @@
+{
+    "event": "A person explains they are tired from being on their feet all day.",
+    "start_time": "0:05",
+    "end_time": "0:06",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a green short-sleeved polo shirt and blue jeans. He is of average build. He enters the scene and sits on a light-colored couch to the right of the coffee table (from the camera's perspective).",
+        "is_static": false,
+        "key_frames": {
+            "0:07": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "0:30": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "0:45": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "1:15": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "1:30": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "1:45": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "2:00": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "2:15": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "2:30": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "2:45": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "2:50": {
+                "distance": "2.2",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A stone fireplace with a wooden mantel. It has a black firebox. A large painting depicting a landscape with a bridge-like structure is hung above the mantel. There's a potted plant to the left and right of the fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "1:15": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "1:45": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "2:15": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "2:30": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "2:45": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "2:50": {
+                "distance": "2.8",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Coffee Table",
+        "description": "A large, rectangular wooden coffee table. It has various items on its surface, including a book titled 'Remodelista', another colorful book or puzzle, a white llama figurine, red and yellow coasters, a smartphone, and an older model black portable phone or device. It sits on a red patterned rug.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the fireplace and facing the rectangular wooden coffee table, when the speech topic: \"explaining tiredness from being on feet\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_367",
+    "video_id": "loc3_script3_seq2_rec2"
+}

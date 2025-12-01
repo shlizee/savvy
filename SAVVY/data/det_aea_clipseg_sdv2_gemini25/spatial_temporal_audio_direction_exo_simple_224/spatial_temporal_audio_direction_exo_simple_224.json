@@ -1,0 +1,152 @@
+{
+    "event": "Speaker suggests tapping the stove control again.",
+    "start_time": "1:00",
+    "end_time": "1:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person wearing a grey short-sleeved polo shirt, dark shorts, glasses, and dark hair. Appears to be an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:11": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "2:02": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "2:41": {
+                "distance": "0.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A round wooden dining table with a central pedestal base, accompanied by two wooden chairs with X-patterned backs. It is situated in the dining area, near large glass windows/doors that overlook a pool area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "2:48": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "A large, two-door stainless steel refrigerator with an ice/water dispenser on the left door. It is positioned against a wall, to the left of the main kitchen counter and cabinetry.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:01": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:49": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:11": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "2:02": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "2:40": {
+                "distance": "3.0",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the stainless steel refrigerator, when the speech topic: \"suggesting tapping stove control again\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_224",
+    "video_id": "loc2_script3_seq32_rec1"
+}

@@ -1,0 +1,124 @@
+{
+    "event": "Inquiring about availability of a water filter",
+    "start_time": "0:57",
+    "end_time": "1:00",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark curly hair, wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She also has a small black rectangular device clipped to her waistband with a wire running up towards her ear/glasses (likely a microphone or earpiece). Approximate height around 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:57": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "1:18": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:58": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:35": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "2:53": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:59": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Bed",
+        "description": "A large bed, likely queen or king size. The headboard area is not clearly visible in detail but seems to be upholstered or padded. It has light-colored bedding. The robot is positioned by this bed.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:03": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White rounded-rectangle ottoman bench",
+        "description": "A white, rounded-rectangle ottoman bench. It appears to be upholstered with a fabric material. It's placed at the foot of the bed. Approximate dimensions might be 1.2m long x 0.4m wide x 0.4m high. The robot is facing this object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the bed and facing the white rounded-rectangle ottoman bench, when the speech topic: \"inquiring about availability of a water filter\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_21",
+    "video_id": "loc1_script2_seq3_rec1"
+}

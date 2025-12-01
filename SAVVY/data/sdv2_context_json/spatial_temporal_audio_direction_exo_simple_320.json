@@ -1,0 +1,116 @@
+{
+    "event": "The speech topic: \"asking about other bag sealer uses\" comes up.",
+    "start_time": "1:37",
+    "end_time": "1:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Female, with long dark hair, wearing a yellow knitted vest over a white t-shirt, and light blue jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "80"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:38": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with balcony view",
+        "description": "Large glass sliding doors and windows leading to a balcony, offering an exterior view. Spans a significant portion of one wall of the living/dining area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sink with a tap",
+        "description": "A kitchen sink with a faucet, integrated into a large white kitchen island countertop.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:19": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:51": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "1:37": {
+                "distance": "3.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the window with a balcony view and facing the sink with a tap, when the speech topic: \"asking about other bag sealer uses\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_320",
+    "video_id": "loc3_script2_seq4_rec1"
+}

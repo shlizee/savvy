@@ -1,0 +1,116 @@
+{
+    "event": "Distance between the electric cooktop and the speech sound source when the speech topic 'suggesting wiping down stovetop' is mentioned.",
+    "start_time": "0:03",
+    "end_time": "0:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Person with blurred face, curly dark hair, wearing a grey short-sleeved polo shirt, dark shorts, and over-ear headphones around their neck. Seated at a table initially.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:49": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "2:18": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "2:37": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "3:05": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "3:42": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, rectangular, flat glass-ceramic electric cooktop, integrated into a light-colored granite kitchen countertop on an island. Approximately 60-70cm wide.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:32": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 1.6,
+    "question": "When the speech topic: \"suggesting wiping down stovetop\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_219",
+    "video_id": "loc2_script3_seq5_rec2"
+}

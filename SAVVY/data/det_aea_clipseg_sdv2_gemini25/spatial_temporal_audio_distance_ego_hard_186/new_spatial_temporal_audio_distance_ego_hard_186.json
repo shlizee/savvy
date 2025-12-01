@@ -1,0 +1,135 @@
+{
+    "event": "The other person asks about the location of their phone.",
+    "start_time": "3:58",
+    "end_time": "4:00",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly brown hair, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. They also have a black cord around their neck, possibly for headphones or glasses. Approximate height is 1.7-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:24": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:31": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:58": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "4:05": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:09": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable as the reference is the camera itself.",
+        "key_frames": {}
+    },
+    "prediction": "1.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about phone location\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_186",
+    "video_id": "loc2_script3_seq4_rec1"
+}

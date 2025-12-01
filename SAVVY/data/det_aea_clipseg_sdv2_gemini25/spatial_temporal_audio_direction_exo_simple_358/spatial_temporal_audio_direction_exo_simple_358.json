@@ -1,0 +1,132 @@
+{
+    "event": "Determine the location of the speaker relative to a robot by the fireplace (facing the light-gray two-seater couch) when the topic 'asking about the supermarket experience' comes up.",
+    "start_time": "0:10",
+    "end_time": "0:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short, curly dark hair, wearing glasses, a dark navy or black sweater/collared shirt over a lighter collared shirt (white collar visible), and blue jeans. He is sitting on the long, light-gray upholstered couch. He is the person who asks about the supermarket.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "1.6",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "1.6",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "1.6",
+                "direction": "-50"
+            },
+            "2:00": {
+                "distance": "1.6",
+                "direction": "-50"
+            },
+            "2:30": {
+                "distance": "1.6",
+                "direction": "-50"
+            },
+            "2:47": {
+                "distance": "1.6",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace with a light gray stacked stone facade and a light-colored wooden mantelpiece. A large landscape painting is hung above it. It is located on the wall between the two main couches.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "2:47": {
+                "distance": "2.5",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray upholstered two-seater couch (loveseat) with light-colored wooden legs. It has at least one patterned pillow (orange/white) and one solid colored pillow. This is the couch the camera-person sits on.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:02": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the fireplace and facing the light-gray two-seater couch, when the speech topic: \"asking about the supermarket experience\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_358",
+    "video_id": "loc3_script3_seq2_rec1"
+}

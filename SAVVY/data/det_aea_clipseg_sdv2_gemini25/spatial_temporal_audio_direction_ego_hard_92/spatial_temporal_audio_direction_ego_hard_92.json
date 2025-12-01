@@ -1,0 +1,91 @@
+{
+    "event": "Determining the location of the other person relative to the camera wearer when the speech topic 'confirming the presence of weather' comes up.",
+    "start_time": "2:00",
+    "end_time": "2:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male wearing a light blue/teal short-sleeved polo shirt and khaki cargo shorts. He has short brown hair, is wearing glasses, and has wired earphones in his ears, with the wire running down his shirt. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:16": {
+                "distance": "2.8",
+                "direction": "-35"
+            },
+            "0:24": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:42": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "1:09": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:04": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:08": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:12": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, from whose perspective the video is shot.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "None",
+        "description": "Not applicable for egocentric mode where the camera is the reference and the question is about its facing direction.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"confirming the presence of weather\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_92",
+    "video_id": "loc2_script2_seq1_rec1"
+}

@@ -1,0 +1,152 @@
+{
+    "event": "A creak and thud sound occurs when a woman stands up from a sofa.",
+    "start_time": "0:08",
+    "end_time": "0:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A large, L-shaped or sectional sofa, upholstered in a dark gray or charcoal fabric. It has several cushions. The creak originates from this sofa as a person stands up from it, and the thud is likely associated with the person's movement or the sofa settling.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "0:09": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-135"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "-150"
+            },
+            "1:25": {
+                "distance": "3.5",
+                "direction": "-150"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two round coffee tables, one smaller and lower, nested. They have light-colored tops (possibly stone or faux stone) and dark metal legs. Snacks are placed on them. The robot is positioned by these tables.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "-100"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "-100"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair (Window Left)",
+        "description": "A modern light-gray upholstered armchair with a blue pillow. It is one of two similar armchairs located near a large arched window. This specific one is on the left side of the window area (when viewed from the coffee table) and is closer to the front door. It is identified as being 'further from the wall painting' (assuming the wall painting is the small framed picture on the TV wall, to the left of the TV screen).",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "0:02": {
+                "distance": "3.8",
+                "direction": "35"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:58": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the light-gray armchair further from the wall painting, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_74",
+    "video_id": "loc1_script2_seq8_rec1"
+}

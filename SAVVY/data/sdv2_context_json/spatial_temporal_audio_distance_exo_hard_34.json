@@ -1,0 +1,115 @@
+{
+    "event": "Distance between countertop drip coffee maker and speech sound source when 'offering watermelon' is mentioned.",
+    "start_time": "0:01:52",
+    "end_time": "0:01:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult female, long dark hair (braided), wearing glasses, a black short-sleeved crop top, and light blue denim shorts. She has a lavalier microphone clipped to her top.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:00:06": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:00:11": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:00:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:00:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:00:48": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:01:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:01:11": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:01:23": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:01:33": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:01:52": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:02:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:02:42": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:03:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:03:15": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop drip coffee maker",
+        "description": "A black countertop drip coffee maker, standard consumer size, located on the kitchen counter to the left of the sink area, under a white cabinet.",
+        "key_frames": {
+            "0:00:07": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:00:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:00:20": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:00:45": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:01:15": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:01:52": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:02:30": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:03:00": {
+                "distance": "3.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 2.5,
+    "question": "When the speech topic: \"offering watermelon\" is mentioned, what is the distance between the countertop drip coffee maker and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_34",
+    "video_id": "loc1_script2_seq4_rec2"
+}

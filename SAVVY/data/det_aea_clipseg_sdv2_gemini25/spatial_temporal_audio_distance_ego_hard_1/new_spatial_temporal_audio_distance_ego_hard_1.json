@@ -1,0 +1,75 @@
+{
+    "event": "Knocking sound at the door, estimate distance from camera wearer to the door.",
+    "start_time": "0:01",
+    "end_time": "0:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An arched wooden front door, dark brown in color. Standard house door size, approximately 0.8-0.9 meters wide and 2 meters high. It has a small, dark-colored doorknob/handle.",
+        "is_static": true,
+        "key_frames": {
+            "0:04:80": {
+                "distance": "2.3",
+                "direction": "5"
+            },
+            "0:05:20": {
+                "distance": "2.3",
+                "direction": "0"
+            },
+            "0:06:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:06:80": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:08:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:09:50": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:11:50": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:14:80": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera_wearer",
+        "description": "The person wearing the camera, whose perspective is shown.",
+        "key_frames": {
+            "0:01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 2.3,
+    "question": "Imagine you are the camera wearer, when the knocking door sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_1",
+    "video_id": "loc1_script2_seq1_rec1"
+}

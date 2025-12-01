@@ -1,0 +1,168 @@
+{
+    "event": "accepting snack offer (popcorn)",
+    "start_time": "0:15",
+    "end_time": "0:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with short dark hair, wearing a white t-shirt and light blue shorts. Their face is blurred. They are initially sitting at a wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:36": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, who is interacting with the other person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with short dark hair, wearing a white t-shirt and light blue shorts. Their face is blurred. They are initially sitting at a wooden table.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:36": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"accepting snack offer (popcorn)\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_87",
+    "video_id": "loc2_script2_seq4_rec2"
+}

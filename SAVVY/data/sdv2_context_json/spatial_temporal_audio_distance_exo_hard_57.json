@@ -1,0 +1,112 @@
+{
+    "event": "The TV is narrating the prince's destined kiss action during the Shrek 2 movie.",
+    "start_time": "4:04",
+    "end_time": "4:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches, mounted on/above a light-colored wooden media console with cabinet doors. This is the source of the speech.",
+        "is_static": true,
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:31": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:55": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Set of nested coffee tables",
+        "description": "A set of two round coffee tables. The larger, outer table has a light-colored speckled top (possibly stone or laminate) and dark metal legs, approximately 0.8m in diameter. The smaller, inner table has a dark wooden top and dark metal legs, approximately 0.6m in diameter, and is partially nested under the larger one. Various items like remotes, a potted plant, a bag of chips, and a shaker bottle are on the tables.",
+        "is_static": true,
+        "key_frames": {
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:55": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 2.0,
+    "question": "When the speech topic: \"(tv) narrating the prince's destined kiss action\" is mentioned, what is the distance between a set of nested coffee tables and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_57",
+    "video_id": "loc1_script2_seq7_rec1"
+}

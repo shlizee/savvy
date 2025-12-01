@@ -1,0 +1,124 @@
+{
+    "event": "Determine the relative direction of a creak sound from an imagined robot's perspective.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The sounding object is the front door of the house. It is a light blue, arched wooden door with a floral wreath (pink flowers, green leaves, and decorative Easter eggs). It features a small, square, four-paned window and a black metal handle. Approximate size: 0.8m wide, 2m tall. The creak sound occurs as this door is being closed.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A black flat-screen television, approximately 50-inch diagonal, mounted on/above a light-colored wooden TV stand/console. It is located against the wall opposite the main sofa.",
+        "key_frames": {
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:55": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "A tall, dark brown wooden china cabinet. It has glass doors on the upper section (displaying white and patterned china) and solid wooden doors/drawers on the lower section. It is located to the left of the main sofa (when viewed from the entrance), deeper into the living room. Approximate size: 1m wide, 2m tall.",
+        "key_frames": {
+            "0:10": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:32": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:50": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the tv and facing the wooden china cabinet, when the creak sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_10",
+    "video_id": "loc1_script2_seq1_rec2"
+}

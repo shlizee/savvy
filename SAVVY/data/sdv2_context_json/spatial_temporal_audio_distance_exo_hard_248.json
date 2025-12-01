@@ -1,0 +1,80 @@
+{
+    "event": "Ticking sound from the gas stove igniter.",
+    "start_time": "0:49",
+    "end_time": "0:54",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A stainless steel gas stovetop with 5 burners, black grates, and control knobs on the front right side. It is integrated into a white countertop with wooden cabinets above and below. Approximate size: 0.75m wide x 0.5m deep.",
+        "is_static": true,
+        "key_frames": {
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:29": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A light-colored wooden rectangular dining table, appearing to seat at least 6 people (3 chairs are visible on one side in some frames). Approximate size: 1.8m long x 0.9m wide. It is located in the dining area adjacent to the kitchen.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Gas Stove",
+        "description": "The sounding object, a stainless steel gas stovetop. If one were at the dining table looking towards the kitchen, they would be facing the stove.",
+        "key_frames": {
+            "0:19": {
+                "distance": "4.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": 4.0,
+    "question": "When the ticking sound is happening, what is the distance between the rectangular dining table and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_248",
+    "video_id": "loc3_script2_seq3_rec1"
+}

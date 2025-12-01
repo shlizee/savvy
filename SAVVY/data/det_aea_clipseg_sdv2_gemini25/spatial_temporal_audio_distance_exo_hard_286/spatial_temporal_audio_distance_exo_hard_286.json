@@ -1,0 +1,76 @@
+{
+    "event": "The woman (speech sound source) says 'Oh, I missed it!', indicating a missed opportunity in the game.",
+    "start_time": "02:04",
+    "end_time": "02:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is a woman with long dark hair, wearing a yellow sleeveless knitted top over a white t-shirt. She has sunglasses resting on top of her head. She is sitting at a wooden table across from the camera.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:04": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:12": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with balcony view",
+        "description": "A large sliding glass door directly behind the woman, offering a view of an outdoor balcony, trees, and a bright sky. It forms part of the exterior wall of the room.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "02:04": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "02:12": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": "2.0",
+    "question": "When the speech topic: \"realizing missing an opportunity\" is mentioned, what is the distance between the window with a balcony view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_286",
+    "video_id": "loc3_script2_seq5_rec2"
+}

@@ -1,0 +1,111 @@
+{
+    "event": "The speech topic 'reporting feeling good and looking forward to end of day' comes up.",
+    "start_time": "1:32",
+    "end_time": "1:36",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The sounding object is Person 2, a male wearing a light-colored t-shirt (appears white or very light beige) and light blue shorts. He has short dark hair and is wearing glasses. He is of average build and height. During the event, he is seated on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:08": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "1:12": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "-65"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:56": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:05": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by Person 1. The viewpoint is egocentric.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is facing is the reference for the quadrants.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"reporting feeling good and looking forward to end of day\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_100",
+    "video_id": "loc2_script2_seq1_rec2"
+}

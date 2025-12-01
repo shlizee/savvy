@@ -1,0 +1,178 @@
+{
+    "event": "The TV is narrating the part of the story involving climbing to the highest tower room.",
+    "start_time": "04:12",
+    "end_time": "04:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 50-60 inches diagonally. It is mounted on a light-colored wooden media console. When on, it displays moving images and emits sound.",
+        "is_static": true,
+        "key_frames": {
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:43": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:01": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "2:06": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "4:27": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, representing the point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large, black, flat-screen television, approximately 50-60 inches diagonally. It is mounted on a light-colored wooden media console.",
+        "key_frames": {
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:43": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:01": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "2:06": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "4:27": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "other_person": {
+        "description": "Woman with long dark brown hair, wearing a black short-sleeved crop top, light blue denim jeans, and dark-rimmed glasses (sometimes worn on her head, sometimes on her face).",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "1:12": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "1:40": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "2:20": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "3:10": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "4:13": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "4:26": {
+                "distance": "2.5",
+                "direction": "-85"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the climb to the highest tower room\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_74",
+    "video_id": "loc1_script2_seq7_rec2"
+}

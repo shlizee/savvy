@@ -1,0 +1,148 @@
+{
+    "event": "instructing bending kebabs to fit pan and confirming success",
+    "start_time": "02:11",
+    "end_time": "02:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal t-shirt and khaki shorts. He is wearing glasses and has a gold-colored watch on his left wrist. This person is holding the camera and is the one speaking the instructions.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:42": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "Standard under-counter dishwasher with a stainless steel front panel and a black control panel/handle area at the top. It is located to the left of the kitchen sink.",
+        "key_frames": {
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:39": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "2:03": {
+                "distance": "2.6",
+                "direction": "-70"
+            },
+            "2:07": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "2:36": {
+                "distance": "0.6",
+                "direction": "-90"
+            },
+            "2:38": {
+                "distance": "0.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "Built-in double wall oven, stainless steel finish, with black glass doors. Located on the wall to the left of the sink and dishwasher area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-95"
+            },
+            "0:30": {
+                "distance": "2.8",
+                "direction": "-100"
+            },
+            "0:39": {
+                "distance": "2.0",
+                "direction": "-110"
+            },
+            "0:41": {
+                "distance": "1.8",
+                "direction": "-115"
+            },
+            "2:03": {
+                "distance": "3.7",
+                "direction": "-95"
+            },
+            "2:07": {
+                "distance": "3.5",
+                "direction": "-100"
+            },
+            "2:36": {
+                "distance": "2.0",
+                "direction": "-120"
+            },
+            "2:38": {
+                "distance": "1.8",
+                "direction": "-120"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"instructing bending kebabs to fit pan and confirming success\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_225",
+    "video_id": "loc2_script3_seq32_rec1"
+}

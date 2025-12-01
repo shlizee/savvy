@@ -1,0 +1,158 @@
+{
+    "event": "A person asks about the quality of the meat.",
+    "start_time": "01:46",
+    "end_time": "01:47",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a blue short-sleeved t-shirt (arm/sleeve visible at times, e.g., 0:00, 0:07, 0:12, 0:22, 0:41, 1:04, 1:17, 2:05, 2:16, 3:13, 3:22, 3:30), and a gold-colored digital watch on his left wrist (visible, e.g., 0:00, 0:41, 1:08, 1:17, 2:05, 2:16, 3:13, 3:22, 3:30). This person is operating the camera (first-person view).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:46": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, rectangular electric cooktop, likely ceramic glass. It has multiple circular burner markings (four are visible). It is integrated into a light-colored (beige/grey speckled) granite countertop which forms part of a kitchen island. The island has wooden cabinetry underneath.",
+        "is_static": true,
+        "key_frames": {
+            "0:06": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:24": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:59": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "01:11": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "01:41": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "02:20": {
+                "distance": "3.0",
+                "direction": "-135"
+            },
+            "02:29": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "03:06": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "03:48": {
+                "distance": "3.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, round wooden dining table with a dark brown finish and a central pedestal base. It is accompanied by two wooden chairs, also with a dark brown finish, featuring X-shaped backrests and light-colored fabric seat cushions. The table is set for two people with plates, cutlery, and drinks.",
+        "is_static": true,
+        "key_frames": {
+            "0:29": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "01:46": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "B",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the two-seater dining table, when the speech topic: \"asking about meat quality\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_257",
+    "video_id": "loc2_script3_seq4_rec1"
+}

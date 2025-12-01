@@ -1,0 +1,210 @@
+{
+    "event": "Speaker's location relative to a robot (at refrigerator, facing sideboard) when the speech topic 'stating intention to put leftovers aside' occurs.",
+    "start_time": "0:17",
+    "end_time": "0:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The Camera Operator, who is the person holding the camera and speaking. Their hands are visible holding the camera (likely a 360 camera on a small stick or phone) and sometimes a smartphone. They are wearing a dark long-sleeved top.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored refrigerator",
+        "description": "Tall, light-colored (white or light cream) built-in refrigerator with a water/ice dispenser on the left door. It has stainless steel trim/handles. Approximate size: 0.9m wide, 1.8-2m tall.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "50"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:19": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:21": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "0:23": {
+                "distance": "0.5",
+                "direction": "80"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "1:16": {
+                "distance": "0.3",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "2:19": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "2:32": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:43": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "2:55": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:01": {
+                "distance": "1.2",
+                "direction": "25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden sideboard with slatted design",
+        "description": "Low, long wooden cabinet/sideboard, medium brown wood, with a distinct horizontal slatted or ribbed design on its front panels. Approximate size: 2-2.5m long, 0.6-0.8m high.",
+        "is_static": true,
+        "key_frames": {
+            "0:02": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:04": {
+                "distance": "3.2",
+                "direction": "75"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "0:17": {
+                "distance": "4.0",
+                "direction": "-120"
+            },
+            "0:19": {
+                "distance": "4.2",
+                "direction": "-130"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "-135"
+            },
+            "2:11": {
+                "distance": "5.0",
+                "direction": "-150"
+            },
+            "2:38": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "2:41": {
+                "distance": "2.5",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the light-colored refrigerator and facing the wooden sideboard with slatted design, when the speech topic: \"stating intention to put leftovers aside\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_395",
+    "video_id": "loc3_script3_seq5_rec2"
+}

@@ -1,0 +1,188 @@
+{
+    "event": "Knocking door sound and determining its direction relative to camera's facing.",
+    "start_time": "0:01",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden door with an arched top. It has a small, narrow, arched window with metal bars in its upper half, located centrally in the upper portion of the door. The door has a black doorknob and a deadbolt. A white rectangular security sensor component is visible on the upper part of the door frame, with a corresponding smaller white piece on the door itself. The door appears to be of standard height, approximately 2 meters tall and 0.8-0.9 meters wide.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "85"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:38": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "1:50": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "1:55": {
+                "distance": "3.0",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A white stucco-style fireplace with a dark wooden mantel. A round mirror with a decorative frame is mounted above the mantel. There are some small decorative items on the mantel, including small figurines and a garland of carrot shapes. The fireplace opening is dark.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the knocking door sound comes up, relative to where you are facing, where is the sound source: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_1",
+    "video_id": "loc1_script2_seq1_rec1"
+}

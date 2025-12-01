@@ -1,0 +1,120 @@
+{
+    "event": "Speaker specifies painting origin as 'the Amazon'",
+    "start_time": "1:02",
+    "end_time": "1:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/blue polo shirt, khaki shorts, white sneakers, and glasses. He is also wearing wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "~2",
+                "direction": "~-30"
+            },
+            "0:13": {
+                "distance": "~2.5",
+                "direction": "~-15"
+            },
+            "0:19": {
+                "distance": "~1.5",
+                "direction": "~-70"
+            },
+            "0:25": {
+                "distance": "~2.5",
+                "direction": "~-30"
+            },
+            "0:37": {
+                "distance": "~2",
+                "direction": "~-20"
+            },
+            "0:50": {
+                "distance": "~1.5",
+                "direction": "~-80"
+            },
+            "1:04": {
+                "distance": "~2",
+                "direction": "~-30"
+            },
+            "1:16": {
+                "distance": "~2.5",
+                "direction": "~-15"
+            },
+            "1:25": {
+                "distance": "~2.5",
+                "direction": "~-10"
+            },
+            "1:31": {
+                "distance": "~2",
+                "direction": "~-20"
+            },
+            "1:37": {
+                "distance": "~2.5",
+                "direction": "~-15"
+            },
+            "1:44": {
+                "distance": "~1.8",
+                "direction": "~-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "Dark wood, rectangular coffee table in the living room. It appears to have a slightly textured or panelled top.",
+        "key_frames": {
+            "0:00": {
+                "distance": "~0.8",
+                "direction": "~0"
+            },
+            "0:07": {
+                "distance": "~0.3",
+                "direction": "~0"
+            },
+            "0:12": {
+                "distance": "~0.5",
+                "direction": "~0"
+            },
+            "1:12": {
+                "distance": "~1",
+                "direction": "~10"
+            },
+            "1:16": {
+                "distance": "~1.2",
+                "direction": "~0"
+            },
+            "1:39": {
+                "distance": "~0.5",
+                "direction": "~0"
+            },
+            "1:41": {
+                "distance": "~0.2",
+                "direction": "~0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "White fireplace mantel with a black metal screen covering the opening. Located in the living room.",
+        "key_frames": {
+            "1:12": {
+                "distance": "~3.5",
+                "direction": "~5"
+            },
+            "1:16": {
+                "distance": "~3.8",
+                "direction": "~0"
+            },
+            "1:39": {
+                "distance": "~3.5",
+                "direction": "~0"
+            },
+            "1:42": {
+                "distance": "~3.5",
+                "direction": "~0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"specifying painting origin as the amazon\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_108",
+    "video_id": "loc2_script2_seq2_rec1"
+}

@@ -1,0 +1,186 @@
+{
+    "event": "The speech topic is '(tv) narrating the prince's arduous journey'.",
+    "start_time": "3:30",
+    "end_time": "4:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, flat-screen television, black in color, mounted on a light brown wooden TV stand. It is displaying the movie 'Shrek 2'. Approximate size is likely 50-65 inches diagonally.",
+        "is_static": true,
+        "key_frames": {
+            "0:20": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:10": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:25": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera View",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "other_person": {
+        "description": "A woman with long dark hair, wearing a black short-sleeved crop top, light blue jeans, and glasses (initially, then smart glasses later).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.2",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "1.6",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "1.6",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "1.6",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "1.6",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.6",
+                "direction": "-80"
+            },
+            "1:15": {
+                "distance": "1.6",
+                "direction": "-80"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "1:40": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "2:00": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "2:30": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "3:00": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "3:30": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "3:45": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "4:00": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "4:10": {
+                "distance": "1.7",
+                "direction": "-85"
+            },
+            "4:25": {
+                "distance": "1.7",
+                "direction": "-85"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the prince's arduous journey\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_62",
+    "video_id": "loc1_script2_seq7_rec2"
+}

@@ -1,0 +1,115 @@
+{
+    "event": "The camera wearer is asked for the distance between them and the other person when the speech topic: \"continuing hypothetical bleeding scenario\" comes up.",
+    "start_time": "3:02",
+    "end_time": "3:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly brown hair, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. They are also wearing glasses and have headphones around their neck.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:12": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "2:18": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:37": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "2:46": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "3:02": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:09": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:14": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:18": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "3:27": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "3:37": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "3:42": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "3:47": {
+                "distance": "1.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"continuing hypothetical bleeding scenario\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_203",
+    "video_id": "loc2_script3_seq5_rec2"
+}

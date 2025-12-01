@@ -1,0 +1,152 @@
+{
+    "event": "Distance between the light-colored refrigerator and the sounding object (boiling kettle) when the background boiling sound is happening.",
+    "start_time": "0:50",
+    "end_time": "1:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A blue, metallic kettle with a black handle and a silver spout. It is a traditional stovetop kettle, approximately 20-25 cm in height and 15-20 cm in diameter at its base.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "0:46": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "1:41": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:57": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Refrigerator",
+        "description": "A tall, light-colored (likely white or stainless steel with a white front) refrigerator with double doors and a water/ice dispenser on the left door. It is a standard kitchen appliance size.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "0:09": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Counter/Stove",
+        "description": "The kitchen counter area where the stove and kettle are located.",
+        "key_frames": {
+            "0:09": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "0:46": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "1:41": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:57": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "When the background boiling sound is happening, what is the distance between the light-colored refrigerator and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_259",
+    "video_id": "loc3_script2_seq3_rec2"
+}

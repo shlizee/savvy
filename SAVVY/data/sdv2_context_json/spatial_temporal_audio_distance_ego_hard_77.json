@@ -1,0 +1,200 @@
+{
+    "event": "The other person offers the camera wearer a snack.",
+    "start_time": "0:17",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, with dark hair and a beard, wearing glasses, a light teal short-sleeved polo shirt, and khaki shorts. He has an earphone in his right ear with a black wire. Approximate height appears to be around 1.75-1.85 meters (5'9\" - 6'1\").",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:18": {
+                "distance": "2.8",
+                "direction": "40"
+            },
+            "0:22": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:26": {
+                "distance": "3.8",
+                "direction": "50"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:21": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, providing an egocentric first-person view. The wearer is seated at a wooden dining table indoors, with a view of a pool area through large glass doors.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male, medium build, with dark hair and a beard, wearing glasses, a light teal short-sleeved polo shirt, and khaki shorts. He has an earphone in his right ear with a black wire. Approximate height appears to be around 1.75-1.85 meters (5'9\" - 6'1\").",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:18": {
+                "distance": "2.8",
+                "direction": "40"
+            },
+            "0:22": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:26": {
+                "distance": "3.8",
+                "direction": "50"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:21": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 2.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"offering a snack\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_77",
+    "video_id": "loc2_script2_seq4_rec1"
+}

@@ -1,0 +1,72 @@
+{
+    "event": "Distance between the center of the rectangular dining table and the center of a plate making a scraping sound on it.",
+    "start_time": "0:05",
+    "end_time": "0:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A white ceramic dinner plate, circular, approximately 25cm in diameter. During the event, it is on the dining table and being moved by a person, causing a scraping sound.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.4",
+                "direction": "-2"
+            },
+            "0:05": {
+                "distance": "1.4",
+                "direction": "-2"
+            },
+            "0:08": {
+                "distance": "1.4",
+                "direction": "-2"
+            },
+            "0:12": {
+                "distance": "1.4",
+                "direction": "-2"
+            },
+            "0:14": {
+                "distance": "1.4",
+                "direction": "-2"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A wooden rectangular dining table, approximately 1.5 meters long and 1 meter wide, with a slatted top. The slats run along the table's width. The camera is positioned at one of the shorter ends of the table during the specified event.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.75",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.75",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.75",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.75",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.75",
+                "direction": "180"
+            },
+            "0:28": {
+                "distance": "4.75",
+                "direction": "180"
+            },
+            "0:55": {
+                "distance": "4.75",
+                "direction": "180"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.65,
+    "question": "When the scraping sound is happening, what is the distance between the rectangular dining table and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_337",
+    "video_id": "loc3_script3_seq5_rec2"
+}

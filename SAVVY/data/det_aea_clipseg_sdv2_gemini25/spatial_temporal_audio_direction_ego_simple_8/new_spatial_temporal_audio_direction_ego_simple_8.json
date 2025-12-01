@@ -1,0 +1,80 @@
+{
+    "event": "A creak and thud sound as a door closes.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A light blue, arched wooden door with a black handle and a floral wreath (pink flowers, green leaves, some decorative eggs). It has a small window with a cross-shaped mullion. The door is set into a stone archway surrounding the entrance. The sound is produced when this door is closed by the host.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.3",
+                "direction": "-20"
+            },
+            "0:09": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "0:12": {
+                "distance": "1.2",
+                "direction": "-110"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "-125"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-135"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the first-person perspective of the wearer. This is the reference point for directions.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Living Room Interior",
+        "description": "The interior of the living room. At the moment of the sound (0:14-0:15), the camera is panning right. Initially, a grey couch is prominent on the left side of the view, and the camera moves towards a white fireplace with Easter decorations (carrot garland, dolls) on the right. A TV is mounted above a console, and an arched doorway to another room is visible in the background. The room has a distinctive arched/vaulted ceiling.",
+        "key_frames": {
+            "0:14": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "2.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_8",
+    "video_id": "loc1_script2_seq1_rec2"
+}

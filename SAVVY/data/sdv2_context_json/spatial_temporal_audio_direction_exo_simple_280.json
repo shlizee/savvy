@@ -1,0 +1,132 @@
+{
+    "event": "The speech topic: 'greeting and asking how someone is doing' comes up.",
+    "start_time": "0:05",
+    "end_time": "0:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a yellow sleeveless knit top, light blue cuffed jeans, and light-colored socks. She is of average height and build. She is the one who says 'Hey, how's it going?' at 0:06.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:05": {
+                "distance": "1.3",
+                "direction": "-40"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "1.6",
+                "direction": "-20"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A large, modern, light-gray fabric sectional couch. The main 'three-seater' section is oriented towards the fireplace and large windows. It has plush cushions.",
+        "key_frames": {
+            "0:11": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:56": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A wooden rectangular dining table with chairs, located in the area between the kitchen island and the main living room space. It appears to be made of medium-toned wood.",
+        "key_frames": {
+            "0:11": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "-55"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:48": {
+                "distance": "6.0",
+                "direction": "-100"
+            },
+            "0:56": {
+                "distance": "4.5",
+                "direction": "-135"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the rectangular dining table, when the speech topic: \"greeting and asking how someone is doing\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_280",
+    "video_id": "loc3_script2_seq1_rec2"
+}

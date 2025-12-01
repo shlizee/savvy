@@ -1,0 +1,200 @@
+{
+    "event": "Identifying the speaker's location relative to a robot when the speech topic 'complimenting potatoes taste' comes up.",
+    "start_time": "03:38",
+    "end_time": "03:39",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a person wearing a green short-sleeved polo shirt and blue jeans. They have short dark hair and are wearing wired earbuds. Their face is blurred in the video. Approximate height around 1.7-1.8m. This person is referred to as P2 in thought process.",
+        "is_static": false,
+        "key_frames": {
+            "00:02": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "00:03": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:13": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:21": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:36": {
+                "distance": "2.2",
+                "direction": "-10"
+            },
+            "01:05": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "01:21": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:23": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "01:31": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "02:01": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "02:07": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "02:16": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "02:21": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "03:30": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "03:38": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "03:47": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "04:08": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "04:13": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "04:20": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "04:36": {
+                "distance": "1.2",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Piano",
+        "description": "A standard black upright piano with a matching bench. It is located against a wall in the living room area. Approximate dimensions: 1.5m wide, 1.2m high, 0.6m deep.",
+        "key_frames": {
+            "00:01": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "00:05": {
+                "distance": "4.2",
+                "direction": "-65"
+            },
+            "00:07": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "01:28": {
+                "distance": "5.0",
+                "direction": "-100"
+            },
+            "01:55": {
+                "distance": "4.5",
+                "direction": "-120"
+            },
+            "02:02": {
+                "distance": "4.0",
+                "direction": "-135"
+            },
+            "02:08": {
+                "distance": "4.0",
+                "direction": "-130"
+            },
+            "03:29": {
+                "distance": "4.0",
+                "direction": "-130"
+            },
+            "03:38": {
+                "distance": "4.0",
+                "direction": "-120"
+            },
+            "04:00": {
+                "distance": "4.0",
+                "direction": "-130"
+            },
+            "04:15": {
+                "distance": "4.0",
+                "direction": "-130"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-colored Refrigerator",
+        "description": "A tall, built-in, light-colored (appears off-white or very light grey) double-door refrigerator. It has a water and ice dispenser on the left door. It is integrated into the wooden kitchen cabinetry. Approximate dimensions: 0.9m wide, 1.8-2.0m high.",
+        "key_frames": {
+            "00:10": {
+                "distance": "1.5",
+                "direction": "170"
+            },
+            "00:11": {
+                "distance": "2.0",
+                "direction": "100"
+            },
+            "00:12": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "01:30": {
+                "distance": "4.5",
+                "direction": "80"
+            },
+            "02:27": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "02:29": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:34": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:12": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:21": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "03:30": {
+                "distance": "4.5",
+                "direction": "75"
+            },
+            "03:38": {
+                "distance": "4.5",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the piano and facing the light-colored refrigerator, when the speech topic: \"complimenting potatoes taste\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_383",
+    "video_id": "loc3_script3_seq4_rec1"
+}

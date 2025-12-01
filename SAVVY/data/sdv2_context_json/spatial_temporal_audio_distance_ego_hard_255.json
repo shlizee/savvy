@@ -1,0 +1,141 @@
+{
+    "event": "Stating purchase of endeavor stock",
+    "start_time": "01:12",
+    "end_time": "01:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer, a male (inferred from voice), wearing a green t-shirt and blue jeans. His hands holding a smartphone are visible, and he is wearing a gold-colored watch on his left wrist.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by the sounding object, providing a first-person perspective. The camera wearer is sitting on a couch during the specified event.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A female with long, dark, curly hair. She is wearing a yellow knitted vest over a white short-sleeved shirt with frilled edges, and light blue jeans. Her face is blurred throughout the video. She is also wearing socks with a colorful pattern.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:06": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:08": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "00:20": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "00:40": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "00:51": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "01:03": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "01:12": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "01:30": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "01:37": {
+                "distance": "0.7",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating purchase of endeavor stock\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_255",
+    "video_id": "loc3_script2_seq7_rec1"
+}

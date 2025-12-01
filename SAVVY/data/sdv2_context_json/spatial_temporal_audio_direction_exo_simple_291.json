@@ -1,0 +1,248 @@
+{
+    "event": "Speaker expressing desire for coffee",
+    "start_time": "0:01",
+    "end_time": "0:06",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a white t-shirt, a yellow knitted vest, light blue jeans, and glasses. She is the one who initially expresses the desire for coffee.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "0:10": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:20": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:33": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:43": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:57": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:06": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:19": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:33": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:44": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:58": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:08": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:23": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:34": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:50": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "3:02": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "3:07": {
+                "distance": "5.0",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A black flat-screen TV mounted above a stone fireplace with a wooden mantelpiece. The fireplace is made of stacked grey stones.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-colored refrigerator",
+        "description": "A tall, light-colored (appears to be stainless steel or light grey/white) refrigerator with double doors. An ice/water dispenser is visible on the left door. It is located in the kitchen area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "6.0",
+                "direction": "70"
+            },
+            "0:02": {
+                "distance": "6.0",
+                "direction": "70"
+            },
+            "0:05": {
+                "distance": "6.0",
+                "direction": "70"
+            },
+            "0:08": {
+                "distance": "5.5",
+                "direction": "75"
+            },
+            "0:10": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:16": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:20": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:30": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:40": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:50": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:10": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:20": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:40": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:50": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:00": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:10": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:20": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:30": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:40": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "2:50": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "3:00": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "3:07": {
+                "distance": "5.0",
+                "direction": "80"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the tv by the fireplace and facing the light-colored refrigerator, when the speech topic: \"expressing desire for coffee\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_291",
+    "video_id": "loc3_script2_seq3_rec1"
+}

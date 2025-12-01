@@ -1,0 +1,212 @@
+{
+    "event": "The camera wearer volunteers to bring the food.",
+    "start_time": "0:26",
+    "end_time": "0:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer. Only hands are visible. Speaking the words.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera recording the scene, representing the camera wearer's viewpoint.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A male wearing a light blue/teal short-sleeved collared shirt and khaki shorts. His face is blurred.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:26": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "0:36": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:44": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:57": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:16": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "2:03": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "2:20": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "2:42": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "3:05": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "3:25": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "3:50": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "4:08": {
+                "distance": "0.9",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"volunteering to bring the food\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_189",
+    "video_id": "loc2_script3_seq4_rec2"
+}

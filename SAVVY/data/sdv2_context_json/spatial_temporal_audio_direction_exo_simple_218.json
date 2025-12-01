@@ -1,0 +1,140 @@
+{
+    "event": "Speech topic: \"clarifying previous statement about not using time codes with david\"",
+    "start_time": "0:36",
+    "end_time": "0:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, balding with dark hair on the sides, wearing glasses, a teal/cyan short-sleeved polo shirt, and khaki shorts. Average build. Approximately 1.75-1.85m tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:39": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:17": {
+                "distance": "0.5",
+                "direction": "70"
+            },
+            "1:32": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "2:12": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard built-in under-counter dishwasher with a stainless steel front panel. Approximately 0.6m wide and 0.85m tall.",
+        "key_frames": {
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round sink with a tap",
+        "description": "An undermount kitchen sink, appearing round or oval, made of a dark material (possibly dark stainless steel or composite). It has a tall, gooseneck-style chrome/stainless steel tap. The sink diameter is approximately 0.5-0.6m.",
+        "key_frames": {
+            "0:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "2.2",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:17": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the round sink with a tap, when the speech topic: \"clarifying previous statement about not using time codes with david\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_218",
+    "video_id": "loc2_script3_seq31_rec2"
+}

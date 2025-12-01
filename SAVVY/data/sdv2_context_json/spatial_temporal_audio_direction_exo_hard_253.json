@@ -1,0 +1,160 @@
+{
+    "event": "Speaker asks whether to cook more or finish cooking",
+    "start_time": "02:28",
+    "end_time": "02:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short dark hair and is wearing glasses. He appears to be of average build, approximately 1.75-1.85 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "00:07": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "00:12": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "00:26": {
+                "distance": "1.0",
+                "direction": "-55"
+            },
+            "00:40": {
+                "distance": "1.0",
+                "direction": "-58"
+            },
+            "01:03": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "01:33": {
+                "distance": "1.3",
+                "direction": "-45"
+            },
+            "01:46": {
+                "distance": "1.0",
+                "direction": "-55"
+            },
+            "02:00": {
+                "distance": "1.0",
+                "direction": "-58"
+            },
+            "02:13": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:25": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:29": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:41": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:50": {
+                "distance": "1.0",
+                "direction": "-55"
+            },
+            "02:59": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "round sink with a tap",
+        "description": "A circular, stainless steel sink, approximately 0.4 meters in diameter, embedded in a wooden countertop on a kitchen island. It has a single gooseneck tap.",
+        "key_frames": {
+            "00:08": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:11": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "00:40": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "01:04": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "01:33": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "01:45": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "02:28": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "02:42": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "02:52": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "02:59": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "double-basin rectangular sink and tap",
+        "description": "A black, rectangular, double-basin sink, approximately 0.8 meters wide, set into a granite countertop against a wall. It has a gooseneck tap.",
+        "key_frames": {
+            "00:08": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "00:11": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "00:40": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "01:05": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "01:08": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "01:17": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "01:41": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "02:28": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "02:55": {
+                "distance": "2.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the double-basin rectangular sink and tap, when the speech topic: \"asking whether to cook more or finish cooking\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_253",
+    "video_id": "loc2_script3_seq34_rec2"
+}

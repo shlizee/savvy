@@ -1,0 +1,147 @@
+{
+    "event": "The speech topic: \"deciding to skip cooking brussels sprouts\" comes up.",
+    "start_time": "2:30",
+    "end_time": "2:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male with curly brown hair, wearing glasses, a grey short-sleeved collared shirt, and dark shorts. He is also wearing a neck-loop earpiece.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:48": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:08": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:11": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:19": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:29": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:36": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:39": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:43": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:49": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:53": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:59": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:16": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "2:31": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "2:33": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "2:34": {
+                "distance": "1.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A for egocentric mode when calculating distance to another object.",
+        "key_frames": {}
+    },
+    "prediction": "1.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"deciding to skip cooking brussels sprouts\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_137",
+    "video_id": "loc2_script3_seq31_rec1"
+}

@@ -1,0 +1,91 @@
+{
+    "event": "Distance between a specific light-gray armchair and the Keurig coffee machine while the water dripping/brewing sound is happening.",
+    "start_time": "01:57",
+    "end_time": "02:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Keurig K-Mini (or similar model) single-serve coffee machine. It is black, made of plastic, and has a rectangular prism shape. Approximate dimensions are 30cm (height) x 13cm (width) x 28cm (depth). It is located on the white kitchen countertop, to the right of the stove and under a white cabinet.",
+        "is_static": true,
+        "key_frames": {
+            "00:19": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:24": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:26": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "00:42": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "01:06": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "01:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:27": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:37": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "01:57": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:40": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:48": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A modern light-gray upholstered armchair with wooden legs and a blue cushion on it. It is located in the living room, to the right of another similar armchair (when viewed from the hallway entrance to the living room), near a large arched window. It is further from the wall painting which is on the left wall of the living room.",
+        "key_frames": {
+            "00:12": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "00:13": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "00:16": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "00:17": {
+                "distance": "3.5",
+                "direction": "120"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 5.7,
+    "question": "When the water dripping sound is happening, what is the distance between the light-gray armchair further from the wall painting and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_22",
+    "video_id": "loc1_script2_seq3_rec1"
+}

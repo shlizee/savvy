@@ -1,0 +1,164 @@
+{
+    "event": "Water dripping sound from a coffee machine after brewing",
+    "start_time": "2:00",
+    "end_time": "2:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A black, compact single-serve coffee machine, likely a Keurig K-Mini or similar model. It has a plastic body with a generally rectangular prism shape, taller than it is wide or deep. Approximate dimensions: Height ~30cm, Width ~12cm, Depth ~25cm. It is located on a white kitchen countertop.",
+        "is_static": true,
+        "key_frames": {
+            "0:24": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:07": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:50": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:05": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:45": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:13": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the user, representing the user's viewpoint and the reference point for egocentric measurements. Its distance to itself is always 0.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman",
+        "description": "The woman interacting with the camera wearer and the environment, making coffee.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:26": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:18": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:37": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "2:50": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:59": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:06": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:13": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the water dripping sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_13",
+    "video_id": "loc1_script2_seq3_rec1"
+}

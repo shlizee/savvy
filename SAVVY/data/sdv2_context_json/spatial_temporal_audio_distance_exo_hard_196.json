@@ -1,0 +1,83 @@
+{
+    "event": "The speech topic: \"deciding to finish cooking\" is mentioned.",
+    "start_time": "2:29",
+    "end_time": "2:59",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person whose perspective the camera shows (camera wearer), actively cooking and participating in the decision to finish. Their arms, wearing a light blue t-shirt and a gold-colored digital watch on the left wrist, are visible. This person is one of the speech sound sources.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "A black, flat, rectangular glass-ceramic electric cooktop with circular heating elements, some of which show red glowing indicators. It is built into a granite countertop.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:48": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:55": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "0.6",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A for egocentric mode where the camera is the viewpoint.",
+        "key_frames": {}
+    },
+    "prediction": 0.5,
+    "question": "When the speech topic: \"deciding to finish cooking\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_196",
+    "video_id": "loc2_script3_seq34_rec1"
+}

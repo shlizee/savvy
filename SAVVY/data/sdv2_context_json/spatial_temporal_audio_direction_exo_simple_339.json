@@ -1,0 +1,164 @@
+{
+    "event": "The woman asks the man about his personal investments, initiating the topic.",
+    "start_time": "1:06",
+    "end_time": "1:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long, dark curly hair. She is wearing a yellow knitted short-sleeve top over a white t-shirt, and light blue jeans. She is also wearing glasses.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "1.2",
+                "direction": "35"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:06": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:09": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Piano",
+        "description": "A black upright piano, positioned against the living room wall, to the right of the fireplace (when facing the fireplace).",
+        "key_frames": {
+            "0:03": {
+                "distance": "5.0",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:06": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:38": {
+                "distance": "3.5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A stone-faced fireplace with a wooden mantel. It is located on the main wall of the living room, with a large painting hanging above it.",
+        "key_frames": {
+            "0:03": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the piano and facing the fireplace, when the speech topic: \"asking about personal investments\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_339",
+    "video_id": "loc3_script2_seq7_rec1"
+}

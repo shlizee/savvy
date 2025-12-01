@@ -1,0 +1,176 @@
+{
+    "event": "The speech topic: \"instructing to put one egg\" comes up, specifically the phrase \"Keep the one egg\".",
+    "start_time": "0:26",
+    "end_time": "0:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a short-sleeved turquoise/green polo shirt and blue jeans. He has short, dark hair and is wearing glasses. Appears to be of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:27": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "0:29": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "2:09": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "2:37": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:39": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "2:41": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "2:53": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "2:56": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "3:01": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "3:07": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. The wearer's hands, wearing a black long-sleeved top, are sometimes visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male, wearing a short-sleeved turquoise/green polo shirt and blue jeans. He has short, dark hair and is wearing glasses. Appears to be of average build and height.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:27": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "0:29": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "2:09": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "2:37": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:39": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "2:41": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "2:53": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "2:56": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "3:01": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "3:07": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing to put one egg\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_319",
+    "video_id": "loc3_script3_seq5_rec2"
+}

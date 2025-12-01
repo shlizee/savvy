@@ -1,0 +1,99 @@
+{
+    "event": "Speech topic: \"identifying the artist as phoenix local\"",
+    "start_time": "0:27",
+    "end_time": "0:28",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a black short-sleeved top and light blue jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dark wooden front door",
+        "description": "The main entrance door to the house. It is light blue on the inside, arched, with a wreath visible on the exterior before opening. The reference point is considered the threshold or center of this doorway.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-170"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-160"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "-150"
+            },
+            "0:35": {
+                "distance": "2.8",
+                "direction": "-160"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-140"
+            },
+            "1:30": {
+                "distance": "3.2",
+                "direction": "-130"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera",
+        "description": "The camera is the viewpoint.",
+        "key_frames": {}
+    },
+    "prediction": 4.3,
+    "question": "When the speech topic: \"identifying the artist as phoenix local\" is mentioned, what is the distance between the dark wooden front door and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_15",
+    "video_id": "loc1_script2_seq1_rec2"
+}

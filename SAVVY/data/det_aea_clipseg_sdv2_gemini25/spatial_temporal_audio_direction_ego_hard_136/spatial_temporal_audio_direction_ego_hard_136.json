@@ -1,0 +1,112 @@
+{
+    "event": "The other person inquires whether to stop or continue playing the game.",
+    "start_time": "3:12",
+    "end_time": "3:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man wearing a turquoise polo shirt, khaki shorts, white sneakers, glasses, and a gold watch. He has short brown hair and is of average build. He is sitting on a bar stool.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:05": {
+                "distance": "1.3",
+                "direction": "35"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "2:15": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "2:45": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "3:00": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "3:13": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "3:30": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "3:45": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "4:00": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "4:13": {
+                "distance": "1.2",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general direction of gaze",
+        "description": "The camera is generally facing towards the kitchen island where the Scrabble game is being played.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inquiring whether to stop or continue playing\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_136",
+    "video_id": "loc2_script2_seq5_rec1"
+}

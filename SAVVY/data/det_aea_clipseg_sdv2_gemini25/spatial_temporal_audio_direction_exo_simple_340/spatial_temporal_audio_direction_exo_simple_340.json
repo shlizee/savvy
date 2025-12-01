@@ -1,0 +1,144 @@
+{
+    "event": "A woman asks a man about his personal investments while they are sitting on a couch in a living room.",
+    "start_time": "01:06",
+    "end_time": "01:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long, dark curly hair. She is wearing a yellow knitted short-sleeve top/vest over a white short-sleeve shirt, and light blue jeans. She was wearing glasses at the beginning of the video but is not wearing them during this event. She is the one asking the question about investments.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "~1.5",
+                "direction": "~-45"
+            },
+            "00:02": {
+                "distance": "~1.2",
+                "direction": "~-20"
+            },
+            "00:04": {
+                "distance": "~0.8",
+                "direction": "~-75"
+            },
+            "00:07": {
+                "distance": "~1.5",
+                "direction": "~45"
+            },
+            "00:15": {
+                "distance": "~1.6",
+                "direction": "~50"
+            },
+            "00:30": {
+                "distance": "~1.6",
+                "direction": "~50"
+            },
+            "00:45": {
+                "distance": "~1.6",
+                "direction": "~50"
+            },
+            "01:06": {
+                "distance": "1.6",
+                "direction": "50"
+            },
+            "01:20": {
+                "distance": "~1.6",
+                "direction": "~50"
+            },
+            "01:38": {
+                "distance": "~1.6",
+                "direction": "~50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black round ottoman",
+        "description": "A cylindrical ottoman, upholstered in black or very dark material (likely leather or faux leather). It is of medium size, approximately 0.6-0.8 meters in diameter and 0.4-0.5 meters high. It is located in the living room area, near the fireplace and to the left of the coffee table from the camera's perspective during the event.",
+        "key_frames": {
+            "00:00": {
+                "distance": "~4.0",
+                "direction": "~-5"
+            },
+            "00:03": {
+                "distance": "~3.5",
+                "direction": "~-10"
+            },
+            "00:06": {
+                "distance": "~3.0",
+                "direction": "~-15"
+            },
+            "00:08": {
+                "distance": "~2.5",
+                "direction": "~-30"
+            },
+            "00:15": {
+                "distance": "~2.5",
+                "direction": "~-30"
+            },
+            "00:30": {
+                "distance": "~2.5",
+                "direction": "~-30"
+            },
+            "00:45": {
+                "distance": "~2.5",
+                "direction": "~-30"
+            },
+            "01:06": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:20": {
+                "distance": "~2.5",
+                "direction": "~-30"
+            },
+            "01:38": {
+                "distance": "~2.5",
+                "direction": "~-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large, black, flat-screen television mounted on the wall above a stone-faced fireplace. The fireplace has a wooden mantel. It is located in the front part of the living room.",
+        "key_frames": {
+            "00:03": {
+                "distance": "~4.5",
+                "direction": "~0"
+            },
+            "00:06": {
+                "distance": "~4.0",
+                "direction": "~-5"
+            },
+            "00:08": {
+                "distance": "~3.5",
+                "direction": "~-10"
+            },
+            "00:15": {
+                "distance": "~3.5",
+                "direction": "~-10"
+            },
+            "00:30": {
+                "distance": "~3.5",
+                "direction": "~-10"
+            },
+            "00:45": {
+                "distance": "~3.5",
+                "direction": "~-10"
+            },
+            "01:06": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "01:20": {
+                "distance": "~3.5",
+                "direction": "~-10"
+            },
+            "01:38": {
+                "distance": "~3.5",
+                "direction": "~-10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the tv by the fireplace, when the speech topic: \"asking about personal investments\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_340",
+    "video_id": "loc3_script2_seq7_rec1"
+}

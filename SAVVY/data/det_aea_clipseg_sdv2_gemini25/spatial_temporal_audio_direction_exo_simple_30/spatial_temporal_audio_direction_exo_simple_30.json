@@ -1,0 +1,132 @@
+{
+    "event": "Speech topic: \"offering own untouched water bottle\"",
+    "start_time": "1:05",
+    "end_time": "1:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man, approximately 1.75-1.85m tall, medium build, with curly brown hair. He is wearing a light teal/blue short-sleeve button-up shirt, dark shorts, and black socks/shoes. He has wired headphones around his neck/ears and is sometimes seen holding a small white object (possibly a phone) or a green can. His face is blurred in the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "1:19": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:44": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "1.7",
+                "direction": "15"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "2:40": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "2:58": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "A tall, traditional-style china cabinet made of dark brown wood. It appears to be over 2 meters tall and approximately 1-1.5 meters wide. The upper section has glass-panelled doors, and the lower section likely has solid doors or drawers. It is located in a foyer or wide hallway area.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A modern-style three-seater couch upholstered in light gray fabric. It has multiple loose back and seat cushions and is adorned with several throw pillows of various colors (including yellow) and patterns. It is located in the living room.",
+        "key_frames": {
+            "0:09": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wooden china cabinet and facing the light-gray three-seater couch, when the speech topic: \"offering own untouched water bottle\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_30",
+    "video_id": "loc1_script2_seq3_rec2"
+}

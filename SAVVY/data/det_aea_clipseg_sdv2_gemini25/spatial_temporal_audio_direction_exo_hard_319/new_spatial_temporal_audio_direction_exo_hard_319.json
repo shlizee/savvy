@@ -1,0 +1,152 @@
+{
+    "event": "Speaker jokingly claiming to have made the chips.",
+    "start_time": "1:26",
+    "end_time": "1:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, balding with dark hair on the sides and back of his head. He is wearing a turquoise/green short-sleeved polo shirt, blue jeans, and glasses. He has a wired earpiece in his right ear and a watch on his left wrist. During the event, he is seated at the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:41": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A large, rectangular dining table with a light-colored, smooth wooden top. It appears to be made of light wood and has simple legs. During the event, the camera and the speaker are both situated at this table.",
+        "key_frames": {
+            "0:28": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden sideboard with slatted design",
+        "description": "A wooden sideboard or credenza, likely made of a darker wood than the dining table. It features a distinct vertical slatted or ribbed design on its front panels/doors. Various items, including what appear to be framed pictures or art pieces, are placed on its top surface.",
+        "key_frames": {
+            "0:28": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:47": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:57": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:26": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the wooden sideboard with slatted design, when the speech topic: \"jokingly claiming making the chips\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_319",
+    "video_id": "loc3_script2_seq4_rec2"
+}

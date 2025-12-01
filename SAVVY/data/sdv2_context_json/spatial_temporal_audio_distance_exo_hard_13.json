@@ -1,0 +1,100 @@
+{
+    "event": "Distance between a light-gray armchair and a door when a creak and thud sound occurs.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A light blue, arched wooden front door with a small, four-paned window in its upper half, and a dark metal handle. It has a wreath with green leaves and pink/white flowers hanging on it. Approximate size: 2m high, 0.8-0.9m wide. Its location is the doorway.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "180"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "170"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "150"
+            },
+            "1:55": {
+                "distance": "4.0",
+                "direction": "150"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair with a square shape and slightly rolled arms. It has a blue patterned throw pillow on it. It is positioned to the right of a white fireplace, near a wall with a framed painting. Approximate size: 0.8m wide, 0.8m deep, 1m tall.",
+        "key_frames": {
+            "0:10": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:55": {
+                "distance": "2.5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sounding object (Door)",
+        "description": "The light blue arched wooden front door, representing the direction from the armchair towards the door.",
+        "key_frames": {
+            "0:11": {
+                "distance": "3.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "When the creak and thud sound is happening, what is the distance between the light-gray armchair closer to the wall painting and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_13",
+    "video_id": "loc1_script2_seq1_rec2"
+}

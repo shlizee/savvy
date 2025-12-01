@@ -1,0 +1,160 @@
+{
+    "event": "The speaker states that the audio volume is too low.",
+    "start_time": "03:11",
+    "end_time": "03:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Young adult female with long dark brown hair, wearing glasses (possibly smart glasses with a wire), a black short-sleeved crop top, and light blue jeans. Approximate height around 1.6-1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "00:02": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "00:11": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:20": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:35": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "02:20": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "03:11": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "03:40": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "04:25": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White Recessed Fireplace",
+        "description": "A white painted brick recessed fireplace with a white mantelpiece. It has a black firebox opening. Above it is a large round mirror with a dark frame. On the mantelpiece are small decorative items, including a string of Easter-themed decorations (carrots/bunnies). Approximate width 1.5-2 meters, height to mantel ~1.2 meters.",
+        "key_frames": {
+            "00:08": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "00:10": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "00:15": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "00:20": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "00:45": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "01:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "02:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "03:11": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "03:40": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "04:25": {
+                "distance": "3.0",
+                "direction": "75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "A tall, wooden (medium brown color) china cabinet. The upper section has glass doors with wooden framing, displaying white and patterned china. The lower section consists of solid wooden doors/drawers. It is positioned in an alcove or next to an arched doorway. Approximate height ~2 meters, width ~1 meter.",
+        "key_frames": {
+            "00:09": {
+                "distance": "4.5",
+                "direction": "-45"
+            },
+            "00:12": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "00:15": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "00:20": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "00:45": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "01:30": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "02:30": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "03:11": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "03:40": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "04:25": {
+                "distance": "4.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing the wooden china cabinet, when the speech topic: \"stating the audio volume is too low\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_65",
+    "video_id": "loc1_script2_seq7_rec2"
+}

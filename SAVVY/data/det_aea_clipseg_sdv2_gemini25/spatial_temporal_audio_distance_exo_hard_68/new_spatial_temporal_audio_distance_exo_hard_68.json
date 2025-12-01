@@ -1,0 +1,120 @@
+{
+    "event": "A person describes a commitment location as having people.",
+    "start_time": "0:54",
+    "end_time": "0:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with long dark hair, wearing a black short-sleeved top and light blue jeans. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:22": {
+                "distance": "0.9",
+                "direction": "-35"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:54": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:59": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:27": {
+                "distance": "1.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two round, nested coffee tables. The larger table has a light-colored top and dark metal legs. The smaller table, nested underneath, has a similar design. Various items are on the tables, including a bag of pistachios, a bowl, remotes, and a bag of pretzels.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:48": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "0.5",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera",
+        "description": "The camera recording the scene.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "When the speech topic: \"describing commitment location as having people\" is mentioned, what is the distance between a set of nested coffee tables and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_68",
+    "video_id": "loc1_script2_seq8_rec1"
+}

@@ -1,0 +1,156 @@
+{
+    "event": "The other person mentions a script instruction about the video choice.",
+    "start_time": "0:56",
+    "end_time": "1:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with long, dark, curly hair, wearing a yellow knitted sleeveless top over a white short-sleeved shirt with a frilled collar, and light blue jeans. They are also wearing socks with a colorful pattern.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with long, dark, curly hair, wearing a yellow knitted sleeveless top over a white short-sleeved shirt with a frilled collar, and light blue jeans. They are also wearing socks with a colorful pattern.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning script instruction about video choice\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_275",
+    "video_id": "loc3_script2_seq7_rec1"
+}

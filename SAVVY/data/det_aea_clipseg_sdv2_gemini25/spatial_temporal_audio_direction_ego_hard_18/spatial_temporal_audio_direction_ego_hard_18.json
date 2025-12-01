@@ -1,0 +1,152 @@
+{
+    "event": "The speech topic 'choosing the dog mug' comes up.",
+    "start_time": "0:26",
+    "end_time": "0:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly reddish-brown hair, wearing a light teal short-sleeved button-up shirt, dark shorts, and black shoes. He is also wearing headphones around his neck and has a small black device clipped to his shirt pocket. He is holding a small white object (possibly a phone or remote) in his right hand initially, and later a can of drink.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:31": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:08": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:13": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:23": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:27": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:58": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. The view is egocentric.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "direction_camera_is_facing",
+        "description": "The direction the camera is pointing at any given time.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"choosing the dog mug\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_18",
+    "video_id": "loc1_script2_seq3_rec2"
+}

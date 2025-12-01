@@ -1,0 +1,96 @@
+{
+    "event": "The other person is describing their train making early stops.",
+    "start_time": "0:45",
+    "end_time": "1:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly, light-colored hair, wearing a dark long-sleeved shirt over a collared shirt, blue jeans, and light-colored socks. They are sitting on a light-colored couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:57": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "2:10": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "2:25": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "-75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The person wearing the camera, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "forward",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing own train making early stops\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_305",
+    "video_id": "loc3_script3_seq2_rec1"
+}

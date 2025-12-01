@@ -1,0 +1,111 @@
+{
+    "event": "A creak and thud sound, identified as a door opening and closing.",
+    "start_time": "0:07",
+    "end_time": "0:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden arched front door, approximately 2m high and 0.8m wide. It has a small, vertical rectangular glass pane in its upper half, a black doorknob on the right (when viewed from inside), and a white rectangular security sensor on the top edge near the frame. The sound originates from this door opening and closing.",
+        "is_static": true,
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "1:15": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "1:45": {
+                "distance": "4.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white stucco-finished fireplace, approximately 1.5m wide and extending about 2.5m tall including the chimney breast. It features a recessed arched firebox opening. A dark wooden mantelpiece sits above the firebox. A round mirror with a colorful tiled or segmented border (approx. 0.8m diameter) is centered above the mantel. Small decorative items, including a string of carrot-shaped decorations, are on the mantel.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "1:15": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:50": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this question, as the distance is between two fixed objects.",
+        "key_frames": {}
+    },
+    "prediction": 3.5,
+    "question": "When the creak and thud sound is happening, what is the distance between the white recessed fireplace and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_6",
+    "video_id": "loc1_script2_seq1_rec1"
+}

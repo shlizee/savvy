@@ -1,0 +1,132 @@
+{
+    "event": "Speaker accepting snack offer (popcorn), relative to a robot standing by the two-seater dining table and facing the window with a pool view.",
+    "start_time": "0:15",
+    "end_time": "0:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person wearing a white t-shirt, blue shorts, and glasses, with dark hair. They are sitting at a table. Approximate height when sitting is 0.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, round, wooden drop-leaf dining table, brown in color. Approximate diameter 0.8-1.0 meters. The sounding object (person) is sitting at this table.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors that provide a view of an outdoor pool area. The doors have dark frames and are located to the right of the two-seater dining table area from the perspective of the kitchen.",
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "50"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "0:34": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:51": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "1:01": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the window with a pool view, when the speech topic: \"accepting snack offer (popcorn)\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_148",
+    "video_id": "loc2_script2_seq4_rec2"
+}

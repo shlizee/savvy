@@ -1,0 +1,144 @@
+{
+    "event": "A person speaks the words 'Alright, let's get set up'",
+    "start_time": "1:03",
+    "end_time": "1:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He is also wearing glasses and a gold-colored watch on his left wrist. He is seated on a bar stool at a wooden kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:36": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "2:05": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "2:56": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "3:12": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "3:40": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "4:13": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, undermount stainless steel sink with a gooseneck faucet, located in the kitchen countertop. It's part of a larger L-shaped counter area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:03": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "3:15": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard-sized, built-in dishwasher with a stainless steel front panel, located to the left of the round sink within the kitchen cabinetry.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "1:45": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "3:15": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "4:00": {
+                "distance": "2.0",
+                "direction": "-55"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the built-in stainless steel dishwasher, when the speech topic: \"proposing getting set up\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_160",
+    "video_id": "loc2_script2_seq5_rec1"
+}

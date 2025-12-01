@@ -1,0 +1,120 @@
+{
+    "event": "Speaker's location relative to a robot by the refrigerator and facing the pool window, when discussing meat doneness.",
+    "start_time": "01:51",
+    "end_time": "01:58",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. He also has a black wire/headset around his neck. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "00:19": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:37": {
+                "distance": "2",
+                "direction": "-10"
+            },
+            "01:03": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:55": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "03:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "04:05": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "Large, two-door stainless steel refrigerator with an ice/water dispenser on the left door. Samsung brand visible. Standard kitchen appliance height.",
+        "key_frames": {
+            "00:11": {
+                "distance": "2",
+                "direction": "-60"
+            },
+            "00:35": {
+                "distance": "4",
+                "direction": "-70"
+            },
+            "00:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:59": {
+                "distance": "2.5",
+                "direction": "-170"
+            },
+            "01:41": {
+                "distance": "5",
+                "direction": "70"
+            },
+            "02:20": {
+                "distance": "5",
+                "direction": "70"
+            },
+            "03:15": {
+                "distance": "5",
+                "direction": "70"
+            },
+            "04:03": {
+                "distance": "5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with a pool view",
+        "description": "Large sliding glass doors and windows offering a view of an outdoor pool and patio area. Spans a significant portion of the wall.",
+        "key_frames": {
+            "00:26": {
+                "distance": "3",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "01:41": {
+                "distance": "2",
+                "direction": "-60"
+            },
+            "02:20": {
+                "distance": "2",
+                "direction": "-60"
+            },
+            "03:15": {
+                "distance": "2",
+                "direction": "-60"
+            },
+            "04:03": {
+                "distance": "2",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the window with a pool view, when the speech topic: \"differentiating meat type from ground beef regarding doneness\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_251",
+    "video_id": "loc2_script3_seq4_rec1"
+}

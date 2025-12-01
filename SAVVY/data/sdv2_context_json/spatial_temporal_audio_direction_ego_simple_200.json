@@ -1,0 +1,148 @@
+{
+    "event": "Speech topic: clarifying intent to only flip food and asserting capability",
+    "start_time": "01:39",
+    "end_time": "01:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short dark hair and is wearing glasses. Appears to be of average height.",
+        "is_static": false,
+        "key_frames": {
+            "00:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:10": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:26": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "00:32": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:35": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "00:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:19": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:39": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "01:41": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "01:55": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:03": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:09": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:34": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera (Wearer)",
+        "description": "The first-person point of view of the camera wearer. In egocentric mode, its position is the origin (0m, 0 degrees).",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:39": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:41": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Open Kitchen Drawer",
+        "description": "A wooden kitchen drawer near the sink, opened by the camera wearer, revealing various utensils. The camera is facing this drawer during the specified event.",
+        "key_frames": {
+            "01:32": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "01:39": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "01:41": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"clarifying intent to only flip food and asserting capability\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_200",
+    "video_id": "loc2_script3_seq32_rec2"
+}

@@ -1,0 +1,176 @@
+{
+    "event": "A person is speaking about running a process (heating water) briefly.",
+    "start_time": "0:55",
+    "end_time": "0:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:33": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "1:33": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "1:58": {
+                "distance": "0.8",
+                "direction": "-85"
+            },
+            "2:08": {
+                "distance": "0.8",
+                "direction": "-85"
+            },
+            "2:22": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "2:35": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored Refrigerator",
+        "description": "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:18": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:37": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:55": {
+                "distance": "4.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the light-colored refrigerator and facing the fireplace, when the speech topic: \"suggesting running process briefly\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_294",
+    "video_id": "loc3_script2_seq3_rec1"
+}

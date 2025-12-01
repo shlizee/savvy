@@ -1,0 +1,112 @@
+{
+    "event": "Woman asks if there are cream or sugar options in the fridge, as part of a discussion about milk/cream for coffee.",
+    "start_time": "0:05",
+    "end_time": "0:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a yellow knitted vest over a white t-shirt, and blue jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:34": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "1:02": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:54": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "kitchen hob",
+        "description": "A gas stovetop with multiple burners, integrated into a light-colored kitchen counter against a wall. It has dark grates and a stainless steel surface. Part of a larger kitchen counter assembly.",
+        "key_frames": {
+            "0:06": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "75"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:42": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:55": {
+                "distance": "4.0",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "light-colored refrigerator",
+        "description": "A tall, built-in, side-by-side refrigerator with light-colored (possibly off-white or light grey) panels and stainless steel handles. It has an ice/water dispenser on the left door. It is located along the same wall as the kitchen hob, to the left of the hob.",
+        "key_frames": {
+            "0:04": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:28": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:32": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the kitchen hob and facing the light-colored refrigerator, when the speech topic: \"commenting on the quantity of milk options\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_313",
+    "video_id": "loc3_script2_seq4_rec1"
+}

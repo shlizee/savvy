@@ -1,0 +1,178 @@
+{
+    "event": "Inquiring whether to stop or continue playing Scrabble",
+    "start_time": "3:12",
+    "end_time": "3:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/turquoise polo shirt, khaki shorts, and white sneakers. He has short brown hair and is wearing glasses. He is seated on a bar stool at the kitchen island. He is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:16": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "0:32": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:12": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "3:25": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "3:40": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:58": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "4:13": {
+                "distance": "0.8",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "Stainless steel double wall oven, built into light brown wooden kitchen cabinetry. It is located on the back wall of the kitchen. Standard approximate dimensions: 0.6m wide, 1.2-1.5m total height for the double unit.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "3.6",
+                "direction": "-50"
+            },
+            "0:08": {
+                "distance": "3.3",
+                "direction": "-40"
+            },
+            "0:16": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "0:32": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "1:00": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "1:30": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "2:00": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "3:00": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "3:12": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "3:30": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "4:00": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "4:13": {
+                "distance": "3.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Island",
+        "description": "Large wooden kitchen island with a dark countertop, located in the center of the kitchen. The reference object (oven) generally faces towards this island.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "3:12": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.88,
+    "question": "When the speech topic: \"inquiring whether to stop or continue playing\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_132",
+    "video_id": "loc2_script2_seq5_rec1"
+}

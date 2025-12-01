@@ -1,0 +1,120 @@
+{
+    "event": "A person asks about readiness to start an activity.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a light blue/turquoise short-sleeved polo shirt, khaki shorts, and glasses. He is initially seen sitting down on a barstool at the kitchen island. Approximate height when seated is around 1-1.2 meters from the seat.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "3:50": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "A black, flat, rectangular electric cooktop integrated into the surface of the wooden kitchen island. It has multiple burners, likely induction or radiant.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "4:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "A large, two-door stainless steel refrigerator with an ice/water dispenser on the left door. It is built into the kitchen cabinetry.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the stainless steel refrigerator, when the speech topic: \"asking about readiness to start\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_154",
+    "video_id": "loc2_script2_seq5_rec1"
+}

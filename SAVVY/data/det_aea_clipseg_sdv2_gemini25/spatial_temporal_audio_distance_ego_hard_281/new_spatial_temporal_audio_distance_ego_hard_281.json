@@ -1,0 +1,140 @@
+{
+    "event": "The other person is showing a video on their phone, and the audio from that video mentions 'starting with a TradeKing account'. The question asks for the distance between the camera wearer and this other person at that moment.",
+    "start_time": "01:23",
+    "end_time": "01:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the room. He is a male wearing a green short-sleeved polo shirt and blue jeans, with short dark hair and glasses. He is sitting on a couch and holding a black smartphone, from which the relevant audio is playing. His location is the target for the distance measurement.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:13": {
+                "distance": "1.4",
+                "direction": "-30"
+            },
+            "00:17": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "00:30": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "00:45": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:00": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:15": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:23": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:25": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:35": {
+                "distance": "1.3",
+                "direction": "-35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the user, representing the user's viewpoint.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person in the room, who is also the 'sounding_object' in terms of location for the question. The camera is generally facing him.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:13": {
+                "distance": "1.4",
+                "direction": "-30"
+            },
+            "00:17": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "00:30": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "00:45": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:00": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:15": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:23": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:25": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "01:35": {
+                "distance": "1.3",
+                "direction": "-35"
+            }
+        }
+    },
+    "prediction": 1.3,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"mentioning starting with tradeking account\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_281",
+    "video_id": "loc3_script2_seq7_rec2"
+}

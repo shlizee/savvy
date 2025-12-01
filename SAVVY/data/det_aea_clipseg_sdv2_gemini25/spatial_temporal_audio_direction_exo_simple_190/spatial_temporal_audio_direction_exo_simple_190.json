@@ -1,0 +1,108 @@
+{
+    "event": "Speech topic: \"describing recent activities (eating, drinking coffee)\"",
+    "start_time": "0:27",
+    "end_time": "0:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt, khaki shorts, white sneakers, and wired earbuds. He is holding a smartphone. Initially standing, then sits on a light-colored sofa.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:28": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door with multiple rectangular glass panels, set within an arched doorway, leading to the outside. It is located in the hallway/entryway of the house.",
+        "key_frames": {
+            "0:13": {
+                "distance": "5.0",
+                "direction": "45"
+            },
+            "0:28": {
+                "distance": "5.0",
+                "direction": "45"
+            },
+            "0:35": {
+                "distance": "5.0",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "5.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "5.0",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A white fireplace structure with a black metal firescreen in front of the firebox. A colorful landscape painting is mounted on the wall above the mantelpiece. It is located in the main living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the fireplace with a black metal screen, when the speech topic: \"describing recent activities (eating, drinking coffee)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_190",
+    "video_id": "loc2_script3_seq2_rec1"
+}

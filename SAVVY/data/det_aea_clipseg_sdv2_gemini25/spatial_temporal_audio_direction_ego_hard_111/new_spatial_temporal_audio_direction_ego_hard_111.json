@@ -1,0 +1,140 @@
+{
+    "event": "The other person is pointing out the location of the guest room.",
+    "start_time": "1:25",
+    "end_time": "1:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise/light blue short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has short brown hair. He is holding a black smartphone with a wired earbud in his right ear.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:17": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the user, representing the user's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_facing_direction",
+        "description": "The direction the camera is pointing, representing the user's line of sight.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"pointing out the location of the guest room\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_111",
+    "video_id": "loc2_script2_seq2_rec1"
+}

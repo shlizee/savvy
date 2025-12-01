@@ -1,0 +1,140 @@
+{
+    "event": "Speaker describes Seattle weather as pretty, relative to a robot standing by the TV and facing the light-gray armchair closer to the wall painting.",
+    "start_time": "1:09",
+    "end_time": "1:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/green short-sleeved collared shirt, dark shorts, glasses, and has curly brown hair. He is holding a can of drink and a smartphone. He has headphones around his neck/ears.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:38": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "1:48": {
+                "distance": "2.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A flat-screen television, dark in color, positioned on a low media console or stand to the left of the fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:25": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "1:54": {
+                "distance": "2.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair. It is one of two similar armchairs located near a large arched window. This specific armchair is the one positioned closer to a small, dark-framed wall painting, making it the leftmost of the two armchairs when viewed from the center of the room towards the window.",
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "1:25": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "1:38": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "1:54": {
+                "distance": "3.5",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the tv and facing the light-gray armchair closer to the wall painting, when the speech topic: \"describing seattle weather as pretty\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_5",
+    "video_id": "loc1_script2_seq1_rec1"
+}

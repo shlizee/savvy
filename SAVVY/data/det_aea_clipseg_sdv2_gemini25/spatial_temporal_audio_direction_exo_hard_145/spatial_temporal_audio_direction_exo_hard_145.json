@@ -1,0 +1,108 @@
+{
+    "event": "Speaker's location relative to a robot when the speech topic 'offering a spoon' comes up.",
+    "start_time": "0:50",
+    "end_time": "0:51",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man wearing a teal short-sleeved polo shirt, khaki shorts, glasses, and has a dark beard. He is also wearing a wired earpiece/microphone. Approximate height ~1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:26": {
+                "distance": "3.2",
+                "direction": "50"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:04": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "1:38": {
+                "distance": "1.8",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A double-basin rectangular sink, likely stainless steel, with a tap. It is set into a wooden kitchen island/countertop.",
+        "key_frames": {
+            "0:18": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:36": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "1:03": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "1:23": {
+                "distance": "3.0",
+                "direction": "60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into wooden kitchen cabinetry, located on the far wall of the kitchen.",
+        "key_frames": {
+            "0:18": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "0:30": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "0:36": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "1:03": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "1:23": {
+                "distance": "3.8",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the stainless steel double wall oven, when the speech topic: \"offering a spoon\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_145",
+    "video_id": "loc2_script2_seq4_rec1"
+}

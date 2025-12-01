@@ -1,0 +1,208 @@
+{
+    "event": "A woman comments on taking a long sip of coffee.",
+    "start_time": "3:09",
+    "end_time": "3:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly brown hair, wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She is barefoot. She is holding a white mug with a black and red design.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:10": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:27": {
+                "distance": "2.2",
+                "direction": "-85"
+            },
+            "0:33": {
+                "distance": "2.2",
+                "direction": "-85"
+            },
+            "0:40": {
+                "distance": "2.2",
+                "direction": "-85"
+            },
+            "0:45": {
+                "distance": "2.2",
+                "direction": "-85"
+            },
+            "0:49": {
+                "distance": "1.2",
+                "direction": "-90"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:06": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:37": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:49": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:58": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:10": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:23": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:35": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:40": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:48": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:52": {
+                "distance": "1.2",
+                "direction": "-90"
+            },
+            "2:58": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "3:10": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "3:13": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen sink with tap",
+        "description": "A white, double-basin farmhouse-style kitchen sink with a silver-colored gooseneck tap. It is set into a white countertop against a wall with a light blue tiled backsplash.",
+        "key_frames": {
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "2:52": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "3:00": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "3:10": {
+                "distance": "2.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden dining table",
+        "description": "A long, rectangular wooden dining table with a light-colored wood top and darker legs/frame. It is surrounded by light-colored upholstered chairs. Various items like a laptop, flowers in a vase, and pizza boxes are on the table.",
+        "key_frames": {
+            "0:17": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "2:53": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "3:10": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the kitchen sink with a tap and facing the wooden dining table, when the speech topic: \"commenting on taking a long sip\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_28",
+    "video_id": "loc1_script2_seq3_rec1"
+}

@@ -1,0 +1,340 @@
+{
+    "event": "A person is speaking about offering the first turn to the listener.",
+    "start_time": "01:38",
+    "end_time": "01:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a blue shirt and khaki shorts. He is sitting on a bar stool at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:10": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:20": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:50": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:10": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:20": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:50": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:10": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:20": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:50": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "03:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "03:10": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "03:20": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "03:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "03:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "03:50": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "04:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "04:10": {
+                "distance": "1.5",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat electric cooktop integrated into the kitchen island.",
+        "key_frames": {
+            "00:01": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:10": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:20": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:40": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:10": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:20": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:40": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:10": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:20": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:40": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "03:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "03:10": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "03:20": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "03:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "03:40": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "03:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "04:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "04:10": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A stainless steel double-basin rectangular sink with a tap, located on the kitchen counter against the wall.",
+        "key_frames": {
+            "00:01": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:40": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:50": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:40": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:50": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "02:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "02:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "02:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "02:40": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "02:50": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:40": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:50": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "04:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "04:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the double-basin rectangular sink and tap, when the speech topic: \"offering first turn to listener\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_164",
+    "video_id": "loc2_script2_seq5_rec1"
+}

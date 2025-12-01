@@ -1,0 +1,111 @@
+{
+    "event": "The distance between the camera wearer and the other person when the speech topic 'apologizing for potentially dangerous incident' comes up.",
+    "start_time": "2:52",
+    "end_time": "2:53",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly brown hair, wearing a grey short-sleeved polo shirt, dark shorts, and glasses. They are also wearing a headset with a microphone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "1.6",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "1.6",
+                "direction": "10"
+            },
+            "2:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:18": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "2:25": {
+                "distance": "2.1",
+                "direction": "-20"
+            },
+            "2:38": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:47": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "2:52": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "3:07": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "3:14": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "3:20": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "3:27": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "3:38": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "3:43": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "3:47": {
+                "distance": "3.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"apologizing for potentially dangerous incident\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_202",
+    "video_id": "loc2_script3_seq5_rec2"
+}

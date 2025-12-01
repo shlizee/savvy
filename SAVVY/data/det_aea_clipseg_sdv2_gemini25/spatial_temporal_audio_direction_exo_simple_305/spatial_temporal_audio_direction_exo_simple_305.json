@@ -1,0 +1,132 @@
+{
+    "event": "A person suggests pretending to sip coffee.",
+    "start_time": "2:10",
+    "end_time": "2:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white short-sleeved shirt under a yellow knitted vest, and light blue jeans. She is also wearing light-colored socks with a pattern.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "0:04": {
+                "distance": "2.2",
+                "direction": "55"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "0:09": {
+                "distance": "3.2",
+                "direction": "60"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "-65"
+            },
+            "0:44": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:57": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:07": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:33": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:44": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "1:59": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:10": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:23": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:35": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:50": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "3:00": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "3:06": {
+                "distance": "0.6",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White animal sculpture on coffee table",
+        "description": "A white, stylized animal sculpture, possibly a rabbit or llama, approximately 30cm tall, located on the wooden coffee table. (Assuming this is the intended 'animal sculpture' despite the color mismatch with 'black' in the question, as it's the most prominent one).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "0.6",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A flat-screen TV mounted above a stone fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black decorative animal sculpture and facing the tv by the fireplace, when the speech topic: \"suggesting pretending to sip\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_305",
+    "video_id": "loc3_script2_seq3_rec1"
+}

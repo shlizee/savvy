@@ -1,0 +1,152 @@
+{
+    "event": "Speech topic: 'suggesting concluding the recording/play' comes up",
+    "start_time": "3:11",
+    "end_time": "3:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a light blue/turquoise polo shirt, khaki shorts, and white sneakers. He has short, dark hair and is wearing glasses for part of the video. He is also wearing a gold-colored watch on his left wrist. He is seated on a barstool at a wooden kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:35": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:55": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "3:11": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "3:40": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "4:09": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "4:14": {
+                "distance": "1.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into light brown wooden kitchen cabinetry. It has two oven doors, one above the other, with black glass windows and stainless steel handles.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "80"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "1:50": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "2:30": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "3:11": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "3:45": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with a pool view",
+        "description": "Large sliding glass doors that provide a view of an outdoor pool area. The pool has blue water, and there are patio furniture and plants visible outside. The doors have black frames.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "0:27": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "1:05": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "1:35": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "2:40": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "3:11": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "3:50": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "4:10": {
+                "distance": "4.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the window with a pool view, when the speech topic: \"suggesting concluding the recording/play\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_169",
+    "video_id": "loc2_script2_seq5_rec1"
+}

@@ -1,0 +1,148 @@
+{
+    "event": "A man asks 'Maddie, you wanna play some Connect Four?'",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a man with a blurred face, wearing a light green short-sleeved polo shirt and a black in-ear headset with a wire. He has short, dark hair, and is wearing a watch on his left wrist. He is seated at the dining table across from the camera's perspective.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:02": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "0.9",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "0.9",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "0.9",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "0.9",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "0.9",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "0.9",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "0.9",
+                "direction": "-10"
+            },
+            "1:45": {
+                "distance": "0.9",
+                "direction": "-10"
+            },
+            "2:01": {
+                "distance": "0.9",
+                "direction": "-10"
+            },
+            "2:09": {
+                "distance": "0.9",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A large rectangular dining table made of light-colored wood. It has various items on it, including the Connect Four game box, a bag of Ruffles chips, mugs, glasses, and smartphones. The camera appears to be positioned on or very near this table.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray, fabric, three-seater couch located in the living room area beyond the dining table. A dark-colored patterned throw or blanket is draped over its back and seat, primarily on its left side (from the camera's perspective). Cushions are visible.",
+        "key_frames": {
+            "0:02": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the light-gray three-seater couch, when the speech topic: \"asking maddie about playing connect four\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_320",
+    "video_id": "loc3_script2_seq5_rec1"
+}

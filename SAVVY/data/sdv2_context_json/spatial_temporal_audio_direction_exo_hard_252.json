@@ -1,0 +1,172 @@
+{
+    "event": "A person expresses confidence in the outcome of food being prepared.",
+    "start_time": "2:02",
+    "end_time": "2:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:46": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:26": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:41": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:52": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:58": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:59": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:17": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "1:33": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "1:39": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "2:02": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "2:26": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "2:41": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "2:52": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "2:56": {
+                "distance": "3.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.",
+        "key_frames": {
+            "0:08": {
+                "distance": "7.0",
+                "direction": "60"
+            },
+            "0:11": {
+                "distance": "6.0",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "6.0",
+                "direction": "30"
+            },
+            "2:02": {
+                "distance": "6.0",
+                "direction": "45"
+            },
+            "2:41": {
+                "distance": "5.5",
+                "direction": "15"
+            },
+            "2:52": {
+                "distance": "5.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the two-seater dining table, when the speech topic: \"expressing confidence in food outcome\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_252",
+    "video_id": "loc2_script3_seq34_rec2"
+}

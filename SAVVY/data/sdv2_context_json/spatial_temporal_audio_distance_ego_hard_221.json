@@ -1,0 +1,196 @@
+{
+    "event": "The other person describes an item (French press) as 'fancy'.",
+    "start_time": "0:01:20",
+    "end_time": "0:01:21",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a woman with long, dark, curly hair, wearing glasses, a white t-shirt, a yellow knitted vest, and light blue jeans. She is also wearing socks with a pattern.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:00:05": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:00:07": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:00:09": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:00:12": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:00:15": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:00:21": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:00:33": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:00:44": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "0:00:57": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "0:01:08": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "0:01:21": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "0:01:33": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "0:01:44": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "0:01:59": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "0:02:08": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:02:23": {
+                "distance": "0.4",
+                "direction": "-20"
+            },
+            "0:02:35": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "0:02:50": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "0:03:02": {
+                "distance": "0.7",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the viewer's perspective (ego).",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person",
+        "description": "The other person is a woman with long, dark, curly hair, wearing glasses, a white t-shirt, a yellow knitted vest, and light blue jeans. She is also wearing socks with a pattern.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:00:05": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:00:07": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:00:09": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:00:12": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:00:15": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:00:21": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:00:33": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:00:44": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "0:00:57": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "0:01:08": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "0:01:21": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "0:01:33": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "0:01:44": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "0:01:59": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "0:02:08": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:02:23": {
+                "distance": "0.4",
+                "direction": "-20"
+            },
+            "0:02:35": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "0:02:50": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "0:03:02": {
+                "distance": "0.7",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "0.7",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"describing item as fancy\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_221",
+    "video_id": "loc3_script2_seq3_rec1"
+}

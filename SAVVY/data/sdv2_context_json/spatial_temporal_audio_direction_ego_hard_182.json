@@ -1,0 +1,212 @@
+{
+    "event": "The speech topic is \"expressing doubt about using time codes\". The question asks for the relative position of the other person (sounding object) to the camera wearer (reference object) when this topic comes up.",
+    "start_time": "0:36",
+    "end_time": "0:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short brown hair, wearing a turquoise short-sleeved polo shirt and khaki shorts. He is also wearing glasses.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:09": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:38": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:40": {
+                "distance": "1.7",
+                "direction": "75"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "1:16": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "2:07": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "2:12": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The reference is the camera's position.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_view",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing doubt about using time codes\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_182",
+    "video_id": "loc2_script3_seq31_rec2"
+}

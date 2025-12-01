@@ -1,0 +1,90 @@
+{
+    "event": "Calculating the distance between the stainless steel double wall oven and the speech sound source (male speaker) when the speech topic 'suggesting putting game away or ending' is mentioned.",
+    "start_time": "02:05",
+    "end_time": "02:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a green short-sleeved polo shirt and an in-ear headphone in his left ear. He is seated at a wooden table, across from the camera. He is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "02:05": {
+                "distance": "1.1",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "Built-in stainless steel double wall oven, located in the kitchen cabinetry in the right background relative to the camera's view. It has two oven compartments stacked vertically. Standard appliance size.",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "3.8",
+                "direction": "25"
+            },
+            "00:30": {
+                "distance": "3.8",
+                "direction": "25"
+            },
+            "01:00": {
+                "distance": "3.8",
+                "direction": "25"
+            },
+            "01:30": {
+                "distance": "3.8",
+                "direction": "25"
+            },
+            "02:05": {
+                "distance": "3.8",
+                "direction": "25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Speech Sound Source (Male Speaker)",
+        "description": "The male speaker, who is the sounding object. This field is populated based on the instruction 'stand by the Reference Object and face the Facing Object'.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "02:05": {
+                "distance": "1.1",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.84,
+    "question": "When the speech topic: \"suggesting putting game away or ending\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_283",
+    "video_id": "loc3_script2_seq5_rec1"
+}

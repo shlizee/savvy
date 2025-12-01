@@ -1,0 +1,176 @@
+{
+    "event": "Speech topic: acknowledging viewer preference for video setup",
+    "start_time": "0:44",
+    "end_time": "0:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person visible on a smartphone screen, which is being held by the 'other person'. The person on the screen is wearing a pink shirt and speaking. The smartphone itself is black and rectangular.",
+        "is_static": false,
+        "key_frames": {
+            "0:13": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "0:17": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "0:23": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "0:38": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:06": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:12": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:18": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:24": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "1.7",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from. Their hands are visible at the bottom of the frame, one holding a smartphone and the other a black rectangular device.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A person with a blurred face, wearing a green short-sleeved polo shirt and blue jeans. Initially at a table to the camera's right, then moves to sit on a couch to the camera wearer's left.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "0:17": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "0:23": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "0:38": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:06": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:12": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:18": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:24": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "1.7",
+                "direction": "-50"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"acknowledging viewer preference for video setup\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_283",
+    "video_id": "loc3_script2_seq7_rec2"
+}

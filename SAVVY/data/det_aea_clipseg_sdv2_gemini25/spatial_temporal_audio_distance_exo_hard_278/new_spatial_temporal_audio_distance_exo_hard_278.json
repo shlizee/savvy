@@ -1,0 +1,112 @@
+{
+    "event": "The male speaker observes the female player's competitiveness during a game of Connect 4.",
+    "start_time": "1:26",
+    "end_time": "1:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with a blurred face, wearing a short-sleeved green polo shirt and in-ear headphones. He has short, dark hair. He is sitting at the dining table, and his mouth is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.82",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A large rectangular wooden dining table with a light brown, matte finish. It appears to be at least 0.8 meters wide (the dimension between the two players) and over 1 meter long. The tabletop has a visible thickness, estimated around 3-5 cm. The camera is resting on this table.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.407",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.407",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.485,
+    "question": "When the speech topic: \"observing opponent's competitiveness\" is mentioned, what is the distance between the rectangular dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_278",
+    "video_id": "loc3_script2_seq5_rec1"
+}

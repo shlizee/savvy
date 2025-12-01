@@ -1,0 +1,184 @@
+{
+    "event": "Mentioning script instruction about video choice",
+    "start_time": "0:55",
+    "end_time": "1:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair (face is blurred but general features like glasses are discernible), wearing a light green short-sleeved polo shirt and blue jeans. He is also wearing glasses. Approximate height appears average when standing.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:01": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:01": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera capturing the video, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with short, dark hair (face is blurred but general features like glasses are discernible), wearing a light green short-sleeved polo shirt and blue jeans. He is also wearing glasses.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:01": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:01": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"mentioning script instruction about video choice\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_274",
+    "video_id": "loc3_script2_seq7_rec2"
+}

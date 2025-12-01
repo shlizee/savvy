@@ -1,0 +1,99 @@
+{
+    "event": "The speech topic 'offering a drink' comes up.",
+    "start_time": "0:31",
+    "end_time": "0:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a black short-sleeved crop top, light blue jeans, and glasses. She appears to be of average height and build. She is the person offering the drink.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:31": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:34": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.3",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "1.4",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:34": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:45": {
+                "distance": "1.3",
+                "direction": "-35"
+            },
+            "1:55": {
+                "distance": "1.4",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the person to whom the drink is offered.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"offering a drink\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_7",
+    "video_id": "loc1_script2_seq1_rec2"
+}

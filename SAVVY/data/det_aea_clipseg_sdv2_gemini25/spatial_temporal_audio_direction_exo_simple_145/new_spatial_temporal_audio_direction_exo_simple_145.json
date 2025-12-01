@@ -1,0 +1,120 @@
+{
+    "event": "Speaker states the need for creamer, relative to a robot at the two-seater dining table facing the pool window.",
+    "start_time": "0:06",
+    "end_time": "0:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, short dark hair, wearing glasses, a white short-sleeved t-shirt, and light blue shorts. He is seated at the dining table throughout the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:38": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, wooden, drop-leaf style dining table, dark brown in color. It has one chair visible initially where the sounding object is seated, and a second chair becomes visible later on the opposite side. Various items like a mug, phone, popcorn bag, and creamer are placed on it during the video.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with pool view",
+        "description": "Large, multi-panel sliding glass doors with dark frames, offering a view to an outdoor patio area that includes a swimming pool, outdoor furniture, and plants. It is located on the wall to the right of the kitchen area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:34": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:38": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "1:03": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:31": {
+                "distance": "3.0",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the window with a pool view, when the speech topic: \"stating need for creamer\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_145",
+    "video_id": "loc2_script2_seq4_rec2"
+}

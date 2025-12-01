@@ -1,0 +1,162 @@
+{
+    "event": "During a conversation, the speaker confirms they play a musical instrument.",
+    "start_time": "1:08",
+    "end_time": "1:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a woman with long, wavy brown hair. She is wearing a yellow knitted sleeveless top over a white short-sleeved t-shirt, light blue denim jeans rolled up at the ankles, and patterned socks (visible as light blue/green with some pattern). She is of average build and is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "1:05": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "1:13": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "1:25": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "rectangular wooden coffee table",
+        "description": "A rectangular coffee table made of light-to-medium brown wood. It has a smooth top with a colorful patterned placemat/runner, a small white bunny figurine, several coasters, and a book or tablet on it. Its approximate dimensions are 1.2m (length) x 0.8m (width) x 0.4m (height).",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:41": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "black round ottoman",
+        "description": "A round ottoman upholstered in black material, likely leather or faux leather. It has a simple cylindrical shape. Its approximate dimensions are 0.6m (diameter) x 0.4m (height).",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:41": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:56": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:25": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:40": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:50": {
+                "distance": "1.2",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the black round ottoman, when the speech topic: \"confirming instrument playing\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_286",
+    "video_id": "loc3_script2_seq1_rec2"
+}

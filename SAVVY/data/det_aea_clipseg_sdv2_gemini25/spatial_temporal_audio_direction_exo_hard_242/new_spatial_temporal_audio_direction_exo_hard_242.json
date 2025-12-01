@@ -1,0 +1,108 @@
+{
+    "event": "A person states refusal to continue cooking/eating the current food being prepared.",
+    "start_time": "2:29.500",
+    "end_time": "2:42.800",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male, wearing a light blue short-sleeved collared shirt and a gold-colored digital watch on his left wrist. He is the person operating the camera for most of the video and is doing the cooking. He is the one who states the refusal.",
+        "is_static": false,
+        "key_frames": {
+            "0:01.000": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30.000": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00.000": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30.000": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00.000": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30.000": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:42.000": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:55.000": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors providing a view of an outdoor pool area. These doors make up a significant portion of one wall of the kitchen/dining area. The robot is positioned here.",
+        "key_frames": {
+            "0:05.000": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:30.000": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:10.000": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:40.000": {
+                "distance": "3.0",
+                "direction": "-135"
+            },
+            "2:30.000": {
+                "distance": "2.5",
+                "direction": "-150"
+            },
+            "2:42.000": {
+                "distance": "2.8",
+                "direction": "-140"
+            },
+            "2:55.000": {
+                "distance": "1.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A standard-sized, stainless steel, double-door refrigerator, located against a wall in the kitchen. The robot is facing this object.",
+        "key_frames": {
+            "1:19.000": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "1:38.000": {
+                "distance": "4.0",
+                "direction": "80"
+            },
+            "2:30.000": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "2:42.000": {
+                "distance": "4.2",
+                "direction": "55"
+            },
+            "2:50.000": {
+                "distance": "3.0",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the stainless steel refrigerator, when the speech topic: \"stating refusal to eat current food\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_242",
+    "video_id": "loc2_script3_seq34_rec1"
+}

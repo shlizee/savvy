@@ -1,0 +1,132 @@
+{
+    "event": "The speaker is identifying the kitchen area during a house tour, specifically mentioning the oven.",
+    "start_time": "0:24",
+    "end_time": "0:28",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a light blue short-sleeved polo shirt, khaki cargo shorts, white sneakers, and glasses. He has short dark hair and is of average build. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:26": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:44": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard built-in dishwasher with a stainless steel front panel, located under the kitchen counter, to the right of the kitchen sink (when facing the counter).",
+        "key_frames": {
+            "0:26": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. It appears to be a combination of a microwave oven on top and a conventional oven below. It is located on the same counter run as the dishwasher, to the right of the dishwasher (when facing the counter).",
+        "key_frames": {
+            "0:27": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:32": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"identifying the kitchen area on the tour\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_115",
+    "video_id": "loc2_script2_seq2_rec1"
+}

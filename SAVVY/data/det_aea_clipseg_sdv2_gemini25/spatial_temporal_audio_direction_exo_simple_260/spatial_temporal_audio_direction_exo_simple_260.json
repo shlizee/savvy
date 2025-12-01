@@ -1,0 +1,190 @@
+{
+    "event": "The speaker (man in teal shirt) instructs the other person (camera holder) on where to place items, specifically a pan.",
+    "start_time": "0:17",
+    "end_time": "0:25",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has a headset/earpiece with a black wire. Average build, appears to be middle-aged.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:46": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:52": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "0:59": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:28": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:46": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:31": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "3:14": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "3:32": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:39": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:51": {
+                "distance": "3.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, flat, rectangular electric cooktop integrated into the kitchen island countertop. It has multiple circular burner markings. Approximate size: 0.8m wide x 0.5m deep.",
+        "is_static": true,
+        "key_frames": {
+            "0:12": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "0.3",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "0.4",
+                "direction": "30"
+            },
+            "0:45": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "1:18": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "1:46": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:45": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round Sink with a tap",
+        "description": "Stainless steel or similar metallic round sink, undermounted in the kitchen island countertop. It has a tall, gooseneck-style faucet/tap. Approximately 0.4m in diameter.",
+        "is_static": true,
+        "key_frames": {
+            "0:12": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "1:50": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:34": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "3:17": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the round sink with a tap, when the speech topic: \"instructing item placement\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_260",
+    "video_id": "loc2_script3_seq5_rec1"
+}

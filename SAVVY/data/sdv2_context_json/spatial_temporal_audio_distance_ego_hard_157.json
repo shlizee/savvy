@@ -1,0 +1,125 @@
+{
+    "event": "The camera wearer suggests allowing more cooking time for the food in the pan.",
+    "start_time": "1:01",
+    "end_time": "1:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer (Person A). Visible left arm with a gold-colored watch, wearing a teal/blue t-shirt. This person is the one speaking the words that define the event time.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person view camera, representing the position of the camera wearer (Person A).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person (Person B)",
+        "description": "Adult male with dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. This is the 'other person' whose distance from the camera wearer is being queried.",
+        "is_static": false,
+        "key_frames": {
+            "0:16": {
+                "distance": "2.5",
+                "direction": "90"
+            },
+            "0:23": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "1:19": {
+                "distance": "0.6",
+                "direction": "80"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "2:18": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "2.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting allowing more cooking time\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_157",
+    "video_id": "loc2_script3_seq33_rec1"
+}

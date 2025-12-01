@@ -1,0 +1,448 @@
+{
+    "event": "Determine the relative position of the speaker when the speech topic 'inviting someone to sit down' comes up, from the perspective of a robot standing by the black decorative animal sculpture and facing the fireplace.",
+    "start_time": "0:03",
+    "end_time": "0:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a dark long-sleeved shirt and blue jeans. Their face is blurred. They are the one speaking and inviting the other person to sit down.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:40": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:55": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:10": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:20": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:25": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:40": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:45": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A black, four-legged animal sculpture, possibly a dog or pig, located near the large windows.",
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:55": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:05": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:10": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:15": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:20": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:25": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:35": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:40": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "2:45": {
+                "distance": "3.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A stone fireplace with a wooden mantel, located against the far wall of the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "4.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the black decorative animal sculpture and facing the fireplace, when the speech topic: \"inviting someone to sit down\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_356",
+    "video_id": "loc3_script3_seq2_rec1"
+}

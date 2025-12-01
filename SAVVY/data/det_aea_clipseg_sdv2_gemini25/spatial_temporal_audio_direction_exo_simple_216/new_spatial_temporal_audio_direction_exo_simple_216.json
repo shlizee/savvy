@@ -1,0 +1,120 @@
+{
+    "event": "A person expresses doubt about using time codes during a previous recording session.",
+    "start_time": "0:37",
+    "end_time": "0:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal/light blue short-sleeved polo shirt, khaki shorts, and glasses. He appears to be of average to slightly heavy build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "1:07": {
+                "distance": "2.5",
+                "direction": "50"
+            },
+            "1:17": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "2:10": {
+                "distance": "0.8",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, under-mount kitchen sink, likely stainless steel or a dark composite material, with a single-lever chrome or stainless steel tap. Located in a granite countertop on a kitchen peninsula.",
+        "key_frames": {
+            "0:14": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:17": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "0:23": {
+                "distance": "0.3",
+                "direction": "-90"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "2:10": {
+                "distance": "0.6",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A built-in stainless steel double wall oven, standard kitchen appliance size. Located further down the kitchen counter line from the sink and stovetop.",
+        "key_frames": {
+            "0:15": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:17": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:38": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "35"
+            },
+            "1:17": {
+                "distance": "1.7",
+                "direction": "35"
+            },
+            "2:02": {
+                "distance": "1.5",
+                "direction": "25"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel double wall oven, when the speech topic: \"expressing doubt about using time codes\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_216",
+    "video_id": "loc2_script3_seq31_rec2"
+}

@@ -1,0 +1,80 @@
+{
+    "event": "Asking if all food is from Walmart",
+    "start_time": "2:45",
+    "end_time": "2:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person holding the camera, who is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop drip coffee maker",
+        "description": "A black countertop drip coffee maker, likely a Keurig or similar model, located on the main kitchen counter to the right of the sink area.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-35"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:37": {
+                "distance": "3.5",
+                "direction": "-35"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:41": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:24": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "2:45": {
+                "distance": "3.5",
+                "direction": "-100"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 3.5,
+    "question": "When the speech topic: \"asking if all food is from walmart\" is mentioned, what is the distance between the countertop drip coffee maker and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_30",
+    "video_id": "loc1_script2_seq4_rec1"
+}

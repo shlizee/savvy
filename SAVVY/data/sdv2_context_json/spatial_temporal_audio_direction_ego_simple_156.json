@@ -1,0 +1,92 @@
+{
+    "event": "A creak and thud sound occurs as the camera wearer gets up from a couch.",
+    "start_time": "01:07.5",
+    "end_time": "01:08.5",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The couch the camera wearer was sitting on. It is a light-colored fabric sofa. The sound consists of a creak, likely from the couch's internal structure (springs/frame) as weight is removed, and a soft thud, possibly from the person's feet making contact with the floor or body settling after standing.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "01:07": {
+                "distance": "0.2",
+                "direction": "180"
+            },
+            "01:08": {
+                "distance": "0.5",
+                "direction": "180"
+            },
+            "01:09": {
+                "distance": "0.6",
+                "direction": "180"
+            },
+            "01:12": {
+                "distance": "1.5",
+                "direction": "180"
+            },
+            "01:15": {
+                "distance": "3.0",
+                "direction": "170"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the wearer's viewpoint and position.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:33": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV and Entertainment Console",
+        "description": "The television and the entertainment console beneath it, located in the living room. This is what the camera is generally facing during the specified sound event.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "01:07": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "01:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "01:09": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_156",
+    "video_id": "loc2_script2_seq8_rec2"
+}

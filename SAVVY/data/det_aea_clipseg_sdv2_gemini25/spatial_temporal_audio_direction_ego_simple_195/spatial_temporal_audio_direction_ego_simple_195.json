@@ -1,0 +1,103 @@
+{
+    "event": "Other person acknowledges camera wearer's flipping action and offers to find a plastic utensil.",
+    "start_time": "1:41",
+    "end_time": "1:46",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, wearing a grey short-sleeved polo shirt, dark shorts (likely navy blue or black), black sneakers with white soles, and dark-rimmed glasses. He has short, dark, curly hair. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "0:13": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "0:40": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:11": {
+                "distance": "1.5",
+                "direction": "75"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "75"
+            },
+            "1:41": {
+                "distance": "1.5",
+                "direction": "75"
+            },
+            "1:43": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:46": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:57": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "2:29": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "2:41": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:49": {
+                "distance": "1.2",
+                "direction": "60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "Body-worn camera, providing a first-person perspective from the wearer who is cooking.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this egocentric query as directions are relative to the camera's forward view. The camera wearer is facing the stove during the event.",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"acknowledging flipping action and offering to find plastic utensil\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_195",
+    "video_id": "loc2_script3_seq32_rec1"
+}

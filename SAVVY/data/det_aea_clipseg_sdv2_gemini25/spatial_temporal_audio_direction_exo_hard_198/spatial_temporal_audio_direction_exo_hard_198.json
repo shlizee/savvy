@@ -1,0 +1,140 @@
+{
+    "event": "A person expresses happiness with the nice house.",
+    "start_time": "0:42",
+    "end_time": "0:50",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a grey short-sleeved collared shirt, dark shorts, and black sneakers with white soles. The person has dark, somewhat curly hair. Initially seen standing and holding a phone with wired earbuds, then sits on the right side of the beige couch (from the camera's initial wide view of the living room).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:42": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "-35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A rectangular wooden coffee table, covered with a light blue and white patterned disposable tablecloth. It has various items on it, including colorful bowls (orange, yellow), a can of drink, and a plate. It is positioned in front of a large beige couch.",
+        "key_frames": {
+            "0:06": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace built into the wall, featuring a black metal screen covering the opening. It is situated on the wall opposite the main couch, between two tall, arched windows with white plantation shutters. A painting is hung above it.",
+        "key_frames": {
+            "0:06": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:42": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:10": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"expressing happiness with the nice house\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_198",
+    "video_id": "loc2_script3_seq2_rec2"
+}

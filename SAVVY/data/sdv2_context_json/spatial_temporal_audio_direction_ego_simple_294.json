@@ -1,0 +1,172 @@
+{
+    "event": "The moment the camera wearer is invited to sit down by another person.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with short, dark, curly hair, wearing a dark (black or navy) sweater or jacket over a light-colored collared shirt, and blue jeans. They are initially sitting on a light-colored fabric L-shaped couch in a living room. The couch has a red and white chevron patterned blanket on it. The person is initially seen looking at something in their lap (like a book/magazine).",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with short, dark, curly hair, wearing a dark (black or navy) sweater or jacket over a light-colored collared shirt, and blue jeans. They are initially sitting on a light-colored fabric L-shaped couch in a living room. The couch has a red and white chevron patterned blanket on it. The person is initially seen looking at something in their lap (like a book/magazine).",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inviting someone to sit down\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_294",
+    "video_id": "loc3_script3_seq2_rec1"
+}

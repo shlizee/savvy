@@ -1,0 +1,236 @@
+{
+    "event": "The other person asks if items (plates) were put in the dishwasher.",
+    "start_time": "2:15",
+    "end_time": "2:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly dark hair, wearing glasses, a dark long-sleeved sweater or sweatshirt over a light blue collared shirt, and blue jeans. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:12": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "-100"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-110"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-100"
+            },
+            "1:00": {
+                "distance": "3.2",
+                "direction": "-90"
+            },
+            "1:27": {
+                "distance": "2.8",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "-75"
+            },
+            "2:13": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:17": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:19": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:34": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "2:49": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:55": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "3:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "3:08": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer is cleaning dishes in the kitchen.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Direction the camera (wearer) is facing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:19": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:24": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:36": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:44": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:49": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:56": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "3:04": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking about putting items in dishwasher\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_324",
+    "video_id": "loc3_script3_seq5_rec1"
+}

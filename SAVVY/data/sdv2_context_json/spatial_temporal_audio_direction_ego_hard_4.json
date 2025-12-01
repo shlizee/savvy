@@ -1,0 +1,131 @@
+{
+    "event": "The camera wearer offers the other person a drink.",
+    "start_time": "0:32",
+    "end_time": "0:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is an adult male with curly brown hair, wearing glasses, a light blue short-sleeved button-up shirt, and dark shorts. He is also wearing wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "25"
+            },
+            "0:29": {
+                "distance": "2.2",
+                "direction": "30"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "0:35": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "25"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "0:55": {
+                "distance": "2.1",
+                "direction": "30"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "25"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:48": {
+                "distance": "1.6",
+                "direction": "50"
+            },
+            "1:55": {
+                "distance": "1.7",
+                "direction": "50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by the host.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:59": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "None",
+        "description": "Not applicable for egocentric mode when the reference is the camera itself.",
+        "key_frames": {}
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering a drink\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_4",
+    "video_id": "loc1_script2_seq1_rec1"
+}

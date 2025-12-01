@@ -1,0 +1,103 @@
+{
+    "event": "The camera wearer describes the French press as 'fancy'.",
+    "start_time": "01:20",
+    "end_time": "01:21",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a green short-sleeved polo shirt, blue jeans, and glasses. He is also wearing wired headphones around his neck/ears for part of the video.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:03": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:07": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "00:13": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "00:22": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "00:34": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "00:47": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "01:20": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "01:31": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "01:42": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "01:54": {
+                "distance": "0.6",
+                "direction": "35"
+            },
+            "02:10": {
+                "distance": "0.5",
+                "direction": "20"
+            },
+            "02:23": {
+                "distance": "0.5",
+                "direction": "15"
+            },
+            "02:35": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "02:50": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "03:01": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "03:06": {
+                "distance": "0.8",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {}
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing item as fancy\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_275",
+    "video_id": "loc3_script2_seq3_rec2"
+}

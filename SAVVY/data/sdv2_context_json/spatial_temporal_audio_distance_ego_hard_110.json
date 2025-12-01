@@ -1,0 +1,107 @@
+{
+    "event": "The speech topic is 'specifying the object as a rock formation'. The question asks for the distance between the camera wearer and the other person at this time.",
+    "start_time": "0:35",
+    "end_time": "0:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male, wearing a light blue polo shirt, khaki shorts, and white sneakers. He has short brown hair and is wearing glasses. He also has a black earbud wire around his neck.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:36": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:54": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:02": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:13": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:14": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "1:16": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "1:23": {
+                "distance": "3.8",
+                "direction": "-5"
+            },
+            "1:26": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is initially sitting on a couch, then gets up and walks towards the front door.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"specifying the object as a rock formation\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_110",
+    "video_id": "loc2_script2_seq8_rec2"
+}

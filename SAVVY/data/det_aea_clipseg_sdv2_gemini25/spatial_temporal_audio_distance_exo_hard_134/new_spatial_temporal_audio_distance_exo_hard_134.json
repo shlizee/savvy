@@ -1,0 +1,88 @@
+{
+    "event": "Distance between the two-seater dining table and the speech sound source when the topic 'questioning word appropriateness' is mentioned.",
+    "start_time": "2:09",
+    "end_time": "2:12",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (P1) with dark hair, wearing glasses, a light beige short-sleeved t-shirt, and light blue denim shorts. He is seated on a high stool at the kitchen island. Approximate height when standing 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "2:11": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "2:30": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "3:00": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "3:30": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "4:00": {
+                "distance": "0.9",
+                "direction": "-60"
+            },
+            "4:13": {
+                "distance": "0.9",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "Rectangular wooden dining table, dark brown finish, approximately 1.2m long x 0.8m wide. Accompanied by two matching wooden chairs with light-colored upholstered seats. The table is of standard dining height, around 0.75m. It is located in the dining area to the left of the kitchen island.",
+        "is_static": true,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.8",
+                "direction": "-75"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "-85"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.68,
+    "question": "When the speech topic: \"questioning word appropriateness\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_134",
+    "video_id": "loc2_script2_seq5_rec2"
+}

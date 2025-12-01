@@ -1,0 +1,142 @@
+{
+    "event": "Instructing placing kebabs onto the pan",
+    "start_time": "02:03",
+    "end_time": "02:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a light blue short-sleeved polo shirt, khaki shorts, white sneakers, and glasses with a black frame. He has short brown hair and is of average build. He is the one cooking and speaking the instructions.",
+        "is_static": false,
+        "key_frames": {
+            "00:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "00:26": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "00:32": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "00:35": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:51": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "01:10": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "01:20": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "02:04": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "02:08": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "02:15": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "02:35": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "02:45": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard built-in dishwasher with a stainless steel front panel, located under the kitchen counter, to the left of the main kitchen sink (when facing the sink area from the kitchen island).",
+        "is_static": true,
+        "key_frames": {
+            "00:37": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "00:38": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "01:31": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "01:53": {
+                "distance": "0.5",
+                "direction": "-85"
+            },
+            "01:54": {
+                "distance": "0.7",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A wooden dining table, likely rectangular, with two wooden chairs. It is positioned beyond the kitchen island, near large glass windows/doors that overlook an outdoor pool area.",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "00:07": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "00:27": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "00:51": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:06": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "01:16": {
+                "distance": "3.8",
+                "direction": "5"
+            },
+            "02:01": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "02:07": {
+                "distance": "3.6",
+                "direction": "8"
+            },
+            "02:36": {
+                "distance": "4.0",
+                "direction": "12"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the two-seater dining table, when the speech topic: \"instructing placing kebabs onto the pan\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_230",
+    "video_id": "loc2_script3_seq32_rec2"
+}

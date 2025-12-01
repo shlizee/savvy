@@ -1,0 +1,115 @@
+{
+    "event": "Speech topic: \"suggesting returning to the initial area\" is mentioned.",
+    "start_time": "01:37",
+    "end_time": "01:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male wearing a turquoise polo shirt, khaki shorts, white sneakers, and glasses. He is also wearing wired earbuds and holding a smartphone. This is the person giving the tour and speaking.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:06": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:12": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:19": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "00:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:25": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:28": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:37": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "00:50": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "01:05": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:12": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "01:21": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "01:28": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "01:37": {
+                "distance": "3.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, round, wooden drop-leaf dining table, light brown in color, with two matching wooden chairs. One chair has a straight back with vertical slats, the other has a slightly curved back with horizontal slats. It is located in the kitchen/dining nook area.",
+        "key_frames": {
+            "00:25": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "00:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:47": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "00:48": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:49": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "00:50": {
+                "distance": "2.5",
+                "direction": "-120"
+            },
+            "00:56": {
+                "distance": "4.0",
+                "direction": "-100"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 3.5,
+    "question": "When the speech topic: \"suggesting returning to the initial area\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_98",
+    "video_id": "loc2_script2_seq2_rec1"
+}

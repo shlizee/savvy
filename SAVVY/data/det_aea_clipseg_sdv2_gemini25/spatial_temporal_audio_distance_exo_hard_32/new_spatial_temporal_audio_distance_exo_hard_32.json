@@ -1,0 +1,224 @@
+{
+    "event": "A woman decides to put the creamer away.",
+    "start_time": "01:09",
+    "end_time": "01:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a black short-sleeved crop top, light blue denim shorts, and glasses. She is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:03": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:06": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "00:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:12": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "00:27": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "00:38": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:43": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:48": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "01:02": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "01:09": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "01:12": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "01:15": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "01:23": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:34": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "01:53": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "02:32": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "02:42": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "03:05": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "03:12": {
+                "distance": "0.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Hob",
+        "description": "A stainless steel gas range with multiple burners and control knobs on the front, built into the kitchen counter against the wall.",
+        "key_frames": {
+            "00:00": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:12": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "00:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:20": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:27": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "00:46": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:09": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:15": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:50": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "02:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "03:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "03:20": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Island",
+        "description": "A kitchen island with a light-colored countertop, a blue base, and stools. Positioned between the dining area and the main kitchen counters.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "00:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:12": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "00:21": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:27": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "00:41": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "01:00": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "01:09": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "01:15": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "01:50": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "02:30": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "03:00": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "03:20": {
+                "distance": "2.8",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "When the speech topic: \"deciding to put the creamer away\" is mentioned, what is the distance between the kitchen hob and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_32",
+    "video_id": "loc1_script2_seq4_rec2"
+}

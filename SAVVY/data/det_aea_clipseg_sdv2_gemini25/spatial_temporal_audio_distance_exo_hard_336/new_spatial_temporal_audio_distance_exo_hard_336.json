@@ -1,0 +1,104 @@
+{
+    "event": "Distance between the gray reclining lounge chair with ottoman and the sounding object (plate being scraped at the kitchen sink) when the scraping sound is happening.",
+    "start_time": "0:14",
+    "end_time": "0:16",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The sounding object is a white ceramic dinner plate, circular, approximately 25-30 cm in diameter. The scraping sound originates from this plate. Its location during the scraping sound is the kitchen island sink.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:17": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:35": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Gray reclining lounge chair with ottoman",
+        "description": "A modern-style reclining lounge chair, upholstered in gray fabric, with a matching ottoman. Wooden frame elements are visible. It is located in the living room area.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:12": {
+                "distance": "3.2",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "-135"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-100"
+            },
+            "1:30": {
+                "distance": "4.5",
+                "direction": "-120"
+            },
+            "2:10": {
+                "distance": "5.0",
+                "direction": "-110"
+            },
+            "2:17": {
+                "distance": "5.0",
+                "direction": "-115"
+            },
+            "2:40": {
+                "distance": "4.0",
+                "direction": "-90"
+            },
+            "3:05": {
+                "distance": "3.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 4.4,
+    "question": "When the scraping sound is happening, what is the distance between the gray reclining lounge chair with ottoman and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_336",
+    "video_id": "loc3_script3_seq5_rec2"
+}

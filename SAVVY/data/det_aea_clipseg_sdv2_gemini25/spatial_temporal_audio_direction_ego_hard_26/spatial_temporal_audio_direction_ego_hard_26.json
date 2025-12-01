@@ -1,0 +1,212 @@
+{
+    "event": "Determine the relative position of the other person when the speech topic 'acknowledging the watermelon' comes up.",
+    "start_time": "1:53",
+    "end_time": "1:58",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly brown hair, wearing glasses, a light blue short-sleeved collared shirt, and dark shorts. He is also wearing wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:36": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "0:56": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:21": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "1:39": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:41": {
+                "distance": "1.3",
+                "direction": "10"
+            },
+            "1:46": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:56": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:19": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:23": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:27": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:33": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:37": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "2:42": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:53": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:56": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:03": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "3:09": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "3:12": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "3:15": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "3:18": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "3:21": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "3:28": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"acknowledging the watermelon\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_26",
+    "video_id": "loc1_script2_seq4_rec1"
+}

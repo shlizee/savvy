@@ -1,0 +1,112 @@
+{
+    "event": "Speech topic: describing uber ride duration (longer than expected but okay)",
+    "start_time": "0:34",
+    "end_time": "0:39",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly, dark brown/black hair, wearing a grey short-sleeved collared shirt, dark shorts (possibly black or navy), and black sneakers with white socks. They are also wearing headphones around their neck and holding a small dark rectangular object, likely a phone. Approximate height appears average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:14": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "0:34": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "0:39": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera capturing the first-person perspective, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's Gaze",
+        "description": "The direction the camera is pointing, representing the forward view of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing uber ride duration (longer than expected but okay)\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_168",
+    "video_id": "loc2_script3_seq2_rec2"
+}

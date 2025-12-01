@@ -1,0 +1,35 @@
+{
+    "event": "A person is speaking about the topic 'contrasting proposal with reality of many stops'. Determine the speaker's location relative to a robot standing by the fireplace and facing the light-gray two-seater couch.",
+    "start_time": "1:29",
+    "end_time": "1:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with curly dark hair and glasses, wearing a dark navy or black sweater and blue jeans. He is sitting on the beige L-shaped couch. He is the one who discusses the train stops.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "2.2",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-65"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "-65"
+            }
+        }
+    },
+    "question": "Imagine you are a robot standing by the fireplace and facing the light-gray two-seater couch, when the speech topic: \"contrasting proposal with reality of many stops\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_373",
+    "video_id": "loc3_script3_seq2_rec1"
+}

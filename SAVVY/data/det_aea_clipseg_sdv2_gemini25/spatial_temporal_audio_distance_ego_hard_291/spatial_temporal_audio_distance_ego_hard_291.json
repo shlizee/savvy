@@ -1,0 +1,79 @@
+{
+    "event": "asking if groceries need refrigerating",
+    "start_time": "0:29",
+    "end_time": "0:35",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green/teal short-sleeved collared shirt and blue jeans. He is initially seen carrying brown paper grocery bags. His voice is heard when he is off-screen in the kitchen.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:33": {
+                "distance": "4.0",
+                "direction": "70"
+            },
+            "0:39": {
+                "distance": "3.7",
+                "direction": "60"
+            },
+            "0:40": {
+                "distance": "3.7",
+                "direction": "60"
+            },
+            "0:59": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:01": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person sitting on a couch in a living room. The person is initially looking at a phone, then picks up and looks at a book titled 'Remodelista'.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 4.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking if groceries need refrigerating\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_291",
+    "video_id": "loc3_script3_seq1_rec2"
+}

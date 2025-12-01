@@ -1,0 +1,116 @@
+{
+    "event": "The other person is describing a recording start issue and confirming it's okay.",
+    "start_time": "0:04",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt, blue jeans, glasses, and a watch on his left wrist. He has short dark hair and is wearing in-ear headphones. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "1.6",
+                "direction": "-18"
+            },
+            "0:07": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:29": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "1:21": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:54": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:07": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:24": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "2:55": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "3:37": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "3:48": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "4:22": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "4:36": {
+                "distance": "2.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "sounding_object",
+        "description": "The camera is generally facing the sounding object (other person) during the event.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.6",
+                "direction": "-18"
+            }
+        }
+    },
+    "prediction": "1.6",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"describing recording start issue and confirming okay\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_308",
+    "video_id": "loc3_script3_seq4_rec1"
+}

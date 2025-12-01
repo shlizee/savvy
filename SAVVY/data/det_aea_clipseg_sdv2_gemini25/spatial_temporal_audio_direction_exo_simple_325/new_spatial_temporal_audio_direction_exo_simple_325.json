@@ -1,0 +1,132 @@
+{
+    "event": "A speaker expresses enjoyment of chips, and their location is determined relative to a hypothetical robot standing by the sink and facing the light-colored refrigerator.",
+    "start_time": "1:22",
+    "end_time": "1:23",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with a receding hairline, wearing a light green short-sleeved polo shirt, blue jeans, and glasses. He has a watch on his left wrist and a wired earpiece (white wire) in his right ear, with the wire going under his shirt. Approximate height 1.7-1.8m. At the time of speaking, he is seated at a wooden dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Sink with a tap",
+        "description": "A kitchen sink, likely stainless steel or a light composite material, integrated into a light-colored (white/off-white) countertop on a kitchen island. It has a modern, tall, metallic gooseneck tap.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:18": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:57": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "1:22": {
+                "distance": "3.5",
+                "direction": "75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-colored refrigerator",
+        "description": "A tall, stainless steel (light-colored metallic) side-by-side or French door style refrigerator. It has visible door handles and an ice/water dispenser on the left door.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:06": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "80"
+            },
+            "0:57": {
+                "distance": "3.0",
+                "direction": "85"
+            },
+            "1:22": {
+                "distance": "3.0",
+                "direction": "85"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the sink with a tap and facing the light-colored refrigerator, when the speech topic: \"expressing enjoyment of chips\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_325",
+    "video_id": "loc3_script2_seq4_rec2"
+}

@@ -1,0 +1,212 @@
+{
+    "event": "A person jokes that the stove responds better to another person's touch.",
+    "start_time": "01:02",
+    "end_time": "01:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing glasses with dark frames, holding the camera. Hair appears short and dark. At the time of the event (1:02), he is standing at the kitchen island by the stovetop. His shirt is light-colored. Approximate height appears average for an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "Large, two-door stainless steel refrigerator with a water/ice dispenser on the left door. It is approximately 1.8 meters tall and 0.9 meters wide. Located against a wall with wooden cabinets.",
+        "key_frames": {
+            "00:00": {
+                "distance": "4.5",
+                "direction": "-65"
+            },
+            "00:07": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "00:16": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "00:26": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "00:31": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "00:34": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "00:50": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "01:02": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "01:15": {
+                "distance": "3.2",
+                "direction": "65"
+            },
+            "01:31": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "01:48": {
+                "distance": "2.5",
+                "direction": "55"
+            },
+            "01:57": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "02:03": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "02:22": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "02:27": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "02:36": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "02:49": {
+                "distance": "3.0",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "Black or dark-colored double-basin rectangular sink, approximately 0.8 meters wide, with a modern gooseneck tap. It is set into the light-colored granite countertop of the kitchen island.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:07": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:16": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "00:26": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:31": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:37": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "01:02": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "01:15": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "01:54": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "02:03": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:15": {
+                "distance": "1.3",
+                "direction": "-55"
+            },
+            "02:36": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "02:49": {
+                "distance": "1.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the double-basin rectangular sink and tap, when the speech topic: \"joking stove responds better to other person's touch\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_226",
+    "video_id": "loc2_script3_seq32_rec2"
+}

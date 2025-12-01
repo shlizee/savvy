@@ -1,0 +1,124 @@
+{
+    "event": "Determine the direction of the boiling sound (kettle on stove) relative to a robot standing by the black round ottoman and facing the piano.",
+    "start_time": "1:32",
+    "end_time": "1:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A blue metallic stovetop kettle, roughly cylindrical with a curved spout and a black handle. Approximate height is 20-25cm. It is placed on a gas stove in the kitchen when the sound occurs.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "80"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:34": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "1:32": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "2:37": {
+                "distance": "0.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black round ottoman",
+        "description": "A black, round, fabric-upholstered ottoman, approximately 60-70cm in diameter and 40cm high, located in the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "85"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "70"
+            },
+            "0:40": {
+                "distance": "5.0",
+                "direction": "100"
+            },
+            "1:35": {
+                "distance": "5.0",
+                "direction": "110"
+            },
+            "2:50": {
+                "distance": "5.0",
+                "direction": "110"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Piano",
+        "description": "A black grand piano (or large upright piano appearing grand), located outdoors or in a sunroom area, visible through large glass windows from the living room and kitchen.",
+        "key_frames": {
+            "0:00": {
+                "distance": "7.5",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "7.5",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "7.5",
+                "direction": "-15"
+            },
+            "0:10": {
+                "distance": "7.5",
+                "direction": "-30"
+            },
+            "0:40": {
+                "distance": "7.0",
+                "direction": "-5"
+            },
+            "1:35": {
+                "distance": "7.0",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "7.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the piano, when the background boiling sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_310",
+    "video_id": "loc3_script2_seq3_rec2"
+}

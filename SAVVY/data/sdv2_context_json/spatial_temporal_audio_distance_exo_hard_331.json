@@ -1,0 +1,75 @@
+{
+    "event": "Distance between the window with a balcony view and the frying pan when scraping sound is happening.",
+    "start_time": "0:55",
+    "end_time": "1:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Black, circular, metal (likely non-stick) frying pan with a long black handle. Approximately 25-30 cm in diameter. Located on the stovetop during the event.",
+        "is_static": true,
+        "key_frames": {
+            "0:28": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:47": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with balcony view",
+        "description": "Large sliding glass doors and windows on the far wall of the living/dining area, providing a view to an outdoor balcony and landscape.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:17": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:28": {
+                "distance": "4.5",
+                "direction": "-100"
+            },
+            "0:57": {
+                "distance": "4.5",
+                "direction": "-100"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "2:11": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "3:05": {
+                "distance": "3.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 4.5,
+    "question": "When the scraping sound is happening, what is the distance between the window with a balcony view and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_331",
+    "video_id": "loc3_script3_seq5_rec2"
+}

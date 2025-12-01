@@ -1,0 +1,112 @@
+{
+    "event": "A person is narrating putting eggs in the fridge.",
+    "start_time": "0:32",
+    "end_time": "0:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a light green short-sleeved polo shirt and blue jeans. Average build. He is mobile.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:18": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "0:25": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "0:33": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "0:39": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "0:51": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A modern-style three-seater couch, upholstered in light gray fabric with wooden legs. It has several pillows, including a distinctive giraffe-shaped pillow and a pillow with orange and yellow color blocks. It is a static piece of furniture.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A large, rectangular coffee table made of light-colored wood. It has various items on it, including a colorful placemat/runner, books, coasters, a phone, and a charging device. It is a static piece of furniture.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the rectangular wooden coffee table, when the speech topic: \"narrating putting eggs in fridge\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_352",
+    "video_id": "loc3_script3_seq1_rec2"
+}

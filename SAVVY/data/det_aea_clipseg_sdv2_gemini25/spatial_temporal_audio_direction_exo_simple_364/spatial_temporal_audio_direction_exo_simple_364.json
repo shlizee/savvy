@@ -1,0 +1,144 @@
+{
+    "event": "A person commenting on pleasant weather and blue skies.",
+    "start_time": "02:25",
+    "end_time": "02:30",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a dark sweater or jacket over a light-collared shirt, and blue jeans. Seated on a light-colored (beige/off-white) two-seater couch with a patterned pillow (red/white/blue pattern). This couch is located to the right of a stone fireplace.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "24"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "2:26": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "2:48": {
+                "distance": "3.0",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray three-seater couch. It has a red and white chevron patterned throw blanket draped over its left side (from camera view) and a pillow with a white dog pattern on a red background on its right side (from camera view). Located on the left side of the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-42"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-66"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-72"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "2:48": {
+                "distance": "2.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A black decorative animal sculpture, resembling a stylized dog or similar quadruped, in a standing position. Located near large floor-to-ceiling windows on the wooden floor, towards the right side of the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "5.5",
+                "direction": "-9"
+            },
+            "0:05": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "5.0",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "5.0",
+                "direction": "8"
+            },
+            "0:30": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "2:48": {
+                "distance": "5.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the black decorative animal sculpture, when the speech topic: \"commenting on pleasant weather and blue skies\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_364",
+    "video_id": "loc3_script3_seq2_rec1"
+}

@@ -1,0 +1,76 @@
+{
+    "event": "Distance between countertop drip coffee maker and speech sound source when suggesting stopping the recording.",
+    "start_time": "0:02:02",
+    "end_time": "0:02:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a light green short-sleeved collared shirt, dark shorts, and a headset with a microphone. This is the person speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:00:59": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:01:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:01:25": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:01:57": {
+                "distance": "3.8",
+                "direction": "-5"
+            },
+            "0:02:02": {
+                "distance": "3.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop drip coffee maker",
+        "description": "A black and silver countertop drip coffee maker, located on the kitchen counter to the left of the stove (when viewed from the dining area).",
+        "is_static": true,
+        "key_frames": {
+            "0:00:12": {
+                "distance": "4.8",
+                "direction": "-20"
+            },
+            "0:00:56": {
+                "distance": "4.8",
+                "direction": "-20"
+            },
+            "0:01:00": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:01:15": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:01:57": {
+                "distance": "4.8",
+                "direction": "-20"
+            },
+            "0:02:02": {
+                "distance": "4.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this question, as the distance is between two specific objects.",
+        "key_frames": {}
+    },
+    "prediction": 2.3,
+    "question": "When the speech topic: \"suggesting stopping the recording\" is mentioned, what is the distance between the countertop drip coffee maker and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_47",
+    "video_id": "loc1_script2_seq6_rec2"
+}

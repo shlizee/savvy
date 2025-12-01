@@ -1,0 +1,112 @@
+{
+    "event": "The other person asks the camera wearer about their day.",
+    "start_time": "0:32",
+    "end_time": "0:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short brown hair and is wearing glasses (face is blurred). He is also wearing wired earbuds, with the wire running down his shirt. He is holding a smartphone in his right hand.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-55"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:53": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:13": {
+                "distance": "1.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_gaze",
+        "description": "The direction the camera is pointing, which is considered 'front' (0 degrees).",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking about the speaker's day in return\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_164",
+    "video_id": "loc2_script3_seq2_rec1"
+}

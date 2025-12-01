@@ -1,0 +1,196 @@
+{
+    "event": "Asking about adding water to coffee maker (kettle)",
+    "start_time": "0:11",
+    "end_time": "0:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Female person, wearing a yellow knitted vest over a white t-shirt, light blue jeans, and glasses. She has long, dark, curly hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:21": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:44": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:06": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:33": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "1:59": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "2:23": {
+                "distance": "0.4",
+                "direction": "-60"
+            },
+            "2:35": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:51": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-65"
+            },
+            "3:06": {
+                "distance": "0.8",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Hob",
+        "description": "Kitchen hob, specifically a gas stovetop with multiple burners (5 visible), stainless steel surface with black grates and black control knobs on the front edge. Located on a kitchen countertop.",
+        "key_frames": {
+            "0:11": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0.6",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.2",
+                "direction": "10"
+            },
+            "1:25": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "1:40": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "0.4",
+                "direction": "10"
+            },
+            "2:08": {
+                "distance": "0.6",
+                "direction": "20"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "15"
+            },
+            "2:50": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "3:05": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "Stainless steel double wall oven, built into wooden kitchen cabinetry. It has two oven doors, one above the other, with black glass windows and stainless steel handles. Located to the right of the kitchen hob along the same counter line.",
+        "key_frames": {
+            "0:11": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:18": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "1:00": {
+                "distance": "1.1",
+                "direction": "75"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "1:42": {
+                "distance": "0.9",
+                "direction": "80"
+            },
+            "1:57": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "2:50": {
+                "distance": "1.1",
+                "direction": "70"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "80"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the kitchen hob and facing the stainless steel double wall oven, when the speech topic: \"asking about adding water to coffee maker\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_292",
+    "video_id": "loc3_script2_seq3_rec1"
+}

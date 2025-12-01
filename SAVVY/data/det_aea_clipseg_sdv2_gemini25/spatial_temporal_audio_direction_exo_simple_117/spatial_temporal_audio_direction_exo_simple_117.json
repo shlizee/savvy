@@ -1,0 +1,102 @@
+{
+    "event": "The speech topic 'indicating readiness to end the interaction' comes up, and the speaker's location relative to a hypothetical robot is determined.",
+    "start_time": "01:40",
+    "end_time": "01:44",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The camera, operated by a person from a first-person view. The person, whose arms are sometimes visible, wears a teal/blue t-shirt and a gold-colored digital watch on their left wrist. This person is the speaker who initiates the topic of ending the interaction.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "location_description": "Living room, on couch",
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "location_description": "Living room, getting up from couch",
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:11": {
+                "location_description": "Hallway, moving from living room",
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:21": {
+                "location_description": "Entering kitchen from hallway",
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:26": {
+                "location_description": "Kitchen, near sink and dishwasher area",
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:41": {
+                "location_description": "Kitchen, near island with cooktop",
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:55": {
+                "location_description": "Kitchen, near bar area and rum cabinet",
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:13": {
+                "location_description": "Moving from kitchen back to hallway/living room",
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:16": {
+                "location_description": "Living room",
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:40": {
+                "location_description": "Living room, near coffee table (event time)",
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard under-counter dishwasher with a stainless steel front panel. It is located to the left of the kitchen sink, along one of the kitchen counters.",
+        "key_frames": {
+            "00:25": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "00:26": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "00:27": {
+                "distance": "0.7",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Electric cooktop",
+        "description": "A black glass-ceramic electric cooktop with multiple burners, built into the central kitchen island.",
+        "key_frames": {
+            "00:40": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:41": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:51": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the electric cooktop, when the speech topic: \"indicating readiness to end the interaction\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_117",
+    "video_id": "loc2_script2_seq2_rec2"
+}

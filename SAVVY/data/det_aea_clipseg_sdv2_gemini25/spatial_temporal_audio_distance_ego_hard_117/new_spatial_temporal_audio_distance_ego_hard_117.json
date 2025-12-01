@@ -1,0 +1,109 @@
+{
+    "event": "The camera wearer states their intention to place items down and then proceeds to do so on a dining table.",
+    "start_time": "0:18",
+    "end_time": "0:21",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer, the person whose first-person perspective the video is recorded from. Their hands are visible at the beginning holding a phone and later a power bank. They are wearing a teal t-shirt and a gold-colored watch/bracelet on their left wrist.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera recording the video, providing a first-person perspective from the wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Thomas",
+        "description": "An adult male, visible from approximately 0:08 onwards. He is initially seen sitting on a light-colored couch in the living room. He is wearing a grey t-shirt and dark shorts.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "6.0",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "0:18": {
+                "distance": "4.5",
+                "direction": "25"
+            },
+            "0:21": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating intention and placing items down here\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_117",
+    "video_id": "loc2_script3_seq1_rec1"
+}

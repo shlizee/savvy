@@ -1,0 +1,112 @@
+{
+    "event": "A person suggests leaving the Connect Four game out briefly after finishing a game, as it will be used again soon.",
+    "start_time": "02:08",
+    "end_time": "02:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with long dark hair, wearing a yellow sleeveless knitted top over a white short-sleeved t-shirt. They are sitting at a wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "02:09": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "02:13": {
+                "distance": "1.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with balcony view",
+        "description": "Large glass windows and sliding doors forming one wall of the room, with a balcony and outdoor scenery (trees, sky) visible. The robot is positioned near this windowed wall.",
+        "key_frames": {
+            "00:01": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "00:30": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "01:00": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "01:30": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "02:00": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "02:09": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "02:13": {
+                "distance": "2.8",
+                "direction": "35"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A black, stylized sculpture of a four-legged animal, possibly a panther or similar feline, in a crouching or walking pose. It is approximately 0.5-0.7 meters long and 0.3 meters high, situated on the wooden floor near the window.",
+        "key_frames": {
+            "00:01": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "00:30": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "02:09": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "02:13": {
+                "distance": "2.5",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the window with a balcony view and facing the black decorative animal sculpture, when the speech topic: \"suggesting leaving game out briefly\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_331",
+    "video_id": "loc3_script2_seq5_rec2"
+}

@@ -1,0 +1,139 @@
+{
+    "event": "The speech topic '(tv) narrating the goal of reaching dragons' comes up.",
+    "start_time": "3:47",
+    "end_time": "3:49",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches, mounted on a light-colored wooden media console. It is displaying the movie 'Shrek 2'.",
+        "is_static": true,
+        "key_frames": {
+            "0:23": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:36": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "2:06": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "3:48": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "4:25": {
+                "distance": "3.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person whose perspective the video is from. They are sitting on a couch in the living room.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A young woman with long, dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and glasses (sometimes on her head, sometimes worn). She is sitting on the same couch as the camera wearer, to their left.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:13": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:48": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "4:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the goal of reaching dragons\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_63",
+    "video_id": "loc1_script2_seq7_rec2"
+}

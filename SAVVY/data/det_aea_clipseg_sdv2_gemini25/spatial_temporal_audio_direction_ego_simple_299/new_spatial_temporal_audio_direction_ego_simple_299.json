@@ -1,0 +1,160 @@
+{
+    "event": "The other person mentions train stops at San Antonio.",
+    "start_time": "1:05",
+    "end_time": "1:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a dark long-sleeved top (appears to be a navy blue or black sweater or collared shirt) over a lighter collared shirt (white or light blue), blue jeans, and light-colored socks. They are primarily sitting on a light beige couch, sometimes leaning on its arm or back. Approximate height while seated is around 1 meter.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:14": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:55": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "2:10": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "2:25": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "2:40": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera wearer. The camera wearer is holding a phone initially, then sits down on a couch opposite the sounding object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General direction of camera view",
+        "description": "The camera is generally facing towards the living room area where the other person is seated. The specific point of focus shifts slightly but the sounding object remains to the left of the center of the frame once the camera wearer is seated.",
+        "key_frames": {
+            "0:08": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning train stops at san antonio\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_299",
+    "video_id": "loc3_script3_seq2_rec1"
+}

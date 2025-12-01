@@ -1,0 +1,140 @@
+{
+    "event": "The speech topic: 'asking about duration of guitar playing' comes up.",
+    "start_time": "01:15",
+    "end_time": "01:17",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with a blurred face, wearing a short-sleeved green polo shirt and blue jeans. He has short, dark hair and is wearing glasses (which he later removes). A black wired earpiece is visible in his left ear. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:06": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:13": {
+                "distance": "5.5",
+                "direction": "-30"
+            },
+            "00:29": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "00:35": {
+                "distance": "5.0",
+                "direction": "-35"
+            },
+            "00:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:56": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "01:07": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "01:15": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "01:30": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "01:52": {
+                "distance": "1.8",
+                "direction": "-65"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera represents the viewpoint of the person asking the question. The camera wearer's hands (fair-skinned, one with a black wristband) and legs (wearing light blue jeans) are occasionally visible.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:51": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:49": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man",
+        "description": "An adult male with a blurred face, wearing a short-sleeved green polo shirt and blue jeans. He has short, dark hair and is wearing glasses (which he later removes). A black wired earpiece is visible in his left ear. He is of average build. This is the person the camera is primarily interacting with and facing during the event.",
+        "key_frames": {
+            "00:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:06": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:13": {
+                "distance": "5.5",
+                "direction": "-30"
+            },
+            "00:29": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "00:35": {
+                "distance": "5.0",
+                "direction": "-35"
+            },
+            "00:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:56": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "01:07": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "01:15": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "01:30": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "01:52": {
+                "distance": "1.8",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about duration of guitar playing\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_208",
+    "video_id": "loc3_script2_seq1_rec1"
+}

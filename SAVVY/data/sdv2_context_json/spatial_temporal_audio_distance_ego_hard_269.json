@@ -1,0 +1,172 @@
+{
+    "event": "Speech topic: acknowledging viewer preference for video setup",
+    "start_time": "0:44",
+    "end_time": "0:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appearing to be in his 40s or 50s, with a receding hairline and short dark hair, wearing glasses. He is dressed in a light green short-sleeved polo shirt and blue jeans. He is sitting on a light-colored (beige or light grey) couch, holding and looking at a smartphone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:30": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:40": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:44": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:47": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:50": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:10": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:20": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:38": {
+                "distance": "1.7",
+                "direction": "-35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera being worn by the user, providing a first-person perspective. The user is seated on a couch or chair.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man in green shirt",
+        "description": "The camera is primarily facing the man in the green shirt, who is sitting on a couch across a coffee table and showing a video on his phone.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:44": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:47": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:50": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:38": {
+                "distance": "1.7",
+                "direction": "-35"
+            }
+        }
+    },
+    "prediction": 1.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"acknowledging viewer preference for video setup\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_269",
+    "video_id": "loc3_script2_seq7_rec2"
+}

@@ -1,0 +1,128 @@
+{
+    "event": "Determine speaker's location (left, right, or back) relative to a robot standing by the black decorative animal sculpture and facing the black round ottoman, when the speech topic 'referencing water source on fridge' comes up.",
+    "start_time": "0:02:22",
+    "end_time": "0:02:24",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/green polo shirt, blue jeans, glasses, and in-ear headphones with a wire. He is seated at a wooden dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:03": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:00:13": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:00:20": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:01:21": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:01:30": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:02:07": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:02:22": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:02:54": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:03:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:04:13": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A matte black, abstract sculpture resembling a four-legged animal (perhaps a stylized dog or cat), approximately 0.5-0.7 meters tall, standing on the wooden floor near large glass windows/doors in the living/dining area.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:00:25": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:01:27": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:02:08": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:02:22": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:03:28": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:04:05": {
+                "distance": "4.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black round ottoman",
+        "description": "A dark-colored (appears black or very dark blue/grey), cylindrical ottoman, approximately 0.5 meters in diameter and 0.4 meters high, located in the living room area near a sofa.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:00:25": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:01:27": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:02:08": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:02:22": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:03:28": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:04:05": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black decorative animal sculpture and facing the black round ottoman, when the speech topic: \"referencing water source on fridge\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_369",
+    "video_id": "loc3_script3_seq4_rec1"
+}

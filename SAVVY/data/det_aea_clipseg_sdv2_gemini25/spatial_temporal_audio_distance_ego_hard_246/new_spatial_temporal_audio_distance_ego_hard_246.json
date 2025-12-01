@@ -1,0 +1,197 @@
+{
+    "event": "The speech topic: \"acknowledging viewer preference for video setup\" comes up.",
+    "start_time": "0:44",
+    "end_time": "0:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A smartphone, likely an iPhone model given the UI elements visible at times, with a dark casing. It is held by the camera wearer and is the source of the audio discussing video setup preferences. Approximate dimensions are typical for a modern smartphone, around 15cm x 7cm.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person",
+        "description": "A female with long, dark, curly hair. She is wearing a yellow, short-sleeved, knitted vest over a white t-shirt with frilled cap sleeves, and light blue denim jeans. She is also wearing colorful patterned socks. She is of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "0:35": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "0:41": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "0:44": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "0:52": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "55"
+            },
+            "1:37": {
+                "distance": "0.8",
+                "direction": "55"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"acknowledging viewer preference for video setup\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_246",
+    "video_id": "loc3_script2_seq7_rec1"
+}

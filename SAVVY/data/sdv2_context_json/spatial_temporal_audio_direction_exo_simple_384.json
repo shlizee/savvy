@@ -1,0 +1,144 @@
+{
+    "event": "A person suggests cleaning up.",
+    "start_time": "0:02",
+    "end_time": "0:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with short dark hair, wearing glasses, a light green/teal short-sleeved polo shirt, and blue jeans. Average build. He is the one who suggests cleaning up.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:29": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "1:29": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "2:17": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:38": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:56": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "3:08": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Sink with a tap",
+        "description": "A white, rectangular undermount kitchen sink, likely porcelain or composite material, integrated into a white countertop on a kitchen island. It has a modern, metallic gooseneck tap. The island base is dark wood.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:14": {
+                "distance": "0.3",
+                "direction": "20"
+            },
+            "2:33": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "2:58": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "3:05": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large, black, flat-screen television, approximately 50-65 inches, mounted above a modern fireplace. The fireplace has a light-colored stone or tile surround. It's located in the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "6.0",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "0:20": {
+                "distance": "5.5",
+                "direction": "-70"
+            },
+            "1:29": {
+                "distance": "5.0",
+                "direction": "-10"
+            },
+            "2:12": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "2:38": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "5.0",
+                "direction": "5"
+            },
+            "3:05": {
+                "distance": "5.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the sink with a tap and facing the tv by the fireplace, when the speech topic: \"suggesting cleaning up\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_384",
+    "video_id": "loc3_script3_seq5_rec2"
+}

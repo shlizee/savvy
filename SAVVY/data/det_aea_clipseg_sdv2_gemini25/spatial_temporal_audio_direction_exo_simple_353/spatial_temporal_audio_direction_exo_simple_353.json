@@ -1,0 +1,92 @@
+{
+    "event": "A person asks if the recording task is finished or if they should continue to sit down and talk.",
+    "start_time": "0:53",
+    "end_time": "0:55",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a green short-sleeved polo shirt and blue jeans. Average height and build. He is mobile.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:53": {
+                "distance": "3.8",
+                "direction": "85"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A large, rectangular coffee table made of light to medium brown wood. It has a solid appearance. Approximate dimensions: 1.5m (length) x 0.8m (width) x 0.4m (height).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A modern style three-seater couch upholstered in light gray fabric with visible wooden legs. It has several cushions, including a distinctive orange and yellow striped one and a giraffe-shaped decorative pillow.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:02": {
+                "distance": "1.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the light-gray three-seater couch, when the speech topic: \"asking if recording task is finished or if they should talk\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_353",
+    "video_id": "loc3_script3_seq1_rec2"
+}

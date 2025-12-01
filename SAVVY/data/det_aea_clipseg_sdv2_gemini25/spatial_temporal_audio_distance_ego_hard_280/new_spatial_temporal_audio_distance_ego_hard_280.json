@@ -1,0 +1,149 @@
+{
+    "event": "Speech topic: 'stating age and commenting on time passing'",
+    "start_time": "01:18",
+    "end_time": "01:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A smartphone, dark-colored, held horizontally by the 'other person' (facing_object). The screen displays a video of a man talking, who is the source of the speech. Approximate size: 15cm x 7cm.",
+        "is_static": false,
+        "key_frames": {
+            "0:13": {
+                "distance": "0.6",
+                "direction": "20"
+            },
+            "0:18": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "0:45": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "1:15": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "1:18": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "1:20": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "1:22": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "0.55",
+                "direction": "15"
+            },
+            "1:35": {
+                "distance": "0.55",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera (Ego-view)",
+        "description": "The first-person perspective camera, held by the user whose arms are visible holding a phone and another device. This represents the 'you' in the question.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A male with a blurred face, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair. He is initially at a table, then walks to and sits on a couch to the right of the camera wearer. He is holding the 'sounding_object' (phone).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "0:18": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "1:18": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "1:20": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "1:22": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "1:35": {
+                "distance": "0.6",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating age and commenting on time passing\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_280",
+    "video_id": "loc3_script2_seq7_rec2"
+}

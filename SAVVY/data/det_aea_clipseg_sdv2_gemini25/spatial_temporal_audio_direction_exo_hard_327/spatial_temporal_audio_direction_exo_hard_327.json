@@ -1,0 +1,76 @@
+{
+    "event": "The speaker states they are seeing their opponent's plots during a game of Connect 4.",
+    "start_time": "01:43",
+    "end_time": "01:44",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, face blurred, wearing a green short-sleeved polo shirt, dark hair. He is wearing a watch on his left wrist and an earbud in his left ear. He is sitting at a wooden table across from the camera.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch. A blanket with the word 'NOBODY' in black letters is draped over its back. It has visible wooden legs. It is located in the living room area, to the left of the kitchen/dining table from the camera's perspective.",
+        "key_frames": {
+            "00:02": {
+                "distance": "3.8",
+                "direction": "-65"
+            },
+            "00:09": {
+                "distance": "3.8",
+                "direction": "-65"
+            },
+            "00:38": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "01:39": {
+                "distance": "3.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace",
+        "description": "A dark, rectangular, modern built-in fireplace, set into a light-colored wall. It is located in the living room area, to the left of the couch from the camera's perspective.",
+        "key_frames": {
+            "00:02": {
+                "distance": "4.8",
+                "direction": "-80"
+            },
+            "00:09": {
+                "distance": "4.8",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the fireplace, when the speech topic: \"stating seeing opponent's plots\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_327",
+    "video_id": "loc3_script2_seq5_rec1"
+}

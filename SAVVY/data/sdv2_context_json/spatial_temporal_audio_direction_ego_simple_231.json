@@ -1,0 +1,288 @@
+{
+    "event": "Determine the relative position of the other person when the speech topic 'differentiating meat type from ground beef regarding doneness' comes up.",
+    "start_time": "1:47",
+    "end_time": "1:58",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a light blue/teal short-sleeved polo shirt and khaki shorts. He is also wearing glasses and a watch on his left wrist. He has a wired earbud in his right ear.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "1:37": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:18": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:08": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:16": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:35": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:04": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:08": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:47": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with short, dark hair, wearing a light blue/teal short-sleeved polo shirt and khaki shorts. He is also wearing glasses and a watch on his left wrist. He has a wired earbud in his right ear.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "1:37": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:47": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:18": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:08": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:16": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:35": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:04": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:08": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"differentiating meat type from ground beef regarding doneness\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_231",
+    "video_id": "loc2_script3_seq4_rec2"
+}

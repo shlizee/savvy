@@ -1,0 +1,77 @@
+{
+    "event": "Concluding the person passing through has left",
+    "start_time": "2:25",
+    "end_time": "2:26",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A black, round kitchen sink embedded in a light-colored granite countertop. It has a silver-colored, gooseneck tap/faucet. The sink is part of a kitchen island.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:25": {
+                "distance": "1.3",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Speech sound source (Person in blue shirt)",
+        "description": "A male wearing a turquoise/blue polo shirt, khaki shorts, and glasses. He is standing at the cooktop on the kitchen island, cooking.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "1:43": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "2:07": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "2:25": {
+                "distance": "0.75",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Counter",
+        "description": "The general area of the kitchen counter where the sink and cooktop are located.",
+        "key_frames": {
+            "2:25": {
+                "distance": "1.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": 0.75,
+    "question": "When the speech topic: \"concluding the person passing through has left\" is mentioned, what is the distance between the round sink with a tap and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_195",
+    "video_id": "loc2_script3_seq33_rec2"
+}

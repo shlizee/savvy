@@ -1,0 +1,107 @@
+{
+    "event": "Man volunteers to put away the food",
+    "start_time": "0:23",
+    "end_time": "0:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, with curly dark hair, wearing glasses, a light teal/green short-sleeved collared shirt, and dark shorts. He also wears an earpiece on his right ear. This is the person speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:24": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:38": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:51": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:58": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "2:05": {
+                "distance": "4.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wooden dining table",
+        "description": "Large rectangular wooden dining table with a light-to-medium brown finish, likely made of wood such as oak. It has straight legs and a simple, sturdy design. Various items are on it, including a Scrabble game, bowls, and mugs.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:27": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.6,
+    "question": "When the speech topic: \"volunteering to put away the food\" is mentioned, what is the distance between the wooden dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_41",
+    "video_id": "loc1_script2_seq6_rec2"
+}

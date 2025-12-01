@@ -1,0 +1,156 @@
+{
+    "event": "Distance to the other person when 'announcing recording start' speech topic occurs.",
+    "start_time": "0:01",
+    "end_time": "0:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt, khaki shorts, glasses, and a headset with a microphone. He has short brown hair. Average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:46": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:28": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "1:46": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "2:01": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:31": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:51": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "3:14": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "3:39": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "3:50": {
+                "distance": "3.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing the 'you' in the question.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:51": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person (Michael)",
+        "description": "The other person in the scene, who is the sounding object for this event.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "1:28": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "2:01": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:51": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "3:39": {
+                "distance": "1.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"announcing recording start\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_198",
+    "video_id": "loc2_script3_seq5_rec1"
+}

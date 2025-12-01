@@ -1,0 +1,100 @@
+{
+    "event": "A person asks if the recording task is finished or if they should continue talking.",
+    "start_time": "0:53",
+    "end_time": "0:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person, wearing a green t-shirt and blue jeans. He is of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:18": {
+                "distance": "3.2",
+                "direction": "35"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:53": {
+                "distance": "2.2",
+                "direction": "50"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "55"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black round ottoman",
+        "description": "A black, round, leather-like ottoman. It is approximately 0.5 meters in diameter and 0.4 meters high.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:04": {
+                "distance": "2.6",
+                "direction": "-50"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:17": {
+                "distance": "2.7",
+                "direction": "-55"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:28": {
+                "distance": "2.6",
+                "direction": "-50"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:42": {
+                "distance": "2.7",
+                "direction": "-55"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:56": {
+                "distance": "2.6",
+                "direction": "-50"
+            },
+            "1:01": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera",
+        "description": "The camera recording the scene.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.2,
+    "question": "When the speech topic: \"asking if recording task is finished or if they should talk\" is mentioned, what is the distance between the black round ottoman and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_305",
+    "video_id": "loc3_script3_seq1_rec2"
+}

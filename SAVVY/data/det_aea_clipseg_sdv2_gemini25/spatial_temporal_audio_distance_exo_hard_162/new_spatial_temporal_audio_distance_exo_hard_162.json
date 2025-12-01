@@ -1,0 +1,100 @@
+{
+    "event": "The distance between the stainless steel refrigerator and the speech sound source when the speech topic \"specifying making velveeta during yesterday's task\" is mentioned.",
+    "start_time": "1:05",
+    "end_time": "1:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male with curly dark brown/black hair, wearing glasses (or smart glasses), a grey short-sleeved polo shirt, and dark blue or black shorts. He has an earbud or similar device in his right ear, connected by a wire around his neck. Appears to be of average height.",
+        "is_static": false,
+        "key_frames": {
+            "0:27": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:47": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:36": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "2:02": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:33": {
+                "distance": "2.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Refrigerator",
+        "description": "A large, stainless steel, side-by-side or French door style refrigerator, located against the kitchen wall. Standard appliance height (approx. 1.7-1.8m) and width (approx. 0.9-1.0m).",
+        "key_frames": {
+            "0:28": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:32": {
+                "distance": "2.8",
+                "direction": "40"
+            },
+            "1:05": {
+                "distance": "2.7",
+                "direction": "38"
+            },
+            "2:33": {
+                "distance": "2.0",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General Scene",
+        "description": "The camera is generally facing forward into the scene, which changes as the camera operator moves. At the event time, the camera is in the kitchen, facing the kitchen island and the sounding object.",
+        "key_frames": {
+            "1:05": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.0,
+    "question": "When the speech topic: \"specifying making velveeta during yesterday's task\" is mentioned, what is the distance between the stainless steel refrigerator and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_162",
+    "video_id": "loc2_script3_seq31_rec1"
+}

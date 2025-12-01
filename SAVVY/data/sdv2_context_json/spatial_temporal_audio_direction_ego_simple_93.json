@@ -1,0 +1,111 @@
+{
+    "event": "Identifying the location of the other person relative to the camera wearer when the speech topic 'identifying the location of the rum' comes up.",
+    "start_time": "0:56",
+    "end_time": "0:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a turquoise polo shirt, khaki shorts, white sneakers, and glasses. He is holding a small black object (likely a phone or remote) connected by a wire to earpieces he is wearing.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:56": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:17": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:37": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:44": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Rum Cabinet",
+        "description": "A dark wood cabinet or bar area in the kitchen where the rum is stated to be located. The camera is generally facing this area when the rum is mentioned.",
+        "key_frames": {
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:56": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:58": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"identifying the location of the rum\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_93",
+    "video_id": "loc2_script2_seq2_rec1"
+}

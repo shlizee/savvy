@@ -1,0 +1,115 @@
+{
+    "event": "The speech topic: \"asking about drink preference\" comes up.",
+    "start_time": "0:21",
+    "end_time": "0:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue short-sleeved polo shirt, khaki cargo shorts, and white sneakers. He has short brown hair, is balding on top, and wears glasses (though his face is blurred). He also has wired earphones in, with the wire running down his shirt. He appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "3.2",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:44": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "1:09": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer's arms and legs (in light blue shorts) are occasionally visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 3.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about drink preference\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_44",
+    "video_id": "loc2_script2_seq1_rec1"
+}

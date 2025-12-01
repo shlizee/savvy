@@ -1,0 +1,192 @@
+{
+    "event": "A woman compliments the beauty of the home.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a yellow sleeveless top, a white t-shirt underneath, and light blue jeans. Her face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.2",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "0:12": {
+                "distance": "5.0",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "5.2",
+                "direction": "-75"
+            },
+            "0:14": {
+                "distance": "5.0",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "4.8",
+                "direction": "-60"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:48": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "2.2",
+                "direction": "-25"
+            },
+            "1:40": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored Refrigerator",
+        "description": "A tall, light-colored (appears to be stainless steel or white) refrigerator, part of the kitchen cabinetry.",
+        "key_frames": {
+            "0:17": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:19": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:31": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "0:32": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "0:33": {
+                "distance": "0.3",
+                "direction": "-90"
+            },
+            "0:34": {
+                "distance": "0.2",
+                "direction": "-90"
+            },
+            "0:35": {
+                "distance": "0.2",
+                "direction": "-90"
+            },
+            "0:46": {
+                "distance": "0.3",
+                "direction": "-80"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Hob",
+        "description": "A gas kitchen hob (stovetop) with multiple burners, set into a white countertop with wooden cabinets above and below.",
+        "key_frames": {
+            "0:19": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:28": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "0:29": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the light-colored refrigerator and facing the kitchen hob, when the speech topic: \"complimenting the home's beauty\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_284",
+    "video_id": "loc3_script2_seq1_rec2"
+}

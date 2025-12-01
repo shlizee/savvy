@@ -1,0 +1,128 @@
+{
+    "event": "The speech topic 'praising the house size and functioning ac' comes up.",
+    "start_time": "0:42",
+    "end_time": "0:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with light skin and dark, curly hair, wearing a grey short-sleeved collared shirt, black shorts, and black sneakers with white soles. They are also wearing glasses and what appears to be a headset or earpiece with a wire. They are holding a small black rectangular object, likely a phone or controller.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.1",
+                "direction": "5"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "3"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"praising the house size and functioning ac\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_168",
+    "video_id": "loc2_script3_seq2_rec2"
+}

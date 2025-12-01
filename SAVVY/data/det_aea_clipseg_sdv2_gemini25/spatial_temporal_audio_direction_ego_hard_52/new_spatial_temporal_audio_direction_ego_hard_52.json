@@ -1,0 +1,112 @@
+{
+    "event": "The speech topic is '(tv) narrating the princess's enchantment'.",
+    "start_time": "2:55",
+    "end_time": "3:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, flat-screen television, black, mounted on a light-colored wooden media console. It is displaying a movie.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:31": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:51": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:07": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:31": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:17": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "The television screen that the camera wearer is primarily looking at during the movie.",
+        "key_frames": {
+            "2:55": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:06": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the princess's enchantment\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_52",
+    "video_id": "loc1_script2_seq7_rec1"
+}

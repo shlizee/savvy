@@ -1,0 +1,116 @@
+{
+    "event": "Speaker indicates task completion and readiness to leave.",
+    "start_time": "0:44",
+    "end_time": "0:53",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person, likely male, wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He is initially sitting on a couch, then stands and walks towards the exit.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:44": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:04": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:18": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "7.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wall-mounted tv",
+        "description": "A large, black, flat-screen television, part of an entertainment unit with shelves, mounted on a wall.",
+        "key_frames": {
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:07": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:08": {
+                "distance": "2.2",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace with a black metal screen",
+        "description": "A fireplace with a black metal screen, located between two tall windows with white shutters. A landscape painting is above it.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:41": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:58": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"indicating task completion and readiness to leave\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_177",
+    "video_id": "loc2_script2_seq8_rec1"
+}

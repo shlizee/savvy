@@ -1,0 +1,208 @@
+{
+    "event": "Other person reiterating intention to get creamer.",
+    "start_time": "0:15",
+    "end_time": "0:17",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal/light blue polo shirt, khaki shorts, glasses, and has a dark lanyard with an earbud. Average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "25"
+            },
+            "0:15": {
+                "distance": "2.8",
+                "direction": "30"
+            },
+            "0:16": {
+                "distance": "3.2",
+                "direction": "35"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:20": {
+                "distance": "3.8",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "4.2",
+                "direction": "48"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.9",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the first-person view, representing the user's location.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The person the camera is interacting with, same as the sounding object.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "25"
+            },
+            "0:15": {
+                "distance": "2.8",
+                "direction": "30"
+            },
+            "0:16": {
+                "distance": "3.2",
+                "direction": "35"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:20": {
+                "distance": "3.8",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "4.2",
+                "direction": "48"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.9",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"reiterating intention to get creamer\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_76",
+    "video_id": "loc2_script2_seq4_rec1"
+}

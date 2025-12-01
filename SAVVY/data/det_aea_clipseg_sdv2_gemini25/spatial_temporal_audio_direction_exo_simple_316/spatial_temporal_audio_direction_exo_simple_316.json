@@ -1,0 +1,102 @@
+{
+    "event": "Male speaker encourages using the French press.",
+    "start_time": "02:15",
+    "end_time": "02:22",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short dark hair. This is the person speaking during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:22": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:15": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:21": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:37": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "2:51": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black round ottoman",
+        "description": "A round ottoman, approximately 0.8 meters in diameter and 0.4 meters high, located in the living room. It is covered in a dark (likely black or very dark gray) fabric.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:01": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Gray reclining lounge chair with ottoman on patio",
+        "description": "A gray reclining lounge chair with its own matching ottoman, located on the outdoor patio, visible through the large living room windows. It appears to be made of wicker or a similar outdoor material, with gray cushions.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "0:01": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "5.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the gray reclining lounge chair with ottoman, when the speech topic: \"encouraging french press action\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_316",
+    "video_id": "loc3_script2_seq3_rec2"
+}

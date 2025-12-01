@@ -1,0 +1,132 @@
+{
+    "event": "Determining the location of the other person relative to the camera wearer when the speech topic 'explaining reason for video presentation style' comes up.",
+    "start_time": "0:44",
+    "end_time": "0:51",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The 'other person' is a woman with long, dark, curly hair. She is wearing a yellow knitted short-sleeve top over a white t-shirt, and light blue jeans. She initially wears glasses, then takes them off. She is seated on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "0:44": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "0:48": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "0:51": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer. The wearer's hands, lap, a gold-colored watch on the left wrist, a green t-shirt, and blue jeans are often visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Forward",
+        "description": "The direction the camera wearer is primarily facing, which defines the 0-degree line for directional calculations.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining reason for video presentation style\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_290",
+    "video_id": "loc3_script2_seq7_rec1"
+}

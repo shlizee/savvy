@@ -1,0 +1,152 @@
+{
+    "event": "The speech topic is 'speculating and confirming mugs are by coffee'. The question asks for the relative position of the other person (sounding object) to the camera wearer (reference object) during this event.",
+    "start_time": "0:17",
+    "end_time": "0:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly, light brown/reddish hair, wearing a light teal/blue short-sleeved button-up shirt, dark shorts, and black socks/shoes. They are also wearing wired headphones around their neck and have a small black device clipped to their shirt pocket. They are holding a small, light-colored rectangular object (possibly a phone or a small notepad) in their left hand and a green can in their right hand initially, then later just the rectangular object.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "4.5",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "3",
+                "direction": "30"
+            },
+            "0:19": {
+                "distance": "2",
+                "direction": "60"
+            },
+            "0:22": {
+                "distance": "2.2",
+                "direction": "70"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:59": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:19": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:44": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:08": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:23": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:29": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:58": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "3:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:10": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera_wearer",
+        "description": "The person wearing the camera, whose hands are visible at times.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:14": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "3:14": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"speculating and confirming mugs are by coffee\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_17",
+    "video_id": "loc1_script2_seq3_rec2"
+}

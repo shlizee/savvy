@@ -1,0 +1,332 @@
+{
+    "event": "describing how to slide piece in",
+    "start_time": "0:26",
+    "end_time": "0:28",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a green polo shirt and a watch on his left wrist. He has short, dark hair and is wearing an earpiece in his left ear.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.1",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray two-seater couch",
+        "description": "A light-gray two-seater couch with a dark throw blanket on it that has white text reading 'NOBODY'.",
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:43": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:48": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:53": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:58": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:03": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:13": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:18": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:28": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:33": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:38": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:43": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:48": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:53": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:58": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:03": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "piano",
+        "description": "A black upright piano.",
+        "key_frames": {
+            "0:02": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:23": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:28": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:33": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:38": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:43": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:48": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:58": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:03": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:08": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:13": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:18": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:23": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:28": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:33": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:38": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:43": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:48": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:53": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:58": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "2:03": {
+                "distance": "3.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the piano, when the speech topic: \"describing how to slide piece in\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_331",
+    "video_id": "loc3_script2_seq5_rec1"
+}

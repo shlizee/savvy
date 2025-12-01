@@ -1,0 +1,142 @@
+{
+    "event": "Speech topic: asking if all food is from walmart",
+    "start_time": "02:45",
+    "end_time": "02:47",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person holding the camera (Person 1). Their hands are often visible at the bottom of the frame. Voice is female. They are actively participating in the scene by moving objects and speaking.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:19": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:49": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:32": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:26": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wooden dining table",
+        "description": "A large, rectangular, light-colored wooden dining table. It has a white patterned runner down the middle. It is surrounded by upholstered dining chairs. Various items like mugs, food containers, and a laptop are on it.",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "03:28": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. It is located to the left of a large stainless steel refrigerator.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "4.5",
+                "direction": "-45"
+            },
+            "00:05": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "00:13": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "00:15": {
+                "distance": "4.2",
+                "direction": "-75"
+            },
+            "01:13": {
+                "distance": "4.5",
+                "direction": "-50"
+            },
+            "01:20": {
+                "distance": "4.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wooden dining table and facing the stainless steel double wall oven, when the speech topic: \"asking if all food is from walmart\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_38",
+    "video_id": "loc1_script2_seq4_rec1"
+}

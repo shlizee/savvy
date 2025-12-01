@@ -1,0 +1,115 @@
+{
+    "event": "Man suggests sitting down to talk.",
+    "start_time": "0:54",
+    "end_time": "0:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appears to be middle-aged (face blurred but general build suggests this), wearing a short-sleeved green polo shirt and blue jeans. He has short dark hair (partially visible) and is wearing glasses (taken off at 1:52). He also has a wired earpiece in his left ear. Approximate height estimated 1.7-1.8m when standing.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "0:29": {
+                "distance": "5.0",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:56": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "1:07": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "1:51": {
+                "distance": "1.8",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A built-in fireplace with a stacked stone facade (light-colored, possibly grey/beige, rectangular stones). It features a wooden mantelpiece. A large landscape painting is mounted above the mantel. The firebox contains what appears to be a gas log set, and flames are visible, indicating it is active. The overall width of the stone structure is approximately 1.5-2 meters.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:41": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:53": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:56": {
+                "distance": "2.5",
+                "direction": "75"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "75"
+            },
+            "1:09": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:16": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:49": {
+                "distance": "2.5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Empty",
+        "description": "Empty as the camera is the primary viewpoint for coordinates and the question is about distance between two objects in the scene.",
+        "key_frames": {}
+    },
+    "prediction": 3.4,
+    "question": "When the speech topic: \"suggesting sitting down to talk\" is mentioned, what is the distance between the fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_230",
+    "video_id": "loc3_script2_seq1_rec1"
+}

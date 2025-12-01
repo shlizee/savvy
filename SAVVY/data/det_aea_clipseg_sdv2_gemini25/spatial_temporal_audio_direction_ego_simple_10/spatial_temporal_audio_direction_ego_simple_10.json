@@ -1,0 +1,144 @@
+{
+    "event": "The other person offers the camera wearer a drink.",
+    "start_time": "0:31",
+    "end_time": "0:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a black short-sleeved V-neck top, light blue jeans, and glasses. She is barefoot. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:31": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:43": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "1:17": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:26": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "1:34": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:41": {
+                "distance": "1.2",
+                "direction": "-90"
+            },
+            "1:46": {
+                "distance": "1.3",
+                "direction": "-85"
+            },
+            "1:55": {
+                "distance": "1.3",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the person, representing their viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Coffee table and general living room area",
+        "description": "The area at the center of the camera's field of view at the time the drink is offered. This includes a two-tiered circular coffee table with items on it, and the space around it in the living room.",
+        "key_frames": {
+            "0:31": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "1.4",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "1.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering a drink\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_10",
+    "video_id": "loc1_script2_seq1_rec2"
+}

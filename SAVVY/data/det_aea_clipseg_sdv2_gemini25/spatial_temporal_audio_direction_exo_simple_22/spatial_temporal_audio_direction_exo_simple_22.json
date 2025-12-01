@@ -1,0 +1,204 @@
+{
+    "event": "Speaker states belief that the coffee maker needs to heat up.",
+    "start_time": "1:25",
+    "end_time": "1:26",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Woman with long dark curly hair, wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She has a small black rectangular device (likely a microphone pack) clipped to the back of her jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "0:24": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:28": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:40": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:06": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:25": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:37": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:57": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:35": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:50": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:53": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:58": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:05": {
+                "distance": "1.2",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen sink with tap",
+        "description": "White, deep, farmhouse-style kitchen sink with a tall, gooseneck-style silver/chrome tap. It is set into a white countertop against a wall with light blue, glossy rectangular tiles.",
+        "key_frames": {
+            "0:20": {
+                "distance": "2.2",
+                "direction": "-75"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:05": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:40": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:20": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:40": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:53": {
+                "distance": "1.2",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop oven",
+        "description": "Stainless steel countertop oven (often called a toaster oven) with a black glass door and a silver handle. It has control knobs/buttons on its right side. It is sitting on the white kitchen countertop.",
+        "key_frames": {
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:26": {
+                "distance": "2.6",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:40": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:40": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the kitchen sink with a tap and facing the countertop oven, when the speech topic: \"stating belief coffee maker needs heating\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_22",
+    "video_id": "loc1_script2_seq3_rec1"
+}

@@ -1,0 +1,95 @@
+{
+    "event": "Inquiring about drink availability",
+    "start_time": "2:08",
+    "end_time": "2:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short dark hair, wearing a light green short-sleeved polo shirt, blue jeans, and over-ear headphones around his neck (later on his ears). He is also wearing a watch on his left wrist. Approximate height around 1.7-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:21": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:54": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:54": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "3:29": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "3:36": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "4:13": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "4:36": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 2.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"inquiring about drink availability\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_310",
+    "video_id": "loc3_script3_seq4_rec1"
+}

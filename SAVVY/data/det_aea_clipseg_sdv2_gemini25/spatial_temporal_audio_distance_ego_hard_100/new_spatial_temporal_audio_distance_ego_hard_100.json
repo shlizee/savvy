@@ -1,0 +1,216 @@
+{
+    "event": "Speech topic: 'playing the word \"gore\"'",
+    "start_time": "03:54",
+    "end_time": "03:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, with short brown hair, wearing a turquoise short-sleeved polo shirt, khaki shorts, white athletic shoes with white socks, glasses, and a gold-colored watch on his left wrist. He appears to be of average build and is seated on a bar stool at a kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:54": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by the first person, providing an egocentric point of view. The camera wearer is interacting with the other person, playing Scrabble and eating popcorn from a paper bag.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:10": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male, with short brown hair, wearing a turquoise short-sleeved polo shirt, khaki shorts, white athletic shoes with white socks, glasses, and a gold-colored watch on his left wrist. He appears to be of average build and is seated on a bar stool at a kitchen island.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:54": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"playing the word \"gore\"\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_100",
+    "video_id": "loc2_script2_seq5_rec1"
+}

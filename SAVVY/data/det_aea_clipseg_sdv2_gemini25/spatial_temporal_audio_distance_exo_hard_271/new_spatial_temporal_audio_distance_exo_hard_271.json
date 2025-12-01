@@ -1,0 +1,107 @@
+{
+    "event": "Distance between the black decorative animal sculpture and the speech sound source (woman) when the speech topic is 'asking about other bag sealer uses'.",
+    "start_time": "01:37",
+    "end_time": "01:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a yellow knitted vest over a white t-shirt, and light blue jeans. She is the one speaking during the specified event time.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "00:03": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "00:17": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:34": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:50": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "01:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A small, black, stylized animal sculpture, possibly a dog or panther, in a crouching or walking pose. It appears to be made of a smooth, matte material. Approximate size is around 30-50 cm in length.",
+        "key_frames": {
+            "00:35": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "00:50": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:10": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:20": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:38": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:50": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera",
+        "description": "The camera is the viewpoint for this egocentric video.",
+        "key_frames": {}
+    },
+    "prediction": 2.5,
+    "question": "When the speech topic: \"asking about other bag sealer uses\" is mentioned, what is the distance between the black decorative animal sculpture and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_271",
+    "video_id": "loc3_script2_seq4_rec1"
+}

@@ -1,0 +1,116 @@
+{
+    "event": "The other person comments on the enjoyable game.",
+    "start_time": "0:00",
+    "end_time": "0:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a light teal/green short-sleeved collared shirt with a small dark logo or pocket detail on the left chest, and dark shorts. He is also wearing a wired earpiece on his right ear, with the wire running down his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:10": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:31": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:59": {
+                "distance": "2.8",
+                "direction": "40"
+            },
+            "1:21": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:27": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:38": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:57": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "2:01": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "2:08": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer's hands and arms are sometimes visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_facing_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"commenting on the enjoyable game\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_34",
+    "video_id": "loc1_script2_seq6_rec2"
+}

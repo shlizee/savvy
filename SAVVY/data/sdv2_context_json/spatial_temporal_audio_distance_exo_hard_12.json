@@ -1,0 +1,92 @@
+{
+    "event": "Distance between the wooden china cabinet and the front door when a creak and thud sound occurs from the door closing.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Light blue, arched wooden front door with a small, four-paned window in the upper half, adorned with a floral wreath (green leaves, pink and white flowers, some decorative eggs). Black metal door handle and hinges. Approximate size: 2m high, 0.9m wide.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "0:14": {
+                "distance": "1.8",
+                "direction": "-110"
+            },
+            "0:15": {
+                "distance": "2.8",
+                "direction": "-80"
+            },
+            "0:31": {
+                "distance": "2.8",
+                "direction": "-110"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "-110"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "Tall, traditional-style wooden china cabinet, medium brown finish. Two glass-paned doors on the upper section, revealing shelves with white china (plates, cups). Two solid wooden doors on the lower section. Approximate size: 2m high, 1m wide, 0.4m deep.",
+        "key_frames": {
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:14": {
+                "distance": "2.3",
+                "direction": "-70"
+            },
+            "0:19": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:25": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:31": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "2.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door",
+        "description": "Light blue, arched wooden front door with a small, four-paned window in the upper half, adorned with a floral wreath. Black metal door handle.",
+        "key_frames": {
+            "0:14": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "When the creak and thud sound is happening, what is the distance between the wooden china cabinet and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_12",
+    "video_id": "loc1_script2_seq1_rec2"
+}

@@ -1,0 +1,176 @@
+{
+    "event": "Other person describing placing items down.",
+    "start_time": "0:12",
+    "end_time": "0:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved t-shirt and khaki shorts. He has short brown hair and is wearing glasses. Average build. This is the person who speaks the line 'Alright, so I just set them down in there.'",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "5.3",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "5.1",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "-7"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "2.8",
+                "direction": "-12"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:32": {
+                "distance": "1.6",
+                "direction": "-22"
+            },
+            "0:34": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, from which the egocentric view is captured. It is located where the wearer is, likely sitting on a couch in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person (Sounding Object)",
+        "description": "The other person, who is the primary focus of the camera's direction. During the specified event, the camera is facing this person who is in the doorway.",
+        "key_frames": {
+            "0:00": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "5.3",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "5.1",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "-7"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "2.8",
+                "direction": "-12"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:32": {
+                "distance": "1.6",
+                "direction": "-22"
+            },
+            "0:34": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": 5.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"describing placing items down\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_120",
+    "video_id": "loc2_script3_seq1_rec2"
+}

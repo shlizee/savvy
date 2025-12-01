@@ -1,0 +1,147 @@
+{
+    "event": "Camera wearer describing placing items down.",
+    "start_time": "0:09",
+    "end_time": "0:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with dark hair, wearing a grey t-shirt and dark shorts. He is initially seen sitting on a light-colored couch in the living room, looking at a small electronic device. He speaks at multiple points in the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, representing the first-person perspective of the wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "An adult male with dark hair, wearing a grey t-shirt and dark shorts. He is initially seen sitting on a light-colored couch in the living room, looking at a small electronic device. He is the person whose distance from the camera wearer is being determined.",
+        "key_frames": {
+            "0:09": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"describing placing items down\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_114",
+    "video_id": "loc2_script3_seq1_rec1"
+}

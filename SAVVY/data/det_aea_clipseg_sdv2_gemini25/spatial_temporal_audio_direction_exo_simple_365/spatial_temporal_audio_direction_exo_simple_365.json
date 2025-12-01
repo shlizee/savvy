@@ -1,0 +1,120 @@
+{
+    "event": "Determine the relative direction of the speaker when the speech topic is 'commenting on pleasant weather and blue skies', from the perspective of a robot standing by the light-gray three-seater couch and facing the black round ottoman.",
+    "start_time": "02:25",
+    "end_time": "02:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with blurred facial features, curly dark hair, wearing a dark long-sleeved top (appears black or dark blue) and blue jeans. This person is sitting on the reference couch and is the one speaking about the weather.",
+        "is_static": false,
+        "key_frames": {
+            "00:03": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "00:30": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "02:25": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "02:30": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "02:48": {
+                "distance": "2.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A long, light-gray or beige colored couch, appearing to be a three-seater or longer, with multiple light-colored cushions. A red and white chevron patterned throw blanket is draped over its left arm (from the camera's perspective). The sounding object (speaker) is sitting on the rightmost part of this couch (from the camera's perspective). This couch is located on the right side of the living room area as viewed from the camera.",
+        "key_frames": {
+            "00:01": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "00:30": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "01:30": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "02:00": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "02:30": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "02:48": {
+                "distance": "2.0",
+                "direction": "20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black round ottoman",
+        "description": "A black, round ottoman, likely made of leather or a similar dark fabric. It is positioned in front of a light-colored armchair (which is to the left of the screen from the camera's perspective) and near a central wooden coffee table.",
+        "key_frames": {
+            "00:01": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "00:05": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "00:30": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "01:00": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "01:30": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "02:00": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "02:30": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "02:48": {
+                "distance": "2.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the black round ottoman, when the speech topic: \"commenting on pleasant weather and blue skies\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_365",
+    "video_id": "loc3_script3_seq2_rec1"
+}

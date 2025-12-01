@@ -1,0 +1,144 @@
+{
+    "event": "A person comments on popcorn being plant-based.",
+    "start_time": "0:45",
+    "end_time": "0:46",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a white t-shirt and light blue shorts, with short dark hair and glasses. They are sitting on a wooden chair at a small, roundish wooden drop-leaf table, holding a blue mug and a brown paper bag (popcorn).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, rectangular electric cooktop, likely glass-ceramic, embedded in a light-colored granite countertop on a large kitchen island. It has visible circular heating zones.",
+        "key_frames": {
+            "0:17": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round Sink with a Tap",
+        "description": "A round, stainless steel sink embedded in a light-colored granite countertop along the kitchen wall. It has a gooseneck-style metal tap.",
+        "key_frames": {
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:53": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the round sink with a tap, when the speech topic: \"commenting on popcorn being plant-based\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_150",
+    "video_id": "loc2_script2_seq4_rec2"
+}

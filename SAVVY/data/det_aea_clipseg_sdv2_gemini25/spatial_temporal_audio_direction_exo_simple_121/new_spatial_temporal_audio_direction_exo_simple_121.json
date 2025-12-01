@@ -1,0 +1,180 @@
+{
+    "event": "A person praises black coffee, calling it 'the best black coffee ever'.",
+    "start_time": "1:01",
+    "end_time": "1:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "David, a person wearing a white t-shirt, light blue shorts, and glasses. He has dark hair. He is the one who praises the coffee.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:23": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:24": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:27": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:43": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:46": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "0:53": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:01": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, rectangular electric cooktop, built into a light-colored granite kitchen island.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:06": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0.4",
+                "direction": "10"
+            },
+            "0:19": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-110"
+            },
+            "1:01": {
+                "distance": "3.0",
+                "direction": "-110"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-110"
+            },
+            "1:19": {
+                "distance": "3.0",
+                "direction": "-110"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "A stainless steel double wall oven, built into wooden kitchen cabinetry on the wall to the left of the kitchen island (from initial camera perspective).",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "0:03": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "-95"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-110"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-130"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-150"
+            },
+            "1:01": {
+                "distance": "3.5",
+                "direction": "-150"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-150"
+            },
+            "1:19": {
+                "distance": "3.5",
+                "direction": "-150"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the stainless steel double wall oven, when the speech topic: \"praising it as the best black coffee\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_121",
+    "video_id": "loc2_script2_seq3_rec1"
+}

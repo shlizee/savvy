@@ -1,0 +1,136 @@
+{
+    "event": "The speaker is identified when the speech topic 'identifying listener as guest' comes up, relative to the robot standing by the electric cooktop and facing the stainless steel double wall oven.",
+    "start_time": "1:11",
+    "end_time": "1:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal/light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short, dark hair. At the time of the event, he is seated at a small wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:36": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat-surface electric cooktop with multiple circular heating elements, integrated into a wooden kitchen island countertop. It has a modern, sleek appearance.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "90"
+            },
+            "0:38": {
+                "distance": "0.3",
+                "direction": "80"
+            },
+            "0:42": {
+                "distance": "1.2",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "A stainless steel double wall oven, with two oven compartments stacked vertically, built into the kitchen cabinetry. Each compartment has a glass window on the door and control panels.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the stainless steel double wall oven, when the speech topic: \"identifying listener as guest\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_130",
+    "video_id": "loc2_script2_seq3_rec2"
+}

@@ -1,0 +1,212 @@
+{
+    "event": "The other person explains that the stove setting (sliding control) represents the heat level.",
+    "start_time": "1:50",
+    "end_time": "1:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male with curly dark hair, wearing glasses, a grey short-sleeved polo shirt, dark shorts, and an earpiece/headset. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "60"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "-35"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:19": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:37": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:55": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:03": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:07": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:33": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The male individual interacting with the camera wearer, who is explaining the stove.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "60"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "-35"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:19": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:37": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:55": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:03": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:07": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:33": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining stove setting represents heat level\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_176",
+    "video_id": "loc2_script3_seq31_rec1"
+}

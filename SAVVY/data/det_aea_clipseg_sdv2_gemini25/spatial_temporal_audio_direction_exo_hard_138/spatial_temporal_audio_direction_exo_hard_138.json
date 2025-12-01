@@ -1,0 +1,108 @@
+{
+    "event": "Speaker (man in teal shirt) reiterating the coffee offer to the guest (camera person) while they are both at the two-seater dining table.",
+    "start_time": "1:11",
+    "end_time": "1:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal polo shirt and khaki shorts. He is the host offering coffee.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:22": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A small, wooden, rectangular dining table with two chairs, located in a dining nook near large sliding glass doors overlooking a pool. At the event time, the camera and the speaker are seated at this table.",
+        "key_frames": {
+            "0:36": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A built-in stainless steel double wall oven, located in the main kitchen cabinetry. From the dining table, it's in the direction of the main kitchen area, and to the right if one is looking from the dining table directly towards the kitchen island walkway.",
+        "key_frames": {
+            "0:14": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:35": {
+                "distance": "4.0",
+                "direction": "-90"
+            },
+            "1:11": {
+                "distance": "4.0",
+                "direction": "135"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the stainless steel double wall oven, when the speech topic: \"reiterating the coffee offer to guest\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_138",
+    "video_id": "loc2_script2_seq3_rec2"
+}

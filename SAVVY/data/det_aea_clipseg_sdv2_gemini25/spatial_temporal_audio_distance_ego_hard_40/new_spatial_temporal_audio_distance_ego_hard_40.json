@@ -1,0 +1,132 @@
+{
+    "event": "A creak and thud sound originating from the couch where a guest is sitting.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, grey fabric-covered sofa. The specific sound event (creak and thud at 0:07-0:08) originates from the section of this sofa where the guest is seated, likely due to the couch's internal structure (springs, frame) reacting to the guest's weight or slight movement.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.6",
+                "direction": "25"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera (wearer)",
+        "description": "The perspective of the camera wearer, who is seated in the living room, likely on another piece of furniture opposite the sounding couch, with a coffee table in between.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Guest",
+        "description": "A man with curly brown hair, wearing glasses, a light green polo shirt, and dark shorts. He is initially seated on the sounding couch, interacting with his phone, and later gets up to leave.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.6",
+                "direction": "25"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:58": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "1:28": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_40",
+    "video_id": "loc1_script2_seq8_rec2"
+}

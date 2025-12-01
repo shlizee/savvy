@@ -1,0 +1,27 @@
+{
+    "event": "A thud sound occurs, and the distance between the electric cooktop and the sounding object (fridge door) is to be determined.",
+    "start_time": "0:01:00",
+    "end_time": "0:01:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The right-hand door of a stainless steel, side-by-side refrigerator. It is approximately 0.45m wide and standard fridge height. The thud is produced when this door closes.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:47": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:00:51": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "0:01:00": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "question": "When the thud sound is happening, what is the distance between the electric cooktop and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_84",
+    "video_id": "loc2_script2_seq1_rec2"
+}

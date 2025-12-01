@@ -1,0 +1,157 @@
+{
+    "event": "The camera wearer expresses doubt about using time codes during a previous recording.",
+    "start_time": "0:37",
+    "end_time": "0:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person wearing the camera. Hands with a gold watch on the left wrist are visible at the beginning. Later, a teal/light blue t-shirt is visible on the wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the first-person perspective of the wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Male, with curly dark hair, wearing glasses, a grey short-sleeved collared shirt, dark shorts, and an earpiece/headphone around his neck. He is also holding a smartphone at times.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:33": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"expressing doubt about using time codes\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_134",
+    "video_id": "loc2_script3_seq31_rec1"
+}

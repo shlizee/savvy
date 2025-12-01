@@ -1,0 +1,128 @@
+{
+    "event": "The speech topic: \"guessing identification of the song\" comes up.",
+    "start_time": "2:13",
+    "end_time": "2:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly brown hair, wearing glasses, a light teal/green short-sleeved collared shirt, and dark shorts. He is sitting on a grey couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:14": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:11": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:29": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "3:08": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "4:22": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by the first person, who is initially standing and then sits on the floor or a low stool in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:22": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large flat-screen TV on a wooden console table. This is the general direction the camera wearer faces when watching TV, but during the conversation, the camera is more directed at the other person.",
+        "key_frames": {
+            "0:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "4:15": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"guessing identification of the song\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_31",
+    "video_id": "loc1_script2_seq7_rec1"
+}

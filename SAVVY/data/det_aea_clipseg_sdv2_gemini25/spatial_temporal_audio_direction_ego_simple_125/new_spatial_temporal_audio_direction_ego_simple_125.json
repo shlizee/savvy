@@ -1,0 +1,128 @@
+{
+    "event": "The speech topic 'indicating need for a few more minutes' comes up.",
+    "start_time": "0:50",
+    "end_time": "0:51",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a turquoise polo shirt, khaki shorts, white sneakers, and glasses. He is sitting on a bar stool at a wooden kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:55": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:05": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:45": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:56": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "3:12": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "3:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:39": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "4:13": {
+                "distance": "0.8",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing at the specified event time.",
+        "key_frames": {
+            "0:50": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"indicating need for a few more minutes\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_125",
+    "video_id": "loc2_script2_seq5_rec1"
+}

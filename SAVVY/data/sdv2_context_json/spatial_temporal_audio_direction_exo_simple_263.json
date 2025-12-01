@@ -1,0 +1,160 @@
+{
+    "event": "Speech topic: inquiring about item location and stating placement near butter",
+    "start_time": "0:59",
+    "end_time": "1:01",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person with curly dark hair, wearing a grey short-sleeved polo shirt, dark shorts, and black sneakers with white soles. Face is blurred. Appears to be an adult male. Approximate height around 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:32": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:59": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "1.1",
+                "direction": "-65"
+            },
+            "2:11": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "2:17": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "2:38": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "2:46": {
+                "distance": "0.8",
+                "direction": "-85"
+            },
+            "3:08": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "3:15": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:28": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "3:37": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:43": {
+                "distance": "2.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, dark-colored (likely black or dark grey composite/stone) undermount sink installed in a light-colored granite kitchen island. It has a single, tall, gooseneck-style stainless steel tap. Diameter approximately 0.4-0.5 meters.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.2",
+                "direction": "-65"
+            },
+            "0:19": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:28": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "3:32": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "3:35": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, semi-circular wooden dining table, medium brown finish, pushed against a wall. It has two matching wooden chairs with dark upholstered seats and X-back design. Table dimensions roughly 1m wide, 0.6m deep.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:16": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "1.3",
+                "direction": "-15"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:42": {
+                "distance": "1.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the two-seater dining table, when the speech topic: \"inquiring about item location and stating placement near butter\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_263",
+    "video_id": "loc2_script3_seq5_rec2"
+}

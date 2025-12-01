@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic 'calling video duration quick comparatively' comes up.",
+    "start_time": "0:42",
+    "end_time": "0:43",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short, dark hair, is wearing glasses, and is holding a black smartphone. He is seated on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:01": {
+                "distance": "1.6",
+                "direction": "50"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:42": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "Camera worn by a person, providing a first-person perspective. The wearer is female, with visible arms and legs at times, wearing light-colored socks.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general scene in front of camera",
+        "description": "The camera is generally facing a living room area. At the time of the event, it's primarily facing a wooden coffee table, and the couch where the other person is seated is to the left of the coffee table from the camera's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"calling video duration quick comparatively\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_282",
+    "video_id": "loc3_script2_seq7_rec2"
+}

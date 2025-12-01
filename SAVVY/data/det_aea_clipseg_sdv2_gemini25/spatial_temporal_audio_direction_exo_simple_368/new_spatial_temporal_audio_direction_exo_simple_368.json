@@ -1,0 +1,124 @@
+{
+    "event": "Speech topic: \"hypothetically choosing location for resources as caveman\"",
+    "start_time": "02:32",
+    "end_time": "02:45",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is an adult male with short, dark hair, wearing a light green short-sleeved polo shirt and blue jeans. He is sitting on a light-gray two-seater couch. He is approximately 1.8m tall if standing. For the purpose of this event, he is static as he remains seated.",
+        "is_static": false,
+        "key_frames": {
+            "00:07": {
+                "distance": "2.0",
+                "direction": "-8"
+            },
+            "00:15": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "00:30": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "01:00": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "01:30": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "02:00": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "02:32": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "02:45": {
+                "distance": "2.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A modern-style light-gray fabric two-seater couch with wooden legs. It has two main seat cushions and two back cushions. Approximate dimensions: 1.8m wide, 0.8m deep, 0.8m high.",
+        "key_frames": {
+            "00:02": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:48": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Piano",
+        "description": "A black upright piano. It appears to be a standard modern upright piano. Approximate dimensions: 1.5m wide, 1.2m high, 0.6m deep.",
+        "key_frames": {
+            "00:02": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "00:12": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "00:30": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "01:00": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "01:30": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "02:00": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "02:30": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "02:48": {
+                "distance": "4.5",
+                "direction": "-35"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the piano, when the speech topic: \"hypothetically choosing location for resources as caveman\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_368",
+    "video_id": "loc3_script3_seq2_rec2"
+}

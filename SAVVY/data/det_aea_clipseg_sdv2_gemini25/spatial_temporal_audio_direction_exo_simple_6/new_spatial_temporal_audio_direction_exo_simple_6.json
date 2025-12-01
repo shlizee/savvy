@@ -1,0 +1,132 @@
+{
+    "event": "Determine the speaker's location relative to the robot's facing direction when the speech topic: \"observing blue sky appearing\" comes up.",
+    "start_time": "01:12",
+    "end_time": "01:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing a light blue short-sleeved button-up shirt, dark shorts, and black socks. He is also wearing glasses and has earbuds in. He is holding a can in his right hand and a phone in his left hand.",
+        "is_static": false,
+        "key_frames": {
+            "00:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:40": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "tv",
+        "description": "A black flat-screen television on a wooden stand.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:17": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:31": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:50": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "01:25": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "01:54": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "light-gray armchair further from the wall painting",
+        "description": "A light-gray armchair with a blue pillow, located further from the wall painting and closer to the arched window.",
+        "key_frames": {
+            "00:03": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:16": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:40": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:50": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:05": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:15": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:38": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:50": {
+                "distance": "2.5",
+                "direction": "60"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the tv and facing the light-gray armchair further from the wall painting, when the speech topic: \"observing blue sky appearing\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_6",
+    "video_id": "loc1_script2_seq1_rec1"
+}

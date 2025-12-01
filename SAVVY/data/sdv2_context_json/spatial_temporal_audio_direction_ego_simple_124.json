@@ -1,0 +1,132 @@
+{
+    "event": "The speech topic \"announcing recording is active\" comes up.",
+    "start_time": "0:45",
+    "end_time": "0:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short brown hair, is wearing glasses, and has a gold-colored watch on his left wrist. He is sitting on a high-backed bar stool with a dark metal frame and a brown cushioned seat, at a wooden kitchen island/counter. He is the one who confirms the recording is active.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:46": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:55": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "2:10": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "2:50": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "3:05": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "3:20": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "3:40": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "3:55": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "4:10": {
+                "distance": "1.2",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:14": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "forward direction of camera wearer",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:14": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"announcing recording is active\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_124",
+    "video_id": "loc2_script2_seq5_rec1"
+}

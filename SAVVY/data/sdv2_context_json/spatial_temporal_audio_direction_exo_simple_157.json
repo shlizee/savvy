@@ -1,0 +1,164 @@
+{
+    "event": "A person (man in blue shirt) offers a Scrabble tile holder to another person (camera holder) while sitting at a kitchen island.",
+    "start_time": "0:32",
+    "end_time": "0:35",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a light blue short-sleeved polo shirt and khaki shorts. He has short brown hair and is wearing glasses and a gold-colored watch. He is seated on a bar stool at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "4:14": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "A standard built-in dishwasher with a stainless steel front, located under the kitchen counter to the left of the kitchen sink.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "-50"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "3:00": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "3:30": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "4:00": {
+                "distance": "2.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A stainless steel double wall oven built into the kitchen cabinetry, located on a wall to the right of the main sink and dishwasher counter area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "3.2",
+                "direction": "55"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "55"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "55"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "55"
+            },
+            "2:30": {
+                "distance": "3.0",
+                "direction": "55"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "55"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "55"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "55"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"giving a game piece holder\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_157",
+    "video_id": "loc2_script2_seq5_rec1"
+}

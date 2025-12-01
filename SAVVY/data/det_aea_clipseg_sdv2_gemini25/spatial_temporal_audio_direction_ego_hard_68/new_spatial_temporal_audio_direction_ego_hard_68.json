@@ -1,0 +1,188 @@
+{
+    "event": "The speech topic 'remarking on listener's surprising amount of knowledge' comes up.",
+    "start_time": "2:30",
+    "end_time": "2:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and black-rimmed glasses. She has a tattoo on her left forearm. Approximate height is 5'5\" - 5'8\".",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "2:25": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "2:35": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "2:55": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "3:10": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "3:20": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "3:45": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "4:00": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "4:15": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "4:25": {
+                "distance": "0.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose perspective the video is from. They are seated on a couch in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large flat-screen TV on a wooden media console, located in front of the couch where the camera wearer is sitting.",
+        "key_frames": {
+            "0:12": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "4:25": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"remarking on listener's surprising amount of knowledge\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_68",
+    "video_id": "loc1_script2_seq7_rec2"
+}

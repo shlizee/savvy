@@ -1,0 +1,179 @@
+{
+    "event": "The other person states they took an allergy pill earlier.",
+    "start_time": "2:07",
+    "end_time": "2:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a grey short-sleeved polo shirt, dark shorts, and black sneakers with white soles. They are also wearing glasses and have headphones around their neck. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "1.3",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:52": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:17": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "1:25": {
+                "distance": "2.8",
+                "direction": "40"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "1:54": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "2:01": {
+                "distance": "2.6",
+                "direction": "-45"
+            },
+            "2:07": {
+                "distance": "2.7",
+                "direction": "-50"
+            },
+            "2:10": {
+                "distance": "2.5",
+                "direction": "-55"
+            },
+            "2:14": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "2:18": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "2:25": {
+                "distance": "0.9",
+                "direction": "-75"
+            },
+            "2:37": {
+                "distance": "0.6",
+                "direction": "-90"
+            },
+            "2:46": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "2:50": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:06": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "3:10": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "3:17": {
+                "distance": "0.6",
+                "direction": "-90"
+            },
+            "3:27": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "3:37": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "3:42": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "3:47": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 2.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating taking allergy pill earlier\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_200",
+    "video_id": "loc2_script3_seq5_rec2"
+}

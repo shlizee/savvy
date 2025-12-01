@@ -1,0 +1,164 @@
+{
+    "event": "The speech topic: \"announcing playing the word 'juke'\" comes up.",
+    "start_time": "1:54",
+    "end_time": "1:56",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue polo shirt, khaki shorts, white sneakers, glasses, and a gold watch. He is sitting on a bar stool at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.1",
+                "direction": "40"
+            },
+            "0:04": {
+                "distance": "1.6",
+                "direction": "20"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "1:54": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "2:05": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "4:13": {
+                "distance": "1.5",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors on the left side of the kitchen (from initial camera perspective), leading to an outdoor area with a swimming pool.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:54": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, stainless steel sink with a gooseneck faucet, located on the kitchen island.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:31": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:15": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:54": {
+                "distance": "1.7",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "1.7",
+                "direction": "-40"
+            },
+            "3:30": {
+                "distance": "1.7",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the round sink with a tap, when the speech topic: \"announcing playing the word \"juke\"\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_171",
+    "video_id": "loc2_script2_seq5_rec1"
+}

@@ -1,0 +1,152 @@
+{
+    "event": "Commenting on fast cooking speed",
+    "start_time": "0:58",
+    "end_time": "1:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person, appears to be an adult. During the video, he is seen wearing a short-sleeved grey t-shirt and dark-colored shorts (possibly black or dark blue). He has dark, somewhat curly hair. He is of average build. He is seen holding and looking at a smartphone at times.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "3.5",
+                "direction": "65"
+            },
+            "0:07": {
+                "distance": "3.8",
+                "direction": "75"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "85"
+            },
+            "0:21": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "50"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "2:14": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "2:17": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "2:20": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "2:25": {
+                "distance": "3.5",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person who is cooking. The camera wearer's arms are visible, wearing a light blue/teal t-shirt and a gold-colored watch on the left wrist.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stovetop/Pan",
+        "description": "A black glass-ceramic induction cooktop with a silver-colored pan on it. The pan contains skewers with vegetables and meat. This is what the camera wearer is primarily facing during the cooking event.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"commenting on fast cooking speed\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_206",
+    "video_id": "loc2_script3_seq33_rec1"
+}

@@ -1,0 +1,147 @@
+{
+    "event": "A person states their belief that the coffee maker needs to heat up.",
+    "start_time": "02:25",
+    "end_time": "02:26",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, wavy hair, wearing glasses. She is dressed in a black short-sleeved crop top and light blue high-waisted jeans. She has a microphone pack clipped to her jeans. She is barefoot. She is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:06": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:06": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:25": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:35": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:52": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:58": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:06": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Hob",
+        "description": "A stainless steel built-in gas kitchen hob with four burners and control knobs on the front. It is set into a white countertop. The backsplash behind it is made of light blue/teal glossy tiles.",
+        "key_frames": {
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:06": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:35": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.37,
+    "question": "When the speech topic: \"stating belief coffee maker needs heating\" is mentioned, what is the distance between the kitchen hob and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_21",
+    "video_id": "loc1_script2_seq3_rec1"
+}

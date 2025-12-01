@@ -1,0 +1,104 @@
+{
+    "event": "The other person expresses pleasure at seeing the listener (camera wearer).",
+    "start_time": "1:22",
+    "end_time": "1:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and white sneakers. He has short, dark hair (visible around the blur) and is wearing a watch on his left wrist and wired earphones. He is of average to large build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:26": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:53": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:01": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:23": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:27": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:29": {
+                "distance": "1.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose perspective is shown. Parts of the wearer's body (hands, legs) are occasionally visible at the bottom of the frame.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_facing_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing pleasure at seeing the listener\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_154",
+    "video_id": "loc2_script2_seq8_rec2"
+}

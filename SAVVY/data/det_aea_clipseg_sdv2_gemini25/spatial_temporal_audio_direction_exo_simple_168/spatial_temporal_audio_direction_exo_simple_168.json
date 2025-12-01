@@ -1,0 +1,112 @@
+{
+    "event": "Speaker indicates something is not ready by saying 'Uh, a few more minutes.'",
+    "start_time": "0:50",
+    "end_time": "0:51",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is the person whose first-person perspective is shown by the camera (P1). Physical characteristics are not visible, but they are interacting with objects (popcorn bag, Scrabble tiles) and speaking. They are seated at the kitchen island for the duration of the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "N/A (camera view)",
+                "direction": "N/A (camera view)"
+            },
+            "0:07": {
+                "distance": "N/A (camera view, now seated at island)",
+                "direction": "N/A (camera view)"
+            },
+            "0:50": {
+                "distance": "N/A (camera view, speaking)",
+                "direction": "N/A (camera view)"
+            },
+            "1:30": {
+                "distance": "N/A (camera view)",
+                "direction": "N/A (camera view)"
+            },
+            "2:30": {
+                "distance": "N/A (camera view)",
+                "direction": "N/A (camera view)"
+            },
+            "3:30": {
+                "distance": "N/A (camera view)",
+                "direction": "N/A (camera view)"
+            },
+            "4:10": {
+                "distance": "N/A (camera view)",
+                "direction": "N/A (camera view)"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A stainless steel, undermount double-basin rectangular sink, set into a light-colored speckled granite or quartz countertop. It has a tall gooseneck faucet with a single lever. This sink area is located against the far wall of the kitchen, beneath a window, with medium-brown wooden shaker-style cabinets above and below. The entire sink unit is approximately 0.8 to 1 meter wide.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A smaller, round stainless steel sink, likely a prep sink, with its own faucet. It is set into the dark wood (possibly walnut with a live edge) countertop of the kitchen island. The sink's diameter is approximately 0.3 to 0.4 meters.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "35"
+            },
+            "2:00": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "35"
+            },
+            "4:00": {
+                "distance": "0.6",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the round sink with a tap, when the speech topic: \"indicating something is not ready\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_168",
+    "video_id": "loc2_script2_seq5_rec1"
+}

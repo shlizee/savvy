@@ -1,0 +1,100 @@
+{
+    "event": "Speaker confirms possession of playable records/vinyls.",
+    "start_time": "0:21",
+    "end_time": "0:27",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man wearing a turquoise/blue polo shirt, khaki shorts, and glasses (face is blurred). He has headphones/earbuds around his neck. He is sitting on the left side (from camera's initial perspective) of a light-colored couch. Appears to be middle-aged and balding. He is the one speaking about the records.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "0:08": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "0:21": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "0:27": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A large, dark wood (possibly black or very dark brown) rectangular coffee table. It has a slightly distressed or textured top and is low to the ground. It is positioned in front of the couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen (assumed to be the TV area)",
+        "description": "A large flat-screen TV (which is a black screen) mounted on a light-colored wall, above a low wooden console/shelving unit. This area is assumed to be the 'fireplace with a black metal screen' or the primary focal point the robot is facing, as no traditional fireplace with a visible metal screen is clearly identifiable in the video. The entertainment unit includes wooden shelving holding various decorative items, books, and records. A colorful banner is strung below the TV.",
+        "key_frames": {
+            "0:02": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"confirming possession of playable records\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_179",
+    "video_id": "loc2_script2_seq8_rec2"
+}

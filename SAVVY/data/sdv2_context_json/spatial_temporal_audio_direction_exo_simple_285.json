@@ -1,0 +1,124 @@
+{
+    "event": "The speech topic is 'confirming instrument playing'. The question asks for the speaker's location relative to a hypothetical robot standing by the light-gray three-seater couch and facing the kitchen hob.",
+    "start_time": "01:08",
+    "end_time": "01:51",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a woman with long brown hair. She is wearing a yellow sleeveless knitted top, light blue rolled-up jeans, and light-colored socks with a pattern. She is sitting on the couch.",
+        "is_static": false,
+        "key_frames": {
+            "00:06": {
+                "distance": "2.1",
+                "direction": "-8"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-3"
+            },
+            "00:12": {
+                "distance": "3.8",
+                "direction": "2"
+            },
+            "00:14": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:48": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:52": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "1.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch with multiple cushions. The woman (speaker) is sitting on this couch during the specified event.",
+        "key_frames": {
+            "00:12": {
+                "distance": "3.6",
+                "direction": "5"
+            },
+            "00:14": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "00:48": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:52": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "1.8",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen hob",
+        "description": "A gas kitchen hob with multiple burners, set into a white countertop in the kitchen area. It has silver-colored grates and knobs.",
+        "key_frames": {
+            "00:17": {
+                "distance": "2.8",
+                "direction": "-12"
+            },
+            "00:19": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "00:29": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "00:30": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the kitchen hob, when the speech topic: \"confirming instrument playing\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_285",
+    "video_id": "loc3_script2_seq1_rec2"
+}

@@ -1,0 +1,142 @@
+{
+    "event": "The other person expresses enjoyment of chips.",
+    "start_time": "1:22",
+    "end_time": "1:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a green polo shirt and blue jeans. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:21": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:52": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is facing.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing enjoyment of chips\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_284",
+    "video_id": "loc3_script2_seq4_rec2"
+}

@@ -1,0 +1,43 @@
+{
+    "event": "A woman comments that a video being watched teaches how to become a tycoon.",
+    "start_time": "0:24",
+    "end_time": "0:25",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with a blurred face, wearing a yellow knitted short-sleeve top over a white t-shirt, and blue jeans. She has long, dark, curly hair and is sitting on a couch to the right of the person holding the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "3",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "0:24": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "45"
+            }
+        }
+    },
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the window with a balcony view, when the speech topic: \"commenting video teaches becoming tycoon\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_337",
+    "video_id": "loc3_script2_seq7_rec1"
+}

@@ -1,0 +1,132 @@
+{
+    "event": "The TV is narrating the purpose of the kiss breaking the curse.",
+    "start_time": "4:04",
+    "end_time": "4:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a man with curly brown hair, wearing glasses, a light teal/mint green short-sleeved collared shirt, and dark navy blue shorts. He is also wearing black socks. He has a lavalier microphone clipped to his shirt and earpieces. Approximate height around 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "85"
+            },
+            "1:11": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "2:11": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "2:20": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "2:29": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "2:47": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "3:08": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "4:05": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "4:22": {
+                "distance": "1.5",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person, representing the first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV Screen",
+        "description": "Black, flat-screen television, approximately 50-60 inches, mounted on a light-colored wooden media console. The camera wearer is watching this TV.",
+        "key_frames": {
+            "0:16": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:06": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:51": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "3:11": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "4:15": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the purpose of the kiss breaking the curse\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_49",
+    "video_id": "loc1_script2_seq7_rec1"
+}

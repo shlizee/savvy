@@ -1,0 +1,144 @@
+{
+    "event": "Speech topic: reaffirming uncertainty about flavor",
+    "start_time": "0:30",
+    "end_time": "0:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/turquoise short-sleeved polo shirt, khaki/light brown cargo shorts, and white sneakers. He has short, dark hair and is wearing glasses. He has wired earphones in, with the wire running down his shirt. He is holding a small black rectangular device (likely a phone or remote) in his hand. During the event, he is standing in the living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:09": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace built into the wall, with a white/light-colored mantel and surround. It has a black metal fireplace screen with a curved top design. It is located on the wall to the right of the TV, from the perspective of someone sitting on the couch opposite the TV.",
+        "key_frames": {
+            "0:17": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:53": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:56": {
+                "distance": "2.0",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large, black, flat-screen TV mounted on the wall. It's part of an entertainment center setup with wooden shelves on either side and below it. A colorful pennant banner is strung across the shelving unit below the TV. It is on the wall opposite the main couch.",
+        "key_frames": {
+            "0:16": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the fireplace with a black metal screen and facing the wall-mounted tv, when the speech topic: \"reaffirming uncertainty about flavor\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_86",
+    "video_id": "loc2_script2_seq1_rec1"
+}

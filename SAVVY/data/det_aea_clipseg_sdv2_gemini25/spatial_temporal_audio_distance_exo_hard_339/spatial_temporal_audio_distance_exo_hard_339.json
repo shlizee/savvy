@@ -1,0 +1,108 @@
+{
+    "event": "Distance between the rectangular dining table and the speech sound source (camera person) when the speech topic 'confirming putting plates in dishwasher' is mentioned.",
+    "start_time": "02:16",
+    "end_time": "02:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person holding the camera, who is the source of the confirming speech ('Sweet. Nice, nice. Okay.'). The viewpoint is egocentric.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A large, rectangular dining table, made of light-colored wood with a slatted top, located in the dining area.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "00:08": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "00:12": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:18": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "2.2",
+                "direction": "-30"
+            },
+            "02:10": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "02:17": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "02:18": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "02:19": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "02:38": {
+                "distance": "2.3",
+                "direction": "-45"
+            },
+            "03:00": {
+                "distance": "2.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A for egocentric distance to an object.",
+        "key_frames": {}
+    },
+    "prediction": 2.2,
+    "question": "When the speech topic: \"confirming putting plates in dishwasher\" is mentioned, what is the distance between the rectangular dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_339",
+    "video_id": "loc3_script3_seq5_rec2"
+}

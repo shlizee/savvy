@@ -1,0 +1,185 @@
+{
+    "event": "The moment the instruction 'Stay out of the kitchen' is spoken.",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Male voice (P3), not visually present in the video. This person speaks the line 'Stay out of the kitchen.'",
+        "is_static": false,
+        "key_frames": {
+            "0:15": {
+                "distance": "N/A (not visible)",
+                "direction": "~ -90 (estimated from audio, to the left of camera wearer's facing direction)"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer (P1)",
+        "description": "The person wearing the camera, whose perspective the video is from.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:52": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stovetop",
+        "description": "The kitchen stovetop that the camera wearer (P1) is facing at the time of the event.",
+        "is_static": true,
+        "key_frames": {
+            "0:06": {
+                "distance": "~0.6",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "~0.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "~0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing someone to stay out of the kitchen\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_189",
+    "video_id": "loc2_script3_seq32_rec1"
+}

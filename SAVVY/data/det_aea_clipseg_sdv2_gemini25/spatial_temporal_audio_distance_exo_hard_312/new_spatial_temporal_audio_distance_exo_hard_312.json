@@ -1,0 +1,92 @@
+{
+    "event": "Speech topic: clarifying equidistant location relative to downtown and airport",
+    "start_time": "02:00",
+    "end_time": "02:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is a person (male) with curly dark hair, wearing a dark long-sleeve shirt over a collared light blue shirt, and blue jeans. He is seated on a light beige/cream colored couch during the event.",
+        "is_static": false,
+        "key_frames": {
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:30": {
+                "distance": "2.1",
+                "direction": "-40"
+            },
+            "01:00": {
+                "distance": "2.1",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "2.2",
+                "direction": "-38"
+            },
+            "02:05": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "02:30": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "02:48": {
+                "distance": "2.2",
+                "direction": "-35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large black flat-screen television (appears to be 65-75 inches), mounted above a grey stone fireplace. The fireplace has a wooden mantel.",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "6.0",
+                "direction": "20"
+            },
+            "00:05": {
+                "distance": "5.0",
+                "direction": "30"
+            },
+            "00:08": {
+                "distance": "4.8",
+                "direction": "30"
+            },
+            "00:30": {
+                "distance": "4.8",
+                "direction": "30"
+            },
+            "01:00": {
+                "distance": "4.8",
+                "direction": "30"
+            },
+            "01:30": {
+                "distance": "4.8",
+                "direction": "28"
+            },
+            "02:05": {
+                "distance": "4.8",
+                "direction": "25"
+            },
+            "02:30": {
+                "distance": "4.8",
+                "direction": "25"
+            },
+            "02:48": {
+                "distance": "4.8",
+                "direction": "25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 4.2,
+    "question": "When the speech topic: \"clarifying equidistant location relative to downtown and airport\" is mentioned, what is the distance between the tv by the fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_312",
+    "video_id": "loc3_script3_seq2_rec1"
+}

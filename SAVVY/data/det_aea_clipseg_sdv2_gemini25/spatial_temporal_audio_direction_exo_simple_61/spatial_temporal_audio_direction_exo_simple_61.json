@@ -1,0 +1,184 @@
+{
+    "event": "The speech topic is '(tv) narrating the purpose of the kiss breaking the curse'.",
+    "start_time": "3:13",
+    "end_time": "4:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches diagonally. It is mounted on a light-colored, possibly beige or light wood, media console with cabinet doors. The TV is the source of the narration.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:21": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:42": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:02": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:31": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:51": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "3:10": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "3:32": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "3:53": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "4:07": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "4:20": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting (near arched window)",
+        "description": "A light-gray upholstered armchair with dark wooden legs. It is positioned near a large arched window, making it the one further from the wall painting that is located near the TV and fireplace.",
+        "key_frames": {
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:11": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "2:11": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "2:29": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "2:47": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "3:08": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "3:33": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "3:55": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "4:22": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to the wall painting (near fireplace)",
+        "description": "A light-gray upholstered armchair with dark wooden legs. It is positioned near the fireplace and is closer to the wall painting (which is to the left of the TV).",
+        "key_frames": {
+            "0:07": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "1:11": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "1:36": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "2:11": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "2:29": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "2:47": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "3:08": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "3:33": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "3:55": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "4:22": {
+                "distance": "2.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing the light-gray armchair closer to the wall painting, when the speech topic: \"(tv) narrating the purpose of the kiss breaking the curse\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_61",
+    "video_id": "loc1_script2_seq7_rec1"
+}

@@ -1,0 +1,136 @@
+{
+    "event": "Identifying the speaker's location (left, right, or back) relative to a hypothetical robot standing by the black front door and facing the fireplace, when the speech topic 'specifying making velveeta during yesterday's task' comes up.",
+    "start_time": "1:05",
+    "end_time": "1:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a man with curly dark hair, wearing glasses, a grey short-sleeved polo shirt, and dark shorts. He is also wearing an in-ear monitor or headphone in his right ear with a wire going down his shirt. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:08": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:11": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "1:36": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "1:43": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:50": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "1:59": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "2:02": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "2:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "2:33": {
+                "distance": "2.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door with ornate wrought iron or similar dark metal designs over glass panels. It has a sidelight panel also with glass and design.",
+        "key_frames": {
+            "0:07": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace with a hearth, a mantelpiece (though not clearly detailed), and a black metal screen covering the opening. It is located in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:21": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the fireplace with a black metal screen, when the speech topic: \"specifying making velveeta during yesterday's task\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_206",
+    "video_id": "loc2_script3_seq31_rec1"
+}

@@ -1,0 +1,184 @@
+{
+    "event": "Camera wearer states refusal to eat the food being prepared.",
+    "start_time": "0:08",
+    "end_time": "0:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person wearing the camera, whose voice is heard making the statement.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:58": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the speaker.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:58": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person",
+        "description": "A man wearing a light blue/turquoise short-sleeved polo shirt and khaki shorts. He has dark hair and is wearing glasses. He is primarily cooking at the stove.",
+        "key_frames": {
+            "0:07": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "1.9",
+                "direction": "5"
+            },
+            "0:18": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:37": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:46": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:50": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:42": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:49": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "2:59": {
+                "distance": "2.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "2.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating refusal to eat current food\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_171",
+    "video_id": "loc2_script3_seq34_rec2"
+}

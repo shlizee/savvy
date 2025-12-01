@@ -1,0 +1,192 @@
+{
+    "event": "The speech topic: \"acknowledging ron's play\" comes up.",
+    "start_time": "3:39",
+    "end_time": "3:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/turquoise polo shirt, khaki shorts, white sneakers with blue accents, glasses, and a gold-colored watch. He has short brown hair and is of average build. He is sitting on a bar stool at a kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "0.9",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:39": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "4:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "Camera worn by a person. The person is sitting on a bar stool at a kitchen island, playing Scrabble and eating popcorn.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person (Person 1)",
+        "description": "Adult male, wearing a light blue/turquoise polo shirt, khaki shorts, white sneakers with blue accents, glasses, and a gold-colored watch. He has short brown hair and is of average build. He is sitting on a bar stool at a kitchen island.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "0.9",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:39": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "4:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"acknowledging ron's play\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_99",
+    "video_id": "loc2_script2_seq5_rec1"
+}

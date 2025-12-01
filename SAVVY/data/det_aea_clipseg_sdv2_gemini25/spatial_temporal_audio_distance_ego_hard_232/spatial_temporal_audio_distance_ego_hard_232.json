@@ -1,0 +1,164 @@
+{
+    "event": "The speech topic: \"inquiring about owning a bag sealer\" comes up.",
+    "start_time": "01:34",
+    "end_time": "01:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with long dark hair, wearing a yellow knitted vest over a white t-shirt, and light blue jeans. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "00:03": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:07": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "00:17": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:34": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:50": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with long dark hair, wearing a yellow knitted vest over a white t-shirt, and light blue jeans. Their face is blurred.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "00:03": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:07": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "00:17": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:34": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:50": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"inquiring about owning a bag sealer\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_232",
+    "video_id": "loc3_script2_seq4_rec1"
+}

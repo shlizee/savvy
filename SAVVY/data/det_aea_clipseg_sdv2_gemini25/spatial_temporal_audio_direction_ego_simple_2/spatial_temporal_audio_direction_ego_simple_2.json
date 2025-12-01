@@ -1,0 +1,128 @@
+{
+    "event": "A creak and thud sound, interpreted as the front door closing.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Wooden interior front door, painted a dark reddish-brown/mahogany color on the inside. It has an arched top. The doorknob assembly is brass-colored and located on the right side of the door panel (when viewed from inside). The door has a small, narrow, arched window with vertical metal bars, located centrally towards the top. The hinges are on the left side (when viewed from inside), so it swings inwards and to the left. Standard residential door height (approx 2m), width (approx 0.8-0.9m).",
+        "is_static": true,
+        "key_frames": {
+            "0:06": {
+                "distance": "0.5m",
+                "direction": "30degrees"
+            },
+            "0:07": {
+                "distance": "0.2m",
+                "direction": "0degrees"
+            },
+            "0:08": {
+                "distance": "0.3m",
+                "direction": "-80degrees"
+            },
+            "0:13": {
+                "distance": "0.3m",
+                "direction": "-45degrees"
+            },
+            "0:14": {
+                "distance": "0.2m",
+                "direction": "0degrees"
+            },
+            "0:15": {
+                "distance": "0.3m",
+                "direction": "-5degrees"
+            },
+            "0:16": {
+                "distance": "0.8m",
+                "direction": "-30degrees"
+            },
+            "0:30": {
+                "distance": "3.0m",
+                "direction": "-75degrees"
+            },
+            "0:45": {
+                "distance": "3.5m",
+                "direction": "-80degrees"
+            },
+            "1:00": {
+                "distance": "3.5m",
+                "direction": "-80degrees"
+            },
+            "1:15": {
+                "distance": "3.5m",
+                "direction": "-80degrees"
+            },
+            "1:30": {
+                "distance": "3.5m",
+                "direction": "-80degrees"
+            },
+            "1:45": {
+                "distance": "3.5m",
+                "direction": "-80degrees"
+            },
+            "1:55": {
+                "distance": "3.5m",
+                "direction": "-80degrees"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The individual whose first-person perspective is captured by the camera. Their actions involve opening and closing the door, and interacting with a guest.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0m",
+                "direction": "0degrees"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Armchairs by window",
+        "description": "Two light-colored armchairs with blue pillows, situated in front of a large arched window. This is the general direction the camera is facing (at 0:12) just before the camera wearer turns to close the door (which causes the thud at 0:14).",
+        "key_frames": {
+            "0:04": {
+                "distance": "2.8m",
+                "direction": "0degrees"
+            },
+            "0:12": {
+                "distance": "2.2m",
+                "direction": "5degrees"
+            },
+            "0:17": {
+                "distance": "2.5m",
+                "direction": "0degrees"
+            },
+            "0:31": {
+                "distance": "2.5m",
+                "direction": "0degrees"
+            },
+            "0:40": {
+                "distance": "2.5m",
+                "direction": "0degrees"
+            },
+            "0:50": {
+                "distance": "2.5m",
+                "direction": "0degrees"
+            },
+            "1:00": {
+                "distance": "2.5m",
+                "direction": "0degrees"
+            },
+            "1:10": {
+                "distance": "2.5m",
+                "direction": "0degrees"
+            },
+            "1:20": {
+                "distance": "2.5m",
+                "direction": "0degrees"
+            },
+            "1:38": {
+                "distance": "2.5m",
+                "direction": "0degrees"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_2",
+    "video_id": "loc1_script2_seq1_rec1"
+}

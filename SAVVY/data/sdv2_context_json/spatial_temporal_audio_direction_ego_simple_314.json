@@ -1,0 +1,160 @@
+{
+    "event": "Determine the relative position of the other person when the speech topic 'stating need to flip eggs' comes up.",
+    "start_time": "1:49",
+    "end_time": "1:51",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with a light skin tone, short dark hair, and a beard. He is wearing a turquoise/green short-sleeved polo shirt, blue jeans, and a watch on his left wrist. He also has wired earbuds in, with the wire running down his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:21": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:23": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:54": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "-75"
+            },
+            "2:07": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "2:10": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "2:18": {
+                "distance": "2.6",
+                "direction": "-30"
+            },
+            "2:20": {
+                "distance": "2.7",
+                "direction": "-15"
+            },
+            "2:23": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:28": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:53": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "2:57": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "3:24": {
+                "distance": "3.2",
+                "direction": "-75"
+            },
+            "3:29": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "3:31": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "3:36": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "4:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "4:12": {
+                "distance": "2.1",
+                "direction": "5"
+            },
+            "4:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "4:35": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating need to flip eggs\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_314",
+    "video_id": "loc3_script3_seq4_rec1"
+}

@@ -1,0 +1,152 @@
+{
+    "event": "Speaker indicates that coffee is ready.",
+    "start_time": "0:06",
+    "end_time": "0:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal polo shirt, khaki shorts, white socks, and sneakers. He has a lavalier microphone clipped to his shirt. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "4.2",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large expanse of sliding glass doors and fixed glass panels forming the back wall of the kitchen/dining area, offering a view of an outdoor pool and patio. Metal frames, likely aluminum, dark colored. Spans most of the width of the area shown.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "5.0",
+                "direction": "170"
+            },
+            "0:36": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.3",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "0.3",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "Small wooden dining table, likely rectangular, dark brown wood. Accompanied by two wooden chairs with dark upholstery. Located near the window with the pool view, in a corner of the dining area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "5.0",
+                "direction": "-40"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:36": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the two-seater dining table, when the speech topic: \"indicating prepared coffee availability\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_124",
+    "video_id": "loc2_script2_seq3_rec2"
+}

@@ -1,0 +1,126 @@
+{
+    "event": "The speaker describes an item as 'fancy'. Determine the speaker's location relative to a robot standing by a black round ottoman and facing a rectangular coffee table.",
+    "start_time": "0:01:20",
+    "end_time": "0:01:21",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Female with long, dark curly hair, wearing glasses. She is dressed in a yellow cable-knit sweater vest over a white short-sleeved t-shirt, light blue jeans, and light-colored patterned socks. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:00:04": {
+                "distance": "1.8",
+                "direction": "50"
+            },
+            "0:00:07": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:00:11": {
+                "distance": "2.8",
+                "direction": "5"
+            },
+            "0:00:22": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:00:34": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:00:46": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:01:00": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:01:10": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:01:20": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:01:35": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:01:50": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:02:05": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:02:20": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:02:40": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:02:53": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:03:07": {
+                "distance": "2.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black Round Ottoman",
+        "description": "A large, cylindrical ottoman, approximately 0.8-1 meter in diameter and 0.4-0.5 meters high. It is upholstered in a dark (black or very dark grey) fabric and has a soft, possibly tufted top. It is located in the living room area, near the fireplace and sofa.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "0:00:02": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "0:00:04": {
+                "distance": "1.0",
+                "direction": "-85"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular Wooden Coffee Table",
+        "description": "A wooden coffee table, rectangular in shape, approximately 1.2-1.5 meters long, 0.6-0.8 meters wide, and 0.4-0.5 meters high. It has a medium to dark wood finish and is located in the living room, in front of the sofa.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:00:02": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:00:05": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:00:18": {
+                "distance": "3.5",
+                "direction": "-150"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the rectangular dining table, when the speech topic: \"describing item as fancy\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_295",
+    "video_id": "loc3_script2_seq3_rec1"
+}

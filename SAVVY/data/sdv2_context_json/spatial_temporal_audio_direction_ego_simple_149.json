@@ -1,0 +1,122 @@
+{
+    "event": "The other person agrees with the camera wearer's appreciation of the beautiful weather.",
+    "start_time": "0:03",
+    "end_time": "0:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male individual with a blurred face, wearing a light blue short-sleeved polo shirt and khaki shorts. He has short, dark hair (visible around the blur). He is initially seated on a couch and later stands and walks. He is also wearing a watch on his left wrist and has wired earphones in.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:57": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:07": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:14": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewer's perspective.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "direction camera is pointing",
+        "description": "The direction the camera is currently pointing.",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"agreeing with appreciation of beauty\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_149",
+    "video_id": "loc2_script2_seq8_rec2"
+}

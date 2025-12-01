@@ -1,0 +1,188 @@
+{
+    "event": "A person compliments the taste of potatoes.",
+    "start_time": "03:38",
+    "end_time": "03:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses (which he sometimes pushes up onto his head) and wired earphones. During the event, he is seated at the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "00:02": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "00:03": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:13": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "01:21": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "01:23": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "01:32": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:07": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:16": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:20": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:55": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "03:29": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "03:38": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "03:53": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "04:05": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "04:13": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "04:20": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "04:36": {
+                "distance": "3.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular wooden coffee table located in the living room area, in front of a large white sofa. It appears to be made of light-colored wood. Approximate dimensions: 1.5m (length) x 0.8m (width) x 0.4m (height).",
+        "key_frames": {
+            "00:00": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "00:05": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "00:08": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "01:27": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "01:55": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "02:03": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "02:08": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "03:29": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "03:38": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "04:08": {
+                "distance": "4.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace built into a stone-faced wall section in the living room. It has a wooden mantelpiece, and a large landscape painting is hung above it. It is located on the wall opposite the main seating area.",
+        "key_frames": {
+            "00:00": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "00:05": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "00:08": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "01:27": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "01:55": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "02:03": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "02:08": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "03:29": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "03:38": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "04:08": {
+                "distance": "5.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the fireplace, when the speech topic: \"complimenting potatoes taste\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_371",
+    "video_id": "loc3_script3_seq4_rec1"
+}

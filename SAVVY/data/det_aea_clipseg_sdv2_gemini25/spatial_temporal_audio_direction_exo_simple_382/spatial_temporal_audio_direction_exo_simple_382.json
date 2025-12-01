@@ -1,0 +1,136 @@
+{
+    "event": "Speaker asking about putting items in the dishwasher.",
+    "start_time": "02:16",
+    "end_time": "02:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a dark long-sleeved top (black sweater over a light blue collared shirt), and blue jeans. Medium build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "00:05": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "00:12": {
+                "distance": "2.2",
+                "direction": "-30"
+            },
+            "00:23": {
+                "distance": "3.8",
+                "direction": "-65"
+            },
+            "00:26": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:28": {
+                "distance": "2.3",
+                "direction": "-165"
+            },
+            "01:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "02:16": {
+                "distance": "2.4",
+                "direction": "-170"
+            },
+            "02:26": {
+                "distance": "2.0",
+                "direction": "-175"
+            },
+            "02:31": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "02:49": {
+                "distance": "2.6",
+                "direction": "-5"
+            },
+            "03:03": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "03:08": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular wooden coffee table, light-colored wood with a darker inset or pattern on top, located in the living room area in front of a large sofa.",
+        "key_frames": {
+            "00:27": {
+                "distance": "3.2",
+                "direction": "-105"
+            },
+            "00:46": {
+                "distance": "2.8",
+                "direction": "-155"
+            },
+            "01:25": {
+                "distance": "2.8",
+                "direction": "-155"
+            },
+            "01:38": {
+                "distance": "2.8",
+                "direction": "-155"
+            },
+            "02:24": {
+                "distance": "2.8",
+                "direction": "-155"
+            },
+            "02:37": {
+                "distance": "2.8",
+                "direction": "-155"
+            },
+            "03:05": {
+                "distance": "2.8",
+                "direction": "-155"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A television set, likely wall-mounted, located above a fireplace with a stone facade. This is in the living room area, opposite the main sofa and coffee table.",
+        "key_frames": {
+            "00:27": {
+                "distance": "4.2",
+                "direction": "-125"
+            },
+            "00:46": {
+                "distance": "3.8",
+                "direction": "-175"
+            },
+            "01:25": {
+                "distance": "3.8",
+                "direction": "-175"
+            },
+            "01:38": {
+                "distance": "3.8",
+                "direction": "-175"
+            },
+            "02:24": {
+                "distance": "3.8",
+                "direction": "-175"
+            },
+            "02:37": {
+                "distance": "3.8",
+                "direction": "-175"
+            },
+            "03:05": {
+                "distance": "3.8",
+                "direction": "-175"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the tv by the fireplace, when the speech topic: \"asking about putting items in dishwasher\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_382",
+    "video_id": "loc3_script3_seq5_rec1"
+}

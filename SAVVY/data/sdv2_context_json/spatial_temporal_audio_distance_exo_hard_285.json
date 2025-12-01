@@ -1,0 +1,83 @@
+{
+    "event": "The speech topic: \"expressing being thwarted again\" is mentioned.",
+    "start_time": "0:01:53",
+    "end_time": "0:01:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a yellow sleeveless top over a white t-shirt, and dark sunglasses. She is sitting at a wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:00:21": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:00:53": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:01:20": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:01:53": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:02:11": {
+                "distance": "1.1",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "gray reclining lounge chair with ottoman",
+        "description": "A gray reclining lounge chair with a matching ottoman, located outdoors on a balcony.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:00:10": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:00:30": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:00:50": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:01:10": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:01:30": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:01:50": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:02:10": {
+                "distance": "3.5",
+                "direction": "20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera",
+        "description": "The camera recording the scene.",
+        "key_frames": {}
+    },
+    "prediction": 3.7,
+    "question": "When the speech topic: \"expressing being thwarted again\" is mentioned, what is the distance between the gray reclining lounge chair with ottoman and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_285",
+    "video_id": "loc3_script2_seq5_rec2"
+}

@@ -1,0 +1,132 @@
+{
+    "event": "Speaker instructs about the placement of flowers.",
+    "start_time": "01:41",
+    "end_time": "01:43",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark hair, wearing glasses, a light green short-sleeved collared shirt, dark shorts. He has a small black device clipped to his shirt with a wire leading to an earpiece.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:59": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:02": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:41": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:57": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:02": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "2:08": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden dining table",
+        "description": "A large rectangular wooden dining table with a light-colored wood finish. It has a patterned runner on it for part of the video. The camera is often placed on or near this table.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop oven",
+        "description": "A stainless steel countertop oven, likely a toaster oven or small convection oven, with multiple knobs on its front panel. It is situated on a white countertop in the kitchen area.",
+        "key_frames": {
+            "0:12": {
+                "distance": "3.8",
+                "direction": "-50"
+            },
+            "0:56": {
+                "distance": "3.8",
+                "direction": "-50"
+            },
+            "1:03": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "3.8",
+                "direction": "-50"
+            },
+            "1:41": {
+                "distance": "3.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the wooden dining table and facing the countertop oven, when the speech topic: \"instructing placement of flowers\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_63",
+    "video_id": "loc1_script2_seq6_rec2"
+}

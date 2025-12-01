@@ -1,0 +1,140 @@
+{
+    "event": "A tab being pulled open sound comes up, relative to a robot standing by the round sink with a tap and facing the stainless steel refrigerator.",
+    "start_time": "02:42",
+    "end_time": "02:43",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A standard-sized aluminum beverage can, specifically an Arizona Green Tea can. It is predominantly teal/light blue with pink cherry blossom designs and yellow/gold accents near the top and bottom. Cylindrical shape, approximately 15cm tall and 6cm in diameter. The sound is the tab being pulled to open it.",
+        "is_static": false,
+        "key_frames": {
+            "01:04": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:08": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "01:15": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "02:20": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "02:42": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "03:02": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "03:30": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "03:52": {
+                "distance": "0.4",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, undermount kitchen sink, likely made of a dark composite material or stainless steel, with a single-lever chrome/stainless steel tap. It is set into a speckled granite countertop on a kitchen peninsula/corner.",
+        "key_frames": {
+            "00:13": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:36": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:44": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "1.5",
+                "direction": "-170"
+            },
+            "01:40": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:42": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "04:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, stainless steel, double-door (French door style top, freezer drawer bottom) refrigerator with an ice/water dispenser on the left door. It is built into the kitchen cabinetry along the main counter wall.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "00:03": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "00:13": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:25": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "00:44": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:50": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "01:40": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "02:42": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "04:00": {
+                "distance": "3.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel refrigerator, when a tab being pulled open sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_259",
+    "video_id": "loc2_script3_seq4_rec2"
+}

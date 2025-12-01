@@ -1,0 +1,59 @@
+{
+    "event": "Determine the speaker's location relative to a robot standing by the sink and facing the dishwasher, when the speech topic is 'announcing location of items'.",
+    "start_time": "0:09",
+    "end_time": "0:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man, wearing a turquoise blue short-sleeved polo shirt with a thin black horizontal stripe at the collar and sleeve cuffs, khaki shorts, and glasses. He appears to be of average build. Approx. 1.75-1.85m height. This is the person whose perspective the camera primarily follows.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the built-in stainless steel dishwasher, when the speech topic: \"announcing location of items\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_212",
+    "video_id": "loc2_script3_seq31_rec2"
+}

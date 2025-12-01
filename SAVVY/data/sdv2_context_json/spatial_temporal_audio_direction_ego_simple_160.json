@@ -1,0 +1,100 @@
+{
+    "event": "Other person suggesting sitting down together",
+    "start_time": "0:29",
+    "end_time": "0:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue t-shirt and khaki shorts, white socks, and sneakers. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "5.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "5.0",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-35"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:34": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer, who appears to be sitting on a couch in a living room.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Smartphone on Coffee Table",
+        "description": "A white smartphone resting on the coffee table. At the moment of the event, this object is approximately at the center of the camera's gaze.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:24": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting sitting down together\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_160",
+    "video_id": "loc2_script3_seq1_rec2"
+}

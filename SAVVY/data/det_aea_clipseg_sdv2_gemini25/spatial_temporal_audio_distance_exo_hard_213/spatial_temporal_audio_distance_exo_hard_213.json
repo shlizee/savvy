@@ -1,0 +1,146 @@
+{
+    "event": "Calculating the distance between the electric cooktop and the person speaking when La Croix drinks are requested.",
+    "start_time": "0:39",
+    "end_time": "0:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a light blue/teal short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair, a slightly receding hairline, and a medium build. He is the source of the speech requesting La Croix.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "80"
+            },
+            "0:40": {
+                "distance": "2.3",
+                "direction": "-80"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:03": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "4:05": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, flat, rectangular electric cooktop, likely glass-ceramic, with multiple circular burner markings. It is integrated into a light-colored granite kitchen island. Approximate size 0.8m x 0.6m.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:38": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "2.2",
+                "direction": "45"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "4:02": {
+                "distance": "3.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Michael (Speech Source)",
+        "description": "Adult male (Michael), wearing a light blue/teal short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair, a slightly receding hairline, and a medium build. He is the source of the speech requesting La Croix.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "80"
+            },
+            "0:40": {
+                "distance": "2.3",
+                "direction": "-80"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:03": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "4:05": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.3,
+    "question": "When the speech topic: \"requesting grabbing la croix drinks\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_213",
+    "video_id": "loc2_script3_seq4_rec2"
+}

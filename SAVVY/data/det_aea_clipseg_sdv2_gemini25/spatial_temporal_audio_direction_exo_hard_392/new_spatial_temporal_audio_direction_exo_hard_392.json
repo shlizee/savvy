@@ -1,0 +1,188 @@
+{
+    "event": "A person comments on the garlicky flavor of the food while sitting at a dining table.",
+    "start_time": "03:55",
+    "end_time": "04:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a person with curly dark hair, wearing glasses, a dark navy blue sweater over a light blue collared shirt, and blue jeans. They are seated at the dining table during the event.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "00:04": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:11": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "00:13": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "00:53": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "01:02": {
+                "distance": "1.0",
+                "direction": "-35"
+            },
+            "01:05": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "01:22": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "02:15": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "02:25": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "02:40": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "02:55": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "03:25": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "03:37": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "03:55": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "04:05": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "04:11": {
+                "distance": "1.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A wooden rectangular dining table. During the meal, it has a slatted wooden placemat/runner, plates, glasses, and food items on it. It is located between the kitchen area and the living room area.",
+        "key_frames": {
+            "00:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:11": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:55": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "04:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "04:11": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch with wooden legs. It is located in the living room area, near large windows.",
+        "key_frames": {
+            "00:15": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:20": {
+                "distance": "3.8",
+                "direction": "-20"
+            },
+            "00:45": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "01:35": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "01:45": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "02:11": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "03:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "03:30": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "03:55": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "04:05": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "04:11": {
+                "distance": "3.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the light-gray two-seater couch, when the speech topic: \"commenting on garlicky flavor\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_392",
+    "video_id": "loc3_script3_seq4_rec2"
+}

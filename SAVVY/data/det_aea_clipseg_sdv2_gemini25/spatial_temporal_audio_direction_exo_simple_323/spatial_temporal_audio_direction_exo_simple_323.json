@@ -1,0 +1,192 @@
+{
+    "event": "Determine the speaker's location (left, right, or back) relative to the robot's position and facing direction when the speech topic: \"specifying available snack type\" comes up.",
+    "start_time": "0:37",
+    "end_time": "0:45",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a green polo shirt and blue jeans. He has short, dark hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:47": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray two-seater couch with a dark blue and white patterned throw blanket on it. It has wooden legs.",
+        "key_frames": {
+            "0:12": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:46": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:57": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:09": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:22": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:39": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:47": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A black flat-screen TV mounted above a stone fireplace. There are bookshelves on either side of the fireplace.",
+        "key_frames": {
+            "0:12": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "0:37": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "0:46": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "0:51": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:47": {
+                "distance": "4.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the tv by the fireplace, when the speech topic: \"specifying available snack type\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_323",
+    "video_id": "loc3_script2_seq4_rec2"
+}

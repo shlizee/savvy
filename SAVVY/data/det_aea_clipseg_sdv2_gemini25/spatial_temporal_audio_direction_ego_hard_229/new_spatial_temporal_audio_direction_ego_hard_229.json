@@ -1,0 +1,248 @@
+{
+    "event": "The other person specifies grabbing a particular plate by saying 'we'll just grab the one'.",
+    "start_time": "0:23",
+    "end_time": "0:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the video. An adult with a blurred face, curly dark hair, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. Appears to be male, approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:23": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "170"
+            },
+            "0:31": {
+                "distance": "3.0",
+                "direction": "-170"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:03": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:43": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "4:00": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "4:06": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the first-person perspective of the wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "At the moment of the event (0:23-0:24), the camera is facing the 'other person' (sounding object).",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:23": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "170"
+            },
+            "0:31": {
+                "distance": "3.0",
+                "direction": "-170"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:03": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:43": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "4:00": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "4:06": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"specifying grabbing a particular plate\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_229",
+    "video_id": "loc2_script3_seq4_rec1"
+}

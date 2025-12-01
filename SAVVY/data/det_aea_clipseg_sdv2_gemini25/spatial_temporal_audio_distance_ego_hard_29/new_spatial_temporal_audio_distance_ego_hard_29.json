@@ -1,0 +1,107 @@
+{
+    "event": "Suggesting stopping the recording",
+    "start_time": "1:57",
+    "end_time": "2:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a light green/teal short-sleeved collared shirt, and dark shorts. He is the one speaking about stopping the recording.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:31": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:59": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:01": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:21": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:43": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:57": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "2:02": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "2:09": {
+                "distance": "3.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the first person, representing their point of view. This is the origin (0,0) for distance and direction measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for egocentric mode where the reference is the camera itself. Directions are relative to the camera's forward view.",
+        "key_frames": {}
+    },
+    "prediction": 3.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting stopping the recording\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_29",
+    "video_id": "loc1_script2_seq6_rec2"
+}

@@ -1,0 +1,128 @@
+{
+    "event": "The woman (speech sound source) reminds the man (camera-wearer) not to forget his shoes.",
+    "start_time": "0:03",
+    "end_time": "0:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved crop top, and light blue high-waisted jeans. She is also wearing glasses. Her approximate height is average for an adult female. She is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "0:03": {
+                "distance": "0.8",
+                "direction": "-35"
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "0:09": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:22": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:04": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:14": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:27": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "white recessed fireplace",
+        "description": "A white recessed fireplace with a dark interior. It has a wooden mantelpiece above it, decorated with a string of small, orange, carrot-shaped items and other small figurines. A round mirror with an ornate frame hangs above the mantelpiece. The fireplace is built into a light gray wall.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:03": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "25"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "3.2",
+                "direction": "20"
+            },
+            "0:56": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:27": {
+                "distance": "3.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera",
+        "description": "The camera is the point of view for distances and directions.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "When the speech topic: \"reminding listener not to forget items\" is mentioned, what is the distance between the white recessed fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_69",
+    "video_id": "loc1_script2_seq8_rec1"
+}

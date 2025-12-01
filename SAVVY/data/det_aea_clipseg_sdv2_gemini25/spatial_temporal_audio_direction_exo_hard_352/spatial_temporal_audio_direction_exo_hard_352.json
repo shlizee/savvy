@@ -1,0 +1,100 @@
+{
+    "event": "Speaker narrating putting eggs in fridge",
+    "start_time": "0:32",
+    "end_time": "0:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a light green short-sleeved polo shirt and blue jeans. He is seen carrying grocery bags and is the one speaking about the eggs.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "80"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "85"
+            },
+            "0:32": {
+                "distance": "4.5",
+                "direction": "90"
+            },
+            "0:40": {
+                "distance": "4.5",
+                "direction": "90"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "85"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A modern, light-gray upholstered three-seater couch with light-colored wooden legs. It has several cushions on it: two main seat cushions, two back cushions, and decorative pillows including a prominent yellow and orange giraffe-shaped cushion and a colorful striped rectangular cushion (orange, yellow, pink).",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Piano",
+        "description": "An upright black piano, likely polished wood. It is positioned against a white wall. A framed picture depicting a red truck and an American flag motif hangs on the wall above the piano.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "0:35": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "0:45": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "75"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the piano, when the speech topic: \"narrating putting eggs in fridge\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_352",
+    "video_id": "loc3_script3_seq1_rec2"
+}

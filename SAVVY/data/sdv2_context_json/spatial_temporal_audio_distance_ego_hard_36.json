@@ -1,0 +1,115 @@
+{
+    "event": "Asking for preference between Shrek sequels",
+    "start_time": "02:46",
+    "end_time": "02:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark brown wavy hair, wearing a black short-sleeved V-neck crop top, light blue high-waisted jeans with a black belt, and dark-framed glasses (possibly smart glasses with a device on the right temple). She has a small tattoo, possibly a star or geometric shape, on her left inner forearm. Approximate height appears average. She is the one who asks the question about Shrek sequels.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:19": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "02:46": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "02:47": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "02:48": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "3:10": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "3:20": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "4:24": {
+                "distance": "0.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. This person is sitting on a couch next to the sounding object (woman).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": null,
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking for preference between shrek sequels\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_36",
+    "video_id": "loc1_script2_seq7_rec2"
+}

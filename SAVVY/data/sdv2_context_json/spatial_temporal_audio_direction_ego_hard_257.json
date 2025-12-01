@@ -1,0 +1,148 @@
+{
+    "event": "The other person accepts an offer of water.",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person, a woman with long, dark brown, wavy hair. She is wearing a yellow knitted sleeveless top over a white short-sleeved t-shirt, light blue cuffed jeans, and light-colored patterned socks. Her approximate height appears average for an adult female.",
+        "is_static": false,
+        "key_frames": {
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:11": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "5.8",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "6.2",
+                "direction": "15"
+            },
+            "0:16": {
+                "distance": "6.3",
+                "direction": "30"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:58": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "1.3",
+                "direction": "-25"
+            },
+            "1:30": {
+                "distance": "1.3",
+                "direction": "-25"
+            },
+            "1:40": {
+                "distance": "1.4",
+                "direction": "-20"
+            },
+            "1:50": {
+                "distance": "1.4",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the first-person viewpoint (the origin). All distances and directions of other objects are measured relative to this point and its instantaneous orientation.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera Gaze Line",
+        "description": "A conceptual line extending straight forward from the camera, representing the 0-degree direction or 'front'. It is not a physical object in the scene but defines the reference for angular directions of other objects.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"accepting offer of water\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_257",
+    "video_id": "loc3_script2_seq1_rec2"
+}

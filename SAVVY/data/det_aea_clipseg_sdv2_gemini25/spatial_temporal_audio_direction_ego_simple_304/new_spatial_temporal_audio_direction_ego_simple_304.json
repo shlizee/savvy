@@ -1,0 +1,172 @@
+{
+    "event": "The speech topic 'contrasting proposal with reality of many stops' comes up.",
+    "start_time": "01:29",
+    "end_time": "01:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with short, curly dark brown or black hair, wearing thin-framed glasses. They are wearing a dark navy or black collared shirt (polo style or button-up) under a dark gray or black V-neck or crew-neck sweater, and blue denim jeans. They are also wearing light-colored socks, possibly white or light gray. The person is of average build and appears to be an adult male. They are seated on a light beige or cream-colored fabric couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "1.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person who is seated, likely on another couch or chair, facing the sounding object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sounding Object (Person on couch)",
+        "description": "The camera is generally facing the person who is speaking (the sounding object).",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "1.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"contrasting proposal with reality of many stops\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_304",
+    "video_id": "loc3_script3_seq2_rec1"
+}

@@ -1,0 +1,120 @@
+{
+    "event": "Proposing cleaning up, specifically when the first person suggests it.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is Person 1, who first proposes cleaning up. This person has a blurred face, is wearing a light-colored t-shirt (appears beige or light grey) and light-colored shorts (possibly light blue or grey). They are sitting on a dark-framed bar stool with a light cushion at a large, thick wooden kitchen island. Appears to be an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "1.1",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "1.1",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:02": {
+                "distance": "1.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person view camera, held by an individual. This is the reference point for all egocentric measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Island",
+        "description": "A large, wooden kitchen island with a thick countertop. Part of it has a granite/stone countertop section with a sink, and another part is a wooden surface where Person 1 is seated. The wood is medium brown, and the stone is mottled grey/beige. It is a substantial, fixed piece of kitchen furniture.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.9",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.7,
+    "question": "When the speech topic: \"proposing cleaning up\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_139",
+    "video_id": "loc2_script2_seq6_rec2"
+}

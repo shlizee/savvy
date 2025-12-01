@@ -1,0 +1,111 @@
+{
+    "event": "Clarifying previous successful uploads",
+    "start_time": "0:37",
+    "end_time": "0:58",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly brown hair, wearing glasses, a light green short-sleeved collared shirt, and dark shorts. Approximate height appears to be average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:38": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "2:11": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "2:18": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "2:25": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "2:47": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "2:58": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "3:08": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "4:22": {
+                "distance": "1.8",
+                "direction": "75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"clarifying previous successful uploads\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_41",
+    "video_id": "loc1_script2_seq7_rec1"
+}

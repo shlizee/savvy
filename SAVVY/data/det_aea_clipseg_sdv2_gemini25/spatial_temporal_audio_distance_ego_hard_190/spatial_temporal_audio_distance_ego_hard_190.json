@@ -1,0 +1,134 @@
+{
+    "event": "Distance between camera wearer and other person when the speech topic 'mentioning needing forks' comes up.",
+    "start_time": "0:29",
+    "end_time": "0:29",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, short dark hair, wearing glasses. He is dressed in a light blue/teal short-sleeved polo shirt, khaki/beige cargo shorts, white socks, and white sneakers. He wears a watch on his left wrist and initially has a wired earpiece in his right ear (which he removes later in the video).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:21": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:26": {
+                "distance": "2.8",
+                "direction": "-80"
+            },
+            "0:28": {
+                "distance": "3.2",
+                "direction": "-85"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:16": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "4:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 3.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"mentioning needing forks\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_190",
+    "video_id": "loc2_script3_seq4_rec2"
+}

@@ -1,0 +1,98 @@
+{
+    "event": "Speculating and confirming mugs are by coffee.",
+    "start_time": "0:18",
+    "end_time": "0:26",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a man with curly brown hair, wearing glasses (sometimes on his head, sometimes worn properly). He is dressed in a light teal/mint green short-sleeved button-up shirt, dark navy/black shorts, and black socks/shoes. He is also wearing wired headphones around his neck/ears and has a small black device (possibly a microphone or recorder) clipped to his shirt pocket.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "7.0",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "5.5",
+                "direction": "20"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "2.1",
+                "direction": "5"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "1:44": {
+                "distance": "2.1",
+                "direction": "5"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "2.1",
+                "direction": "5"
+            },
+            "2:45": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:58": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "3:06": {
+                "distance": "1.9",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer's hands are often visible.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 2.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"speculating and confirming mugs are by coffee\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_16",
+    "video_id": "loc1_script2_seq3_rec2"
+}

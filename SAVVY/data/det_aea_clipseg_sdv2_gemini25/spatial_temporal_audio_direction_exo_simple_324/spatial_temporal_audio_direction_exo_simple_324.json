@@ -1,0 +1,164 @@
+{
+    "event": "The speech topic 'observing someone's action' comes up, and the task is to determine the speaker's location (left, right, or back) relative to a robot standing by the kitchen hob and facing the light-gray three-seater couch.",
+    "start_time": "0:49",
+    "end_time": "0:58",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short, dark hair and is balding on top. He is also wearing a watch on his left wrist and has a wired earpiece in his right ear, with the wire running down his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "0:12": {
+                "distance": "1.6",
+                "direction": "-75"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:41": {
+                "distance": "3.2",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:58": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen hob",
+        "description": "A stainless steel gas kitchen hob with multiple burners, set into a light-colored countertop. There are wooden cabinets above and below it. A blue kettle is visible on it in early frames.",
+        "key_frames": {
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:04": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:27": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:38": {
+                "distance": "4.0",
+                "direction": "-100"
+            },
+            "0:50": {
+                "distance": "4.5",
+                "direction": "-110"
+            },
+            "0:58": {
+                "distance": "4.0",
+                "direction": "-100"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch with wooden legs. It has a throw blanket draped over its back, with a 'NOBODY' text print.",
+        "key_frames": {
+            "0:12": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "0:18": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "0:27": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:31": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "0:38": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:46": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:51": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:58": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "1:12": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "1:22": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "1:31": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the kitchen hob and facing the light-gray three-seater couch, when the speech topic: \"observing someone's action\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_324",
+    "video_id": "loc3_script2_seq4_rec2"
+}

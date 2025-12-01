@@ -1,0 +1,2705 @@
+{
+    "00000": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 18.23,
+            "distance": 5.07,
+            "det_conf": [
+                0.663525402545929,
+                0.5160290598869324,
+                0.18110880255699158,
+                0.255450576543808,
+                0.0023502425756305456
+            ]
+        }
+    },
+    "00005": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 49.02,
+            "distance": 2.7,
+            "det_conf": [
+                0.3590417504310608,
+                0.061578113585710526,
+                0.1666470319032669,
+                0.534423291683197,
+                0.532707154750824
+            ]
+        }
+    },
+    "00010": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -48.76,
+            "distance": 1.83,
+            "det_conf": [
+                0.23228241503238678,
+                0.19365811347961426,
+                0.14240972697734833,
+                0.5479228496551514,
+                0.4382284879684448
+            ]
+        }
+    },
+    "00015": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -6.87,
+            "distance": 6.03,
+            "det_conf": [
+                0.5947279334068298,
+                0.6277098059654236,
+                0.37249767780303955,
+                0.6529200077056885,
+                0.5879835486412048
+            ]
+        }
+    },
+    "00020": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -3.66,
+            "distance": 5.88,
+            "det_conf": [
+                0.5323933362960815,
+                0.11244669556617737,
+                0.6316695213317871,
+                0.4713771939277649,
+                0.0920119434595108
+            ]
+        }
+    },
+    "00030": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 3.23,
+            "distance": 5.52,
+            "det_conf": [
+                0.5168229341506958,
+                0.5717864632606506,
+                0.09074197709560394,
+                0.24200989305973053,
+                0.02258804254233837
+            ]
+        }
+    },
+    "00035": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 46.74,
+            "distance": 4.21,
+            "det_conf": [
+                0.01707383804023266,
+                0.5935342311859131,
+                0.052876804023981094,
+                0.005261011887341738,
+                0.35006001591682434
+            ]
+        }
+    },
+    "00040": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 66.22,
+            "distance": 2.85,
+            "det_conf": [
+                0.8562418818473816,
+                0.8252542018890381,
+                0.7384064793586731,
+                0.8363337516784668,
+                0.5320481061935425
+            ]
+        }
+    },
+    "00045": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 51.86,
+            "distance": 2.84,
+            "det_conf": [
+                0.7685723900794983,
+                0.6618287563323975,
+                0.07850649952888489,
+                0.3663356900215149,
+                0.1334354728460312
+            ]
+        }
+    },
+    "00050": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 31.24,
+            "distance": 4.35,
+            "det_conf": [
+                0.39003464579582214,
+                0.8005521297454834,
+                0.2906656861305237,
+                0.07646729797124863,
+                0.18627998232841492
+            ]
+        }
+    },
+    "00060": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 30.74,
+            "distance": 4.92,
+            "det_conf": [
+                0.7011223435401917,
+                0.7426410913467407,
+                0.7295849919319153,
+                0.05926406383514404,
+                0.038256172090768814
+            ]
+        }
+    },
+    "00080": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 2.81,
+            "distance": 5.31,
+            "det_conf": [
+                0.23432376980781555,
+                0.7340848445892334,
+                0.6486812233924866,
+                0.6269455552101135,
+                0.0025250150356441736
+            ]
+        }
+    },
+    "00085": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 78.84,
+            "distance": 3.47,
+            "det_conf": [
+                0.8552916646003723,
+                0.8450940251350403,
+                0.7855945229530334,
+                0.7557684183120728,
+                0.8581097722053528
+            ]
+        }
+    },
+    "00095": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -15.16,
+            "distance": 6.49,
+            "det_conf": [
+                0.6419703364372253,
+                0.6176339983940125,
+                0.3759114444255829,
+                0.5706081986427307,
+                0.6160880327224731
+            ]
+        }
+    },
+    "00100": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 1.02,
+            "distance": 4.92,
+            "det_conf": [
+                0.3170031011104584,
+                0.3083690106868744,
+                0.2726594805717468,
+                0.578747034072876,
+                0.5476968884468079
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -3.79,
+            "distance": 4.54,
+            "det_conf": [
+                0.6270239949226379,
+                0.24881799519062042,
+                0.629793643951416,
+                0.21052666008472443,
+                0.5209229588508606
+            ]
+        }
+    },
+    "00105": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 32.65,
+            "distance": 3.32,
+            "det_conf": [
+                0.43395066261291504,
+                0.36812594532966614,
+                0.31614750623703003,
+                0.5522753000259399,
+                0.4714537560939789
+            ]
+        }
+    },
+    "00115": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 43.38,
+            "distance": 5.11,
+            "det_conf": [
+                0.38500359654426575,
+                0.26609236001968384,
+                0.5345820188522339,
+                0.3095629811286926,
+                0.06854213029146194
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 40.42,
+            "distance": 4.74,
+            "det_conf": [
+                0.5440698862075806,
+                0.3317452371120453,
+                0.258599191904068,
+                0.4992543160915375,
+                0.26969853043556213
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -1.67,
+            "distance": 4.18,
+            "det_conf": [
+                0.4808243215084076,
+                0.5290039777755737,
+                0.4998050034046173,
+                0.3446276783943176,
+                0.26248154044151306
+            ]
+        }
+    },
+    "00130": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 42.23,
+            "distance": 2.39,
+            "det_conf": [
+                0.6629173159599304,
+                0.4202278256416321,
+                0.5016980171203613,
+                0.3366200923919678,
+                0.6259993314743042
+            ]
+        }
+    },
+    "00135": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 25.08,
+            "distance": 4.76,
+            "det_conf": [
+                0.659565269947052,
+                0.3391481041908264,
+                0.3376331627368927,
+                0.7122743725776672,
+                0.3018476963043213
+            ]
+        }
+    },
+    "00140": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -2.98,
+            "distance": 4.38,
+            "det_conf": [
+                0.7198470234870911,
+                0.3622131645679474,
+                0.5444059371948242,
+                0.5179705023765564,
+                0.17318063974380493
+            ]
+        }
+    },
+    "00145": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 50.05,
+            "distance": 3.27,
+            "det_conf": [
+                0.6430920362472534,
+                0.5531395077705383,
+                0.5956700444221497,
+                0.25171300768852234,
+                0.5510736703872681
+            ]
+        }
+    },
+    "00150": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 50.0,
+            "distance": 2.01,
+            "det_conf": [
+                0.3769131600856781,
+                0.2933421730995178,
+                0.653092622756958,
+                0.22161951661109924,
+                0.3678142726421356
+            ]
+        }
+    },
+    "00155": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 38.98,
+            "distance": 3.12,
+            "det_conf": [
+                0.1709543913602829,
+                0.23432882130146027,
+                0.1409757435321808,
+                0.6643199920654297,
+                0.48080629110336304
+            ]
+        }
+    },
+    "00160": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 30.45,
+            "distance": 3.39,
+            "det_conf": [
+                0.4686189293861389,
+                0.7060686349868774,
+                0.7055989503860474,
+                0.25478774309158325,
+                0.6596481204032898
+            ]
+        }
+    },
+    "00180": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 34.78,
+            "distance": 3.71,
+            "det_conf": [
+                0.7640326023101807,
+                0.478158563375473,
+                0.7708853483200073,
+                0.246959388256073,
+                0.16246017813682556
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 36.17,
+            "distance": 3.68,
+            "det_conf": [
+                0.5691959261894226,
+                0.3868884742259979,
+                0.5812566876411438,
+                0.5767487287521362,
+                0.6701163053512573
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 38.48,
+            "distance": 3.4,
+            "det_conf": [
+                0.8250738382339478,
+                0.8361837863922119,
+                0.4987923502922058,
+                0.025136053562164307,
+                0.06437092274427414
+            ]
+        }
+    },
+    "00190": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 35.17,
+            "distance": 2.2,
+            "det_conf": [
+                0.6100454330444336,
+                0.3862527310848236,
+                0.4041910171508789,
+                0.27273333072662354,
+                0.07572180032730103
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 37.69,
+            "distance": 2.18,
+            "det_conf": [
+                0.42773309350013733,
+                0.581560492515564,
+                0.557742178440094,
+                0.3584853708744049,
+                0.6356032490730286
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 34.31,
+            "distance": 2.24,
+            "det_conf": [
+                0.5546934008598328,
+                0.8733134269714355,
+                0.8675242066383362,
+                0.8631832599639893,
+                0.030928701162338257
+            ]
+        }
+    },
+    "00200": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 14.54,
+            "distance": 2.0,
+            "det_conf": [
+                0.6311929821968079,
+                0.7885452508926392,
+                0.28963714838027954,
+                0.5997319221496582,
+                0.3368971049785614
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -27.65,
+            "distance": 1.25,
+            "det_conf": [
+                0.16672880947589874,
+                0.2118792086839676,
+                0.33664029836654663,
+                0.5197737812995911,
+                0.02651526965200901
+            ]
+        }
+    },
+    "00210": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 43.75,
+            "distance": 1.05,
+            "det_conf": [
+                0.866949200630188,
+                0.7534626722335815,
+                0.7249884605407715,
+                0.8310522437095642,
+                0.9270691275596619
+            ]
+        }
+    },
+    "00220": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -4.29,
+            "distance": 1.12,
+            "det_conf": [
+                0.6633810997009277,
+                0.6733900904655457,
+                0.7350807189941406,
+                0.35331428050994873,
+                0.0770859569311142
+            ]
+        }
+    },
+    "00240": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -9.59,
+            "distance": 1.0,
+            "det_conf": [
+                0.44470909237861633,
+                0.7250705361366272,
+                0.6345205307006836,
+                0.3854236304759979,
+                0.6319621205329895
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 5.89,
+            "distance": 1.12,
+            "det_conf": [
+                0.5948487520217896,
+                0.2302262932062149,
+                0.05984730273485184,
+                0.11966622620820999,
+                0.100832998752594
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 2.65,
+            "distance": 1.13,
+            "det_conf": [
+                0.15709896385669708,
+                0.25944218039512634,
+                0.3675374984741211,
+                0.5677889585494995,
+                0.05558747425675392
+            ]
+        }
+    },
+    "00250": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -40.16,
+            "distance": 1.68,
+            "det_conf": [
+                0.21407783031463623,
+                0.015626629814505577,
+                0.65727698802948,
+                0.006360848434269428,
+                0.18806898593902588
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -27.37,
+            "distance": 1.41,
+            "det_conf": [
+                0.625979483127594,
+                0.5764545202255249,
+                0.6745587587356567,
+                0.5091610550880432,
+                0.6849744915962219
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -1.14,
+            "distance": 2.13,
+            "det_conf": [
+                0.9546504616737366,
+                0.947976291179657,
+                0.962351381778717,
+                0.9664084315299988,
+                0.9325358867645264
+            ]
+        }
+    },
+    "00270": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -11.23,
+            "distance": 1.83,
+            "det_conf": [
+                0.8083353638648987,
+                0.6928291916847229,
+                0.08245888352394104,
+                0.007058235816657543,
+                0.10506045073270798
+            ]
+        }
+    },
+    "00380": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -18.06,
+            "distance": 4.42,
+            "det_conf": [
+                0.13264115154743195,
+                0.1289665251970291,
+                0.0846731886267662,
+                0.3084019124507904,
+                0.5763440132141113
+            ]
+        }
+    },
+    "00385": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -9.0,
+            "distance": 4.8,
+            "det_conf": [
+                0.20605508983135223,
+                0.05155488848686218,
+                0.03339095786213875,
+                0.260792076587677,
+                0.7343679666519165
+            ]
+        }
+    },
+    "00390": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -9.23,
+            "distance": 2.44,
+            "det_conf": [
+                0.5194283723831177,
+                0.5638765692710876,
+                0.5147327184677124,
+                0.48996302485466003,
+                0.445854127407074
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 19.63,
+            "distance": 5.68,
+            "det_conf": [
+                0.795117199420929,
+                0.2877104878425598,
+                0.6692276000976562,
+                0.13587506115436554,
+                0.08502871543169022
+            ]
+        }
+    },
+    "00395": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 23.38,
+            "distance": 1.42,
+            "det_conf": [
+                0.5748099088668823,
+                0.0842851772904396,
+                0.0780695453286171,
+                0.1570124328136444,
+                0.010960838757455349
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 56.98,
+            "distance": 5.7,
+            "det_conf": [
+                0.4243575632572174,
+                0.43471282720565796,
+                0.5622343420982361,
+                0.2952219247817993,
+                0.4375803470611572
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -0.94,
+            "distance": 1.31,
+            "det_conf": [
+                0.819091796875,
+                0.8526745438575745,
+                0.8309488296508789,
+                0.8363500833511353,
+                0.6781250834465027
+            ]
+        }
+    },
+    "00405": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -28.81,
+            "distance": 3.57,
+            "det_conf": [
+                0.5543709397315979,
+                0.17047056555747986,
+                0.18666765093803406,
+                0.06558804959058762,
+                0.02164304628968239
+            ]
+        }
+    },
+    "00410": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -13.29,
+            "distance": 2.03,
+            "det_conf": [
+                0.6004635691642761,
+                0.5900731086730957,
+                0.7215521335601807,
+                0.6558029651641846,
+                0.0276503786444664
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 48.84,
+            "distance": 1.35,
+            "det_conf": [
+                0.3196679353713989,
+                0.18977925181388855,
+                0.4142672121524811,
+                0.273123562335968,
+                0.5362201929092407
+            ]
+        }
+    },
+    "00415": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 28.69,
+            "distance": 1.75,
+            "det_conf": [
+                0.6830679774284363,
+                0.7376129627227783,
+                0.24596309661865234,
+                0.34706708788871765,
+                0.020085031166672707
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -59.23,
+            "distance": 2.94,
+            "det_conf": [
+                0.5546361804008484,
+                0.417831152677536,
+                0.5134987831115723,
+                0.35762301087379456,
+                0.23739030957221985
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -47.55,
+            "distance": 2.38,
+            "det_conf": [
+                0.6431756615638733,
+                0.6412456631660461,
+                0.7695656418800354,
+                0.0710316076874733,
+                0.08919303864240646
+            ]
+        }
+    },
+    "00420": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -6.33,
+            "distance": 2.75,
+            "det_conf": [
+                0.1826106756925583,
+                0.48168617486953735,
+                0.7519962787628174,
+                0.32375749945640564,
+                0.10139094293117523
+            ]
+        }
+    },
+    "00430": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 6.65,
+            "distance": 1.92,
+            "det_conf": [
+                0.7400796413421631,
+                0.46434286236763,
+                0.5269559025764465,
+                0.21053747832775116,
+                0.27088022232055664
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -41.8,
+            "distance": 2.78,
+            "det_conf": [
+                0.19731225073337555,
+                0.08239245414733887,
+                0.11782670021057129,
+                0.2843949794769287,
+                0.6493053436279297
+            ]
+        }
+    },
+    "00440": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 11.97,
+            "distance": 2.03,
+            "det_conf": [
+                0.8863495588302612,
+                0.8670027852058411,
+                0.5556732416152954,
+                0.1745891124010086,
+                0.7596645355224609
+            ]
+        }
+    },
+    "00480": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 2.85,
+            "distance": 1.96,
+            "det_conf": [
+                0.7802608609199524,
+                0.8702203035354614,
+                0.9065804481506348,
+                0.8321767449378967,
+                0.8389438390731812
+            ]
+        }
+    },
+    "00485": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 4.52,
+            "distance": 1.15,
+            "det_conf": [
+                0.7249593138694763,
+                0.7501897811889648,
+                0.010090367868542671,
+                0.005280837882310152,
+                0.006596058141440153
+            ]
+        }
+    },
+    "00490": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 24.84,
+            "distance": 1.25,
+            "det_conf": [
+                0.711435079574585,
+                0.605343222618103,
+                0.4277331829071045,
+                0.03583872318267822,
+                0.019978152588009834
+            ]
+        }
+    },
+    "00495": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -15.44,
+            "distance": 1.37,
+            "det_conf": [
+                0.8189588785171509,
+                0.8115319609642029,
+                0.7964656352996826,
+                0.5225878953933716,
+                0.7975376844406128
+            ]
+        }
+    },
+    "00500": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -33.88,
+            "distance": 1.22,
+            "det_conf": [
+                0.5726022720336914,
+                0.46693164110183716,
+                0.04119350388646126,
+                0.028648030012845993,
+                0.01607191376388073
+            ]
+        }
+    },
+    "00510": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -52.68,
+            "distance": 1.02,
+            "det_conf": [
+                0.874815821647644,
+                0.8848512172698975,
+                0.8250144720077515,
+                0.8286182284355164,
+                0.7427341341972351
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 5.78,
+            "distance": 5.36,
+            "det_conf": [
+                0.14777570962905884,
+                0.1957329958677292,
+                0.509411633014679,
+                0.48235079646110535,
+                0.22858503460884094
+            ]
+        }
+    },
+    "00515": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -52.45,
+            "distance": 1.0,
+            "det_conf": [
+                0.8660970330238342,
+                0.8270456790924072,
+                0.830562174320221,
+                0.8490674495697021,
+                0.8011462092399597
+            ]
+        }
+    },
+    "00520": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -66.04,
+            "distance": 1.37,
+            "det_conf": [
+                0.8643428087234497,
+                0.2575063705444336,
+                0.517880380153656,
+                0.8279539942741394,
+                0.6789383292198181
+            ]
+        }
+    },
+    "00525": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 13.23,
+            "distance": 1.0,
+            "det_conf": [
+                0.7988887429237366,
+                0.708540141582489,
+                0.6994963884353638,
+                0.7436027526855469,
+                0.6580806374549866
+            ]
+        }
+    },
+    "00530": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -25.72,
+            "distance": 1.16,
+            "det_conf": [
+                0.6707660555839539,
+                0.6731460690498352,
+                0.4913903474807739,
+                0.14221230149269104,
+                0.15207773447036743
+            ]
+        }
+    },
+    "00535": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -3.77,
+            "distance": 1.31,
+            "det_conf": [
+                0.5121656656265259,
+                0.8204424977302551,
+                0.4265414774417877,
+                0.7945145964622498,
+                0.8101394772529602
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 23.08,
+            "distance": 1.15,
+            "det_conf": [
+                0.5930152535438538,
+                0.452354371547699,
+                0.5344435572624207,
+                0.5256324410438538,
+                0.49885281920433044
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -71.9,
+            "distance": 2.42,
+            "det_conf": [
+                0.18079304695129395,
+                0.6290748119354248,
+                0.526170551776886,
+                0.48493173718452454,
+                0.4649309515953064
+            ]
+        }
+    },
+    "00540": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 31.3,
+            "distance": 1.26,
+            "det_conf": [
+                0.4786888062953949,
+                0.1855122447013855,
+                0.7870095372200012,
+                0.694473385810852,
+                0.2255733460187912
+            ]
+        }
+    },
+    "00660": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -12.05,
+            "distance": 2.53,
+            "det_conf": [
+                0.5956870317459106,
+                0.30112141370773315,
+                0.7775333523750305,
+                0.6529037952423096,
+                0.0016244914149865508
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -8.21,
+            "distance": 2.58,
+            "det_conf": [
+                0.5515744686126709,
+                0.2658015787601471,
+                0.16617996990680695,
+                0.64617520570755,
+                0.13307392597198486
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -17.52,
+            "distance": 2.48,
+            "det_conf": [
+                0.6947969198226929,
+                0.7734382152557373,
+                0.18791136145591736,
+                0.873304009437561,
+                0.8865472674369812
+            ]
+        }
+    },
+    "00665": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -49.35,
+            "distance": 1.78,
+            "det_conf": [
+                0.6167118549346924,
+                0.622010350227356,
+                0.4052976667881012,
+                0.4799420237541199,
+                0.0001955655898200348
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -14.57,
+            "distance": 2.18,
+            "det_conf": [
+                0.5624407529830933,
+                0.7243300080299377,
+                0.2867492437362671,
+                0.6249617338180542,
+                0.707054853439331
+            ]
+        }
+    },
+    "00670": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -21.51,
+            "distance": 1.58,
+            "det_conf": [
+                0.5989431142807007,
+                0.7562437653541565,
+                0.29464343190193176,
+                0.5500773191452026,
+                0.4746691584587097
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 6.57,
+            "distance": 2.08,
+            "det_conf": [
+                0.8063685297966003,
+                0.8453589677810669,
+                0.8644191026687622,
+                0.5640190243721008,
+                0.8275243043899536
+            ]
+        }
+    },
+    "00675": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -57.98,
+            "distance": 1.24,
+            "det_conf": [
+                0.38721954822540283,
+                0.6486750245094299,
+                0.22539924085140228,
+                0.6012338995933533,
+                0.31809723377227783
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -19.17,
+            "distance": 1.66,
+            "det_conf": [
+                0.17887218296527863,
+                0.7642754912376404,
+                0.7619556784629822,
+                0.018887031823396683,
+                0.016394395381212234
+            ]
+        }
+    },
+    "00680": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -13.92,
+            "distance": 1.48,
+            "det_conf": [
+                0.4825976490974426,
+                0.4221872389316559,
+                0.5896162986755371,
+                0.6004791855812073,
+                0.5237955451011658
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 2.48,
+            "distance": 1.45,
+            "det_conf": [
+                0.821361780166626,
+                0.8771432638168335,
+                0.6811457276344299,
+                0.6734108924865723,
+                0.7871318459510803
+            ]
+        }
+    },
+    "00685": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 26.51,
+            "distance": 1.54,
+            "det_conf": [
+                0.7891950011253357,
+                0.7549033761024475,
+                0.5881078243255615,
+                0.5028331279754639,
+                0.589732825756073
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -18.64,
+            "distance": 1.36,
+            "det_conf": [
+                0.7218332290649414,
+                0.2801181674003601,
+                0.2946242690086365,
+                0.18261396884918213,
+                0.21990811824798584
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 22.84,
+            "distance": 1.56,
+            "det_conf": [
+                0.7022044658660889,
+                0.6892536282539368,
+                0.7365553379058838,
+                0.8106246590614319,
+                0.5644895434379578
+            ]
+        }
+    },
+    "00690": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 3.24,
+            "distance": 1.35,
+            "det_conf": [
+                0.6892901062965393,
+                0.6558472514152527,
+                0.23637959361076355,
+                0.4135219156742096,
+                0.30284538865089417
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 3.19,
+            "distance": 1.35,
+            "det_conf": [
+                0.9539442658424377,
+                0.9425727128982544,
+                0.7793017029762268,
+                0.9524527788162231,
+                0.9325587153434753
+            ]
+        }
+    },
+    "00695": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -37.77,
+            "distance": 1.38,
+            "det_conf": [
+                0.5971221327781677,
+                0.357697993516922,
+                0.2779841721057892,
+                0.27560025453567505,
+                0.5375041961669922
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -20.85,
+            "distance": 1.28,
+            "det_conf": [
+                0.8738093376159668,
+                0.8693606853485107,
+                0.9005066752433777,
+                0.8997243642807007,
+                0.882906436920166
+            ]
+        }
+    },
+    "00700": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -70.13,
+            "distance": 1.0,
+            "det_conf": [
+                0.832706868648529,
+                0.5701066255569458,
+                0.812286376953125,
+                0.6202086210250854,
+                0.7227198481559753
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -25.54,
+            "distance": 1.24,
+            "det_conf": [
+                0.9361854195594788,
+                0.9181354641914368,
+                0.9160482883453369,
+                0.9093633890151978,
+                0.9233453273773193
+            ]
+        }
+    },
+    "00705": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -66.66,
+            "distance": 1.0,
+            "det_conf": [
+                0.40030616521835327,
+                0.7585252523422241,
+                0.7075172662734985,
+                0.678339958190918,
+                0.6527215242385864
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -38.91,
+            "distance": 1.42,
+            "det_conf": [
+                0.6063395142555237,
+                0.599298894405365,
+                0.611545205116272,
+                0.19889944791793823,
+                0.3681747317314148
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -20.05,
+            "distance": 1.32,
+            "det_conf": [
+                0.8693625330924988,
+                0.8717924952507019,
+                0.8575793504714966,
+                0.8546997308731079,
+                0.8541539311408997
+            ]
+        }
+    },
+    "00710": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -64.74,
+            "distance": 1.0,
+            "det_conf": [
+                0.6901564598083496,
+                0.8292223215103149,
+                0.8529477715492249,
+                0.864812970161438,
+                0.01071165595203638
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -42.39,
+            "distance": 1.29,
+            "det_conf": [
+                0.6417104005813599,
+                0.3939090967178345,
+                0.3614972233772278,
+                0.6254779100418091,
+                0.20781312882900238
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -34.56,
+            "distance": 1.43,
+            "det_conf": [
+                0.8871173858642578,
+                0.8847056031227112,
+                0.6898585557937622,
+                0.3355664908885956,
+                0.8339976072311401
+            ]
+        }
+    },
+    "00715": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 49.27,
+            "distance": 2.0,
+            "det_conf": [
+                0.6135152578353882,
+                0.4165234863758087,
+                0.6552916169166565,
+                0.6359461545944214,
+                0.5799345970153809
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -39.41,
+            "distance": 1.14,
+            "det_conf": [
+                0.9638652801513672,
+                0.9565103054046631,
+                0.9485709071159363,
+                0.9358187317848206,
+                0.9509837031364441
+            ]
+        }
+    },
+    "00720": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -58.57,
+            "distance": 1.27,
+            "det_conf": [
+                0.6104824542999268,
+                0.45888426899909973,
+                0.4900048077106476,
+                0.19700521230697632,
+                0.4119868278503418
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 32.97,
+            "distance": 5.1,
+            "det_conf": [
+                0.07661420106887817,
+                0.028869323432445526,
+                0.06863344460725784,
+                0.52029949426651,
+                0.09754405170679092
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -59.72,
+            "distance": 1.08,
+            "det_conf": [
+                0.9373140335083008,
+                0.9419803023338318,
+                0.9351707696914673,
+                0.9028882384300232,
+                0.9322526454925537
+            ]
+        }
+    },
+    "00725": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -40.88,
+            "distance": 2.0,
+            "det_conf": [
+                0.6602908968925476,
+                0.11351878941059113,
+                0.01955573447048664,
+                0.03169764578342438,
+                0.23601160943508148
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 47.33,
+            "distance": 1.78,
+            "det_conf": [
+                0.2919694781303406,
+                0.5213397145271301,
+                0.2606079578399658,
+                0.2286064624786377,
+                0.054932139813899994
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -67.85,
+            "distance": 1.94,
+            "det_conf": [
+                0.9192708134651184,
+                0.9301016330718994,
+                0.9302103519439697,
+                0.9076289534568787,
+                0.915015459060669
+            ]
+        }
+    },
+    "00730": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -69.8,
+            "distance": 2.25,
+            "det_conf": [
+                0.863926351070404,
+                0.8313357830047607,
+                0.8313653469085693,
+                0.8333627581596375,
+                0.8765990138053894
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -69.82,
+            "distance": 2.25,
+            "det_conf": [
+                0.8509649038314819,
+                0.9082500338554382,
+                0.8731831908226013,
+                0.9015509486198425,
+                0.9015097618103027
+            ]
+        }
+    },
+    "00735": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -69.66,
+            "distance": 2.52,
+            "det_conf": [
+                0.7185104489326477,
+                0.4193562865257263,
+                0.6138635873794556,
+                0.6596826910972595,
+                0.006674382369965315
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -73.21,
+            "distance": 1.55,
+            "det_conf": [
+                0.7887471914291382,
+                0.7914514541625977,
+                0.692600429058075,
+                0.8269951343536377,
+                0.8003942370414734
+            ]
+        }
+    },
+    "00740": {
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -77.65,
+            "distance": 1.7,
+            "det_conf": [
+                0.650065541267395,
+                0.5189106464385986,
+                0.6463185548782349,
+                0.06558545678853989,
+                0.19011838734149933
+            ]
+        }
+    },
+    "00745": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 23.48,
+            "distance": 2.17,
+            "det_conf": [
+                0.2928602397441864,
+                0.13325157761573792,
+                0.1318046748638153,
+                0.5077415108680725,
+                0.0934319868683815
+            ]
+        }
+    },
+    "00760": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 30.35,
+            "distance": 2.0,
+            "det_conf": [
+                0.30796489119529724,
+                0.12967345118522644,
+                0.13804519176483154,
+                0.45815664529800415,
+                0.5106381773948669
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 42.1,
+            "distance": 1.3,
+            "det_conf": [
+                0.4312584400177002,
+                0.3884539306163788,
+                0.5035046339035034,
+                0.3943455219268799,
+                0.4330843389034271
+            ]
+        }
+    },
+    "00930": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 25.5,
+            "distance": 1.55,
+            "det_conf": [
+                0.9752435088157654,
+                0.9534764885902405,
+                0.963698148727417,
+                0.9648042321205139,
+                0.9461051225662231
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 45.64,
+            "distance": 1.82,
+            "det_conf": [
+                0.7437877655029297,
+                0.6491678357124329,
+                0.7503220438957214,
+                0.7624188661575317,
+                0.3929365277290344
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 38.07,
+            "distance": 1.49,
+            "det_conf": [
+                0.6771075129508972,
+                0.7141053080558777,
+                0.6150978803634644,
+                0.5661182999610901,
+                0.3943556249141693
+            ]
+        }
+    },
+    "00940": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -4.43,
+            "distance": 1.0,
+            "det_conf": [
+                0.9238682985305786,
+                0.8540545105934143,
+                0.8932637572288513,
+                0.9368716478347778,
+                0.9200419783592224
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -24.03,
+            "distance": 1.16,
+            "det_conf": [
+                0.868046760559082,
+                0.8514986634254456,
+                0.8549428582191467,
+                0.8782117962837219,
+                0.88486248254776
+            ]
+        }
+    },
+    "00950": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -34.45,
+            "distance": 1.02,
+            "det_conf": [
+                0.807301938533783,
+                0.8269743919372559,
+                0.827859103679657,
+                0.6407464146614075,
+                0.7991396188735962
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -32.2,
+            "distance": 1.33,
+            "det_conf": [
+                0.5438138842582703,
+                0.32201436161994934,
+                0.3344545066356659,
+                0.12327631562948227,
+                0.32520222663879395
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -45.81,
+            "distance": 1.02,
+            "det_conf": [
+                0.8637691140174866,
+                0.8432486653327942,
+                0.8723005056381226,
+                0.6799112558364868,
+                0.7301272749900818
+            ]
+        }
+    },
+    "00960": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -12.51,
+            "distance": 1.0,
+            "det_conf": [
+                0.9097606539726257,
+                0.9052913784980774,
+                0.9317700862884521,
+                0.9171311855316162,
+                0.7348499894142151
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -41.68,
+            "distance": 1.01,
+            "det_conf": [
+                0.744483470916748,
+                0.7363749146461487,
+                0.5195496678352356,
+                0.759942889213562,
+                0.7083675265312195
+            ]
+        }
+    },
+    "01000": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -5.77,
+            "distance": 1.0,
+            "det_conf": [
+                0.7763300538063049,
+                0.7070683240890503,
+                0.8630123734474182,
+                0.9325915575027466,
+                0.7981410622596741
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -42.73,
+            "distance": 1.0,
+            "det_conf": [
+                0.8173767328262329,
+                0.8340303301811218,
+                0.7655011415481567,
+                0.8566009402275085,
+                0.8561464548110962
+            ]
+        }
+    },
+    "01010": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -44.54,
+            "distance": 1.0,
+            "det_conf": [
+                0.934546172618866,
+                0.868641197681427,
+                0.952579140663147,
+                0.8755160570144653,
+                0.9212188720703125
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -42.86,
+            "distance": 1.0,
+            "det_conf": [
+                0.8491641283035278,
+                0.8311569690704346,
+                0.8028309345245361,
+                0.8546762466430664,
+                0.7276888489723206
+            ]
+        }
+    },
+    "01020": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -34.08,
+            "distance": 1.03,
+            "det_conf": [
+                0.9591349959373474,
+                0.9300718307495117,
+                0.9225628972053528,
+                0.9535868167877197,
+                0.861500084400177
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -29.81,
+            "distance": 1.03,
+            "det_conf": [
+                0.41748225688934326,
+                0.5379255414009094,
+                0.44252535700798035,
+                0.3531923294067383,
+                0.33185014128685
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -35.27,
+            "distance": 1.03,
+            "det_conf": [
+                0.8493968844413757,
+                0.8418688774108887,
+                0.843012809753418,
+                0.8594983220100403,
+                0.8383176326751709
+            ]
+        }
+    },
+    "01030": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -13.91,
+            "distance": 1.12,
+            "det_conf": [
+                0.833632230758667,
+                0.7306125164031982,
+                0.5447549223899841,
+                0.6284823417663574,
+                0.6758598685264587
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -35.67,
+            "distance": 1.21,
+            "det_conf": [
+                0.6830658316612244,
+                0.689439058303833,
+                0.6914786100387573,
+                0.37551429867744446,
+                0.5954761505126953
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -14.49,
+            "distance": 1.11,
+            "det_conf": [
+                0.7826268076896667,
+                0.8075463175773621,
+                0.6007689237594604,
+                0.5501150488853455,
+                0.8352841138839722
+            ]
+        }
+    },
+    "01040": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -18.99,
+            "distance": 1.15,
+            "det_conf": [
+                0.8417866230010986,
+                0.8700816035270691,
+                0.809049665927887,
+                0.891779899597168,
+                0.7614349126815796
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -20.24,
+            "distance": 1.15,
+            "det_conf": [
+                0.9183928966522217,
+                0.9094722270965576,
+                0.8968336582183838,
+                0.8643025755882263,
+                0.8954941630363464
+            ]
+        }
+    },
+    "01825": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -15.26,
+            "distance": 1.13,
+            "det_conf": [
+                0.03650984913110733,
+                0.15764927864074707,
+                0.008267487399280071,
+                0.5377201437950134,
+                0.16889552772045135
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 27.91,
+            "distance": 1.71,
+            "det_conf": [
+                0.7125853896141052,
+                0.9282107353210449,
+                0.91777503490448,
+                0.8997355699539185,
+                0.9152403473854065
+            ]
+        }
+    },
+    "01830": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 4.0,
+            "distance": 1.61,
+            "det_conf": [
+                0.7132501006126404,
+                0.5701143741607666,
+                0.0033139910083264112,
+                0.6221924424171448,
+                0.32290083169937134
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -32.22,
+            "distance": 1.27,
+            "det_conf": [
+                0.5734374523162842,
+                0.30979418754577637,
+                0.6464672088623047,
+                0.47474417090415955,
+                0.040115635842084885
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 4.81,
+            "distance": 1.58,
+            "det_conf": [
+                0.861121654510498,
+                0.8594347238540649,
+                0.8586641550064087,
+                0.8494755625724792,
+                0.8828132748603821
+            ]
+        }
+    },
+    "01835": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -31.22,
+            "distance": 1.17,
+            "det_conf": [
+                0.4070579409599304,
+                0.5181404948234558,
+                0.29767924547195435,
+                0.29671192169189453,
+                0.325147420167923
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -41.3,
+            "distance": 1.21,
+            "det_conf": [
+                0.6427897214889526,
+                0.6191834807395935,
+                0.5169517397880554,
+                0.4375600516796112,
+                0.605262041091919
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -40.21,
+            "distance": 1.36,
+            "det_conf": [
+                0.6856300830841064,
+                0.6531030535697937,
+                0.4707625210285187,
+                0.6422076225280762,
+                0.2139204889535904
+            ]
+        }
+    },
+    "01840": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -7.86,
+            "distance": 1.68,
+            "det_conf": [
+                0.5524063110351562,
+                0.5150244235992432,
+                0.3522655963897705,
+                0.7879725098609924,
+                0.5124797821044922
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -28.97,
+            "distance": 1.2,
+            "det_conf": [
+                0.559690535068512,
+                0.35710766911506653,
+                0.7148361802101135,
+                0.28618764877319336,
+                0.5573208332061768
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -7.92,
+            "distance": 1.68,
+            "det_conf": [
+                0.7607805132865906,
+                0.7403050661087036,
+                0.7696405649185181,
+                0.7272814512252808,
+                0.829788327217102
+            ]
+        }
+    },
+    "01845": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -2.65,
+            "distance": 1.44,
+            "det_conf": [
+                0.4116388261318207,
+                0.7478951811790466,
+                0.716229259967804,
+                0.45609521865844727,
+                0.3150850832462311
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -7.57,
+            "distance": 1.17,
+            "det_conf": [
+                0.7400235533714294,
+                0.747204065322876,
+                0.7246885895729065,
+                0.6418641805648804,
+                0.579514741897583
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -30.79,
+            "distance": 1.38,
+            "det_conf": [
+                0.6267682313919067,
+                0.31763264536857605,
+                0.22634153068065643,
+                0.015156343579292297,
+                0.025586022064089775
+            ]
+        }
+    },
+    "01850": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 21.84,
+            "distance": 1.47,
+            "det_conf": [
+                0.9143204689025879,
+                0.8471530079841614,
+                0.9095085263252258,
+                0.8703088760375977,
+                0.877809464931488
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 19.34,
+            "distance": 1.38,
+            "det_conf": [
+                0.7150962352752686,
+                0.6891027688980103,
+                0.7258159518241882,
+                0.7367262840270996,
+                0.7156091928482056
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 19.52,
+            "distance": 1.37,
+            "det_conf": [
+                0.7116062641143799,
+                0.7125130891799927,
+                0.7338870167732239,
+                0.7002305388450623,
+                0.636736273765564
+            ]
+        }
+    },
+    "01855": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 48.5,
+            "distance": 1.4,
+            "det_conf": [
+                0.899899423122406,
+                0.8165995478630066,
+                0.920897901058197,
+                0.9270064234733582,
+                0.8950238227844238
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 31.07,
+            "distance": 1.42,
+            "det_conf": [
+                0.6369401812553406,
+                0.45269620418548584,
+                0.48311445116996765,
+                0.6678116321563721,
+                0.6318556070327759
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 31.54,
+            "distance": 1.18,
+            "det_conf": [
+                0.690823495388031,
+                0.6950820684432983,
+                0.5770542621612549,
+                0.8117176294326782,
+                0.8000653982162476
+            ]
+        }
+    },
+    "01860": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 38.52,
+            "distance": 1.21,
+            "det_conf": [
+                0.9001052379608154,
+                0.9175492525100708,
+                0.6794816255569458,
+                0.8766851425170898,
+                0.8654139637947083
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 34.76,
+            "distance": 1.17,
+            "det_conf": [
+                0.7610015869140625,
+                0.7625809907913208,
+                0.7667158842086792,
+                0.76662677526474,
+                0.6449118256568909
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 37.79,
+            "distance": 1.16,
+            "det_conf": [
+                0.8056144714355469,
+                0.5247737169265747,
+                0.31666243076324463,
+                0.6766381859779358,
+                0.7834640145301819
+            ]
+        }
+    },
+    "02000": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -34.29,
+            "distance": 1.17,
+            "det_conf": [
+                0.5953145027160645,
+                0.917609691619873,
+                0.3693092167377472,
+                0.8416641354560852,
+                0.8028374314308167
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -35.34,
+            "distance": 1.14,
+            "det_conf": [
+                0.8921012282371521,
+                0.8637368679046631,
+                0.8630832433700562,
+                0.8743091225624084,
+                0.8588873147964478
+            ]
+        }
+    },
+    "02010": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -24.84,
+            "distance": 1.12,
+            "det_conf": [
+                0.8878440260887146,
+                0.8883616328239441,
+                0.8817757964134216,
+                0.8552940487861633,
+                0.4524598717689514
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -30.93,
+            "distance": 1.22,
+            "det_conf": [
+                0.6263395547866821,
+                0.49319326877593994,
+                0.6617099046707153,
+                0.22066174447536469,
+                0.6047492027282715
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -29.95,
+            "distance": 1.08,
+            "det_conf": [
+                0.7212103605270386,
+                0.6609011292457581,
+                0.7642003893852234,
+                0.6899434328079224,
+                0.7001828551292419
+            ]
+        }
+    },
+    "02020": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -13.1,
+            "distance": 1.16,
+            "det_conf": [
+                0.9110840559005737,
+                0.8877683877944946,
+                0.8725149035453796,
+                0.9002760052680969,
+                0.8141930103302002
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -33.25,
+            "distance": 1.11,
+            "det_conf": [
+                0.5029682517051697,
+                0.40111324191093445,
+                0.22067132592201233,
+                0.3823259472846985,
+                0.6202605962753296
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -13.84,
+            "distance": 1.14,
+            "det_conf": [
+                0.8517328500747681,
+                0.8394678831100464,
+                0.8063944578170776,
+                0.8705904483795166,
+                0.852311372756958
+            ]
+        }
+    },
+    "02030": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 5.42,
+            "distance": 1.47,
+            "det_conf": [
+                0.8983249664306641,
+                0.9386857151985168,
+                0.9079201817512512,
+                0.8014216423034668,
+                0.7798060178756714
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 11.25,
+            "distance": 1.54,
+            "det_conf": [
+                0.6209545731544495,
+                0.5001029968261719,
+                0.6192794442176819,
+                0.7144374847412109,
+                0.39263013005256653
+            ]
+        }
+    },
+    "02040": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -6.16,
+            "distance": 1.15,
+            "det_conf": [
+                0.8917787075042725,
+                0.7997013926506042,
+                0.7372249364852905,
+                0.8398414850234985,
+                0.6857844591140747
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -15.19,
+            "distance": 1.28,
+            "det_conf": [
+                0.4991830885410309,
+                0.46039000153541565,
+                0.3847019076347351,
+                0.6625109910964966,
+                0.19393178820610046
+            ]
+        }
+    },
+    "02080": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 12.91,
+            "distance": 1.12,
+            "det_conf": [
+                0.6850405335426331,
+                0.7958459854125977,
+                0.4018179476261139,
+                0.8681787848472595,
+                0.8616840243339539
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 6.77,
+            "distance": 1.09,
+            "det_conf": [
+                0.7083879113197327,
+                0.7119435667991638,
+                0.560591459274292,
+                0.7620985507965088,
+                0.6505113244056702
+            ]
+        }
+    },
+    "02090": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 24.77,
+            "distance": 1.03,
+            "det_conf": [
+                0.9082868695259094,
+                0.9000116586685181,
+                0.8383554220199585,
+                0.7435455322265625,
+                0.8890505433082581
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 7.87,
+            "distance": 1.22,
+            "det_conf": [
+                0.7641370892524719,
+                0.6342934966087341,
+                0.7227057814598083,
+                0.7055111527442932,
+                0.7710029482841492
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 21.91,
+            "distance": 1.08,
+            "det_conf": [
+                0.6478848457336426,
+                0.40704452991485596,
+                0.5161716341972351,
+                0.21675804257392883,
+                0.01690194569528103
+            ]
+        }
+    },
+    "02100": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 11.19,
+            "distance": 1.13,
+            "det_conf": [
+                0.8727881908416748,
+                0.7396002411842346,
+                0.9046834707260132,
+                0.7981307506561279,
+                0.8731608390808105
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -23.88,
+            "distance": 1.13,
+            "det_conf": [
+                0.6654715538024902,
+                0.576504647731781,
+                0.7126353979110718,
+                0.6505970358848572,
+                0.7358279824256897
+            ]
+        }
+    },
+    "02110": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 8.49,
+            "distance": 1.23,
+            "det_conf": [
+                0.8022362589836121,
+                0.7021675705909729,
+                0.7270006537437439,
+                0.72655189037323,
+                0.7100282907485962
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -33.03,
+            "distance": 1.02,
+            "det_conf": [
+                0.5233460664749146,
+                0.28959769010543823,
+                0.5833080410957336,
+                0.3342139422893524,
+                0.4008654057979584
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 8.53,
+            "distance": 1.23,
+            "det_conf": [
+                0.7987362742424011,
+                0.569642186164856,
+                0.749740481376648,
+                0.772237241268158,
+                0.5329295992851257
+            ]
+        }
+    },
+    "02120": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 5.1,
+            "distance": 1.0,
+            "det_conf": [
+                0.719275176525116,
+                0.37355008721351624,
+                0.445269376039505,
+                0.6551302671432495,
+                0.4191831946372986
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 0.64,
+            "distance": 1.18,
+            "det_conf": [
+                0.464974045753479,
+                0.6271601319313049,
+                0.37726104259490967,
+                0.6823012232780457,
+                0.4361678659915924
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -36.22,
+            "distance": 1.17,
+            "det_conf": [
+                0.51324462890625,
+                0.5378100872039795,
+                0.17643862962722778,
+                0.53859943151474,
+                0.019937964156270027
+            ]
+        }
+    },
+    "02240": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 10.81,
+            "distance": 1.0,
+            "det_conf": [
+                0.8847969174385071,
+                0.8886844515800476,
+                0.8200169801712036,
+                0.7045798301696777,
+                0.825706958770752
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -26.5,
+            "distance": 1.09,
+            "det_conf": [
+                0.5491306781768799,
+                0.2942420244216919,
+                0.7284375429153442,
+                0.3360055983066559,
+                0.30910858511924744
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 26.46,
+            "distance": 1.52,
+            "det_conf": [
+                0.36538103222846985,
+                0.6811014413833618,
+                0.6888440251350403,
+                0.30715373158454895,
+                0.009099932387471199
+            ]
+        }
+    },
+    "02245": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 10.1,
+            "distance": 1.0,
+            "det_conf": [
+                0.8035504817962646,
+                0.7891108393669128,
+                0.7873600721359253,
+                0.7828018069267273,
+                0.714252233505249
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -26.03,
+            "distance": 1.21,
+            "det_conf": [
+                0.6445068120956421,
+                0.6261290907859802,
+                0.501886248588562,
+                0.6786917448043823,
+                0.20376040041446686
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 22.75,
+            "distance": 1.51,
+            "det_conf": [
+                0.8612784147262573,
+                0.7467427849769592,
+                0.7945366501808167,
+                0.738986074924469,
+                0.615982711315155
+            ]
+        }
+    },
+    "02250": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 14.79,
+            "distance": 1.24,
+            "det_conf": [
+                0.7337019443511963,
+                0.7231025099754333,
+                0.6621648669242859,
+                0.7892655730247498,
+                0.753483235836029
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -29.14,
+            "distance": 1.1,
+            "det_conf": [
+                0.2865428924560547,
+                0.37501296401023865,
+                0.289211630821228,
+                0.7417314648628235,
+                0.2971287965774536
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 14.92,
+            "distance": 1.25,
+            "det_conf": [
+                0.6528647541999817,
+                0.6830562353134155,
+                0.45542436838150024,
+                0.20538707077503204,
+                0.6540105938911438
+            ]
+        }
+    },
+    "02255": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 10.08,
+            "distance": 1.18,
+            "det_conf": [
+                0.6462788581848145,
+                0.6165014505386353,
+                0.441683292388916,
+                0.37741681933403015,
+                0.27616026997566223
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 14.36,
+            "distance": 1.48,
+            "det_conf": [
+                0.7608094215393066,
+                0.602420449256897,
+                0.6783641576766968,
+                0.43513041734695435,
+                0.6547141075134277
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 14.75,
+            "distance": 1.32,
+            "det_conf": [
+                0.5566744804382324,
+                0.4166686236858368,
+                0.4447780251502991,
+                0.4036211371421814,
+                0.22140979766845703
+            ]
+        }
+    },
+    "02260": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -60.84,
+            "distance": 1.0,
+            "det_conf": [
+                0.861905574798584,
+                0.861905574798584,
+                0.8687323331832886,
+                0.8445054888725281,
+                0.8727174997329712
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -58.43,
+            "distance": 1.02,
+            "det_conf": [
+                0.7710612416267395,
+                0.7591326832771301,
+                0.7645841836929321,
+                0.776091456413269,
+                0.6146984696388245
+            ]
+        }
+    },
+    "02265": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 41.2,
+            "distance": 3.97,
+            "det_conf": [
+                0.5231485962867737,
+                0.09329427033662796,
+                0.5473315119743347,
+                0.344900906085968,
+                0.005579379852861166
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -76.0,
+            "distance": 1.14,
+            "det_conf": [
+                0.813189685344696,
+                0.8293396234512329,
+                0.6652352809906006,
+                0.27395138144493103,
+                0.20211292803287506
+            ]
+        }
+    },
+    "02270": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 43.17,
+            "distance": 2.27,
+            "det_conf": [
+                0.565525472164154,
+                0.5003806948661804,
+                0.2139306664466858,
+                0.3457071781158447,
+                0.39085179567337036
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -27.96,
+            "distance": 2.04,
+            "det_conf": [
+                0.6341015696525574,
+                0.3007184863090515,
+                0.6181667447090149,
+                0.7736326456069946,
+                0.09365992993116379
+            ]
+        }
+    },
+    "02275": {
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 60.16,
+            "distance": 2.5,
+            "det_conf": [
+                0.5805960297584534,
+                0.04446494206786156,
+                0.694407045841217,
+                0.5758113265037537,
+                0.24396012723445892
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": -66.19,
+            "distance": 1.14,
+            "det_conf": [
+                0.7625933289527893,
+                0.7689587473869324,
+                0.25678661465644836,
+                0.5209932923316956,
+                0.549247682094574
+            ]
+        }
+    },
+    "02280": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -50.47,
+            "distance": 1.01,
+            "det_conf": [
+                0.918437659740448,
+                0.919779896736145,
+                0.9208987951278687,
+                0.9213018417358398,
+                0.8689947724342346
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -55.53,
+            "distance": 1.09,
+            "det_conf": [
+                0.5687425136566162,
+                0.5867161154747009,
+                0.6526859998703003,
+                0.6010196805000305,
+                0.49063387513160706
+            ]
+        }
+    },
+    "02340": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 36.4,
+            "distance": 1.19,
+            "det_conf": [
+                0.8195610642433167,
+                0.8242346048355103,
+                0.9040032625198364,
+                0.8511598706245422,
+                0.7021076679229736
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -13.69,
+            "distance": 1.24,
+            "det_conf": [
+                0.6627997159957886,
+                0.14564287662506104,
+                0.27396541833877563,
+                0.31681182980537415,
+                0.18696729838848114
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 35.46,
+            "distance": 1.17,
+            "det_conf": [
+                0.9452940821647644,
+                0.9658154845237732,
+                0.963697075843811,
+                0.9610555768013,
+                0.9493638873100281
+            ]
+        }
+    },
+    "02350": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 35.49,
+            "distance": 1.18,
+            "det_conf": [
+                0.5885385870933533,
+                0.44484931230545044,
+                0.7699263095855713,
+                0.8047539591789246,
+                0.5396891832351685
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 2.35,
+            "distance": 1.13,
+            "det_conf": [
+                0.7290840744972229,
+                0.6287049055099487,
+                0.5000146627426147,
+                0.37251412868499756,
+                0.22069339454174042
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 38.39,
+            "distance": 1.22,
+            "det_conf": [
+                0.8732971549034119,
+                0.868798017501831,
+                0.8706291913986206,
+                0.8574851155281067,
+                0.7732706069946289
+            ]
+        }
+    },
+    "02360": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": -15.89,
+            "distance": 1.21,
+            "det_conf": [
+                0.8070098161697388,
+                0.8581885695457458,
+                0.8795750737190247,
+                0.014467154629528522,
+                7.788225047988817e-05
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 1.54,
+            "distance": 1.11,
+            "det_conf": [
+                0.6071427464485168,
+                0.7480913400650024,
+                0.7167516946792603,
+                0.7857996821403503,
+                0.34797295928001404
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 26.98,
+            "distance": 1.14,
+            "det_conf": [
+                0.8876153826713562,
+                0.8759718537330627,
+                0.8343595862388611,
+                0.7829245924949646,
+                0.8585970401763916
+            ]
+        }
+    },
+    "02370": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 33.39,
+            "distance": 1.35,
+            "det_conf": [
+                0.9296058416366577,
+                0.9646064043045044,
+                0.958878219127655,
+                0.9441118836402893,
+                0.85698002576828
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": 12.42,
+            "distance": 1.22,
+            "det_conf": [
+                0.6004136204719543,
+                0.6887734532356262,
+                0.6908347606658936,
+                0.5256945490837097,
+                0.226862832903862
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 24.31,
+            "distance": 1.2,
+            "det_conf": [
+                0.9112028479576111,
+                0.9252027273178101,
+                0.8255738615989685,
+                0.8824873566627502,
+                0.8139937520027161
+            ]
+        }
+    },
+    "02380": {
+        "A blue metal stovetop kettle with a black handle and a silver spout/lid. It is placed on a gas stove. Approximate height 20-25cm, base diameter 15-20cm.": {
+            "direction": 27.26,
+            "distance": 1.06,
+            "det_conf": [
+                0.9416901469230652,
+                0.9461183547973633,
+                0.8797531127929688,
+                0.9545234441757202,
+                0.9275708794593811
+            ]
+        },
+        "A rectangular sink embedded in a white kitchen island, with a silver tap. The robot is imagined to be standing by this sink.": {
+            "direction": -14.92,
+            "distance": 1.15,
+            "det_conf": [
+                0.30710336565971375,
+                0.10896451771259308,
+                0.6235492825508118,
+                0.658942699432373,
+                0.6264435648918152
+            ]
+        },
+        "A black piano (appears to be an upright or small grand) located in the living room area. The robot is imagined to be facing this object.": {
+            "direction": 20.14,
+            "distance": 1.05,
+            "det_conf": [
+                0.71904057264328,
+                0.8420794010162354,
+                0.7208153009414673,
+                0.8186869025230408,
+                0.7604133486747742
+            ]
+        }
+    }
+}

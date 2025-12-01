@@ -1,0 +1,115 @@
+{
+    "event": "Speech topic: instructing not to move french press while pressing. The camera wearer instructs the other person.",
+    "start_time": "02:45",
+    "end_time": "02:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The 'other person' (adult male, wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short brown hair and appears to be of average build) who is being instructed about the French press.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:07": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:13": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:22": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "00:34": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "00:47": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "00:52": {
+                "distance": "0.7",
+                "direction": "-35"
+            },
+            "01:21": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "01:31": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "01:41": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "01:45": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "01:59": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "02:07": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "02:12": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "02:23": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "02:35": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "02:46": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "02:51": {
+                "distance": "0.6",
+                "direction": "-25"
+            },
+            "02:59": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "03:05": {
+                "distance": "0.7",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewer's (camera wearer's) perspective. The camera wearer is the one speaking the instruction.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:46": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing not to move french press while pressing\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_231",
+    "video_id": "loc3_script2_seq3_rec2"
+}

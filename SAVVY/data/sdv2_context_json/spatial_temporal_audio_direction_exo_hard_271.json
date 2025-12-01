@@ -1,0 +1,148 @@
+{
+    "event": "A person comments on an item fitting into a container.",
+    "start_time": "0:01:12",
+    "end_time": "0:01:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved polo shirt, dark shorts, and dark sneakers with white soles. He has dark, curly/wavy hair and wears glasses. His face is blurred. A lavalier microphone is clipped to his shirt collar. He appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "0:00:07": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "0:00:16": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:00:32": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "0:00:49": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:01:12": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "0:01:55": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:02:13": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:02:20": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:02:46": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:03:07": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:03:14": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:03:38": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03:42": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:03:47": {
+                "distance": "0.7",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view / Robot's standing spot",
+        "description": "The kitchen counter area immediately adjacent to the large sliding glass doors overlooking the pool. The counter has a granite pattern (light with dark specks). The window frames are dark. The robot is notionally positioned with its back near these windows/doors, a step away from this counter.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "1.5",
+                "direction": "90"
+            },
+            "0:00:16": {
+                "distance": "0.5",
+                "direction": "80"
+            },
+            "0:00:49": {
+                "distance": "0.3",
+                "direction": "90"
+            },
+            "0:01:12": {
+                "distance": "0.2",
+                "direction": "90"
+            },
+            "0:01:37": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "0:02:10": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:03:30": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:03:45": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, dark wood, two-seater dining table, likely oval or rounded rectangle. It is located near the window area, further into the room from the kitchen counter. This is the table where the individuals were eating at the start of the video.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:00:08": {
+                "distance": "2.5",
+                "direction": "-160"
+            },
+            "0:00:16": {
+                "distance": "2.0",
+                "direction": "-170"
+            },
+            "0:00:49": {
+                "distance": "2.5",
+                "direction": "-150"
+            },
+            "0:01:12": {
+                "distance": "2.2",
+                "direction": "-160"
+            },
+            "0:01:37": {
+                "distance": "2.0",
+                "direction": "-170"
+            },
+            "0:03:42": {
+                "distance": "2.0",
+                "direction": "-170"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the two-seater dining table, when the speech topic: \"commenting on item fitting\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_271",
+    "video_id": "loc2_script3_seq5_rec2"
+}

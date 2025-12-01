@@ -1,0 +1,196 @@
+{
+    "event": "Determine the relative position of the other person when the speech topic 'mentioning train stops at san antonio' comes up.",
+    "start_time": "01:05",
+    "end_time": "01:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly, light-colored hair, wearing a dark long-sleeved shirt over a collared shirt, and blue jeans. They are sitting on a light-colored couch.",
+        "is_static": false,
+        "key_frames": {
+            "00:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "00:15": {
+                "distance": "1.6",
+                "direction": "-50"
+            },
+            "00:30": {
+                "distance": "1.7",
+                "direction": "-55"
+            },
+            "00:45": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "01:00": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "01:07": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "01:15": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "01:30": {
+                "distance": "1.7",
+                "direction": "-55"
+            },
+            "01:45": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "02:00": {
+                "distance": "1.7",
+                "direction": "-50"
+            },
+            "02:15": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "02:30": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "02:45": {
+                "distance": "1.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, who is holding a phone at the beginning and then sits down on a couch.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "forward_direction_of_camera",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "00:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:07": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "02:45": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning train stops at san antonio\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_317",
+    "video_id": "loc3_script3_seq2_rec1"
+}

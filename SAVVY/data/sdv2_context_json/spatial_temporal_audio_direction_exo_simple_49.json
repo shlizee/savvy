@@ -1,0 +1,96 @@
+{
+    "event": "A splashing sound occurs when liquid is spilled from a bowl on the dining table.",
+    "start_time": "0:35",
+    "end_time": "0:36",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A small, round, white ceramic bowl, approximately 10-12 cm in diameter and 5-7 cm high. It contains some liquid (likely fruit juice) and pieces of fruit. The splash occurs when liquid is spilled from this bowl onto the wooden dining table by a person.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "0:34": {
+                "distance": "0.4",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "0.4",
+                "direction": "15"
+            },
+            "0:40": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry on the far wall.",
+        "key_frames": {
+            "0:12": {
+                "distance": "3.8",
+                "direction": "35"
+            },
+            "0:57": {
+                "distance": "3.2",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:21": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "A large, stainless steel refrigerator, located on the far kitchen wall, to the left of the double wall oven.",
+        "key_frames": {
+            "0:12": {
+                "distance": "3.2",
+                "direction": "20"
+            },
+            "0:57": {
+                "distance": "2.7",
+                "direction": "25"
+            },
+            "1:00": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:21": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the stainless steel refrigerator, when the splashing sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_49",
+    "video_id": "loc1_script2_seq6_rec2"
+}

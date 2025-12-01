@@ -1,0 +1,124 @@
+{
+    "event": "A person is inquiring about the specific flavor of an Arizona iced tea.",
+    "start_time": "0:27",
+    "end_time": "0:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a male, wearing a light-colored (possibly white or very light beige) t-shirt and light blue shorts. He is barefoot and has short dark hair. He is sitting on a sofa.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "3.2",
+                "direction": "-30"
+            },
+            "0:17": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:21": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "0:27": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:35": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:12": {
+                "distance": "1.3",
+                "direction": "-75"
+            },
+            "1:19": {
+                "distance": "1.4",
+                "direction": "-70"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "-65"
+            },
+            "1:56": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:06": {
+                "distance": "1.6",
+                "direction": "-65"
+            },
+            "2:11": {
+                "distance": "1.6",
+                "direction": "-65"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, stainless steel, double-door refrigerator, likely a Samsung model, with an ice/water dispenser on the left door. It is located in the kitchen.",
+        "key_frames": {
+            "0:46": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "1.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table (Kitchen Island with Stools)",
+        "description": "A kitchen island with a wooden base and a granite-like countertop. There are two bar stools with dark frames and light-colored seats tucked under it. This serves as a two-seater dining/breakfast area.",
+        "key_frames": {
+            "0:44": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:46": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "0:48": {
+                "distance": "2.2",
+                "direction": "-30"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the two-seater dining table, when the speech topic: \"inquiring about the specific arizona flavor\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_93",
+    "video_id": "loc2_script2_seq1_rec2"
+}

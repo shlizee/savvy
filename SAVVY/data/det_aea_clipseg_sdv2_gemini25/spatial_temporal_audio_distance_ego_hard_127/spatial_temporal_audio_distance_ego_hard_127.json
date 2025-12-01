@@ -1,0 +1,144 @@
+{
+    "event": "A person is qualifying their day's assessment, stating they have no complaints.",
+    "start_time": "0:24",
+    "end_time": "0:26",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short brown hair and is wearing wired earbuds. He is holding a smartphone in his right hand.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "2.8",
+                "direction": "-40"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:42": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "0:58": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "1:18": {
+                "distance": "2.1",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the person asking the questions.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man in blue shirt",
+        "description": "A man wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short brown hair and is wearing wired earbuds. He is holding a smartphone in his right hand.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "2.8",
+                "direction": "-40"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:42": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "0:58": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "2.1",
+                "direction": "-15"
+            },
+            "1:18": {
+                "distance": "2.1",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "2.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"qualifying the day's assessment (no complaints)\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_127",
+    "video_id": "loc2_script3_seq2_rec1"
+}

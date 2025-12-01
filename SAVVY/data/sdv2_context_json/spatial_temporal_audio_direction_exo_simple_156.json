@@ -1,0 +1,164 @@
+{
+    "event": "A person is instructing another on how to open and set up a Scrabble game.",
+    "start_time": "0:29",
+    "end_time": "0:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/turquoise polo shirt, khaki shorts, white sneakers, and glasses. He has short brown hair and is of average build. He is sitting on a barstool at the kitchen island and is the one actively setting up the Scrabble game and giving instructions.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "2:05": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "2:55": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "3:08": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "3:55": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "4:13": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A small, circular, undermount stainless steel sink embedded in the dark-colored kitchen island countertop. It has a single, gooseneck-style chrome tap. Approximate diameter 30-40 cm.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:29": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "3:00": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "4:00": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "4:13": {
+                "distance": "1.2",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, stainless steel, double-door (French door style) refrigerator with a bottom freezer drawer. It has an ice/water dispenser on its left door. Standard kitchen appliance size.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "0:20": {
+                "distance": "3.2",
+                "direction": "-90"
+            },
+            "0:29": {
+                "distance": "3.2",
+                "direction": "-90"
+            },
+            "0:40": {
+                "distance": "3.2",
+                "direction": "-90"
+            },
+            "1:00": {
+                "distance": "3.2",
+                "direction": "-90"
+            },
+            "2:00": {
+                "distance": "3.2",
+                "direction": "-90"
+            },
+            "3:00": {
+                "distance": "3.2",
+                "direction": "-90"
+            },
+            "4:00": {
+                "distance": "3.2",
+                "direction": "-90"
+            },
+            "4:13": {
+                "distance": "3.2",
+                "direction": "-90"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel refrigerator, when the speech topic: \"instructing opening the game\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_156",
+    "video_id": "loc2_script2_seq5_rec1"
+}

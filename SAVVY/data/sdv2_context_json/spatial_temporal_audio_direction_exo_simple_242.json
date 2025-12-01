@@ -1,0 +1,110 @@
+{
+    "event": "The speech topic 'deciding to finish cooking' comes up.",
+    "start_time": "0:02:27",
+    "end_time": "0:02:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Person 1), wearing a light blue/teal t-shirt, shorts, and a gold watch on his left wrist. He is the person primarily cooking at the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:00:15": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:00:30": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "0:00:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:01:00": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "0:01:15": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:01:36": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:01:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:02:15": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "0:02:27": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:02:40": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "0:02:50": {
+                "distance": "0.7",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "double-basin rectangular sink and tap",
+        "description": "A stainless steel double-basin rectangular kitchen sink with a tall, arced faucet, set into a speckled granite countertop. The countertop has a backsplash of small, multicolored tiles.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:01:10": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:02:52": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:02:57": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "round sink with a tap",
+        "description": "A smaller, round stainless steel kitchen sink with a smaller faucet, set into the same speckled granite countertop, to the left of the double-basin sink.",
+        "is_static": true,
+        "key_frames": {
+            "0:01:10": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:02:52": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:02:57": {
+                "distance": "1.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the round sink with a tap, when the speech topic: \"deciding to finish cooking\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_242",
+    "video_id": "loc2_script3_seq34_rec1"
+}

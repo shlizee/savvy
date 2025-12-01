@@ -1,0 +1,256 @@
+{
+    "event": "Person A invites Person B (camera wearer) to sit down.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, curly dark hair, wearing a dark navy or black long-sleeved collared shirt (possibly a sweater over a collared shirt, or a polo neck) and blue denim jeans. He is initially standing, then sits on a light-colored couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:01": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:02": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-35"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the first-person perspective of the person being invited to sit.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Inviting Person",
+        "description": "The person who invited the camera wearer to sit down. Same as the sounding object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:01": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:02": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-35"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"inviting someone to sit down\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_296",
+    "video_id": "loc3_script3_seq2_rec1"
+}

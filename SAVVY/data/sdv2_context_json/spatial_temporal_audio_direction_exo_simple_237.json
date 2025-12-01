@@ -1,0 +1,112 @@
+{
+    "event": "A person is speaking about admiring the pool.",
+    "start_time": "0:18",
+    "end_time": "0:20",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is the person holding the camera, presumed to be an adult male based on voice. Not visually identifiable in the frame during the speech event, but their actions (camera movement) and voice are present.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:07": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:12": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:18": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:50": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "1:35": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "1:58": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "2:17": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "2:31": {
+                "distance": "N/A",
+                "direction": "N/A"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large, multi-panel sliding glass doors with black frames, offering a view of an outdoor swimming pool and patio area. Located on one of the kitchen walls.",
+        "key_frames": {
+            "0:12": {
+                "distance": 2.5,
+                "direction": 0
+            },
+            "0:18": {
+                "distance": 2.5,
+                "direction": 0
+            },
+            "0:25": {
+                "distance": 2.8,
+                "direction": 10
+            },
+            "0:33": {
+                "distance": 3.0,
+                "direction": 0
+            },
+            "0:52": {
+                "distance": 3.5,
+                "direction": -40
+            },
+            "1:56": {
+                "distance": 2.5,
+                "direction": 0
+            },
+            "2:17": {
+                "distance": 2.5,
+                "direction": 0
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A tall, stainless steel, double-door refrigerator with an ice and water dispenser on the left door. Located in the kitchen.",
+        "key_frames": {
+            "0:12": {
+                "distance": 4.5,
+                "direction": 75
+            },
+            "0:49": {
+                "distance": 3.0,
+                "direction": 50
+            },
+            "1:37": {
+                "distance": 4.0,
+                "direction": -80
+            },
+            "2:30": {
+                "distance": 1.0,
+                "direction": 5
+            },
+            "2:33": {
+                "distance": 0.5,
+                "direction": 0
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the stainless steel refrigerator, when the speech topic: \"confirming they are admiring the pool\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_237",
+    "video_id": "loc2_script3_seq33_rec2"
+}

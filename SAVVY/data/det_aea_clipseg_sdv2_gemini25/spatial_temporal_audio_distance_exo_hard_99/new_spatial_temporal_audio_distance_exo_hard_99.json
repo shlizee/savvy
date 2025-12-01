@@ -1,0 +1,93 @@
+{
+    "event": "Speech topic: \"complimenting the niceness of the place\" is mentioned.",
+    "start_time": "0:03",
+    "end_time": "0:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark-colored (possibly black composite or dark stainless steel) double-basin rectangular undermount sink with a tall, gooseneck, single-lever tap. It is set into a light-colored granite countertop with a mosaic tile backsplash, located in the kitchen.",
+        "is_static": true,
+        "key_frames": {
+            "0:24": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Speech Sound Source (Person on the right)",
+        "description": "A male person, initially sitting on the couch to the right of the camera holder. He is wearing a white t-shirt and blue shorts. His face is blurred. He is the one who says, 'You got a nice place here...'",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Television and Living Room Area",
+        "description": "The general area in front of the couch where the speech sound source is sitting, which includes a large flat-screen television mounted on the wall.",
+        "key_frames": {
+            "0:03": {
+                "distance": "4.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": 6.5,
+    "question": "When the speech topic: \"complimenting the niceness of the place\" is mentioned, what is the distance between the double-basin rectangular sink and tap and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_99",
+    "video_id": "loc2_script2_seq2_rec2"
+}

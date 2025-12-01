@@ -1,0 +1,184 @@
+{
+    "event": "Determining the relative position of the other person when the speech topic 'acknowledging the watermelon' comes up.",
+    "start_time": "0:53",
+    "end_time": "0:59",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person, who has curly brown hair, is wearing a light blue/green short-sleeved collared shirt, dark shorts, glasses, and wired earbuds. They are of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:21": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:53": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:33": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:10": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person, who has curly brown hair, is wearing a light blue/green short-sleeved collared shirt, dark shorts, glasses, and wired earbuds. They are of average build.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:21": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:53": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:33": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:10": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"acknowledging the watermelon\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_26",
+    "video_id": "loc1_script2_seq4_rec1"
+}

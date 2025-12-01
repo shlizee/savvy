@@ -1,0 +1,128 @@
+{
+    "event": "The other person expresses confidence in the food outcome by saying 'This is going to be delicious'.",
+    "start_time": "0:12",
+    "end_time": "0:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a dark grey t-shirt and dark shorts. He has curly dark hair. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:25": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "0:31": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "1:34": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "1:35": {
+                "distance": "0.5",
+                "direction": "45"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "2:26": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "2:48": {
+                "distance": "1.0",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose first-person perspective the video is from. Visible arms show a light blue t-shirt and a gold-colored watch on the left wrist.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stovetop",
+        "description": "Black glass-ceramic electric stovetop integrated into a granite countertop.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:03": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing confidence in food outcome\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_224",
+    "video_id": "loc2_script3_seq34_rec1"
+}

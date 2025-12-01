@@ -1,0 +1,188 @@
+{
+    "event": "When the speech topic 'mentioning needing forks' comes up, determine the location of the other person relative to the camera wearer's facing direction.",
+    "start_time": "0:29",
+    "end_time": "0:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved polo shirt, khaki/light brown shorts, and white sneakers. He has short dark hair and is wearing glasses. Average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:18": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:23": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:29": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:54": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "1:16": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "-170"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-170"
+            },
+            "2:03": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:25": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "3:15": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "3:45": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "4:00": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "4:03": {
+                "distance": "0.8",
+                "direction": "-170"
+            },
+            "4:07": {
+                "distance": "0.8",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, from whose perspective the video is shot.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "cutlery_drawer",
+        "description": "A kitchen drawer made of wood, part of the kitchen cabinetry, containing cutlery. The camera is facing this drawer when the relevant speech occurs.",
+        "key_frames": {
+            "0:28": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning needing forks\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_227",
+    "video_id": "loc2_script3_seq4_rec2"
+}

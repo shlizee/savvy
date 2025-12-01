@@ -1,0 +1,116 @@
+{
+    "event": "The speech topic 'deciding to skip cooking brussels sprouts' comes up.",
+    "start_time": "2:30",
+    "end_time": "2:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male, wearing a turquoise short-sleeved polo shirt and khaki shorts. He has short brown hair and is wearing glasses. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "75"
+            },
+            "1:07": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "1:32": {
+                "distance": "0.6",
+                "direction": "85"
+            },
+            "1:57": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "2:08": {
+                "distance": "0.6",
+                "direction": "60"
+            },
+            "2:13": {
+                "distance": "0.5",
+                "direction": "45"
+            },
+            "2:18": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "50"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "55"
+            },
+            "2:32": {
+                "distance": "0.7",
+                "direction": "55"
+            },
+            "2:35": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:38": {
+                "distance": "0.8",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person (Person A).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_facing_direction",
+        "description": "The direction the camera (and thus the camera wearer) is primarily looking.",
+        "key_frames": {
+            "2:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:32": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"deciding to skip cooking brussels sprouts\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_188",
+    "video_id": "loc2_script3_seq31_rec2"
+}

@@ -1,0 +1,84 @@
+{
+    "event": "Creak and thud sound of a door closing",
+    "start_time": "0:01:30",
+    "end_time": "0:01:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Dark brown/black metal security door with a glass panel (frosted/textured) featuring ornate black wrought iron scrollwork. It has a lever handle and a deadbolt. Approximate size: 0.9m wide x 2m high x 0.04m thick.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "7.02",
+                "direction": "10"
+            },
+            "0:00:30": {
+                "distance": "7.02",
+                "direction": "5"
+            },
+            "0:01:00": {
+                "distance": "7.02",
+                "direction": "5"
+            },
+            "0:01:13": {
+                "distance": "5.02",
+                "direction": "0"
+            },
+            "0:01:17": {
+                "distance": "2.02",
+                "direction": "0"
+            },
+            "0:01:21": {
+                "distance": "0.82",
+                "direction": "0"
+            },
+            "0:01:22": {
+                "distance": "0.32",
+                "direction": "5"
+            },
+            "0:01:23": {
+                "distance": "0.22",
+                "direction": "0"
+            },
+            "0:01:25": {
+                "distance": "0.6",
+                "direction": "-35"
+            },
+            "0:01:28": {
+                "distance": "0.32",
+                "direction": "-10"
+            },
+            "0:01:30": {
+                "distance": "0.22",
+                "direction": "0"
+            },
+            "0:01:31": {
+                "distance": "0.22",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "front_door",
+        "description": "The front door of the house, which is the sounding object.",
+        "key_frames": {
+            "0:01:31": {
+                "distance": "0.22",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.22,
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_113",
+    "video_id": "loc2_script2_seq8_rec2"
+}

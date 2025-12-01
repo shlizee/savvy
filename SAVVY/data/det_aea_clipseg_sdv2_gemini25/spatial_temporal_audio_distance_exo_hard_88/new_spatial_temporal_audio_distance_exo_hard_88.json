@@ -1,0 +1,103 @@
+{
+    "event": "Distance between the rectangle wooden coffee table and the speech sound source (guest) when the guest inquires about the specific Arizona flavor.",
+    "start_time": "0:27",
+    "end_time": "0:29",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The guest, a person whose face is blurred, wearing a light-colored (possibly white or beige) t-shirt and light blue shorts. The sound source is their mouth.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "1:57": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "rectangle wooden coffee table",
+        "description": "A large, dark brown/black rectangular wooden coffee table located in the living room in front of the couch. It has a solid, low profile.",
+        "key_frames": {
+            "0:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:57": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.2,
+    "question": "When the speech topic: \"inquiring about the specific arizona flavor\" is mentioned, what is the distance between the rectangle wooden coffee table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_88",
+    "video_id": "loc2_script2_seq1_rec2"
+}

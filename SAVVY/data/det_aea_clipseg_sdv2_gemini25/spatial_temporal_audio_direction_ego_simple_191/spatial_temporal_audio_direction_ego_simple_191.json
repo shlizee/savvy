@@ -1,0 +1,132 @@
+{
+    "event": "The other person suggests tapping the stove control again.",
+    "start_time": "0:59",
+    "end_time": "1:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a grey short-sleeved polo shirt, dark shorts, and black-framed glasses. They have dark, curly hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:59": {
+                "distance": "0.5",
+                "direction": "45"
+            },
+            "1:01": {
+                "distance": "0.5",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:06": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:20": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stove",
+        "description": "A black glass-top stove integrated into a kitchen counter.",
+        "key_frames": {
+            "0:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:28": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting tapping stove control again\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_191",
+    "video_id": "loc2_script3_seq32_rec1"
+}

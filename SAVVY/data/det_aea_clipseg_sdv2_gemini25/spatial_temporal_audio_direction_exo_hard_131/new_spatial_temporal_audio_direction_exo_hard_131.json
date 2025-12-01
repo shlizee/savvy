@@ -1,0 +1,164 @@
+{
+    "event": "The speech topic: \"identifying otto as cup's co-pilot figure\" comes up.",
+    "start_time": "0:48",
+    "end_time": "0:50",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a teal/light blue polo shirt and khaki shorts. He has short dark hair and is of average build. He is the person speaking the line.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Refrigerator",
+        "description": "Large, silver, double-door stainless steel refrigerator, located against a kitchen wall. It has handles on both doors and appears to be a standard height kitchen appliance.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:28": {
+                "distance": "5.0",
+                "direction": "60"
+            },
+            "0:38": {
+                "distance": "6.0",
+                "direction": "20"
+            },
+            "0:43": {
+                "distance": "5.0",
+                "direction": "70"
+            },
+            "0:48": {
+                "distance": "4.5",
+                "direction": "75"
+            },
+            "0:55": {
+                "distance": "4.5",
+                "direction": "75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in Stainless Steel Dishwasher",
+        "description": "Standard under-counter built-in dishwasher with a stainless steel front panel. It is located to the left of the kitchen sink.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:38": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:43": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:48": {
+                "distance": "3.5",
+                "direction": "50"
+            },
+            "0:55": {
+                "distance": "3.5",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the built-in stainless steel dishwasher, when the speech topic: \"identifying otto as cup's co-pilot figure\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_131",
+    "video_id": "loc2_script2_seq3_rec2"
+}

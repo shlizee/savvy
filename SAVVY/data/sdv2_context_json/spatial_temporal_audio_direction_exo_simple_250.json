@@ -1,0 +1,112 @@
+{
+    "event": "The speech topic: \"expressing trust in the cook\" comes up.",
+    "start_time": "01:21",
+    "end_time": "01:23",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person holding the camera (Person 1), identifiable by their hands and a gold-colored watch visible in the early parts of the video. During the speaking event (01:21-01:23), their arm wearing a blue/teal shirt is visible as they are seated at a dining table. This person is the speaker uttering 'I mean I trust you'.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:31": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:21": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:04:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, ceramic glass electric cooktop with multiple circular heating elements, embedded in the central kitchen island. Approximately 70cm wide.",
+        "key_frames": {
+            "0:00:06": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:00:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:00:38": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:01:00": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:01:21": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:02:00": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:03:00": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:04:00": {
+                "distance": "3.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round Sink with a Tap",
+        "description": "A black, circular sink, likely made of composite material, embedded in the main kitchen countertop against a wall. It has a tall, metallic (chrome/stainless steel) gooseneck tap. The sink diameter is approximately 45cm.",
+        "key_frames": {
+            "0:00:03": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "0:00:08": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:00:38": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:01:00": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:01:21": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:02:00": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:03:00": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:04:00": {
+                "distance": "3.5",
+                "direction": "-50"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the round sink with a tap, when the speech topic: \"expressing trust in the cook\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_250",
+    "video_id": "loc2_script3_seq4_rec1"
+}

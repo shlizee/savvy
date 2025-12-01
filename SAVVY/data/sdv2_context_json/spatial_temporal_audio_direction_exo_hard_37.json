@@ -1,0 +1,124 @@
+{
+    "event": "Speech topic: \"offering own untouched water bottle\"",
+    "start_time": "01:05",
+    "end_time": "01:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man, mid-30s to 40s, with curly brown hair. He is wearing a light blue/green short-sleeve button-up shirt, dark shorts, and dark socks/shoes. He has headphones around his neck/ears and a small microphone clipped to his shirt. His glasses are sometimes on his head, sometimes worn, and sometimes off. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "01:05": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "01:08": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "01:19": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "01:30": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "01:44": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "01:59": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "02:07": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "02:27": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "02:58": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "03:05": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "Large, black, flat-screen television, approximately 50-60 inches, mounted above a fireplace on the living room wall.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "2.8",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A main circular coffee table with a dark wood or metal frame and a lighter top. A smaller, similar style table is partially underneath or next to it. Located in the center of the living room.",
+        "key_frames": {
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the tv and facing a set of nested coffee tables, when the speech topic: \"offering own untouched water bottle\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_37",
+    "video_id": "loc1_script2_seq3_rec2"
+}

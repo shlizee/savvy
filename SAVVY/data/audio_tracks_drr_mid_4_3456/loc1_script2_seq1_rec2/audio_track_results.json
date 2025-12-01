@@ -1,0 +1,3558 @@
+{
+    "0": [
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 1.054254852848223,
+            "cdr": 0.8982567379881717
+        },
+        {
+            "angle": 172.0,
+            "direction": "back-right",
+            "distance": 0.6146002072617565,
+            "clip_energy": 0.8991530512879901,
+            "cdr": 0.3704312553963667
+        },
+        {
+            "angle": 78.0,
+            "direction": "front-right",
+            "distance": 1.0023847107279922,
+            "clip_energy": 0.779374312375277,
+            "cdr": 1.0862666079431234
+        },
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.7235671617223159,
+            "cdr": 0.6323865961294927
+        }
+    ],
+    "1": [
+        {
+            "angle": -35.0,
+            "direction": "front-left",
+            "distance": 0.4852660469836856,
+            "clip_energy": 0.670141467702732,
+            "cdr": 1.1405862460357887
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5695823280234442,
+            "cdr": 1.8086700552379096
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.5498740116950794,
+            "cdr": 0.4545954170414079
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.4957645856122695,
+            "cdr": 0.5142534939998332
+        }
+    ],
+    "2": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3892841213463706,
+            "cdr": 0.4419692968715047
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.3181610777020001,
+            "cdr": 1.2065044758877717
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.2950188180611156,
+            "cdr": 1.1686946645345202
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.29390546458908506,
+            "cdr": 0.9536056675414434
+        }
+    ],
+    "3": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.26442193617941473,
+            "cdr": 1.0966067576059122
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.2782831133694943,
+            "cdr": 1.2115745572659125
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.2549019437311366,
+            "cdr": 0.9719776477346538
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.21085596274759363,
+            "cdr": 0.79896928942238
+        }
+    ],
+    "4": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.17922533764825327,
+            "cdr": 0.902861023430347
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.1451033533004599,
+            "cdr": 0.9347332321497794
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.14686216592516116,
+            "cdr": 0.9545346040635314
+        },
+        {
+            "angle": 168.0,
+            "direction": "back-right",
+            "distance": 0.6129599943268565,
+            "clip_energy": 0.1722323160558026,
+            "cdr": 0.7983677430372785
+        }
+    ],
+    "5": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.1867150326282961,
+            "cdr": 1.0276274918304305
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.20523315201341585,
+            "cdr": 1.053055240408555
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.21658952781052487,
+            "cdr": 0.4560868017514728
+        },
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.23861758930544782,
+            "cdr": 0.7018764841895532
+        }
+    ],
+    "6": [
+        {
+            "angle": -144.0,
+            "direction": "back-left",
+            "distance": 0.6545520672261723,
+            "clip_energy": 0.2567493307203356,
+            "cdr": 2.5142288483128437
+        },
+        {
+            "angle": -145.0,
+            "direction": "back-left",
+            "distance": 0.4852660465357034,
+            "clip_energy": 0.2544406402448456,
+            "cdr": 5.192463188923197
+        },
+        {
+            "angle": -137.0,
+            "direction": "back-left",
+            "distance": 0.5415930494693465,
+            "clip_energy": 0.24164105110365222,
+            "cdr": 0.9255648606815075
+        },
+        {
+            "angle": -144.0,
+            "direction": "back-left",
+            "distance": 0.6545520672261723,
+            "clip_energy": 0.23279823957202433,
+            "cdr": 1.7761327759860117
+        }
+    ],
+    "7": [
+        {
+            "angle": 115.0,
+            "direction": "back-right",
+            "distance": 0.4664812967840682,
+            "clip_energy": 0.22170024726070559,
+            "cdr": 0.8257412543079435
+        },
+        {
+            "angle": -57.0,
+            "direction": "front-left",
+            "distance": 0.6598184656198763,
+            "clip_energy": 0.2112711986649809,
+            "cdr": 2.476306491868021
+        },
+        {
+            "angle": -37.0,
+            "direction": "front-left",
+            "distance": 0.6507734166954902,
+            "clip_energy": 0.23776823851277157,
+            "cdr": 1.2735861358951623
+        },
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 0.25597437247135957,
+            "cdr": 0.5340097666383876
+        }
+    ],
+    "8": [
+        {
+            "angle": 10.0,
+            "direction": "front-right",
+            "distance": 0.613858827048424,
+            "clip_energy": 0.34388149520746863,
+            "cdr": 0.6547002429355174
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3088040540652358,
+            "cdr": 0.4497435749436765
+        },
+        {
+            "angle": 90.0,
+            "direction": "back-right",
+            "distance": 0.22499998511782465,
+            "clip_energy": 0.2596690349693258,
+            "cdr": 0.19279994001813106
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.8002220248046109,
+            "cdr": 0.3983708722142338
+        }
+    ],
+    "9": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.513244276877936,
+            "cdr": 0.7807872211406561
+        },
+        {
+            "angle": -2.0,
+            "direction": "front-left",
+            "distance": 0.6158361208802109,
+            "clip_energy": 0.29224810660200046,
+            "cdr": 1.476952920627219
+        },
+        {
+            "angle": -28.0,
+            "direction": "front-left",
+            "distance": 0.6637091488573743,
+            "clip_energy": 0.32755816409075056,
+            "cdr": 2.8038108996806077
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.35221894754243993,
+            "cdr": 0.6868283114337058
+        }
+    ],
+    "10": [
+        {
+            "angle": 35.0,
+            "direction": "front-right",
+            "distance": 0.48526604654165983,
+            "clip_energy": 0.37611671906949534,
+            "cdr": 0.8290619042714383
+        },
+        {
+            "angle": 10.0,
+            "direction": "front-right",
+            "distance": 0.613858827048424,
+            "clip_energy": 0.9471468192249651,
+            "cdr": 0.606005294544253
+        },
+        {
+            "angle": 36.0,
+            "direction": "front-right",
+            "distance": 0.6545554421489339,
+            "clip_energy": 0.5036642099504034,
+            "cdr": 0.835540457422113
+        },
+        {
+            "angle": -28.0,
+            "direction": "front-left",
+            "distance": 0.6637091488573743,
+            "clip_energy": 0.26373947124799485,
+            "cdr": 1.9306371585835995
+        }
+    ],
+    "11": [
+        {
+            "angle": -144.0,
+            "direction": "back-left",
+            "distance": 0.6545520672261723,
+            "clip_energy": 0.23209619544381827,
+            "cdr": 1.458155543155403
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.8202219958560697,
+            "cdr": 0.7200909966085569
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.9272161702916683,
+            "cdr": 0.9454226186840898
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3237038165552458,
+            "cdr": 0.5317796089709165
+        }
+    ],
+    "12": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.2782790036247355,
+            "cdr": 0.8931528225055136
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.3250933994370895,
+            "cdr": 1.0957153998997886
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.30848578483840194,
+            "cdr": 0.6259970412657445
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.6308324235290591,
+            "cdr": 0.37878931627475554
+        }
+    ],
+    "13": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.3932192676974001,
+            "cdr": 0.8188304758000924
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.4320400685519233,
+            "cdr": 0.31910068194476787
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.7142897580236686,
+            "cdr": 0.4579963280161133
+        },
+        {
+            "angle": 43.0,
+            "direction": "front-right",
+            "distance": 0.5415930432430802,
+            "clip_energy": 1.2531193435807646,
+            "cdr": 0.4885196146393606
+        }
+    ],
+    "14": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 1.0928232899221244,
+            "cdr": 0.3581654097785096
+        },
+        {
+            "angle": 58.0,
+            "direction": "front-right",
+            "distance": 0.6600920526896042,
+            "clip_energy": 0.5589510435220717,
+            "cdr": 1.3320979011488794
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.3446166644106998,
+            "cdr": 0.8548266539623137
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.2922109849436807,
+            "cdr": 0.938730608129242
+        }
+    ],
+    "15": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.34178875504794026,
+            "cdr": 0.5614227597151628
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.35434356179969556,
+            "cdr": 0.3479122984430501
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.23774858252386571,
+            "cdr": 0.3413974326190738
+        },
+        {
+            "angle": -132.0,
+            "direction": "back-left",
+            "distance": 0.5380242865468777,
+            "clip_energy": 0.15914568508644988,
+            "cdr": 1.3514362817528314
+        }
+    ],
+    "16": [
+        {
+            "angle": 155.0,
+            "direction": "back-right",
+            "distance": 0.9987209227291536,
+            "clip_energy": 0.10668247819879953,
+            "cdr": 4.50157882524193
+        },
+        {
+            "angle": 35.0,
+            "direction": "front-right",
+            "distance": 0.48526604654165983,
+            "clip_energy": 0.09213836035097117,
+            "cdr": 2.1948434322594017
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.11039668401327514,
+            "cdr": 0.807568581775822
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.11230290038303996,
+            "cdr": 0.8451807544065795
+        }
+    ],
+    "17": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.24054454535966527,
+            "cdr": 1.1233327888024527
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.14645053472642705,
+            "cdr": 1.2836199028194515
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.20725082054136804,
+            "cdr": 0.5008671650249797
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.2222205047532775,
+            "cdr": 0.36402420542388225
+        }
+    ],
+    "18": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.0870295170306697,
+            "cdr": 0.5270401033031774
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.21600014112002125,
+            "cdr": 1.2836011690364169
+        },
+        {
+            "angle": -127.0,
+            "direction": "back-left",
+            "distance": 0.5421794637048681,
+            "clip_energy": 0.12847824277675007,
+            "cdr": 1.0897036600085137
+        },
+        {
+            "angle": -94.0,
+            "direction": "back-left",
+            "distance": 1.004542282856703,
+            "clip_energy": 0.12054564270185737,
+            "cdr": 0.43464136913301976
+        }
+    ],
+    "19": [
+        {
+            "angle": 108.0,
+            "direction": "back-right",
+            "distance": 0.9995291527759239,
+            "clip_energy": 0.10152580900603797,
+            "cdr": 1.3592951714316872
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.11787124482076425,
+            "cdr": 1.691586071594057
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.08427514706574471,
+            "cdr": 1.260298805316378
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.06388391952189933,
+            "cdr": 0.8112192603062316
+        }
+    ],
+    "20": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.07154333153585044,
+            "cdr": 0.8788983293417054
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.09535919886339482,
+            "cdr": 1.0110770136962284
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.11264328706103621,
+            "cdr": 0.9369571387633594
+        },
+        {
+            "angle": -65.0,
+            "direction": "front-left",
+            "distance": 0.4664812987955227,
+            "clip_energy": 0.11729892360869414,
+            "cdr": 0.609323156121977
+        }
+    ],
+    "21": [
+        {
+            "angle": 56.0,
+            "direction": "front-right",
+            "distance": 0.6595434975562249,
+            "clip_energy": 0.11864439619785912,
+            "cdr": 2.9597442448821654
+        },
+        {
+            "angle": 51.0,
+            "direction": "front-right",
+            "distance": 0.5403051383645505,
+            "clip_energy": 0.12437436999228516,
+            "cdr": 0.7549281913121044
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.12212984159457028,
+            "cdr": 0.691605414818147
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.1255997337250408,
+            "cdr": 0.5821577276122983
+        }
+    ],
+    "22": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.09675906997128443,
+            "cdr": 0.4933722801919287
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.0911070389157823,
+            "cdr": 0.8738146340831673
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.10115943762282445,
+            "cdr": 1.0846924594230478
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.08891784879752357,
+            "cdr": 0.5781218947253471
+        }
+    ],
+    "23": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.10208886635959986,
+            "cdr": 0.43051395240072415
+        },
+        {
+            "angle": -59.0,
+            "direction": "front-left",
+            "distance": 0.6603591746558651,
+            "clip_energy": 0.09254561609979893,
+            "cdr": 14.9137488476271
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.12890811398632362,
+            "cdr": 1.2886643538447407
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.11423813006423178,
+            "cdr": 0.5376066220252688
+        }
+    ],
+    "24": [
+        {
+            "angle": -65.0,
+            "direction": "front-left",
+            "distance": 0.4664812987955227,
+            "clip_energy": 0.11588931657536751,
+            "cdr": 0.5736216198454748
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.10532697667960314,
+            "cdr": 1.0500311497379162
+        },
+        {
+            "angle": -64.0,
+            "direction": "front-left",
+            "distance": 0.46647879106910384,
+            "clip_energy": 0.09465723843812501,
+            "cdr": 0.8729742991541044
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.09371153717994027,
+            "cdr": 1.4198675448749247
+        }
+    ],
+    "25": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.0941423807732294,
+            "cdr": 1.2458797023987358
+        },
+        {
+            "angle": -88.0,
+            "direction": "front-left",
+            "distance": 0.6091391255979547,
+            "clip_energy": 0.08979296285412107,
+            "cdr": 0.7264966315454774
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.06935977526018802,
+            "cdr": 0.8262318908181848
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.17690575451925541,
+            "cdr": 0.9984386207970027
+        }
+    ],
+    "26": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.1591691850345248,
+            "cdr": 0.3641022031003091
+        },
+        {
+            "angle": -42.0,
+            "direction": "front-left",
+            "distance": 0.5432369422229862,
+            "clip_energy": 0.07871726959543167,
+            "cdr": 0.6272189824804667
+        },
+        {
+            "angle": -48.0,
+            "direction": "front-left",
+            "distance": 0.5380242835018209,
+            "clip_energy": 0.10042966350791048,
+            "cdr": 0.5681366804692125
+        },
+        {
+            "angle": -47.0,
+            "direction": "front-left",
+            "distance": 0.5378884244799064,
+            "clip_energy": 0.09026417632324679,
+            "cdr": 0.9149254036104337
+        }
+    ],
+    "27": [
+        {
+            "angle": -36.0,
+            "direction": "front-left",
+            "distance": 0.6545512594301243,
+            "clip_energy": 0.07709441828872962,
+            "cdr": 1.3326996355134242
+        },
+        {
+            "angle": -64.0,
+            "direction": "front-left",
+            "distance": 0.46647879106910384,
+            "clip_energy": 0.0915443314828725,
+            "cdr": 0.5302028364143964
+        },
+        {
+            "angle": -47.0,
+            "direction": "front-left",
+            "distance": 0.5378884244799064,
+            "clip_energy": 0.06852333297347488,
+            "cdr": 1.5843810182315254
+        },
+        {
+            "angle": -35.0,
+            "direction": "front-left",
+            "distance": 0.4852660469836856,
+            "clip_energy": 0.07138755604765637,
+            "cdr": 2.1691368617978752
+        }
+    ],
+    "28": [
+        {
+            "angle": -145.0,
+            "direction": "back-left",
+            "distance": 0.4852660465357034,
+            "clip_energy": 0.07256114629206437,
+            "cdr": 2.787875965551119
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.06336524445832006,
+            "cdr": 1.3876437019139185
+        },
+        {
+            "angle": -63.0,
+            "direction": "front-left",
+            "distance": 0.4664388021932613,
+            "clip_energy": 0.07126086474283669,
+            "cdr": 0.7123480944477975
+        },
+        {
+            "angle": -90.0,
+            "direction": "back-left",
+            "distance": 0.19932657533885673,
+            "clip_energy": 0.07967782861793088,
+            "cdr": 0.30467092585223277
+        }
+    ],
+    "29": [
+        {
+            "angle": 79.0,
+            "direction": "front-right",
+            "distance": 1.0027644143571668,
+            "clip_energy": 0.08126130541220616,
+            "cdr": 0.48282645324755463
+        },
+        {
+            "angle": 161.0,
+            "direction": "back-right",
+            "distance": 0.6086988279573955,
+            "clip_energy": 0.08363982149871635,
+            "cdr": 0.40465903816830967
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.0771324346338562,
+            "cdr": 1.2377067922916467
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.09643729485967725,
+            "cdr": 0.28284313008183826
+        }
+    ],
+    "30": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.27492233122397247,
+            "cdr": 0.889080379955268
+        },
+        {
+            "angle": -44.0,
+            "direction": "front-left",
+            "distance": 0.5401304910925359,
+            "clip_energy": 0.08023578835238925,
+            "cdr": 0.4712891287109164
+        },
+        {
+            "angle": -73.0,
+            "direction": "front-left",
+            "distance": 1.0000660217895725,
+            "clip_energy": 0.10238718410649758,
+            "cdr": 0.6351467794170174
+        },
+        {
+            "angle": -98.0,
+            "direction": "back-left",
+            "distance": 1.003722083646199,
+            "clip_energy": 0.10657758980686428,
+            "cdr": 0.3346855038076903
+        }
+    ],
+    "31": [
+        {
+            "angle": -129.0,
+            "direction": "back-left",
+            "distance": 0.5403051428441256,
+            "clip_energy": 0.11564900271548108,
+            "cdr": 0.6285433673654972
+        },
+        {
+            "angle": -90.0,
+            "direction": "back-left",
+            "distance": 0.19932657533885673,
+            "clip_energy": 0.14724925301812472,
+            "cdr": 0.38740538608759506
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.1530534827834475,
+            "cdr": 0.41011837769910825
+        },
+        {
+            "angle": -36.0,
+            "direction": "front-left",
+            "distance": 0.6545512594301243,
+            "clip_energy": 0.14948855519024798,
+            "cdr": 1.4840634258117815
+        }
+    ],
+    "32": [
+        {
+            "angle": -34.0,
+            "direction": "front-left",
+            "distance": 0.48701637929195907,
+            "clip_energy": 0.10825887063464495,
+            "cdr": 2.3707059880722476
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.11996527113395386,
+            "cdr": 0.33389744309892344
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.09177114755188447,
+            "cdr": 0.29230275441778414
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.7944417342300544,
+            "cdr": 0.9126561513158998
+        }
+    ],
+    "33": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.36061774866360496,
+            "cdr": 0.6560060018211211
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.750782478958696,
+            "cdr": 0.9511895819307316
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.39200690925600973,
+            "cdr": 0.6682260362349104
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.16618859872745304,
+            "cdr": 0.6105538812639529
+        }
+    ],
+    "34": [
+        {
+            "angle": -144.0,
+            "direction": "back-left",
+            "distance": 0.6545520672261723,
+            "clip_energy": 0.09682131517996588,
+            "cdr": 0.9443959375761862
+        },
+        {
+            "angle": -144.0,
+            "direction": "back-left",
+            "distance": 0.6545520672261723,
+            "clip_energy": 0.07257791328707265,
+            "cdr": 2.11067963100524
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.12928864086934566,
+            "cdr": 0.5474264882979617
+        },
+        {
+            "angle": 90.0,
+            "direction": "back-right",
+            "distance": 0.22499998511782465,
+            "clip_energy": 0.18789543732569217,
+            "cdr": 0.4741532056262247
+        }
+    ],
+    "35": [
+        {
+            "angle": 29.0,
+            "direction": "front-right",
+            "distance": 0.663185887181135,
+            "clip_energy": 0.16280797581418227,
+            "cdr": 1.778551623656644
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.1451601316592076,
+            "cdr": 0.444314281310284
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.15179793074275566,
+            "cdr": 0.795245276796681
+        },
+        {
+            "angle": -36.0,
+            "direction": "front-left",
+            "distance": 0.6545512594301243,
+            "clip_energy": 0.11962889067980606,
+            "cdr": 1.1225364399861288
+        }
+    ],
+    "36": [
+        {
+            "angle": -36.0,
+            "direction": "front-left",
+            "distance": 0.6545512594301243,
+            "clip_energy": 0.1668769483416827,
+            "cdr": 1.2792945814680965
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.387138504949362,
+            "cdr": 0.3924045515805111
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.625620629202926,
+            "cdr": 0.47464797468932374
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.49897255236833193,
+            "cdr": 0.7660866750705076
+        }
+    ],
+    "37": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5488678452857927,
+            "cdr": 0.4106789523902803
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.17870479844185247,
+            "cdr": 0.2531645346409361
+        },
+        {
+            "angle": -13.0,
+            "direction": "front-left",
+            "distance": 0.6124523189229291,
+            "clip_energy": 0.23390175406722605,
+            "cdr": 0.7728725583713817
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.1190035688306895,
+            "cdr": 0.9220816876899289
+        }
+    ],
+    "38": [
+        {
+            "angle": -27.0,
+            "direction": "front-left",
+            "distance": 0.6642226543145981,
+            "clip_energy": 0.08358122016462208,
+            "cdr": 1.5544426182104834
+        },
+        {
+            "angle": 9.0,
+            "direction": "front-right",
+            "distance": 0.6142484754122852,
+            "clip_energy": 0.35682185938165356,
+            "cdr": 0.7172160235379347
+        },
+        {
+            "angle": -23.0,
+            "direction": "front-left",
+            "distance": 1.000553628101703,
+            "clip_energy": 0.4606749223134052,
+            "cdr": 1.217534107728974
+        },
+        {
+            "angle": -90.0,
+            "direction": "back-left",
+            "distance": 0.19932657533885673,
+            "clip_energy": 0.22227508980656227,
+            "cdr": 0.8810158340813655
+        }
+    ],
+    "39": [
+        {
+            "angle": 36.0,
+            "direction": "front-right",
+            "distance": 0.6545554421489339,
+            "clip_energy": 0.11995535703080333,
+            "cdr": 0.8810543779067528
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3065821597982476,
+            "cdr": 0.4168973035024837
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.4449350028575468,
+            "cdr": 0.32621845198201915
+        },
+        {
+            "angle": 15.0,
+            "direction": "front-right",
+            "distance": 0.6113282944010399,
+            "clip_energy": 0.12689947315073632,
+            "cdr": 0.6012436774164008
+        }
+    ],
+    "40": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.4913190263926866,
+            "cdr": 0.46170354116836587
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.755847073240494,
+            "cdr": 0.352379468270037
+        },
+        {
+            "angle": 22.0,
+            "direction": "front-right",
+            "distance": 1.0014594981383718,
+            "clip_energy": 0.5481601328883258,
+            "cdr": 3.9634306640777623
+        },
+        {
+            "angle": 22.0,
+            "direction": "front-right",
+            "distance": 1.0014594981383718,
+            "clip_energy": 0.1913770439286719,
+            "cdr": 1.7908690913871277
+        }
+    ],
+    "41": [
+        {
+            "angle": 11.0,
+            "direction": "front-right",
+            "distance": 0.6134295235954983,
+            "clip_energy": 0.18958183714167948,
+            "cdr": 0.7173593548945355
+        },
+        {
+            "angle": 9.0,
+            "direction": "front-right",
+            "distance": 0.6142484754122852,
+            "clip_energy": 0.12018223683640816,
+            "cdr": 0.48304666360303905
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.22421237026003915,
+            "cdr": 0.967554582408395
+        },
+        {
+            "angle": 22.0,
+            "direction": "front-right",
+            "distance": 1.0014594981383718,
+            "clip_energy": 0.11958388045633851,
+            "cdr": 1.3249005083139156
+        }
+    ],
+    "42": [
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.09857127658964815,
+            "cdr": 0.49202888424475644
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.08301904265787179,
+            "cdr": 0.4128220788234351
+        },
+        {
+            "angle": 24.0,
+            "direction": "front-right",
+            "distance": 0.9996391550501138,
+            "clip_energy": 0.1560176671772702,
+            "cdr": 0.8395505892696415
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.39655147416919767,
+            "cdr": 0.3138893335209092
+        }
+    ],
+    "43": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.43460823493683187,
+            "cdr": 0.5880846123005306
+        },
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 0.33539881875945315,
+            "cdr": 1.1071755086772888
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.10889218834110431,
+            "cdr": 0.9332279944074157
+        },
+        {
+            "angle": -16.0,
+            "direction": "front-left",
+            "distance": 0.6107155599607997,
+            "clip_energy": 0.07551043914374563,
+            "cdr": 0.6169566865296289
+        }
+    ],
+    "44": [
+        {
+            "angle": -34.0,
+            "direction": "front-left",
+            "distance": 0.48701637929195907,
+            "clip_energy": 0.07096431524689191,
+            "cdr": 4.004772199117262
+        },
+        {
+            "angle": -8.0,
+            "direction": "front-left",
+            "distance": 0.6145986399645385,
+            "clip_energy": 0.07908082619594721,
+            "cdr": 0.7515268375720244
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.06695497524727279,
+            "cdr": 0.9499819685124701
+        },
+        {
+            "angle": -14.0,
+            "direction": "front-left",
+            "distance": 0.6119078880426618,
+            "clip_energy": 0.08926929425070516,
+            "cdr": 1.053881411701525
+        }
+    ],
+    "45": [
+        {
+            "angle": -37.0,
+            "direction": "front-left",
+            "distance": 0.6507734166954902,
+            "clip_energy": 0.08473262584019749,
+            "cdr": 0.8831872976316996
+        },
+        {
+            "angle": -23.0,
+            "direction": "front-left",
+            "distance": 1.000553628101703,
+            "clip_energy": 0.259580460142662,
+            "cdr": 1.9679327707431504
+        },
+        {
+            "angle": -27.0,
+            "direction": "front-left",
+            "distance": 0.6642226543145981,
+            "clip_energy": 0.14797992828224527,
+            "cdr": 0.7393636817291709
+        },
+        {
+            "angle": -27.0,
+            "direction": "front-left",
+            "distance": 0.6642226543145981,
+            "clip_energy": 0.13103081731681612,
+            "cdr": 0.9813602636545781
+        }
+    ],
+    "46": [
+        {
+            "angle": -28.0,
+            "direction": "front-left",
+            "distance": 0.6637091488573743,
+            "clip_energy": 0.17454479653320676,
+            "cdr": 1.5456468941012995
+        },
+        {
+            "angle": -28.0,
+            "direction": "front-left",
+            "distance": 0.6637091488573743,
+            "clip_energy": 0.10878668667786096,
+            "cdr": 1.8983501828579834
+        },
+        {
+            "angle": -27.0,
+            "direction": "front-left",
+            "distance": 0.6642226543145981,
+            "clip_energy": 0.13473588504761264,
+            "cdr": 0.9134566783680276
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.09289555793991441,
+            "cdr": 1.1394474504894558
+        }
+    ],
+    "47": [
+        {
+            "angle": -36.0,
+            "direction": "front-left",
+            "distance": 0.6545512594301243,
+            "clip_energy": 0.08419054806564427,
+            "cdr": 1.575576240652061
+        },
+        {
+            "angle": -129.0,
+            "direction": "back-left",
+            "distance": 0.5403051428441256,
+            "clip_energy": 0.08133587265305192,
+            "cdr": 0.6203045813934307
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.17382421381975724,
+            "cdr": 0.4606776249153825
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.8082956695302831,
+            "cdr": 0.49301000128076683
+        }
+    ],
+    "48": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.5527900155574889,
+            "cdr": 0.7854549179665913
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.4001431514468521,
+            "cdr": 0.8808350926272509
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.6012138991511902,
+            "cdr": 0.49174210524604106
+        },
+        {
+            "angle": 58.0,
+            "direction": "front-right",
+            "distance": 0.6600920526896042,
+            "clip_energy": 0.44715800094075064,
+            "cdr": 1.5226915695518883
+        }
+    ],
+    "49": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.2637480590396351,
+            "cdr": 0.41994122156586106
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.33089761749443375,
+            "cdr": 0.98398251865036
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5123106467118203,
+            "cdr": 0.45718957523789944
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5307749138589505,
+            "cdr": 0.38631789499439123
+        }
+    ],
+    "50": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.45648352904129574,
+            "cdr": 0.40333239561308076
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.30724081599304104,
+            "cdr": 0.7502051904285314
+        },
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 0.23518961166013705,
+            "cdr": 1.1059584806275462
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.2176626633618681,
+            "cdr": 0.7037959049939206
+        }
+    ],
+    "51": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.31026154131405614,
+            "cdr": 0.45302136979991076
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.22924893250055653,
+            "cdr": 0.8336188191720981
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.07923899003582326,
+            "cdr": 0.45111285754989777
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.06516098960040331,
+            "cdr": 0.4834993527332887
+        }
+    ],
+    "52": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.7585321529063866,
+            "cdr": 0.47683433661418273
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.6891067758811347,
+            "cdr": 0.41928534836008025
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.14002558325428272,
+            "cdr": 0.39307169285003796
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.538147633748894,
+            "cdr": 0.48051346151937263
+        }
+    ],
+    "53": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.4231519271024653,
+            "cdr": 0.9823366261568885
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.07119681320798053,
+            "cdr": 0.5448521373978926
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.08469054615165864,
+            "cdr": 0.6928859098493757
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.16138696567332309,
+            "cdr": 0.3941290916564244
+        }
+    ],
+    "54": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5020686510189603,
+            "cdr": 0.40275384857521895
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.17056848008207606,
+            "cdr": 0.7196229375590731
+        },
+        {
+            "angle": -88.0,
+            "direction": "front-left",
+            "distance": 0.6091391255979547,
+            "clip_energy": 0.06742429838322919,
+            "cdr": 0.3363666079553845
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.07460338908044772,
+            "cdr": 0.21711746494818493
+        }
+    ],
+    "55": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.07039443513802185,
+            "cdr": 0.39531952353643507
+        },
+        {
+            "angle": 172.0,
+            "direction": "back-right",
+            "distance": 0.6146002072617565,
+            "clip_energy": 0.0705408784888395,
+            "cdr": 0.37915906101057056
+        },
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 0.2523149509353413,
+            "cdr": 1.1885544001948267
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3460766342443057,
+            "cdr": 0.44951198837689477
+        }
+    ],
+    "56": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.152418142886006,
+            "cdr": 0.4919987367600747
+        },
+        {
+            "angle": 56.0,
+            "direction": "front-right",
+            "distance": 0.6595434975562249,
+            "clip_energy": 0.07182228861048462,
+            "cdr": 2.859352679025776
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.26263204330284945,
+            "cdr": 0.42205216114461713
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.4163277220979081,
+            "cdr": 0.4184273218542909
+        }
+    ],
+    "57": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5501763017895648,
+            "cdr": 0.43699426927928026
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5663258988837527,
+            "cdr": 0.433872915954103
+        },
+        {
+            "angle": 62.0,
+            "direction": "front-right",
+            "distance": 0.46636540982514246,
+            "clip_energy": 0.3757798510107063,
+            "cdr": 0.7731681030804523
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3336805780053283,
+            "cdr": 0.4393756637799922
+        }
+    ],
+    "58": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.07853214744832282,
+            "cdr": 0.5736306867601934
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3784108807299893,
+            "cdr": 0.397588573321549
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.349739668451537,
+            "cdr": 0.3823104725027567
+        },
+        {
+            "angle": 62.0,
+            "direction": "front-right",
+            "distance": 0.46636540982514246,
+            "clip_energy": 0.07159842034212682,
+            "cdr": 0.498075325343797
+        }
+    ],
+    "59": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.1755470304908624,
+            "cdr": 1.0609561438680564
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.26213213314397776,
+            "cdr": 0.45490506447074747
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3217507844884241,
+            "cdr": 0.4201502302710494
+        },
+        {
+            "angle": 61.0,
+            "direction": "front-right",
+            "distance": 0.6608533680825067,
+            "clip_energy": 0.1735786726899434,
+            "cdr": 1.1409627951188814
+        }
+    ],
+    "60": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.08600559300415746,
+            "cdr": 0.38711579783843625
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3501483024025456,
+            "cdr": 0.46678398388787956
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.26945378392759184,
+            "cdr": 0.41143348317680967
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.2522654113579605,
+            "cdr": 0.4641918268870142
+        }
+    ],
+    "61": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.19143605486753715,
+            "cdr": 0.4675956847788245
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.09660975499011312,
+            "cdr": 0.3792514879161053
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.1234624520565997,
+            "cdr": 0.4461450246956804
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.16128724529326366,
+            "cdr": 0.4262793248296623
+        }
+    ],
+    "62": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.11728574290513975,
+            "cdr": 0.8816240272081891
+        },
+        {
+            "angle": 90.0,
+            "direction": "back-right",
+            "distance": 0.22499998511782465,
+            "clip_energy": 0.1006258635306179,
+            "cdr": 0.36950100653987655
+        },
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.08109392514788726,
+            "cdr": 0.5818018341957812
+        },
+        {
+            "angle": 12.0,
+            "direction": "front-right",
+            "distance": 0.6129599825658207,
+            "clip_energy": 0.07267593519609196,
+            "cdr": 0.6796699282625257
+        }
+    ],
+    "63": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.06333207779479524,
+            "cdr": 0.42748129862853723
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.1395652496547063,
+            "cdr": 0.9109222313551237
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.1556767258704344,
+            "cdr": 0.48256902912657057
+        },
+        {
+            "angle": -18.0,
+            "direction": "front-left",
+            "distance": 0.6093976708043657,
+            "clip_energy": 0.09832170730225882,
+            "cdr": 0.722464427241043
+        }
+    ],
+    "64": [
+        {
+            "angle": -12.0,
+            "direction": "front-left",
+            "distance": 0.6129599865633609,
+            "clip_energy": 0.0687403925500831,
+            "cdr": 0.6492140897098037
+        },
+        {
+            "angle": -8.0,
+            "direction": "front-left",
+            "distance": 0.6145986399645385,
+            "clip_energy": 0.06895468893942129,
+            "cdr": 0.4975863702204045
+        },
+        {
+            "angle": -12.0,
+            "direction": "front-left",
+            "distance": 0.6129599865633609,
+            "clip_energy": 0.06883440498903504,
+            "cdr": 0.4585456181404817
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.06243176199645989,
+            "cdr": 0.22439086622540272
+        }
+    ],
+    "65": [
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.06929970183944827,
+            "cdr": 0.43634722861656855
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.08325065544660827,
+            "cdr": 0.4540271210557454
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.1346229682740716,
+            "cdr": 0.4382111089083514
+        },
+        {
+            "angle": 16.0,
+            "direction": "front-right",
+            "distance": 0.6107155551994311,
+            "clip_energy": 0.06036215723119719,
+            "cdr": 0.6652315038717734
+        }
+    ],
+    "66": [
+        {
+            "angle": 10.0,
+            "direction": "front-right",
+            "distance": 0.613858827048424,
+            "clip_energy": 0.10640988941662598,
+            "cdr": 0.7198998471479984
+        },
+        {
+            "angle": 43.0,
+            "direction": "front-right",
+            "distance": 0.5415930432430802,
+            "clip_energy": 0.121995139817649,
+            "cdr": 0.638570853958292
+        },
+        {
+            "angle": -18.0,
+            "direction": "front-left",
+            "distance": 0.6093976708043657,
+            "clip_energy": 0.09904882305027078,
+            "cdr": 0.9353938323185305
+        },
+        {
+            "angle": 41.0,
+            "direction": "front-right",
+            "distance": 0.5449393397868696,
+            "clip_energy": 0.10192099901823216,
+            "cdr": 1.0248415471299228
+        }
+    ],
+    "67": [
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.05599390150022657,
+            "cdr": 0.2826574577677119
+        },
+        {
+            "angle": 66.0,
+            "direction": "front-right",
+            "distance": 0.46644254938184715,
+            "clip_energy": 0.06417554267320236,
+            "cdr": 0.47162242118771913
+        },
+        {
+            "angle": -10.0,
+            "direction": "front-left",
+            "distance": 0.6138588272422038,
+            "clip_energy": 0.08302705766067266,
+            "cdr": 0.5090221229826235
+        },
+        {
+            "angle": -14.0,
+            "direction": "front-left",
+            "distance": 0.6119078880426618,
+            "clip_energy": 0.08701353060530279,
+            "cdr": 0.9898842958082291
+        }
+    ],
+    "68": [
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.07310588870181418,
+            "cdr": 0.2655617082194514
+        },
+        {
+            "angle": 18.0,
+            "direction": "front-right",
+            "distance": 0.6093976718464296,
+            "clip_energy": 0.050884067086951104,
+            "cdr": 0.4123940774048152
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.9187652379024414,
+            "cdr": 0.38535786559163276
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 1.0672268906300968,
+            "cdr": 0.4618963967430845
+        }
+    ],
+    "69": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.40433102154850525,
+            "cdr": 0.37090015562233963
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.28146456110596435,
+            "cdr": 0.38284112629453665
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5915610721770405,
+            "cdr": 0.5539613789026941
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.46282437007294325,
+            "cdr": 0.3779596304848363
+        }
+    ],
+    "70": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.36447170001712453,
+            "cdr": 0.47626037894915774
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.3831884134406466,
+            "cdr": 0.4253476615113543
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.08312498686008779,
+            "cdr": 0.7980776412432794
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.40558639760006454,
+            "cdr": 0.44448541434614586
+        }
+    ],
+    "71": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.3467871056280866,
+            "cdr": 0.8162442460768641
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.23907261122719126,
+            "cdr": 0.990347814441313
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.4464766026952622,
+            "cdr": 0.9807227442156689
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.48177306372323836,
+            "cdr": 0.39363209153208795
+        }
+    ],
+    "72": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.45141141073169294,
+            "cdr": 0.4260147975956466
+        },
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 0.06914243426353363,
+            "cdr": 0.4854322285669215
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.07298440710110735,
+            "cdr": 0.5435765504058608
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.2663589043930013,
+            "cdr": 0.7197135661503943
+        }
+    ],
+    "73": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.5588027989746805,
+            "cdr": 0.6035736967968349
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.32807692675156636,
+            "cdr": 0.9015543634790951
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.4964779244881016,
+            "cdr": 0.41375646080394407
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.15511868520574185,
+            "cdr": 0.459206013423155
+        }
+    ],
+    "74": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.07684754290785929,
+            "cdr": 0.8926606299423335
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.07104975890377757,
+            "cdr": 0.3278053844607542
+        },
+        {
+            "angle": -11.0,
+            "direction": "front-left",
+            "distance": 0.6134295251080799,
+            "clip_energy": 0.08469538184382071,
+            "cdr": 0.42267798712284227
+        },
+        {
+            "angle": -8.0,
+            "direction": "front-left",
+            "distance": 0.6145986399645385,
+            "clip_energy": 0.1235713754866149,
+            "cdr": 0.4072551186131668
+        }
+    ],
+    "75": [
+        {
+            "angle": -8.0,
+            "direction": "front-left",
+            "distance": 0.6145986399645385,
+            "clip_energy": 0.1256152078859387,
+            "cdr": 0.6336529834595032
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.12457108297914196,
+            "cdr": 0.463996018429584
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.09820663802449528,
+            "cdr": 0.5961211635959821
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.10614677000459204,
+            "cdr": 0.7259856028641964
+        }
+    ],
+    "76": [
+        {
+            "angle": -8.0,
+            "direction": "front-left",
+            "distance": 0.6145986399645385,
+            "clip_energy": 0.07816817759405463,
+            "cdr": 0.6116417135749145
+        },
+        {
+            "angle": -8.0,
+            "direction": "front-left",
+            "distance": 0.6145986399645385,
+            "clip_energy": 0.07518440018777954,
+            "cdr": 0.4032065604015535
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.07077658009439522,
+            "cdr": 1.2365884830189713
+        },
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.056663257911099926,
+            "cdr": 0.5995272752625305
+        }
+    ],
+    "77": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.07280301670298595,
+            "cdr": 0.8432708008317183
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.06443039898036065,
+            "cdr": 1.065801906551319
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.07071007146485164,
+            "cdr": 0.9101509652705747
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.06746055430627611,
+            "cdr": 0.6068248749182293
+        }
+    ],
+    "78": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.10317970598540838,
+            "cdr": 0.5198585663775294
+        },
+        {
+            "angle": -2.0,
+            "direction": "front-left",
+            "distance": 0.6158361208802109,
+            "clip_energy": 0.17918859549068775,
+            "cdr": 0.7705294685100892
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.068129329521947,
+            "cdr": 1.1923690878788697
+        },
+        {
+            "angle": -11.0,
+            "direction": "front-left",
+            "distance": 0.6134295251080799,
+            "clip_energy": 0.06428995937107042,
+            "cdr": 0.4595052543703691
+        }
+    ],
+    "79": [
+        {
+            "angle": -88.0,
+            "direction": "front-left",
+            "distance": 0.6091391255979547,
+            "clip_energy": 0.060805449246846756,
+            "cdr": 0.2927211376021563
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.050118256306271154,
+            "cdr": 0.3083242696788701
+        },
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 0.14506567275552165,
+            "cdr": 1.3631111306153467
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.09270408949711113,
+            "cdr": 0.941241064509338
+        }
+    ],
+    "80": [
+        {
+            "angle": -88.0,
+            "direction": "front-left",
+            "distance": 0.6091391255979547,
+            "clip_energy": 0.06872489820444534,
+            "cdr": 0.30928653422220725
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.0878582311908907,
+            "cdr": 0.3234936152932553
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.06633088098288746,
+            "cdr": 0.27445603387532724
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.06928271279018888,
+            "cdr": 0.21482974922417641
+        }
+    ],
+    "81": [
+        {
+            "angle": -5.0,
+            "direction": "front-left",
+            "distance": 0.6154037047318437,
+            "clip_energy": 0.06267483665061194,
+            "cdr": 0.3568784236362017
+        },
+        {
+            "angle": -90.0,
+            "direction": "back-left",
+            "distance": 0.19932657533885673,
+            "clip_energy": 0.05408786813821381,
+            "cdr": 0.30930444840263954
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.06245737000309766,
+            "cdr": 0.21719204020448638
+        },
+        {
+            "angle": 35.0,
+            "direction": "front-right",
+            "distance": 0.48526604654165983,
+            "clip_energy": 0.06521021986795346,
+            "cdr": 1.116208852497147
+        }
+    ],
+    "82": [
+        {
+            "angle": 35.0,
+            "direction": "front-right",
+            "distance": 0.48526604654165983,
+            "clip_energy": 0.07641559210711717,
+            "cdr": 2.157321187378631
+        },
+        {
+            "angle": 90.0,
+            "direction": "back-right",
+            "distance": 0.22499998511782465,
+            "clip_energy": 0.06967880873730659,
+            "cdr": 0.25868218170502894
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.10085953843201767,
+            "cdr": 0.2607278171498578
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.06886892125591951,
+            "cdr": 0.5666828861261396
+        }
+    ],
+    "83": [
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.06783648850536701,
+            "cdr": 0.26405536803409574
+        },
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.06053405864491222,
+            "cdr": 0.24908481599872345
+        },
+        {
+            "angle": 10.0,
+            "direction": "front-right",
+            "distance": 0.613858827048424,
+            "clip_energy": 0.06632381118522475,
+            "cdr": 0.5454580622559787
+        },
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.052071893697341644,
+            "cdr": 0.47032761332815687
+        }
+    ],
+    "84": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.10672463506945395,
+            "cdr": 0.3561159564911627
+        },
+        {
+            "angle": -26.0,
+            "direction": "front-left",
+            "distance": 0.6647199585101966,
+            "clip_energy": 0.15280375356158155,
+            "cdr": 1.901394815272617
+        },
+        {
+            "angle": 67.0,
+            "direction": "front-right",
+            "distance": 0.9965866630296509,
+            "clip_energy": 0.1121104924880633,
+            "cdr": 0.3995576489614842
+        },
+        {
+            "angle": 24.0,
+            "direction": "front-right",
+            "distance": 0.9996391550501138,
+            "clip_energy": 0.10572682700676918,
+            "cdr": 0.8077512031634188
+        }
+    ],
+    "85": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.08995026514782666,
+            "cdr": 1.0577807780913144
+        },
+        {
+            "angle": 22.0,
+            "direction": "front-right",
+            "distance": 1.0014594981383718,
+            "clip_energy": 0.13731834539039844,
+            "cdr": 1.0230008570743165
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.08508481389103205,
+            "cdr": 0.2024553065587611
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.08259648340943582,
+            "cdr": 0.31593651997463157
+        }
+    ],
+    "86": [
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.06677170775719238,
+            "cdr": 0.24231828069701433
+        },
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.05972571115404709,
+            "cdr": 0.2855870475881316
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.05403507567938613,
+            "cdr": 0.3038967032600935
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.0604474728383002,
+            "cdr": 0.28486554676911763
+        }
+    ],
+    "87": [
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.06103207389677799,
+            "cdr": 0.41448309798719923
+        },
+        {
+            "angle": -176.0,
+            "direction": "back-left",
+            "distance": 0.6155889589517145,
+            "clip_energy": 0.08046665374099429,
+            "cdr": 0.7433805393637322
+        },
+        {
+            "angle": -90.0,
+            "direction": "back-left",
+            "distance": 0.19932657533885673,
+            "clip_energy": 0.08389986576889699,
+            "cdr": 0.3011741098512133
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.07603281728428135,
+            "cdr": 0.22525685951841942
+        }
+    ],
+    "88": [
+        {
+            "angle": -90.0,
+            "direction": "back-left",
+            "distance": 0.19932657533885673,
+            "clip_energy": 0.07750876096459094,
+            "cdr": 0.2671105885447637
+        },
+        {
+            "angle": -18.0,
+            "direction": "front-left",
+            "distance": 0.6093976708043657,
+            "clip_energy": 0.07839066812861174,
+            "cdr": 0.933989131303309
+        },
+        {
+            "angle": -17.0,
+            "direction": "front-left",
+            "distance": 0.6100704074981491,
+            "clip_energy": 0.06762064205426707,
+            "cdr": 0.7376684385730448
+        },
+        {
+            "angle": 57.0,
+            "direction": "front-right",
+            "distance": 0.6598184648964246,
+            "clip_energy": 0.07519917663950329,
+            "cdr": 2.176220290932354
+        }
+    ],
+    "89": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.06335407323092372,
+            "cdr": 1.1440508681772037
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.42340713898879845,
+            "cdr": 0.7047651943028592
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.2565413696796837,
+            "cdr": 0.6764914068158109
+        },
+        {
+            "angle": 41.0,
+            "direction": "front-right",
+            "distance": 0.5449393397868696,
+            "clip_energy": 0.06839380078636738,
+            "cdr": 0.6872182456013728
+        }
+    ],
+    "90": [
+        {
+            "angle": -173.0,
+            "direction": "back-left",
+            "distance": 0.6149093358095283,
+            "clip_energy": 0.08016329690191969,
+            "cdr": 0.28439082330017257
+        },
+        {
+            "angle": -88.0,
+            "direction": "front-left",
+            "distance": 0.6091391255979547,
+            "clip_energy": 0.06335247088021097,
+            "cdr": 0.315755170212132
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.06722880815216423,
+            "cdr": 0.49997517368841504
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.17940212476645842,
+            "cdr": 0.9773075393594786
+        }
+    ],
+    "91": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.11966085202046546,
+            "cdr": 0.8287935866401405
+        },
+        {
+            "angle": 10.0,
+            "direction": "front-right",
+            "distance": 0.613858827048424,
+            "clip_energy": 0.13164016174551843,
+            "cdr": 0.649384803698862
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.04881053130756463,
+            "cdr": 0.8089005749762777
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.05589831568813314,
+            "cdr": 0.346464631279309
+        }
+    ],
+    "92": [
+        {
+            "angle": 172.0,
+            "direction": "back-right",
+            "distance": 0.6146002072617565,
+            "clip_energy": 0.04965172212406805,
+            "cdr": 0.369657891800597
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.05084821522213442,
+            "cdr": 0.4883451137800603
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.29023679421650095,
+            "cdr": 0.5197182027832791
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3915458316101764,
+            "cdr": 0.5428928966958791
+        }
+    ],
+    "93": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.360461003915197,
+            "cdr": 0.49293518272182846
+        },
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 0.20817067034701447,
+            "cdr": 1.2331760772892104
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.22386006298852765,
+            "cdr": 0.3772922916135048
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.270446605161467,
+            "cdr": 0.4371940678044286
+        }
+    ],
+    "94": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.1752847069198606,
+            "cdr": 0.3775923252768539
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.16565378811598505,
+            "cdr": 0.4859344848166724
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.12298300765872786,
+            "cdr": 0.7485165654632282
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.2616821377325308,
+            "cdr": 0.4101448540388362
+        }
+    ],
+    "95": [
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.15380051001241288,
+            "cdr": 0.49821891505096333
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.17854308495204893,
+            "cdr": 0.7681015105355917
+        },
+        {
+            "angle": 15.0,
+            "direction": "front-right",
+            "distance": 0.6113282944010399,
+            "clip_energy": 0.06396640892152268,
+            "cdr": 0.7369128596828904
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.06674034908642389,
+            "cdr": 1.2346087804688552
+        }
+    ],
+    "96": [
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.0687030870594981,
+            "cdr": 0.6006606302698065
+        },
+        {
+            "angle": 83.0,
+            "direction": "front-right",
+            "distance": 1.0039772960037034,
+            "clip_energy": 0.05879733163715602,
+            "cdr": 0.31398459939405365
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.06621537404683203,
+            "cdr": 0.6001562769638263
+        },
+        {
+            "angle": 118.0,
+            "direction": "back-right",
+            "distance": 0.4663654062337462,
+            "clip_energy": 0.06177768699943806,
+            "cdr": 1.8442065843439146
+        }
+    ],
+    "97": [
+        {
+            "angle": -95.0,
+            "direction": "back-left",
+            "distance": 1.0043874963428403,
+            "clip_energy": 0.07634411192459592,
+            "cdr": 0.37698978449176684
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.08942201877291152,
+            "cdr": 0.2818888982935455
+        },
+        {
+            "angle": -18.0,
+            "direction": "front-left",
+            "distance": 0.6093976708043657,
+            "clip_energy": 0.08404123521684054,
+            "cdr": 0.6557579928254268
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.10362741893417224,
+            "cdr": 0.5243079353130846
+        }
+    ],
+    "98": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.14593676889550913,
+            "cdr": 1.0396550454398468
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.12216141162476479,
+            "cdr": 0.40357683816607315
+        },
+        {
+            "angle": 61.0,
+            "direction": "front-right",
+            "distance": 0.6608533680825067,
+            "clip_energy": 0.21469505539694056,
+            "cdr": 1.380261704625531
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.15935491500778853,
+            "cdr": 0.36728077152314303
+        }
+    ],
+    "99": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.0792623669136899,
+            "cdr": 1.1938869711261866
+        },
+        {
+            "angle": -2.0,
+            "direction": "front-left",
+            "distance": 0.6158361208802109,
+            "clip_energy": 0.24361826136543546,
+            "cdr": 1.0889903770427636
+        },
+        {
+            "angle": -12.0,
+            "direction": "front-left",
+            "distance": 0.6129599865633609,
+            "clip_energy": 0.19206141235758623,
+            "cdr": 0.45598283049195737
+        },
+        {
+            "angle": -14.0,
+            "direction": "front-left",
+            "distance": 0.6119078880426618,
+            "clip_energy": 0.07231487387380861,
+            "cdr": 0.8616288310618558
+        }
+    ],
+    "100": [
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.06777233375727901,
+            "cdr": 0.22980804812617528
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.06872652097238732,
+            "cdr": 0.31274048609035704
+        },
+        {
+            "angle": -88.0,
+            "direction": "front-left",
+            "distance": 0.6091391255979547,
+            "clip_energy": 0.09061820604903159,
+            "cdr": 0.3163245930922057
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.08276287292274882,
+            "cdr": 0.30688055420496174
+        }
+    ],
+    "101": [
+        {
+            "angle": -58.0,
+            "direction": "front-left",
+            "distance": 0.6600920565135839,
+            "clip_energy": 0.0783257824992461,
+            "cdr": 2.094384389268544
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.41681420773733907,
+            "cdr": 0.49733341815281623
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.4134767095379034,
+            "cdr": 0.5202093003599857
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.19201343919365274,
+            "cdr": 0.44638794812197163
+        }
+    ],
+    "102": [
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.061926065448745786,
+            "cdr": 0.2353389503125157
+        },
+        {
+            "angle": 35.0,
+            "direction": "front-right",
+            "distance": 0.48526604654165983,
+            "clip_energy": 0.05644236593244392,
+            "cdr": 2.088261143548733
+        },
+        {
+            "angle": -173.0,
+            "direction": "back-left",
+            "distance": 0.6149093358095283,
+            "clip_energy": 0.12265519214587008,
+            "cdr": 0.49381549129015284
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.08242131205904386,
+            "cdr": 0.3603924040450605
+        }
+    ],
+    "103": [
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.07520936859339422,
+            "cdr": 0.36317538553836165
+        },
+        {
+            "angle": 36.0,
+            "direction": "front-right",
+            "distance": 0.6545554421489339,
+            "clip_energy": 0.07397420020666995,
+            "cdr": 1.0792403604677656
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3620380335449274,
+            "cdr": 0.41179905413631696
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.3601592669908842,
+            "cdr": 0.45443119337391735
+        }
+    ],
+    "104": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.2986959401902002,
+            "cdr": 0.36233579577654274
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.08058593397746076,
+            "cdr": 0.9910899928520606
+        },
+        {
+            "angle": 178.0,
+            "direction": "back-right",
+            "distance": 0.6158361297190066,
+            "clip_energy": 0.07077503393890608,
+            "cdr": 1.2096036369517111
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.06814924368687057,
+            "cdr": 0.8228468835439755
+        }
+    ],
+    "105": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.24622885461972474,
+            "cdr": 0.5029131532681758
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.2782918949008224,
+            "cdr": 0.9321199348292885
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.28164539095037805,
+            "cdr": 0.4155087607667318
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.23942195944662284,
+            "cdr": 0.4360885109726278
+        }
+    ],
+    "106": [
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.1528946806009631,
+            "cdr": 1.064991814929481
+        },
+        {
+            "angle": 58.0,
+            "direction": "front-right",
+            "distance": 0.6600920526896042,
+            "clip_energy": 0.21006506178796808,
+            "cdr": 1.2150734129031775
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.19952864946180732,
+            "cdr": 0.6266798221985076
+        },
+        {
+            "angle": -11.0,
+            "direction": "front-left",
+            "distance": 0.6134295251080799,
+            "clip_energy": 0.07145708350046885,
+            "cdr": 0.507577464899614
+        }
+    ],
+    "107": [
+        {
+            "angle": -10.0,
+            "direction": "front-left",
+            "distance": 0.6138588272422038,
+            "clip_energy": 0.08326319789176645,
+            "cdr": 0.5830153604055766
+        },
+        {
+            "angle": -11.0,
+            "direction": "front-left",
+            "distance": 0.6134295251080799,
+            "clip_energy": 0.08205296592282925,
+            "cdr": 0.7805317284918264
+        },
+        {
+            "angle": -11.0,
+            "direction": "front-left",
+            "distance": 0.6134295251080799,
+            "clip_energy": 0.0713978453443711,
+            "cdr": 0.6049554077004154
+        },
+        {
+            "angle": -11.0,
+            "direction": "front-left",
+            "distance": 0.6134295251080799,
+            "clip_energy": 0.08246515954438596,
+            "cdr": 0.6659518413048677
+        }
+    ],
+    "108": [
+        {
+            "angle": -11.0,
+            "direction": "front-left",
+            "distance": 0.6134295251080799,
+            "clip_energy": 0.09119041465208717,
+            "cdr": 0.7232542404170776
+        },
+        {
+            "angle": 4.0,
+            "direction": "front-right",
+            "distance": 0.6155889494899924,
+            "clip_energy": 0.12760763909682027,
+            "cdr": 1.0071510510397157
+        },
+        {
+            "angle": -14.0,
+            "direction": "front-left",
+            "distance": 0.6119078880426618,
+            "clip_energy": 0.07252384139078671,
+            "cdr": 0.8457800421931654
+        },
+        {
+            "angle": -11.0,
+            "direction": "front-left",
+            "distance": 0.6134295251080799,
+            "clip_energy": 0.06954437142765836,
+            "cdr": 0.4855488002420903
+        }
+    ],
+    "109": [
+        {
+            "angle": -13.0,
+            "direction": "front-left",
+            "distance": 0.6124523189229291,
+            "clip_energy": 0.069848803213659,
+            "cdr": 0.7299018162439556
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.07102733079664386,
+            "cdr": 0.7543249763962018
+        },
+        {
+            "angle": -13.0,
+            "direction": "front-left",
+            "distance": 0.6124523189229291,
+            "clip_energy": 0.11202301693435726,
+            "cdr": 0.6758767382588898
+        },
+        {
+            "angle": -13.0,
+            "direction": "front-left",
+            "distance": 0.6124523189229291,
+            "clip_energy": 0.09355285399836324,
+            "cdr": 0.6560505372643948
+        }
+    ],
+    "110": [
+        {
+            "angle": -35.0,
+            "direction": "front-left",
+            "distance": 0.4852660469836856,
+            "clip_energy": 0.08215160566470629,
+            "cdr": 0.9859665887095824
+        },
+        {
+            "angle": -13.0,
+            "direction": "front-left",
+            "distance": 0.6124523189229291,
+            "clip_energy": 0.07693659997099093,
+            "cdr": 0.7192041902594232
+        },
+        {
+            "angle": -13.0,
+            "direction": "front-left",
+            "distance": 0.6124523189229291,
+            "clip_energy": 0.09501192036931078,
+            "cdr": 0.6762320893946274
+        },
+        {
+            "angle": -8.0,
+            "direction": "front-left",
+            "distance": 0.6145986399645385,
+            "clip_energy": 0.07333486733143918,
+            "cdr": 0.7039022988031959
+        }
+    ],
+    "111": [
+        {
+            "angle": -17.0,
+            "direction": "front-left",
+            "distance": 0.6100704074981491,
+            "clip_energy": 0.08076642955616192,
+            "cdr": 0.5613375698013219
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.21920088723098402,
+            "cdr": 0.7740333124932341
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.6576966960756716,
+            "cdr": 0.37908730021297093
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.07866637291178236,
+            "cdr": 1.1062631334088693
+        }
+    ],
+    "112": [
+        {
+            "angle": -59.0,
+            "direction": "front-left",
+            "distance": 0.6603591746558651,
+            "clip_energy": 0.1027064183854927,
+            "cdr": 4.215150276185123
+        },
+        {
+            "angle": 46.0,
+            "direction": "front-right",
+            "distance": 0.5382007919193879,
+            "clip_energy": 0.07454520194403602,
+            "cdr": 0.4645887541608075
+        },
+        {
+            "angle": 92.0,
+            "direction": "back-right",
+            "distance": 0.6091391241983696,
+            "clip_energy": 0.06946659202694563,
+            "cdr": 0.2877800290302408
+        },
+        {
+            "angle": 90.0,
+            "direction": "back-right",
+            "distance": 0.22499998511782465,
+            "clip_energy": 0.06401653239757217,
+            "cdr": 0.4043986064464993
+        }
+    ],
+    "113": [
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.0745166896896786,
+            "cdr": 0.17874814599591424
+        },
+        {
+            "angle": -91.0,
+            "direction": "back-left",
+            "distance": 0.6091808815734787,
+            "clip_energy": 0.06893384557143963,
+            "cdr": 0.3780292497935753
+        },
+        {
+            "angle": 9.0,
+            "direction": "front-right",
+            "distance": 0.6142484754122852,
+            "clip_energy": 0.07184644214685071,
+            "cdr": 0.4734198476773985
+        },
+        {
+            "angle": -90.0,
+            "direction": "back-left",
+            "distance": 0.19932657533885673,
+            "clip_energy": 0.0761183036809281,
+            "cdr": 0.2667641029399938
+        }
+    ],
+    "114": [
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.0754556638466676,
+            "cdr": 0.28231614396757926
+        },
+        {
+            "angle": 89.0,
+            "direction": "front-right",
+            "distance": 0.6091808728063212,
+            "clip_energy": 0.08659647932693537,
+            "cdr": 0.305300427523183
+        },
+        {
+            "angle": 175.0,
+            "direction": "back-right",
+            "distance": 0.6154037166454287,
+            "clip_energy": 0.08619045558295382,
+            "cdr": 0.5610722636710646
+        },
+        {
+            "angle": -88.0,
+            "direction": "front-left",
+            "distance": 0.6091391255979547,
+            "clip_energy": 0.07506282392955226,
+            "cdr": 0.3078117930589517
+        }
+    ],
+    "115": [
+        {
+            "angle": -2.0,
+            "direction": "front-left",
+            "distance": 0.6158361208802109,
+            "clip_energy": 0.10199421131488574,
+            "cdr": 1.1742638662289773
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.18779018913826473,
+            "cdr": 0.444616974833864
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.08662749850604362,
+            "cdr": 0.6018810910656173
+        },
+        {
+            "angle": -57.0,
+            "direction": "front-left",
+            "distance": 0.6598184656198763,
+            "clip_energy": 0.08374769661354911,
+            "cdr": 2.587259655598389
+        }
+    ],
+    "116": [
+        {
+            "angle": -57.0,
+            "direction": "front-left",
+            "distance": 0.6598184656198763,
+            "clip_energy": 0.07403954403664213,
+            "cdr": 3.156047712007178
+        },
+        {
+            "angle": -95.0,
+            "direction": "back-left",
+            "distance": 1.0043874963428403,
+            "clip_energy": 0.07731626460555262,
+            "cdr": 0.210692214582227
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.08142079549208142,
+            "cdr": 1.647492902762002
+        },
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.08086197130209086,
+            "cdr": 1.2158942638891426
+        }
+    ],
+    "117": [
+        {
+            "angle": 1.0,
+            "direction": "front",
+            "distance": 0.6158945047456794,
+            "clip_energy": 0.0676985406518641,
+            "cdr": 1.306195775866598
+        },
+        {
+            "angle": 53.0,
+            "direction": "front-right",
+            "distance": 0.5421794597704788,
+            "clip_energy": 0.050330657170479215,
+            "cdr": 1.4605919291238818
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.05991196177681274,
+            "cdr": 0.8068252877983202
+        },
+        {
+            "angle": 180.0,
+            "direction": "back",
+            "distance": 0.2999999999999727,
+            "clip_energy": 0.0786149486815094,
+            "cdr": 0.861071777647818
+        }
+    ],
+    "118": [
+        {
+            "angle": 175.0,
+            "direction": "back-right",
+            "distance": 0.6154037166454287,
+            "clip_energy": 0.13109335691281698,
+            "cdr": 0.6795472966391723
+        },
+        {
+            "angle": 7.0,
+            "direction": "front-right",
+            "distance": 0.6149093225391659,
+            "clip_energy": 0.13521456232279952,
+            "cdr": 0.7185653021118789
+        }
+    ]
+}

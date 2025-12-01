@@ -1,0 +1,152 @@
+{
+    "event": "Determine the location of the speaker relative to a robot standing by the stainless steel double wall oven and facing the kitchen hob, when the speech topic 'suggesting stopping the activity' comes up.",
+    "start_time": "01:53",
+    "end_time": "01:54",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark brown hair, wearing a white t-shirt underneath a yellow knitted sleeveless vest, and light blue jeans. She is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "00:03": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:17": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "00:34": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "00:38": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "00:51": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "01:02": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:20": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "01:40": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:53": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A built-in stainless steel double wall oven, located in the kitchen cabinetry against a wall. Standard appliance size, metallic silver color.",
+        "key_frames": {
+            "00:05": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "00:17": {
+                "distance": "3.0",
+                "direction": "-85"
+            },
+            "00:33": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "00:42": {
+                "distance": "3.5",
+                "direction": "-100"
+            },
+            "00:51": {
+                "distance": "4.0",
+                "direction": "-110"
+            },
+            "01:02": {
+                "distance": "4.5",
+                "direction": "-130"
+            },
+            "01:15": {
+                "distance": "4.5",
+                "direction": "-130"
+            },
+            "01:30": {
+                "distance": "4.5",
+                "direction": "-130"
+            },
+            "01:45": {
+                "distance": "4.5",
+                "direction": "-130"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen hob",
+        "description": "A black glass-ceramic kitchen hob (cooktop/stovetop) with multiple burners, built into the white countertop. It is located to the right of the wall oven along the L-shaped kitchen counter.",
+        "key_frames": {
+            "00:05": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "00:16": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:32": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "00:42": {
+                "distance": "3.0",
+                "direction": "-85"
+            },
+            "00:51": {
+                "distance": "3.5",
+                "direction": "-100"
+            },
+            "01:02": {
+                "distance": "4.0",
+                "direction": "-120"
+            },
+            "01:15": {
+                "distance": "4.0",
+                "direction": "-120"
+            },
+            "01:30": {
+                "distance": "4.0",
+                "direction": "-120"
+            },
+            "01:45": {
+                "distance": "4.0",
+                "direction": "-120"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the kitchen hob, when the speech topic: \"suggesting stopping the activity\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_322",
+    "video_id": "loc3_script2_seq4_rec1"
+}

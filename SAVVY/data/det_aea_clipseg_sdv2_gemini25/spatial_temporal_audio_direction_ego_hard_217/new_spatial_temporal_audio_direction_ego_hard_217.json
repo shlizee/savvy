@@ -1,0 +1,72 @@
+{
+    "event": "The other person's location relative to the camera wearer's facing direction when the speech topic 'concluding the person passing through has left' comes up.",
+    "start_time": "0:02:25",
+    "end_time": "0:02:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a light blue/turquoise polo shirt, khaki shorts, and glasses. He is of average build and is cooking at the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:04": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:00:56": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:01:06": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:01:21": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:01:46": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:02:07": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:02:16": {
+                "distance": "1.8",
+                "direction": "-135"
+            },
+            "0:02:26": {
+                "distance": "1.8",
+                "direction": "-135"
+            },
+            "0:02:29": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, representing the 'you' in the question.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Pool area",
+        "description": "The direction the camera is facing at the event time, which is towards the outdoor pool area visible through the glass doors.",
+        "key_frames": {
+            "0:02:26": {
+                "distance": "5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"concluding the person passing through has left\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_217",
+    "video_id": "loc2_script3_seq33_rec2"
+}

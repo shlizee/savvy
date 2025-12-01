@@ -1,0 +1,188 @@
+{
+    "event": "The speech topic: \"indicating food is nearly done and planning one last flip\" comes up.",
+    "start_time": "2:24",
+    "end_time": "2:26",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short dark hair and is wearing glasses. He is of average to large build.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:34": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "1:37": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:46": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.9",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:30": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:40": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "2:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:59": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, representing the first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sounding Object (Man in blue shirt)",
+        "description": "The man cooking at the stove.",
+        "key_frames": {
+            "0:08": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:34": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "1:37": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:46": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.9",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:30": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:40": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "2:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:59": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "0.7",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"indicating food is nearly done and planning one last flip\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_172",
+    "video_id": "loc2_script3_seq34_rec2"
+}

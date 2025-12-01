@@ -1,0 +1,176 @@
+{
+    "event": "The other person offers coffee to both participants.",
+    "start_time": "2:32",
+    "end_time": "2:35",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a short-sleeved green polo shirt, blue denim jeans, and glasses. He has short, dark hair, balding on top. He is also wearing a watch on his left wrist and has headphones around his neck/over his ears at different times. Approximate height 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:44": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:18": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:32": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:34": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:35": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:51": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male, wearing a short-sleeved green polo shirt, blue denim jeans, and glasses. He has short, dark hair, balding on top. He is also wearing a watch on his left wrist and has headphones around his neck/over his ears at different times. Approximate height 1.75-1.85m.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:44": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:18": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:32": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:34": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:35": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:51": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering coffee to both participants\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_264",
+    "video_id": "loc3_script2_seq3_rec2"
+}

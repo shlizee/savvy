@@ -1,0 +1,91 @@
+{
+    "event": "A person is instructing another to place an item (Scrabble game box) on a table.",
+    "start_time": "0:51",
+    "end_time": "0:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise polo shirt, khaki shorts, glasses, and a gold watch. He has short brown hair and is of average build. He is the one speaking the instruction.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:13": {
+                "distance": "0.9",
+                "direction": "10"
+            },
+            "0:24": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:28": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:38": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:47": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "0:57": {
+                "distance": "2.8",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer is seated at a large wooden kitchen island.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": "0.8",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing placing item on table\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_103",
+    "video_id": "loc2_script2_seq6_rec1"
+}

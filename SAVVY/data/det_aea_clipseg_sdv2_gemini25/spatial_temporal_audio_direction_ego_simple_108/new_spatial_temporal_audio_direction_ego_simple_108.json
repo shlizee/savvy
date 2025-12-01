@@ -1,0 +1,132 @@
+{
+    "event": "The other person offers the camera wearer a snack.",
+    "start_time": "0:17",
+    "end_time": "0:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with short dark hair, wearing glasses, a light teal/blue short-sleeved polo shirt, and khaki shorts. He is also wearing a wired lavalier microphone clipped to his shirt and has a watch on his left wrist. He is holding a smartphone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "65"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose hands are visible holding a phone and later a coffee mug and popcorn bag. They are sitting at a wooden table.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "An adult male with short dark hair, wearing glasses, a light teal/blue short-sleeved polo shirt, and khaki shorts.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:39": {
+                "distance": "1.2",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering a snack\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_108",
+    "video_id": "loc2_script2_seq4_rec1"
+}

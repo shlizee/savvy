@@ -1,0 +1,124 @@
+{
+    "event": "The other person's location relative to where the camera wearer is facing when the speech topic 'choosing the dog mug' comes up.",
+    "start_time": "0:29",
+    "end_time": "0:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a man with curly brown hair, wearing glasses, a light blue/green short-sleeve button-up shirt, dark shorts, and wired earbuds. He is of average build. He is holding a phone at the start and later a beverage can.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:18": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:53": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:19": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:31": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:58": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:13": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person. The wearer's hands are sometimes visible, with painted fingernails (pink/red).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Cabinet",
+        "description": "At the moment the speech topic 'choosing the dog mug' occurs (specifically when the other person says 'I'll do the dog mug'), the camera is facing a white kitchen wall cabinet. The cabinet door is open, revealing shelves with mugs and other items.",
+        "key_frames": {
+            "0:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"choosing the dog mug\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_18",
+    "video_id": "loc1_script2_seq3_rec2"
+}

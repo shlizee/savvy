@@ -1,0 +1,155 @@
+{
+    "event": "Speech topic: \"agreeing to pour directly into mugs\" is mentioned.",
+    "start_time": "02:03",
+    "end_time": "02:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly brown hair, wearing glasses, a yellow knitted cable-knit sweater vest over a white short-sleeved t-shirt, light blue denim jeans, and light-colored socks with a pattern. She is the primary speaker for the specified topic.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "00:02": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:05": {
+                "distance": "2.2",
+                "direction": "70"
+            },
+            "00:07": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "00:10": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "00:13": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "00:34": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "00:43": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:57": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "01:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:33": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "01:44": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "01:58": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "02:03": {
+                "distance": "0.5",
+                "direction": "15"
+            },
+            "02:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:23": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "02:30": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "02:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:59": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "03:06": {
+                "distance": "0.8",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A stone-faced fireplace with a wooden mantelpiece. A landscape painting is hung above the mantel. The fireplace opening has a metal grate and logs inside.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:01": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:03": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "00:04": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "00:18": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "00:19": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "00:20": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "00:23": {
+                "distance": "4.2",
+                "direction": "-25"
+            },
+            "00:26": {
+                "distance": "4.2",
+                "direction": "-25"
+            },
+            "00:30": {
+                "distance": "4.1",
+                "direction": "-20"
+            },
+            "00:36": {
+                "distance": "4.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this question as the distance is between two objects.",
+        "key_frames": {}
+    },
+    "prediction": 4.6,
+    "question": "When the speech topic: \"agreeing to pour directly into mugs\" is mentioned, what is the distance between the fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_254",
+    "video_id": "loc3_script2_seq3_rec1"
+}

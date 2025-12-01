@@ -1,0 +1,119 @@
+{
+    "event": "The speech topic: \"asking about playing wonderwall specifically\" is mentioned.",
+    "start_time": "1:23",
+    "end_time": "1:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a short-sleeved green polo shirt, blue jeans, and glasses. He has dark hair and is of average build. He is the one speaking the line about Wonderwall.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-30"
+            },
+            "0:29": {
+                "distance": "5.0",
+                "direction": "-40"
+            },
+            "0:32": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "0:36": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:07": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:23": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:51": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored refrigerator",
+        "description": "A tall, full-size refrigerator, likely stainless steel or a similar light metallic color. It is built into the kitchen cabinetry on the left side of the kitchen area as viewed from the living room during the event time.",
+        "key_frames": {
+            "0:07": {
+                "distance": "5.5",
+                "direction": "-60"
+            },
+            "0:12": {
+                "distance": "6.5",
+                "direction": "-45"
+            },
+            "0:29": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "0:32": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "0:36": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "0:43": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "0:46": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "1:02": {
+                "distance": "6.0",
+                "direction": "-35"
+            },
+            "1:07": {
+                "distance": "6.0",
+                "direction": "-35"
+            },
+            "1:23": {
+                "distance": "6.0",
+                "direction": "-35"
+            },
+            "1:51": {
+                "distance": "6.0",
+                "direction": "-35"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this question as the distance is between two specific objects, not from a reference object facing another.",
+        "key_frames": {}
+    },
+    "prediction": 4.5,
+    "question": "When the speech topic: \"asking about playing wonderwall specifically\" is mentioned, what is the distance between the light-colored refrigerator and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_234",
+    "video_id": "loc3_script2_seq1_rec1"
+}

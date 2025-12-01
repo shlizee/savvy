@@ -1,0 +1,115 @@
+{
+    "event": "Distance between the electric cooktop and the speech sound source when the speech topic 'confirming word appropriateness' is mentioned.",
+    "start_time": "2:04",
+    "end_time": "2:12",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (P1), acting as the speech sound source. He is wearing a light blue short-sleeved polo shirt, khaki shorts, and glasses. He has short brown hair and is of average build. He is seated on a dark metal bar stool with a brown cushion at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "2:10": {
+                "distance": "1.4",
+                "direction": "35"
+            },
+            "2:30": {
+                "distance": "1.4",
+                "direction": "35"
+            },
+            "3:00": {
+                "distance": "1.4",
+                "direction": "35"
+            },
+            "3:30": {
+                "distance": "1.4",
+                "direction": "35"
+            },
+            "4:00": {
+                "distance": "1.4",
+                "direction": "35"
+            },
+            "4:13": {
+                "distance": "1.4",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "A black, flat, rectangular electric cooktop, likely glass-ceramic. It is embedded into the wooden kitchen island. It appears to be a standard 4-burner model, approximately 70cm wide and 50cm deep.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:10": {
+                "distance": "1.7",
+                "direction": "-20"
+            },
+            "2:30": {
+                "distance": "1.7",
+                "direction": "-20"
+            },
+            "3:00": {
+                "distance": "1.7",
+                "direction": "-20"
+            },
+            "3:30": {
+                "distance": "1.7",
+                "direction": "-20"
+            },
+            "4:00": {
+                "distance": "1.7",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 1.5,
+    "question": "When the speech topic: \"confirming word appropriateness\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_131",
+    "video_id": "loc2_script2_seq5_rec1"
+}

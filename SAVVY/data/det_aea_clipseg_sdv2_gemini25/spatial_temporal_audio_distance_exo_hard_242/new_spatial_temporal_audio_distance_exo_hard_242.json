@@ -1,0 +1,137 @@
+{
+    "event": "Questioning if they themselves play an instrument",
+    "start_time": "1:08",
+    "end_time": "1:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person holding the camera and speaking. Their physical characteristics are not fully visible, but they are wearing a green shirt and a gold watch. This is the camera's point of view.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "black round ottoman",
+        "description": "A black, round, leather or faux leather ottoman, approximately 0.6 meters in diameter and 0.3-0.4 meters high.",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:55": {
+                "distance": "1.1",
+                "direction": "-50"
+            },
+            "1:08": {
+                "distance": "1.1",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "1.1",
+                "direction": "-50"
+            },
+            "1:50": {
+                "distance": "1.1",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman on sofa / Living room",
+        "description": "The woman the camera person is interacting with, seated on a light-colored sofa in the living room. The general direction the camera is pointing towards during the conversation.",
+        "key_frames": {
+            "0:11": {
+                "distance": "2.8",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": 1.1,
+    "question": "When the speech topic: \"questioning if they themselves play\" is mentioned, what is the distance between the black round ottoman and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_242",
+    "video_id": "loc3_script2_seq1_rec2"
+}

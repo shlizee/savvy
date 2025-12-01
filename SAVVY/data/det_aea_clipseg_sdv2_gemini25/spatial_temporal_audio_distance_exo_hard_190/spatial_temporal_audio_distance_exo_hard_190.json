@@ -1,0 +1,116 @@
+{
+    "event": "Instructing person not to come through currently",
+    "start_time": "0:50",
+    "end_time": "0:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Man wearing a turquoise/blue polo shirt, khaki shorts, and glasses. He is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "-120"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:34": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:42": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:06": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "2:28": {
+                "distance": "1.2",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "Stainless steel oven unit, installed under the counter to the left of the cooktop. It appears to be a single oven with a microwave drawer above it, both with stainless steel fronts. The oven itself is the lower, larger door unit.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-90"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "-90"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:52": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:42": {
+                "distance": "1.8",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.8,
+    "question": "When the speech topic: \"instructing person not to come through currently\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_190",
+    "video_id": "loc2_script3_seq33_rec2"
+}

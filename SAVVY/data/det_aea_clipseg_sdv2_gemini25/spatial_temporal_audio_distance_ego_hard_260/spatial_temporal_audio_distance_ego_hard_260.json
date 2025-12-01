@@ -1,0 +1,144 @@
+{
+    "event": "Speech topic: predicting endeavor stock will increase",
+    "start_time": "1:12",
+    "end_time": "1:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person whose first-person perspective is shown, and who is speaking about the stock. Visible attributes include their hands (one holding a smartphone), wearing a green short-sleeve t-shirt, blue denim jeans, and a gold-colored metal link watch on the left wrist. Their voice is male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera capturing the first-person perspective, presumably worn or held by the sounding object (the person speaking). It is the viewpoint for all distance and direction measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with long, dark, curly brown hair, wearing a yellow, chunky-knit, short-sleeved vest or top over a white short-sleeved t-shirt with a frilled collar/sleeve edge, and light blue denim jeans. They are also holding a smartphone or remote. Their face is intentionally blurred in the video. Appears to be an adult female.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "3.2",
+                "direction": "35"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"predicting endeavor stock will increase\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_260",
+    "video_id": "loc3_script2_seq7_rec1"
+}

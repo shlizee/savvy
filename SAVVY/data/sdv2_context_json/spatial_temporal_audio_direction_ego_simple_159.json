@@ -1,0 +1,103 @@
+{
+    "event": "The other person states their intention to place items down near the coffee table.",
+    "start_time": "0:20",
+    "end_time": "0:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal t-shirt and khaki shorts, white socks, and sneakers. Appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "6.5",
+                "direction": "-70"
+            },
+            "0:12": {
+                "distance": "6.0",
+                "direction": "-75"
+            },
+            "0:14": {
+                "distance": "6.0",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "6.0",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "0:21": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the person, representing their point of view. The wearer is seated on a couch in a living room, generally facing a coffee table and TV area.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Coffee Table",
+        "description": "A low, rectangular coffee table in front of the camera wearer, covered with a patterned tablecloth and holding snacks, drinks, and a remote control. This is the general direction the camera is facing during the specified event.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating intention and placing items down here\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_159",
+    "video_id": "loc2_script3_seq1_rec2"
+}

@@ -1,0 +1,140 @@
+{
+    "event": "The speech topic 'acknowledging viewer preference for video setup' comes up.",
+    "start_time": "0:44",
+    "end_time": "0:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person speaking on a YouTube video being played on a smartphone. The person in the video is wearing a pink shirt and is in a dark room.",
+        "is_static": false,
+        "key_frames": {
+            "0:16": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is sitting on a couch and holding a smartphone.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "smartphone",
+        "description": "A smartphone held by the camera wearer, displaying a YouTube video.",
+        "key_frames": {
+            "0:12": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"acknowledging viewer preference for video setup\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_289",
+    "video_id": "loc3_script2_seq7_rec1"
+}

@@ -1,0 +1,88 @@
+{
+    "event": "Determine the speaker's location (left, right, or back) relative to a robot standing by a black round ottoman and facing a window with a balcony view, when the speech topic 'confirming task is likely finished' comes up.",
+    "start_time": "0:52",
+    "end_time": "1:00",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person, likely male, wearing a dark top and light-colored pants. He is sitting on a light-colored sofa.",
+        "is_static": false,
+        "key_frames": {
+            "0:19": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black round ottoman",
+        "description": "A black, round ottoman located in the living room area, near the sofas and coffee table.",
+        "key_frames": {
+            "0:19": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:53": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:59": {
+                "distance": "2.5",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with balcony view",
+        "description": "Large floor-to-ceiling windows offering a view of a balcony and the outside scenery, located at the far end of the living room.",
+        "key_frames": {
+            "0:19": {
+                "distance": "5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "5",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "5",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "5",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the window with a balcony view, when the speech topic: \"confirming task is likely finished\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_349",
+    "video_id": "loc3_script3_seq1_rec1"
+}

@@ -1,0 +1,103 @@
+{
+    "event": "The other person agrees to place the Scrabble game on a table.",
+    "start_time": "0:51",
+    "end_time": "0:53",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise polo shirt, khaki shorts, glasses, and a gold-colored watch on his left wrist. He has short brown hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "0:05": {
+                "distance": "1.3",
+                "direction": "40"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:23": {
+                "distance": "1.1",
+                "direction": "25"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:53": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:58": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "4.2",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person whose hands are visible. The person is sitting at a wooden kitchen island.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"agreeing to place item on table\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_142",
+    "video_id": "loc2_script2_seq6_rec1"
+}

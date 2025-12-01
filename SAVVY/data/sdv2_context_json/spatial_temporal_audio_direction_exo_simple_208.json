@@ -1,0 +1,92 @@
+{
+    "event": "The speech topic: \"suggesting keeping the stove off temporarily\" comes up.",
+    "start_time": "1:57",
+    "end_time": "2:01",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person with curly dark hair, wearing a grey t-shirt, dark shorts, and a headset/glasses. Appears to be male.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:19": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:57": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:01": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:33": {
+                "distance": "2.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "fireplace",
+        "description": "Fireplace with a black metal screen, located in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:21": {
+                "distance": "4.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "coffee table",
+        "description": "Rectangle wooden coffee table in the living room, covered with a white tablecloth with confetti print, and has snacks and drinks on it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the fireplace with a black metal screen and facing the rectangle wooden coffee table, when the speech topic: \"suggesting keeping the stove off temporarily\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_208",
+    "video_id": "loc2_script3_seq31_rec1"
+}

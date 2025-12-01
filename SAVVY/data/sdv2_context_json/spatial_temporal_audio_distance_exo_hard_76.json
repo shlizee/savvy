@@ -1,0 +1,103 @@
+{
+    "event": "A creak and thud sound occurs as a person stands up from a couch.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A section of a large, grey, fabric-covered sectional sofa. Specifically, the cushion and underlying frame where the person in the light green shirt is sitting and from which they rise at 0:07-0:08, causing the creak and thud sound. This section is to the right of the camera's initial position.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-170"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "-160"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-150"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-140"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white fireplace built into the wall, with a black firebox opening. It has a mantelpiece above it, on which small orange carrot-shaped decorations are placed. It is located to the left of the camera's initial position.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.2",
+                "direction": "-45"
+            },
+            "0:07": {
+                "distance": "2.2",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "2.2",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "2.2",
+                "direction": "-45"
+            },
+            "0:58": {
+                "distance": "2.2",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:10": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "1:20": {
+                "distance": "3.8",
+                "direction": "-90"
+            },
+            "1:30": {
+                "distance": "4.5",
+                "direction": "-100"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 2.6,
+    "question": "When the creak and thud sound is happening, what is the distance between the white recessed fireplace and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_76",
+    "video_id": "loc1_script2_seq8_rec2"
+}

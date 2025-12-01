@@ -1,0 +1,144 @@
+{
+    "event": "Speech topic: 'assuming person is no longer coming through' comes up, spoken by the man in the blue shirt as 'She's not coming.'",
+    "start_time": "0:48",
+    "end_time": "0:49",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has short dark hair. He is the person cooking at the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-100"
+            },
+            "0:48": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:56": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:34": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:07": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:29": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large, multi-panel sliding glass doors with black frames, located along one wall of the kitchen/dining area, offering a view of an outdoor patio and swimming pool.",
+        "key_frames": {
+            "0:02": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "0:13": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "1:55": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "2:10": {
+                "distance": "2.0",
+                "direction": "60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, round wooden dining table with two matching wooden chairs. It is situated near the window with the pool view, in the dining area adjacent to the kitchen.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:03": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:49": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "0:52": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "1:55": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "2:10": {
+                "distance": "2.8",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the two-seater dining table, when the speech topic: \"assuming person is no longer coming through\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_235",
+    "video_id": "loc2_script3_seq33_rec2"
+}

@@ -1,0 +1,124 @@
+{
+    "event": "The speaker suggests chatting briefly while sitting at a table with a cup of coffee.",
+    "start_time": "0:45",
+    "end_time": "0:47",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with dark hair, wearing a plain white short-sleeved t-shirt and light blue shorts. He is barefoot. He has a slim to average build. At the time of speaking (0:45-0:47), he is also wearing a thin black cord around his neck, possibly for an earpiece or glasses, and is sitting at a small wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "0:55": {
+                "distance": "1.7",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.7",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A small, circular, undermount prep sink, dark grey or black in color, likely made of composite material or dark stainless steel. It is set into a light-colored (beige/cream with speckles) granite countertop on the kitchen island. A single, modern, gooseneck-style faucet, metallic in finish, is mounted next to it.",
+        "key_frames": {
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:36": {
+                "distance": "3.0",
+                "direction": "-120"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A larger, rectangular, double-basin kitchen sink, appearing to be made of stainless steel. It is undermounted in a light-colored (beige/cream with speckles) granite countertop against a kitchen wall. It has a prominent, arched, pull-down style faucet, metallic in finish. Located to the left of a stainless steel refrigerator and to the right of a coffee maker area.",
+        "key_frames": {
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "0:16": {
+                "distance": "2.2",
+                "direction": "170"
+            },
+            "0:21": {
+                "distance": "3.5",
+                "direction": "150"
+            },
+            "0:31": {
+                "distance": "5.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the double-basin rectangular sink and tap, when the speech topic: \"suggesting chatting briefly\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_118",
+    "video_id": "loc2_script2_seq3_rec1"
+}

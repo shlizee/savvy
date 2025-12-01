@@ -1,0 +1,156 @@
+{
+    "event": "Speech topic: observing the round shape of the ceilings",
+    "start_time": "01:24",
+    "end_time": "01:29",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved V-neck crop top, light blue high-waisted jeans, and dark-rimmed glasses. She has a small black rectangular device (possibly a microphone pack) clipped to the front right side of her waistband. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "00:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:13": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "00:19": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "00:27": {
+                "distance": "2.3",
+                "direction": "10"
+            },
+            "00:32": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "00:50": {
+                "distance": "1.9",
+                "direction": "-5"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "-8"
+            },
+            "01:10": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:20": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "01:25": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "01:28": {
+                "distance": "1.6",
+                "direction": "-20"
+            },
+            "01:34": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "01:40": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "01:46": {
+                "distance": "1.6",
+                "direction": "-45"
+            },
+            "01:52": {
+                "distance": "1.7",
+                "direction": "-40"
+            },
+            "01:57": {
+                "distance": "1.7",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera, representing the camera wearer. This is the origin (0,0) for distance and direction calculations in egocentric mode.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Center of Camera View",
+        "description": "The object or area at the center of the camera's field of view, representing the direction the camera wearer is facing.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:25": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:35": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "-8"
+            },
+            "01:25": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "01:36": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:55": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"observing the round shape of the ceilings\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_9",
+    "video_id": "loc1_script2_seq1_rec2"
+}

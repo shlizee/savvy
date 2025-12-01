@@ -1,0 +1,112 @@
+{
+    "event": "The speech topic 'saying farewell' comes up, initiated by the guest.",
+    "start_time": "0:44",
+    "end_time": "1:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is the guest: a man with curly brown hair, wearing glasses, a light teal/green short-sleeved collared shirt, and dark shorts. He is also wearing wired earphones around his neck, with one earbud in. At the key moment (0:48), he is seated on the couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:59": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "1:04": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "50"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "1:25": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White Recessed Fireplace",
+        "description": "A white recessed fireplace with a mantelpiece. The mantelpiece has several small, colorful decorative items (appearing to be carrot-shaped for a seasonal theme, and a small doll-like figure). A large potted plant, likely a succulent such as aloe vera, is positioned to the left of the fireplace opening (from the camera's perspective). The fireplace opening is dark.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "2.2",
+                "direction": "-50"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:26": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "1:09": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "An unseen television, presumed to be a large flat-screen display, serving as the main focal point for the living room seating arrangement. Its location is inferred to be on the wall generally opposite the main section of the couch, likely in the vicinity of the large arched window visible in the room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:48": {
+                "distance": "3.5",
+                "direction": "60"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing the tv, when the speech topic: \"saying farewell\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_101",
+    "video_id": "loc1_script2_seq8_rec2"
+}

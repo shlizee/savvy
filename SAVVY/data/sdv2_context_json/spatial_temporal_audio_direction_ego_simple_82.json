@@ -1,0 +1,236 @@
+{
+    "event": "The camera wearer inquires if the other person would like a drink.",
+    "start_time": "0:20",
+    "end_time": "0:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male, wearing a light-colored (possibly white or very light beige) t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He is barefoot. Approximate height appears to be average.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:11": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "1.3",
+                "direction": "-55"
+            },
+            "1:45": {
+                "distance": "1.3",
+                "direction": "-50"
+            },
+            "1:55": {
+                "distance": "1.3",
+                "direction": "-45"
+            },
+            "2:05": {
+                "distance": "1.3",
+                "direction": "-40"
+            },
+            "2:11": {
+                "distance": "1.3",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. The wearer is male, wearing a gold-colored watch on his left wrist. He is wearing grey pants and a light blue t-shirt.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The other person is a male, wearing a light-colored (possibly white or very light beige) t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He is barefoot. Approximate height appears to be average.",
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:11": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "1.3",
+                "direction": "-55"
+            },
+            "1:45": {
+                "distance": "1.3",
+                "direction": "-50"
+            },
+            "1:55": {
+                "distance": "1.3",
+                "direction": "-45"
+            },
+            "2:05": {
+                "distance": "1.3",
+                "direction": "-40"
+            },
+            "2:11": {
+                "distance": "1.3",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inquiring about available drinks\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_82",
+    "video_id": "loc2_script2_seq1_rec2"
+}

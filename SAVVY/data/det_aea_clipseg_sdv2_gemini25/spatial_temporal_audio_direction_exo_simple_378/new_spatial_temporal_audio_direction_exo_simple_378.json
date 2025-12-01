@@ -1,0 +1,136 @@
+{
+    "event": "When the speech topic 'asking about food taste' comes up, relative to where the robot (at kitchen hob, facing dining table) is facing, where is the speaker.",
+    "start_time": "3:33",
+    "end_time": "4:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Initially Person B (man with curly dark hair, glasses, wearing a dark sweater over a light blue collared shirt, and blue jeans). Later, Person A (man whose POV is the camera for most of the video, wearing a teal t-shirt) also speaks on the topic. During the event window, both are seated at the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:56": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:33": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "3:43": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Hob",
+        "description": "A stainless steel gas cooktop with multiple burners, integrated into a wooden kitchen counter. It's part of an L-shaped kitchen layout.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "2:40": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A wooden rectangular dining table located in the dining area, adjacent to the kitchen, in front of large glass windows/doors leading to a balcony.",
+        "key_frames": {
+            "0:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the kitchen hob and facing the rectangular dining table, when the speech topic: \"asking about food taste\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_378",
+    "video_id": "loc3_script3_seq4_rec2"
+}

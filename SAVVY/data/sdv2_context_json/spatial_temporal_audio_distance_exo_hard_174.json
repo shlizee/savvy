@@ -1,0 +1,111 @@
+{
+    "event": "Distance between the window with a pool view and the speech sound source when the speech topic is 'introducing a point of consideration'.",
+    "start_time": "0:10",
+    "end_time": "0:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Person 2: An adult male wearing a grey short-sleeved collared shirt, dark shorts, dark shoes, and glasses. This is the person who says 'The question is...' at 0:10.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:28": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:11": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:03": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:41": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "2:43": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with a pool view",
+        "description": "Large sliding glass doors with dark frames, offering a clear view of an outdoor swimming pool, patio furniture, and backyard landscaping. The window spans a significant portion of the kitchen wall behind the main counter.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:49": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:11": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "2:02": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "2:40": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "2:43": {
+                "distance": "2.2",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 0.3,
+    "question": "When the speech topic: \"introducing a point of consideration\" is mentioned, what is the distance between the window with a pool view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_174",
+    "video_id": "loc2_script3_seq32_rec1"
+}

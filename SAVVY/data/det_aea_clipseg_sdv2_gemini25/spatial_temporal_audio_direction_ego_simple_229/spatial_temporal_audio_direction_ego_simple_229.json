@@ -1,0 +1,120 @@
+{
+    "event": "The speech topic 'describing meat as slightly underdone' comes up, and the question asks for the location of the other person relative to where the camera wearer is facing.",
+    "start_time": "1:47",
+    "end_time": "1:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The 'other person' is an adult male with brown hair (possibly balding), wearing a teal/light blue short-sleeved polo shirt, khaki shorts, and a watch on his left wrist. He initially wears glasses but takes them off later. He has a medium build. Approximate height appears average for an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:53": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:16": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:47": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:03": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:20": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:40": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "4:00": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "4:08": {
+                "distance": "0.8",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, from whose perspective the video is shot.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The 'other person' as described in sounding_object. At the event time, the camera is generally facing this person.",
+        "key_frames": {
+            "1:47": {
+                "distance": "0.8",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing meat as slightly underdone\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_229",
+    "video_id": "loc2_script3_seq4_rec2"
+}

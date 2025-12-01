@@ -1,0 +1,112 @@
+{
+    "event": "Speaker discusses the design motivation for sleek coffee machines, avoiding bulky models.",
+    "start_time": "01:37",
+    "end_time": "01:46",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, wavy hair, wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She is also wearing a lavalier microphone clipped to her jeans and has a small black rectangular device (possibly a transmitter pack) on her waistband. During the event, she is in the kitchen making coffee.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:07": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:11": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:15": {
+                "distance": "4.5",
+                "direction": "40"
+            },
+            "00:20": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "00:25": {
+                "distance": "2.8",
+                "direction": "5"
+            },
+            "00:50": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "01:06": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "01:37": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "01:45": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "02:59": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Living room coffee table",
+        "description": "A dark wood coffee table with an oval or racetrack-shaped top and a lower shelf. It has four legs. It is located in the center of the living room.",
+        "key_frames": {
+            "00:12": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:14": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:16": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "01:37": {
+                "distance": "5.0",
+                "direction": "-160"
+            },
+            "01:45": {
+                "distance": "5.0",
+                "direction": "-160"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair (right of window)",
+        "description": "A light-gray upholstered armchair with dark wooden legs. It is one of two similar armchairs flanking a large arched window at the far end of the living room. This specific armchair is located to the right of the arched window (when facing the window from the living room entrance) and is further from the wall painting on the left wall of the living room.",
+        "key_frames": {
+            "00:12": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "00:14": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "00:16": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "01:37": {
+                "distance": "6.5",
+                "direction": "-150"
+            },
+            "01:45": {
+                "distance": "6.5",
+                "direction": "-150"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the light-gray armchair further from the wall painting, when the speech topic: \"explaining design motivation avoiding bulky models\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_32",
+    "video_id": "loc1_script2_seq3_rec1"
+}

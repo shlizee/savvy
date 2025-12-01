@@ -1,0 +1,112 @@
+{
+    "event": "Splashing sound from a mug spilling liquid, asking for distance between the sounding object (mug) and the countertop oven.",
+    "start_time": "0:09",
+    "end_time": "0:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A white ceramic mug with a colorful pattern (possibly red/pink hearts or dots), cylindrical shape, standard coffee mug size (approx. 10-12 cm height, 8 cm diameter). At the time of the event, it is being held by a man sitting at a dining table and liquid splashes from it.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "0:09": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "0:19": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop oven",
+        "description": "A stainless steel countertop oven (likely a toaster oven), rectangular prism shape, with a glass door on the front and control knobs/dials on its right side. Approx. 45cm wide, 25cm high, 30cm deep. It is located on the kitchen counter.",
+        "key_frames": {
+            "0:12": {
+                "distance": "3.8",
+                "direction": "-75"
+            },
+            "0:57": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "1:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:09": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "1:59": {
+                "distance": "3.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Dining Table area",
+        "description": "The area of the dining table where the sounding object (mug) was located during the spill. If one were standing at the countertop oven, they would face towards this area to see the sounding object.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "When the splashing sound is happening, what is the distance between the countertop oven and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_45",
+    "video_id": "loc1_script2_seq6_rec2"
+}

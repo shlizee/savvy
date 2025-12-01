@@ -1,0 +1,200 @@
+{
+    "event": "A person compliments the niceness of the place, and the robot needs to determine the speaker's location relative to its own position (by the sink) and facing direction (towards the dishwasher).",
+    "start_time": "0:03",
+    "end_time": "0:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a man wearing a white short-sleeved t-shirt, light blue shorts, and dark-rimmed glasses. He has short dark hair. Approximate height 1.7-1.8m. At the time of speaking, he is sitting on a couch in the living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:11": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:39": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:28": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:43": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A black, double-basin, rectangular undermount kitchen sink. It has a tall, gooseneck-style stainless steel or chrome faucet. The sink is set into a light-colored granite or engineered stone countertop with a speckled pattern. Approximate width of the double basin unit is 0.8-1.0 meters.",
+        "key_frames": {
+            "0:24": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:28": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:58": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:11": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A built-in stainless steel dishwasher. Standard kitchen appliance size, approximately 0.6 meters wide and 0.85 meters tall. It is located to the immediate left of the kitchen sink, under the countertop.",
+        "key_frames": {
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:26": {
+                "distance": "0.9",
+                "direction": "-25"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "0:41": {
+                "distance": "1.7",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "2.2",
+                "direction": "25"
+            },
+            "0:58": {
+                "distance": "2.7",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "1:11": {
+                "distance": "3.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the built-in stainless steel dishwasher, when the speech topic: \"complimenting the niceness of the place\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_123",
+    "video_id": "loc2_script2_seq2_rec2"
+}

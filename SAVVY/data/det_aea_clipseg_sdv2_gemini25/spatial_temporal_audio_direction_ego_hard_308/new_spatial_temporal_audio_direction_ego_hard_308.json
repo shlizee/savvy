@@ -1,0 +1,120 @@
+{
+    "event": "Other person narrating putting eggs in fridge",
+    "start_time": "0:32",
+    "end_time": "0:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, Michael, wearing a light green short-sleeved polo shirt and blue jeans. He has short dark hair and is of average build. He enters carrying paper grocery bags.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "0:18": {
+                "distance": "5.0",
+                "direction": "30"
+            },
+            "0:19": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "0:39": {
+                "distance": "4.5",
+                "direction": "-80"
+            },
+            "0:41": {
+                "distance": "4.0",
+                "direction": "-85"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "1:01": {
+                "distance": "3.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, representing the wearer's point of view. The wearer is sitting on a couch in a living room, initially looking at a phone, then picks up a book and looks at it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general forward direction (book/coffee table/fireplace)",
+        "description": "The direction the camera is primarily pointing. During the event, this is generally towards the coffee table where a book is being read, with the fireplace in the background of that view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"narrating putting eggs in fridge\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_308",
+    "video_id": "loc3_script3_seq1_rec2"
+}

@@ -1,0 +1,136 @@
+{
+    "event": "Speaker expressing pleasure at seeing the listener",
+    "start_time": "1:12",
+    "end_time": "1:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man wearing a light blue/turquoise polo shirt, khaki shorts, white sneakers, and glasses. He has short, balding dark hair and is of a heavier build. He is initially sitting on a grey couch and later stands up and walks towards the hallway/front door.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-35"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:57": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:12": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "1:13": {
+                "distance": "2.2",
+                "direction": "-75"
+            },
+            "1:14": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "1:16": {
+                "distance": "3.0",
+                "direction": "-85"
+            },
+            "1:24": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:27": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "rectangle wooden coffee table",
+        "description": "Large, dark brown/black wooden rectangular coffee table with a rustic or distressed finish. Approximate size: 1.5m long x 0.8m wide x 0.4m high. It has two remotes and a can of drink on it initially.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:13": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace with a black metal screen",
+        "description": "The fireplace is described in the prompt as having a black metal screen. Visually, the most likely location for a fireplace is a white-painted structure with a mantelpiece, situated to the right of the main entertainment unit/TV, near a window with white plantation shutters. The robot is defined as facing this object/area.",
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:38": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:52": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:11": {
+                "distance": "4.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"expressing pleasure at seeing the listener\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_182",
+    "video_id": "loc2_script2_seq8_rec2"
+}

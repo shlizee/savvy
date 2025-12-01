@@ -1,0 +1,107 @@
+{
+    "event": "The other person acknowledges the camera wearer's intention to flip food and offers to find a plastic utensil.",
+    "start_time": "1:41",
+    "end_time": "1:45",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person wearing a grey short-sleeved polo shirt, dark-colored (possibly blue or black) shorts, and glasses. He has dark, short hair. Approximate height appears to be average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:28": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "0:42": {
+                "distance": "0.7",
+                "direction": "50"
+            },
+            "0:48": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "1:11": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "1:13": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "1:15": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "1:40": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "2:02": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "2:09": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "2:11": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "2:20": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "2:31": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "2:41": {
+                "distance": "0.6",
+                "direction": "40"
+            },
+            "2:42": {
+                "distance": "0.6",
+                "direction": "35"
+            },
+            "2:44": {
+                "distance": "0.7",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for egocentric mode where the camera is the reference.",
+        "key_frames": {}
+    },
+    "prediction": 1.1,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"acknowledging flipping action and offering to find plastic utensil\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_146",
+    "video_id": "loc2_script3_seq32_rec1"
+}

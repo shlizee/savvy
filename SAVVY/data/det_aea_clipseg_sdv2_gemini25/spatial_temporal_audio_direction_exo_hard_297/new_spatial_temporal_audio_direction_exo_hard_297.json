@@ -1,0 +1,164 @@
+{
+    "event": "Woman commenting on coffee weakness",
+    "start_time": "02:13",
+    "end_time": "02:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly brown hair, wearing glasses, a white short-sleeved t-shirt, a yellow knitted cable-knit vest, light blue jeans, and patterned socks. She has a microphone clipped to her t-shirt.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "00:04": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "00:07": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "00:11": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "00:21": {
+                "distance": "2.8",
+                "direction": "-35"
+            },
+            "00:35": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "00:58": {
+                "distance": "2.6",
+                "direction": "-55"
+            },
+            "01:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:20": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:34": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:45": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "01:59": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "02:09": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "02:13": {
+                "distance": "0.5",
+                "direction": "-85"
+            },
+            "02:25": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "02:36": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "02:51": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "03:03": {
+                "distance": "1.0",
+                "direction": "-65"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "dining table",
+        "description": "A rectangular wooden dining table, medium brown color, with at least four matching wooden chairs with light-colored upholstered seats. It is positioned near a set of large glass sliding doors/windows leading outside. Approximate size appears to be for 6-8 people.",
+        "key_frames": {
+            "00:06": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "00:19": {
+                "distance": "3.5",
+                "direction": "-130"
+            },
+            "00:45": {
+                "distance": "3.8",
+                "direction": "-125"
+            },
+            "01:15": {
+                "distance": "3.6",
+                "direction": "-130"
+            },
+            "01:38": {
+                "distance": "3.5",
+                "direction": "-130"
+            },
+            "02:13": {
+                "distance": "3.5",
+                "direction": "-130"
+            },
+            "02:40": {
+                "distance": "3.7",
+                "direction": "-125"
+            },
+            "03:05": {
+                "distance": "3.5",
+                "direction": "-130"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "piano",
+        "description": "An upright black piano, likely polished ebony finish. It is positioned against a light-colored interior wall, to the right side of the main living area (relative to the initial camera view). A framed picture is on the wall above it. Standard upright piano size.",
+        "key_frames": {
+            "00:04": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "00:19": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "00:45": {
+                "distance": "4.2",
+                "direction": "40"
+            },
+            "01:15": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "01:38": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "02:13": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "02:40": {
+                "distance": "4.2",
+                "direction": "35"
+            },
+            "03:05": {
+                "distance": "4.0",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": "A",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the piano, when the speech topic: \"commenting on coffee weakness\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_297",
+    "video_id": "loc3_script2_seq3_rec1"
+}

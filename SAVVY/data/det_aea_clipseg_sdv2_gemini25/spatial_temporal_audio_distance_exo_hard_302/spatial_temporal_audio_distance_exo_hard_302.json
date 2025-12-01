@@ -1,0 +1,92 @@
+{
+    "event": "thanking for getting groceries",
+    "start_time": "0:20",
+    "end_time": "0:21",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person, identified as Thomas, with dark, curly hair, wearing glasses and a dark sweater or jacket over a lighter shirt. He is seen sitting on a light-colored sofa in the living room. He is the source of the speech 'Thanks for getting those.'",
+        "is_static": false,
+        "key_frames": {
+            "0:20": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:28": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A rectangular coffee table with a light-colored wooden top and a darker frame/legs. It is positioned in the living room, directly in front of the light-colored sofa where Thomas (the sounding object) is sitting. Various items like books and a remote are visible on its surface.",
+        "key_frames": {
+            "0:20": {
+                "distance": "4.2",
+                "direction": "15"
+            },
+            "0:25": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "0:28": {
+                "distance": "2.7",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Living room area / Sofa",
+        "description": "The general area of the living room including the sofa where Thomas is seated, which is beyond the coffee table from the camera's perspective at times.",
+        "key_frames": {
+            "0:20": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:53": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "When the speech topic: \"thanking for getting groceries\" is mentioned, what is the distance between the rectangular wooden coffee table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_302",
+    "video_id": "loc3_script3_seq1_rec1"
+}

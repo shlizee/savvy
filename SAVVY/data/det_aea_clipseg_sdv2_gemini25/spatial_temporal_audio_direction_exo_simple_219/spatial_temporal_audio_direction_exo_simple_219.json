@@ -1,0 +1,79 @@
+{
+    "event": "The speaker (man in blue shirt) discusses a previous cooking session, clarifying he cooked eggs by himself, which is distinct from a 'script three cooking' activity mentioned by the other person.",
+    "start_time": "0:42",
+    "end_time": "0:54",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a light blue/teal short-sleeved polo shirt and khaki shorts. He has short dark hair and is wearing glasses. Appears to be of average build and height. He is the one who speaks about cooking eggs alone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "7.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:53": {
+                "distance": "1.1",
+                "direction": "25"
+            },
+            "1:06": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:12": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace, assumed to have a black metal screen as per the question. Its specific visual details and location are not clearly discernible in the video. Its position is a premise for the robot's hypothetical location in the living room, likely on a main wall such as the one featuring the TV and a large painting.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Coffee Table",
+        "description": "A low, rectangular wooden coffee table, initially covered with a light-colored patterned tablecloth with sprinkles design. It's located in the center of the living room seating area and has snacks and drinks on it at the beginning of the video.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the fireplace with a black metal screen and facing the rectangle wooden coffee table, when the speech topic: \"denying script three cooking and specifying cooking eggs alone\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_219",
+    "video_id": "loc2_script3_seq31_rec2"
+}

@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic: \"explaining endeavor owns ufc\" comes up.",
+    "start_time": "01:12",
+    "end_time": "01:17",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a green short-sleeved polo shirt and blue jeans. They are initially at a wooden table with a Connect Four game, then move to a couch in the living room. Approximate height appears to be that of an average adult male. This is the 'other person' in the question.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:01": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "00:06": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:10": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "00:13": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "00:20": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "00:30": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "00:40": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "00:50": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:00": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:12": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:15": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:17": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:25": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:35": {
+                "distance": "0.7",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera wearer",
+        "description": "The person wearing the camera. Their arms are occasionally visible, holding a phone or a black rectangular object. They move from a table to a couch.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person / Phone screen",
+        "description": "The camera is generally oriented towards the other person (sounding object) or the phone screen they are showing while on the couch.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:13": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "00:23": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "01:12": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:17": {
+                "distance": "0.7",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"explaining endeavor owns ufc\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_279",
+    "video_id": "loc3_script2_seq7_rec2"
+}

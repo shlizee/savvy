@@ -1,0 +1,148 @@
+{
+    "event": "A creak sound occurs when a woman sits on a couch.",
+    "start_time": "0:11",
+    "end_time": "0:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The light-gray three-seater couch, specifically the part that creaks when the woman sits on it. It is a fabric upholstered couch with multiple cushions, including light-colored and yellow decorative pillows. Approximately 2-2.5 meters wide.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:58": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A light-gray fabric upholstered armchair. It has a blue square pillow and a patterned (dark and light) throw blanket draped over its arm/back. Located near a white interior door, further from the fireplace which has a mirror/painting above it. This armchair is on the right side of the living room from the camera's initial perspective.",
+        "key_frames": {
+            "0:09": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:50": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:58": {
+                "distance": "2.0",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric upholstered three-seater couch. It has several cushions, including light-colored and yellow decorative pillows. Approximately 2-2.5 meters wide. Located on the left side of the living room from the camera's initial perspective.",
+        "key_frames": {
+            "0:09": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:58": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing the light-gray three-seater couch, when the creak sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_10",
+    "video_id": "loc1_script2_seq1_rec2"
+}

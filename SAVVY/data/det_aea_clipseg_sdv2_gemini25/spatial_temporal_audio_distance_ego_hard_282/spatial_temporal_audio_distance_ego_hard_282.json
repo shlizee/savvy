@@ -1,0 +1,136 @@
+{
+    "event": "Commenting on Endeavor's profitability despite perception",
+    "start_time": "01:26",
+    "end_time": "01:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. He is sitting on a couch to the left of the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:11": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "00:14": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "00:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "00:45": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:00": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:15": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:26": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:28": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:37": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The viewpoint of the camera wearer, who is sitting on a couch.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:28": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man in green shirt",
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans, sitting on the couch to the left of the camera wearer.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:11": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "00:14": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "00:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "00:45": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:00": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:15": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:26": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:28": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "01:37": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"commenting on endeavor's profitability despite perception\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_282",
+    "video_id": "loc3_script2_seq7_rec2"
+}

@@ -1,0 +1,232 @@
+{
+    "event": "Referencing improv principle 'yes and'",
+    "start_time": "02:00",
+    "end_time": "02:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a black short-sleeved crop top, light blue denim shorts, and glasses. She is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:02": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "00:06": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:11": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:27": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:37": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:43": {
+                "distance": "3.8",
+                "direction": "-20"
+            },
+            "00:48": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:55": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:02": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "01:10": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "01:14": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "01:22": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:33": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:52": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:00": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:03": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:15": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:30": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:42": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:55": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "03:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "03:15": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "03:25": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person (woman)",
+        "description": "The woman with long dark hair, wearing a black short-sleeved crop top, light blue denim shorts, and glasses.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:02": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "00:06": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:11": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:27": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:37": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:43": {
+                "distance": "3.8",
+                "direction": "-20"
+            },
+            "00:48": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:55": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:02": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "01:10": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "01:14": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "01:22": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:33": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:52": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:00": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:03": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:15": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:30": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:42": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:55": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "03:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "03:15": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "03:25": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"referencing improv principle \"yes and\"\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_31",
+    "video_id": "loc1_script2_seq4_rec2"
+}

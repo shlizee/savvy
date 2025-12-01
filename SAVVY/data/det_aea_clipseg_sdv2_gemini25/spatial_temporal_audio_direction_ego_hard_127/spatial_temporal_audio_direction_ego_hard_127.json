@@ -1,0 +1,240 @@
+{
+    "event": "The other person is instructing the camera wearer on how to start the Scrabble game.",
+    "start_time": "0:28",
+    "end_time": "0:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with short brown hair, wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He is also wearing glasses and a gold watch.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "35"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "0:35": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:55": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "2:10": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "2:20": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:35": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "2:45": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "2:55": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "3:10": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "3:15": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "3:20": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:25": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:35": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "3:40": {
+                "distance": "0.7",
+                "direction": "25"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "3:50": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "3:55": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "4:00": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "4:05": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "4:10": {
+                "distance": "0.7",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is facing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing opening the game\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_127",
+    "video_id": "loc2_script2_seq5_rec1"
+}

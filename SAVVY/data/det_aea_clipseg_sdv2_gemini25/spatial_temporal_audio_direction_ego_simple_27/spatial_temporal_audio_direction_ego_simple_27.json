@@ -1,0 +1,224 @@
+{
+    "event": "The camera wearer asks if all the food is from Walmart.",
+    "start_time": "2:45",
+    "end_time": "2:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A person with curly brown hair, wearing a light blue short-sleeved collared shirt and dark shorts. They are also wearing glasses and wired earphones.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:11": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:44": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:56": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:21": {
+                "distance": "2",
+                "direction": "10"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "2:15": {
+                "distance": "1.3",
+                "direction": "15"
+            },
+            "2:29": {
+                "distance": "1.4",
+                "direction": "20"
+            },
+            "2:45": {
+                "distance": "1.3",
+                "direction": "25"
+            },
+            "2:53": {
+                "distance": "1.3",
+                "direction": "20"
+            },
+            "3:00": {
+                "distance": "1.3",
+                "direction": "20"
+            },
+            "3:15": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "3:25": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "3:31": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking if all food is from walmart\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_27",
+    "video_id": "loc1_script2_seq4_rec1"
+}

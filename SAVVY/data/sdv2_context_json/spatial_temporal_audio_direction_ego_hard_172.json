@@ -1,0 +1,224 @@
+{
+    "event": "Clarifying previous statement about not using time codes with David",
+    "start_time": "0:42",
+    "end_time": "0:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing a grey t-shirt, dark shorts, glasses, and an earpiece. He is of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:08": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:36": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:53": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:33": {
+                "distance": "1.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "direction camera is pointing",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"clarifying previous statement about not using time codes with david\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_172",
+    "video_id": "loc2_script3_seq31_rec1"
+}

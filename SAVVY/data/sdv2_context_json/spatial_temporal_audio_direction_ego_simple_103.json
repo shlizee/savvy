@@ -1,0 +1,176 @@
+{
+    "event": "Imagine you are the camera wearer, when the speech topic \"identifying the kitchen area on the tour\" comes up, relative to where you are facing, where is the other person : left, right, or back?",
+    "start_time": "0:23",
+    "end_time": "1:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male, wearing a light-colored (possibly white or very light pink) t-shirt, light blue shorts, and dark-rimmed glasses. He has short, dark hair. He is also holding a yellow can (likely a beverage).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:03": {
+                "distance": "1.6",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:23": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:26": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:39": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:29": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:37": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:43": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person wearing the camera, whose perspective is being used.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Area",
+        "description": "The kitchen area of the house, including counters, appliances, island, and a view to the backyard pool.",
+        "key_frames": {
+            "0:23": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"identifying the kitchen area on the tour\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_103",
+    "video_id": "loc2_script2_seq2_rec2"
+}

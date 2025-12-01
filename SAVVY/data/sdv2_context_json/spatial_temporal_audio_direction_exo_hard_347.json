@@ -1,0 +1,148 @@
+{
+    "event": "A person is introducing video presentation content about the stock market.",
+    "start_time": "0:15",
+    "end_time": "0:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, with a blurred face, wearing a short-sleeved green polo shirt, blue jeans, and light-colored socks. He is seated on a couch while holding and interacting with a smartphone. He is the one speaking and introducing the video content.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:01": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:09": {
+                "distance": "2.2",
+                "direction": "-50"
+            },
+            "0:12": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch with rectangular seat and back cushions, and visible wooden legs. It is approximately 1.8-2 meters wide.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "120"
+            },
+            "0:11": {
+                "distance": "1.8",
+                "direction": "85"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "85"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "85"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "85"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "85"
+            },
+            "1:39": {
+                "distance": "1.8",
+                "direction": "85"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "rectangular dining table",
+        "description": "A rectangular wooden dining table, light-to-medium brown in color. It is typically surrounded by chairs (though not always in focus). It is approximately 1.5-2 meters long.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "1.5",
+                "direction": "180"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "170"
+            },
+            "0:11": {
+                "distance": "3.5",
+                "direction": "-175"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-175"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-175"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-175"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-175"
+            },
+            "1:39": {
+                "distance": "3.5",
+                "direction": "-175"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the rectangular dining table, when the speech topic: \"introducing video presentation content\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_347",
+    "video_id": "loc3_script2_seq7_rec2"
+}

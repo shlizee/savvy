@@ -1,0 +1,120 @@
+{
+    "event": "Speaker expressing doubt about properly shaking creamer.",
+    "start_time": "0:55",
+    "end_time": "0:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, the person holding the camera (POV shot). At the time of the event, wearing a light-colored t-shirt (judging by arms) and shorts (visible when opening the drawer).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:12": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:18": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:21": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:32": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:39": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:50": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:56": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "1:03": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "1:20": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "1:27": {
+                "distance": "N/A",
+                "direction": "N/A"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, flat, rectangular electric cooktop, likely glass-ceramic, embedded in the kitchen island countertop. Approximately 0.8m x 0.5m.",
+        "key_frames": {
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:18": {
+                "distance": "0.2",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0.4",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "1.6",
+                "direction": "-75"
+            },
+            "1:01": {
+                "distance": "2.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Refrigerator",
+        "description": "Large, stainless steel, double-door (French door style with bottom freezer drawer) refrigerator. Approximately 1.8m tall x 0.9m wide.",
+        "key_frames": {
+            "0:13": {
+                "distance": "2.8",
+                "direction": "-40"
+            },
+            "0:14": {
+                "distance": "1.7",
+                "direction": "-25"
+            },
+            "0:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "1:23": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the stainless steel refrigerator, when the speech topic: \"expressing doubt about properly shaking creamer\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_152",
+    "video_id": "loc2_script2_seq4_rec2"
+}

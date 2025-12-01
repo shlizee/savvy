@@ -1,0 +1,100 @@
+{
+    "event": "A person suggests cleaning up, and another agrees.",
+    "start_time": "0:01",
+    "end_time": "0:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, short dark hair, wearing glasses, a light blue short-sleeved polo shirt, and khaki/light-colored shorts. Appears to be of average height and build. This is Speaker 1, who initiates the suggestion to clean up.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:12": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:23": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:32": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:58": {
+                "distance": "4.0",
+                "direction": "60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric cooktop",
+        "description": "Black, smooth, rectangular glass-ceramic electric cooktop, integrated into the large, light-brown wooden kitchen island. Appears to have 4-5 circular burner outlines. Approximately 0.9m wide x 0.6m deep. The camera (Speaker 2) is positioned directly in front of this cooktop.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "0:53": {
+                "distance": "0.6",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "Stainless steel double-basin sink with a tall, curved (gooseneck) metallic tap. Set into a light-colored (possibly granite or quartz) countertop against the far wall of the kitchen. A stainless steel refrigerator is visible to the right of the sink area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the double-basin rectangular sink and tap, when the speech topic: \"agreeing to clean up\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_174",
+    "video_id": "loc2_script2_seq6_rec1"
+}

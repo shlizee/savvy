@@ -1,0 +1,120 @@
+{
+    "event": "The speech topic: \"speculating stop's origin as tech hub\" comes up.",
+    "start_time": "01:15",
+    "end_time": "01:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a dark sweater or jacket over a collared shirt (possibly light blue or white), and blue jeans. He is sitting on a light-colored couch for the majority of the video. Approximate height when standing might be 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "00:03": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:05": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "00:15": {
+                "distance": "1.9",
+                "direction": "-50"
+            },
+            "00:30": {
+                "distance": "1.9",
+                "direction": "-45"
+            },
+            "00:45": {
+                "distance": "1.9",
+                "direction": "-45"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:15": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "01:30": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:45": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "02:00": {
+                "distance": "2.0",
+                "direction": "-35"
+            },
+            "02:15": {
+                "distance": "2.0",
+                "direction": "-35"
+            },
+            "02:30": {
+                "distance": "2.1",
+                "direction": "-30"
+            },
+            "02:45": {
+                "distance": "2.1",
+                "direction": "-30"
+            },
+            "02:48": {
+                "distance": "2.1",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is handheld by the wearer, who is initially standing and then sits on a couch opposite the sounding object.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Living Room Scene",
+        "description": "The general direction the camera is pointing, which includes the sounding object (other person), a coffee table, another couch, a fireplace, and large windows.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "02:48": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"speculating stop's origin as tech hub\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_298",
+    "video_id": "loc3_script3_seq2_rec1"
+}

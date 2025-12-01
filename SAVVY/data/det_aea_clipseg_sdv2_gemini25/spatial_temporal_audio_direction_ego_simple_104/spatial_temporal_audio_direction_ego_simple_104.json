@@ -1,0 +1,136 @@
+{
+    "event": "Commenting positively on the pool's appearance",
+    "start_time": "0:35",
+    "end_time": "0:36",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male wearing a light-colored (appears white or very light beige) t-shirt, light blue shorts, and dark-rimmed glasses. He is barefoot. He has short dark hair. He is holding a yellow can (likely a beverage).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.1",
+                "direction": "40"
+            },
+            "0:03": {
+                "distance": "2.2",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.8",
+                "direction": "20"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:39": {
+                "distance": "1.6",
+                "direction": "-45"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:49": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:24": {
+                "distance": "1.7",
+                "direction": "20"
+            },
+            "1:29": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:36": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:40": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:43": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera_wearer",
+        "description": "The person holding the camera, wearing a teal shirt and a gold-colored digital watch on their left wrist. They are also holding a black rectangular device (possibly a power bank or remote) in their right hand, connected by a cable.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "pool",
+        "description": "An outdoor swimming pool with light blue water, surrounded by a paved patio area with outdoor furniture (lounge chairs). Palm trees and other greenery are visible in the background.",
+        "key_frames": {
+            "0:31": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "6.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"commenting positively on the pool's appearance\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_104",
+    "video_id": "loc2_script2_seq2_rec2"
+}

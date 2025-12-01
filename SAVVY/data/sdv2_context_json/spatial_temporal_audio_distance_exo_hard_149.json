@@ -1,0 +1,100 @@
+{
+    "event": "The speech topic: \"confirming possession of playable records\" is mentioned.",
+    "start_time": "0:20",
+    "end_time": "0:29",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue polo shirt, khaki shorts, and glasses. He has wired earbuds/headphones, with the black wire visible around his neck and connected to a device in his lap. He is initially seated on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "1:13": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:27": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A dark brown/black, rectangular wooden coffee table. It is low in height, appearing to be made of solid wood. Approximate dimensions: 1.2m length x 0.6m width x 0.4m height. It has items like remote controls and a can of drink on it.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:12": {
+                "distance": "1.8",
+                "direction": "20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.4,
+    "question": "When the speech topic: \"confirming possession of playable records\" is mentioned, what is the distance between the rectangle wooden coffee table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_149",
+    "video_id": "loc2_script2_seq8_rec2"
+}

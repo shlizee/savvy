@@ -1,0 +1,232 @@
+{
+    "event": "The camera wearer asks about the quality of the meat.",
+    "start_time": "01:45",
+    "end_time": "01:58",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short brown hair, wearing a light blue short-sleeved polo shirt, khaki shorts, and a watch on his left wrist. He is also wearing glasses and has earbuds in.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:10": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "00:22": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "00:25": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:52": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "01:03": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "01:11": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:16": {
+                "distance": "0.6",
+                "direction": "45"
+            },
+            "01:37": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "01:42": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "04:04": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "04:10": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male with short brown hair, wearing a light blue short-sleeved polo shirt, khaki shorts, and a watch on his left wrist. He is also wearing glasses and has earbuds in.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:10": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "00:22": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "00:25": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:52": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "01:03": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "01:11": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:16": {
+                "distance": "0.6",
+                "direction": "45"
+            },
+            "01:37": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "01:42": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "04:04": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "04:10": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "1.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about meat quality\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_192",
+    "video_id": "loc2_script3_seq4_rec2"
+}

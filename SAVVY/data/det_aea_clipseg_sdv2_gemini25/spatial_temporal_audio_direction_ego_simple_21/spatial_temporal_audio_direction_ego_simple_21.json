@@ -1,0 +1,99 @@
+{
+    "event": "The other person states they only need half a cup ofcoffee.",
+    "start_time": "2:31",
+    "end_time": "2:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly brown hair, wearing a light blue/green short-sleeved button-up shirt, dark shorts, and black shoes. They are also wearing headphones around their neck and have a small black device clipped to their shirt pocket. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "7.0",
+                "direction": "-15"
+            },
+            "0:17": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:29": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:44": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:10": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:20": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:31": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:40": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:50": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "2:58": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:05": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating need for only half a cup of coffee\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_21",
+    "video_id": "loc1_script2_seq3_rec2"
+}

@@ -1,0 +1,108 @@
+{
+    "event": "The speech topic: \"comparing the current house to previously experienced nicer ones\" comes up.",
+    "start_time": "0:50",
+    "end_time": "0:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person (male) wearing a grey short-sleeved collared shirt, black shorts, black sneakers with white soles, glasses, and over-ear headphones around his neck. He is holding a phone. He has curly brown hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "0:25": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "1:10": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "2.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person",
+        "description": "The person the camera wearer is interacting with. Same as the sounding object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "2.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "2.2",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"comparing the current house to previously experienced nicer ones\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_131",
+    "video_id": "loc2_script3_seq2_rec2"
+}

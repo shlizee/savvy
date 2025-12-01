@@ -1,0 +1,196 @@
+{
+    "event": "The speech topic \"stating playing a lot of folk music\" comes up.",
+    "start_time": "1:28",
+    "end_time": "1:29",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, light brown/blonde wavy hair, wearing a yellow sleeveless knitted top, a white t-shirt underneath, and light blue rolled-up jeans. She is also wearing light-colored socks with a pattern. Her face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:04": {
+                "distance": "1.6",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:19": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "1:28": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "1:35": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "1:42": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "1:50": {
+                "distance": "1.7",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose perspective is used for egocentric view. The camera wearer is a male, wearing a green t-shirt, blue jeans, and a gold watch on his left wrist.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:51": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The woman with long, light brown/blonde wavy hair, wearing a yellow sleeveless knitted top, a white t-shirt underneath, and light blue rolled-up jeans. She is also wearing light-colored socks with a pattern. Her face is blurred.",
+        "key_frames": {
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:04": {
+                "distance": "1.6",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:19": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "1:28": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "1:35": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "1:42": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "1:50": {
+                "distance": "1.7",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating playing a lot of folk music\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_248",
+    "video_id": "loc3_script2_seq1_rec2"
+}

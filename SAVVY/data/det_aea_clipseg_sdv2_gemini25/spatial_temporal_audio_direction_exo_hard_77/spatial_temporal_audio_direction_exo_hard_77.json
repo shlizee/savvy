@@ -1,0 +1,120 @@
+{
+    "event": "A woman is seeking mutually enjoyable show suggestions while sitting on a couch in the living room.",
+    "start_time": "1:29",
+    "end_time": "1:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and smart glasses with a wire. She is the one speaking about finding a show they both can watch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:29": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:10": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "4:25": {
+                "distance": "1.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dark wooden front door",
+        "description": "Dark brown wooden door, likely an exterior door. The upper half has a rectangular window, which appears somewhat obscured from this interior view. Standard door height and width.",
+        "key_frames": {
+            "0:06": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "6.5",
+                "direction": "-160"
+            },
+            "1:29": {
+                "distance": "6.5",
+                "direction": "-160"
+            },
+            "2:30": {
+                "distance": "6.5",
+                "direction": "-160"
+            },
+            "3:30": {
+                "distance": "6.5",
+                "direction": "-160"
+            },
+            "4:25": {
+                "distance": "6.5",
+                "direction": "-160"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden china cabinet",
+        "description": "Tall, dark brown wooden cabinet. The upper section features glass doors with wooden frames, behind which china or glassware is visible. The lower section consists of solid wooden doors or drawers. Approximate dimensions: 2 meters in height, 1 to 1.5 meters in width, and 0.4 meters in depth.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "1:29": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "3:30": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "4:25": {
+                "distance": "4.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the dark wooden front door and facing the wooden china cabinet, when the speech topic: \"seeking mutually enjoyable show suggestions\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_77",
+    "video_id": "loc1_script2_seq7_rec2"
+}

@@ -1,0 +1,192 @@
+{
+    "event": "Speaker states intention to retrieve eggs.",
+    "start_time": "0:06",
+    "end_time": "0:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person operating the camera, identifiable by their voice and occasionally visible hands/arms wearing a green shirt. The speech originates from the camera's location.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "Large rectangular wooden dining table with a light-colored wood top and darker legs/frame. It has a slatted placemat or runner on it at times, and various items like coffee cups, a bag of chips, and a Connect Four game box are on it during the video.",
+        "key_frames": {
+            "0:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:11": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden sideboard with slatted design",
+        "description": "Wooden sideboard with a medium-brown finish and horizontally slatted door design. It is positioned against a white wall, and three framed art pieces are mounted on the wall above it. A blue vase and a small plant are on top of it.",
+        "key_frames": {
+            "0:15": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "0:46": {
+                "distance": "4.2",
+                "direction": "-45"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:45": {
+                "distance": "3.8",
+                "direction": "-55"
+            },
+            "2:06": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "2:21": {
+                "distance": "3.8",
+                "direction": "-50"
+            },
+            "3:00": {
+                "distance": "3.7",
+                "direction": "-50"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the wooden sideboard with slatted design, when the speech topic: \"stating intention to retrieve eggs\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_376",
+    "video_id": "loc3_script3_seq4_rec2"
+}

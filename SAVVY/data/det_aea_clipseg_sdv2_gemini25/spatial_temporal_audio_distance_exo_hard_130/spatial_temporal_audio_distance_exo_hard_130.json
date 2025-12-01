@@ -1,0 +1,124 @@
+{
+    "event": "The speech topic: \"offering to take first turn\" is mentioned.",
+    "start_time": "01:38",
+    "end_time": "01:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/light blue polo shirt, khaki shorts, white sneakers, glasses, and a gold watch. He has short brown hair and is of average build. He is the one speaking at the event time, asking \"You want to go first?\".",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:05": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "00:15": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "00:30": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "00:45": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "01:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "01:55": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "02:05": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:50": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "03:08": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "03:40": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "04:13": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "A black, rectangular, glass-ceramic electric cooktop with multiple burners, embedded in the wooden kitchen island. Appears to be a standard size, approximately 60cm wide and 50cm deep.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:05": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "00:15": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "00:30": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "00:45": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "01:00": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "01:38": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "01:55": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "02:50": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "03:08": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "03:40": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "04:13": {
+                "distance": "0.9",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.65,
+    "question": "When the speech topic: \"offering to take first turn\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_130",
+    "video_id": "loc2_script2_seq5_rec1"
+}

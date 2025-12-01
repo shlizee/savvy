@@ -1,0 +1,128 @@
+{
+    "event": "Asking about putting items in the dishwasher",
+    "start_time": "02:14",
+    "end_time": "02:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark brown/black hair, wearing thin-rimmed glasses. He is wearing a dark navy or black V-neck or crew-neck long-sleeved sweater over a light blue collared shirt (collar visible). He is wearing blue denim jeans and light-colored socks (white or light grey), no shoes visible indoors. Average build. This is the person who asks the question about the dishwasher.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "00:06": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "00:12": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "00:22": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:25": {
+                "distance": "3.2",
+                "direction": "-15"
+            },
+            "01:27": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "01:30": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "01:36": {
+                "distance": "3.2",
+                "direction": "-10"
+            },
+            "02:15": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "02:26": {
+                "distance": "3.2",
+                "direction": "-20"
+            },
+            "02:31": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:49": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "03:03": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "03:08": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Sink with a tap",
+        "description": "A rectangular, undermount kitchen sink, appearing to be made of white composite material or enameled cast iron. It is set into a white or very light-colored solid surface countertop, likely quartz or engineered stone, which forms part of a kitchen island. The sink has a single basin. The tap (faucet) is a modern, gooseneck style with a pull-down sprayer head, finished in chrome or brushed stainless steel. It has a single lever handle for temperature and flow control. The sink basin is approximately 60-70 cm wide and 40-50 cm front-to-back.",
+        "key_frames": {
+            "00:27": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:37": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:58": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:22": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Frying pan in sink",
+        "description": "A black non-stick frying pan, approximately 25-30cm in diameter, being held and rinsed under the tap in the sink by the camera wearer. It contains some light-colored food residue.",
+        "key_frames": {
+            "01:40": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:55": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "When the speech topic: \"asking about putting items in dishwasher\" is mentioned, what is the distance between the sink with a tap and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_329",
+    "video_id": "loc3_script3_seq5_rec1"
+}

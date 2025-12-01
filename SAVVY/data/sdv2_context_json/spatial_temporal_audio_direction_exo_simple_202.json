@@ -1,0 +1,100 @@
+{
+    "event": "The speech topic: \"identifying the egg cooking as a different task\" comes up.",
+    "start_time": "0:54",
+    "end_time": "0:55",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark hair, wearing glasses (or smart glasses), a grey short-sleeved polo shirt, and dark shorts. This is the person in the kitchen at the stovetop during the specified event time.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:54": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:11": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "2:33": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace with black metal screen",
+        "description": "A fireplace built into the wall, with a visible hearth. It has a black metal screen in front of the opening. The mantel appears to be light-colored stone or similar material. It is located in the living room.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A low, rectangular wooden coffee table with a dark wood finish. It has items on it like bowls and cans. It's placed on a colorful rug in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the fireplace with a black metal screen and facing the rectangle wooden coffee table, when the speech topic: \"identifying the egg cooking as a different task\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_202",
+    "video_id": "loc2_script3_seq31_rec1"
+}

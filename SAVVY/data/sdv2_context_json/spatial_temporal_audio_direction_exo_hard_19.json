@@ -1,0 +1,180 @@
+{
+    "event": "Speaker discusses decor inspiration from Mexican culture.",
+    "start_time": "0:18",
+    "end_time": "0:25",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair (tied back), wearing glasses, a black short-sleeved top, and light blue jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "0:19": {
+                "distance": "2.3",
+                "direction": "-20"
+            },
+            "0:21": {
+                "distance": "2.3",
+                "direction": "-25"
+            },
+            "0:24": {
+                "distance": "2.4",
+                "direction": "-28"
+            },
+            "0:32": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:34": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.3",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "1.4",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:34": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:37": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:43": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:57": {
+                "distance": "0.7",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "The main, longer section of a light-gray fabric L-shaped sectional couch. It has three seat cushions and back cushions.",
+        "key_frames": {
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:19": {
+                "distance": "1.3",
+                "direction": "-50"
+            },
+            "0:24": {
+                "distance": "1.3",
+                "direction": "-55"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "1:25": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "1:34": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "1:45": {
+                "distance": "0.3",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden china cabinet",
+        "description": "A dark wooden china cabinet with glass doors, displaying white dishware. It is visible through an archway in the living room.",
+        "key_frames": {
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-35"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "-35"
+            },
+            "0:24": {
+                "distance": "3.6",
+                "direction": "-38"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:25": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:32": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the wooden china cabinet, when the speech topic: \"describing decor inspiration as mexican culture\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_19",
+    "video_id": "loc1_script2_seq1_rec2"
+}

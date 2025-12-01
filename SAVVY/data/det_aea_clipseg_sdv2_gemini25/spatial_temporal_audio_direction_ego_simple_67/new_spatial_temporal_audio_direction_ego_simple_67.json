@@ -1,0 +1,128 @@
+{
+    "event": "The other person describes the commitment location as having people.",
+    "start_time": "0:54",
+    "end_time": "0:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with long dark hair, wearing a black short-sleeved top, light blue jeans, and glasses. They are barefoot for most of the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:54": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:27": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:29": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, from whose perspective the video is shot.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "During the specified event, the camera is facing the other person.",
+        "key_frames": {
+            "0:54": {
+                "distance": "1.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing commitment location as having people\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_67",
+    "video_id": "loc1_script2_seq8_rec1"
+}

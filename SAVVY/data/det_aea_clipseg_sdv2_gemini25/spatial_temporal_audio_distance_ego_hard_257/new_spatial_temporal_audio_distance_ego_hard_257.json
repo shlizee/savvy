@@ -1,0 +1,145 @@
+{
+    "event": "Speech topic: stating age and commenting on time passing",
+    "start_time": "0:18",
+    "end_time": "0:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A black smartphone held by the camera wearer, displaying a YouTube video. The video shows a male speaker in a pink shirt against a dark background. The phone screen is the source of the relevant audio about age and time passing.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the first-person perspective of the camera wearer. The camera wearer is initially at a table, then moves to sit on a couch in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman",
+        "description": "A woman with long, dark, curly hair, wearing a yellow knitted short-sleeve top over a white t-shirt, and light blue jeans. She is also wearing socks with a colorful pattern. She is initially at a table playing Connect Four, then walks to and sits on a beige L-shaped couch in the living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:18": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:22": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:38": {
+                "distance": "1.2",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating age and commenting on time passing\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_257",
+    "video_id": "loc3_script2_seq7_rec1"
+}

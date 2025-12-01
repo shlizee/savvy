@@ -1,0 +1,100 @@
+{
+    "event": "Speaker expressing doubt about properly shaking creamer, relative to a hypothetical robot's position and orientation.",
+    "start_time": "0:55",
+    "end_time": "0:56",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person whose first-person perspective the video is recorded from. At the time of speech (0:55-0:56), this person is an adult, whose arm (wearing a light-colored t-shirt) is visible. They are standing at the kitchen counter near the sink, opening a drawer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat electric cooktop surface, built into the central kitchen island. Approximately 1 meter wide by 0.6 meters deep.",
+        "key_frames": {
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:55": {
+                "distance": "2.8",
+                "direction": "140"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in Stainless Steel Dishwasher",
+        "description": "A built-in stainless steel dishwasher, located under the kitchen counter, to the left of the sink area (when facing the sink/window). Standard appliance size, approximately 0.6 meters wide.",
+        "key_frames": {
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:21": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:54": {
+                "distance": "0.7",
+                "direction": "-90"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-90"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the built-in stainless steel dishwasher, when the speech topic: \"expressing doubt about properly shaking creamer\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_153",
+    "video_id": "loc2_script2_seq4_rec2"
+}

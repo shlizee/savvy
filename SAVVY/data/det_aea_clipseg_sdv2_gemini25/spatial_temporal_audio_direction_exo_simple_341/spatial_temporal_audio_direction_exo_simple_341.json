@@ -1,0 +1,160 @@
+{
+    "event": "Determine the speaker's location (left, right, or back) relative to the robot's facing direction when the speech topic: \"asking about personal investments\" comes up.",
+    "start_time": "01:07",
+    "end_time": "01:30",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a yellow knitted vest over a white short-sleeved shirt and blue jeans. She is also wearing glasses.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": 1.5,
+                "direction": -10
+            },
+            "00:03": {
+                "distance": 2.0,
+                "direction": -20
+            },
+            "00:05": {
+                "distance": 2.5,
+                "direction": -30
+            },
+            "00:08": {
+                "distance": 1.0,
+                "direction": 30
+            },
+            "00:10": {
+                "distance": 1.0,
+                "direction": 30
+            },
+            "00:40": {
+                "distance": 1.0,
+                "direction": 30
+            },
+            "00:51": {
+                "distance": 1.0,
+                "direction": 30
+            },
+            "01:00": {
+                "distance": 1.0,
+                "direction": 30
+            },
+            "01:07": {
+                "distance": 1.0,
+                "direction": 30
+            },
+            "01:36": {
+                "distance": 1.0,
+                "direction": 30
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A light-colored rectangular wooden coffee table. It has a colorful placemat or puzzle on it, along with a white llama figurine and a book.",
+        "key_frames": {
+            "00:07": {
+                "distance": 1.0,
+                "direction": 0
+            },
+            "00:11": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "00:20": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "00:30": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "00:40": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "00:50": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "01:00": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "01:10": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "01:20": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "01:30": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "01:38": {
+                "distance": 0.5,
+                "direction": 0
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A black flat-screen TV mounted on a light-colored wooden entertainment unit, to the left of a stone fireplace.",
+        "key_frames": {
+            "00:05": {
+                "distance": 3.5,
+                "direction": -20
+            },
+            "00:07": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "00:11": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "00:20": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "00:30": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "00:40": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "00:50": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "01:00": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "01:10": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "01:20": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "01:30": {
+                "distance": 3.0,
+                "direction": -15
+            },
+            "01:38": {
+                "distance": 3.0,
+                "direction": -15
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the tv by the fireplace, when the speech topic: \"asking about personal investments\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_341",
+    "video_id": "loc3_script2_seq7_rec1"
+}

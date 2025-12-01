@@ -1,0 +1,111 @@
+{
+    "event": "The camera wearer asks if they can clean up, and the other person agrees.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male wearing a turquoise polo shirt, khaki shorts, glasses, and a gold-colored watch on his left wrist. He has short brown hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:14": {
+                "distance": "1.1",
+                "direction": "25"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "0:36": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:53": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "25"
+            },
+            "0:57": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:59": {
+                "distance": "4.2",
+                "direction": "30"
+            },
+            "1:01": {
+                "distance": "4.0",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for egocentric mode where the reference is the camera itself.",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"agreeing to clean up\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_140",
+    "video_id": "loc2_script2_seq6_rec1"
+}

@@ -1,0 +1,96 @@
+{
+    "event": "The speech topic: \"stating they are looking at the pool\" comes up.",
+    "start_time": "0:18",
+    "end_time": "0:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Medium build. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.8",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:18": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:19": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "2:20": {
+                "distance": "1.5",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is positioned on the kitchen island counter, operated by the camera wearer. The wearer is standing at the island.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sounding Object (Person 2)",
+        "description": "The person who is speaking and looking at the pool.",
+        "key_frames": {
+            "0:18": {
+                "distance": "1.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "1.5",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating they are looking at the pool\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_155",
+    "video_id": "loc2_script3_seq33_rec1"
+}

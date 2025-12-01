@@ -1,0 +1,104 @@
+{
+    "event": "The speech topic 'instructing placing kebabs onto the pan' comes up, and the action of placing kebabs occurs.",
+    "start_time": "0:02:03",
+    "end_time": "0:02:21",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a light blue/turquoise short-sleeved polo shirt, khaki shorts, glasses, and a black headset/earpiece on his left ear. He has short brown hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:05": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:00:10": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:00:26": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:00:32": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:00:50": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:00:54": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "0:01:10": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:01:19": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "0:02:01": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:02:03": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:02:07": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:02:10": {
+                "distance": "0.4",
+                "direction": "-20"
+            },
+            "0:02:15": {
+                "distance": "0.4",
+                "direction": "-20"
+            },
+            "0:02:20": {
+                "distance": "0.4",
+                "direction": "-20"
+            },
+            "0:02:24": {
+                "distance": "0.6",
+                "direction": "-35"
+            },
+            "0:02:35": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:02:45": {
+                "distance": "0.6",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the person, representing their viewpoint.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general direction of interaction",
+        "description": "The area where the other person and the cooking activity are taking place.",
+        "key_frames": {
+            "0:02:03": {
+                "distance": "0.7",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "0.7",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing placing kebabs onto the pan\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_153",
+    "video_id": "loc2_script3_seq32_rec2"
+}

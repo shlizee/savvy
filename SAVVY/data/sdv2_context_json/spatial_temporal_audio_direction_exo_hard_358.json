@@ -1,0 +1,92 @@
+{
+    "event": "A person asks if the recording task is finished or if they should continue talking.",
+    "start_time": "0:53",
+    "end_time": "0:55",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a light green/teal short-sleeved polo shirt and blue jeans. Medium build, short dark hair. Appears to be of average height.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:39": {
+                "distance": "4.5",
+                "direction": "65"
+            },
+            "0:53": {
+                "distance": "5.5",
+                "direction": "75"
+            },
+            "1:00": {
+                "distance": "6.0",
+                "direction": "85"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black Round Ottoman",
+        "description": "A circular ottoman, upholstered in black material (likely leather or faux leather). Appears to be about 0.6-0.8 meters in diameter and 0.4-0.5 meters high. It is a piece of furniture.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular Wooden Coffee Table",
+        "description": "A large, low, rectangular coffee table made of light to medium-toned wood. It has a simple, modern design with a flat top and blocky legs/supports. Approximate dimensions: 1.2-1.5 meters long, 0.6-0.8 meters wide, 0.3-0.4 meters high.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the rectangular wooden coffee table, when the speech topic: \"asking if recording task is finished or if they should talk\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_358",
+    "video_id": "loc3_script3_seq1_rec2"
+}

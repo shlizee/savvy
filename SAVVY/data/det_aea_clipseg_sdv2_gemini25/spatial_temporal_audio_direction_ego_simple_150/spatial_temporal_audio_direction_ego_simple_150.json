@@ -1,0 +1,128 @@
+{
+    "event": "The other person is describing the clock's function as a decorative prop.",
+    "start_time": "0:08",
+    "end_time": "0:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark, receding hairline, wearing a light blue/teal short-sleeved polo shirt with a small white logo on the left chest, khaki cargo shorts, glasses with dark frames, and a watch on his left wrist. He is also wearing wired earphones, with the wire running down his shirt. He is initially sitting on a light-colored couch, then stands and walks towards the front door.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the primary person, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The same as the Sounding Object. Adult male in a blue/teal polo shirt.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing the clock's function as a decorative prop\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_150",
+    "video_id": "loc2_script2_seq8_rec2"
+}

@@ -1,0 +1,131 @@
+{
+    "event": "The other person confirms they play a musical instrument.",
+    "start_time": "1:12",
+    "end_time": "1:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, wavy brown hair, wearing a yellow knitted sleeveless top over a white t-shirt, and light blue rolled-up jeans. She is also wearing light-colored socks with a pattern.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:53": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:13": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:51": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A for egocentric mode where the camera is the reference and facing direction.",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"confirming instrument playing\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_246",
+    "video_id": "loc3_script2_seq1_rec2"
+}

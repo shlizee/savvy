@@ -1,0 +1,136 @@
+{
+    "event": "The other person asks if the recording task is finished or if they should sit down and talk.",
+    "start_time": "0:53",
+    "end_time": "1:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green/teal short-sleeved collared shirt and blue jeans. He has short, dark hair, appears to be of average build. He is the one speaking the lines related to the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:18": {
+                "distance": "4.5",
+                "direction": "65"
+            },
+            "0:19": {
+                "distance": "4.6",
+                "direction": "70"
+            },
+            "0:39": {
+                "distance": "4.8",
+                "direction": "70"
+            },
+            "0:40": {
+                "distance": "5.0",
+                "direction": "75"
+            },
+            "0:51": {
+                "distance": "4.5",
+                "direction": "60"
+            },
+            "0:52": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:54": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:56": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:57": {
+                "distance": "3.1",
+                "direction": "25"
+            },
+            "0:58": {
+                "distance": "3.2",
+                "direction": "30"
+            },
+            "0:59": {
+                "distance": "3.3",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:01": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "1:02": {
+                "distance": "4.5",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person view camera worn by the user. Its position is the origin (0,0) in egocentric mode.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Living Room Scene",
+        "description": "The general area in front of the camera, including a coffee table, couch, fireplace, and the other person when visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking if recording task is finished or if they should talk\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_294",
+    "video_id": "loc3_script3_seq1_rec2"
+}

@@ -1,0 +1,180 @@
+{
+    "event": "A person suggests keeping the stove off temporarily.",
+    "start_time": "01:57",
+    "end_time": "02:00",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with curly dark brown hair, wearing a grey short-sleeved polo shirt, dark blue or black shorts, and black sneakers with white soles. He is also wearing a bone-conduction headset or glasses with thick temples. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "00:27": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:41": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "00:48": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "01:05": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "01:11": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "01:18": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "01:37": {
+                "distance": "0.5",
+                "direction": "-50"
+            },
+            "01:57": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "02:00": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "02:03": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "02:16": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "02:33": {
+                "distance": "2.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. It has two oven doors, one above the other, with black glass windows and stainless steel handles and trim.",
+        "key_frames": {
+            "00:28": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "00:30": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:32": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "00:49": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "01:10": {
+                "distance": "2.2",
+                "direction": "70"
+            },
+            "01:16": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "01:57": {
+                "distance": "2.5",
+                "direction": "75"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "75"
+            },
+            "02:25": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "02:27": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "02:33": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:35": {
+                "distance": "1.2",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with a pool view",
+        "description": "Large sliding glass doors at the back of the kitchen, with dark frames, providing a view of an outdoor pool area.",
+        "key_frames": {
+            "00:28": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "00:30": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "00:32": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "00:49": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "01:10": {
+                "distance": "3.2",
+                "direction": "20"
+            },
+            "01:16": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "01:57": {
+                "distance": "3.5",
+                "direction": "25"
+            },
+            "02:00": {
+                "distance": "3.5",
+                "direction": "25"
+            },
+            "02:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "02:33": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:35": {
+                "distance": "2.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the window with a pool view, when the speech topic: \"suggesting keeping the stove off temporarily\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_209",
+    "video_id": "loc2_script3_seq31_rec1"
+}

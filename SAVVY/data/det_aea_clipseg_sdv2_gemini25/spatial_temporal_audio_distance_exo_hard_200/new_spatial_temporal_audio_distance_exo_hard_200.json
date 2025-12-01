@@ -1,0 +1,124 @@
+{
+    "event": "asking whether to cook more or finish cooking",
+    "start_time": "02:28",
+    "end_time": "02:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair. He is actively cooking at a black glass stovetop on a kitchen island/peninsula with a granite countertop. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "170"
+            },
+            "1:33": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:46": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "02:28": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large, multi-panel sliding glass doors, likely aluminum-framed (dark color), extending across a significant portion of the exterior wall. They provide a clear view of an outdoor swimming pool, patio furniture, and landscaping. The glass reflects the interior lights at times.",
+        "key_frames": {
+            "0:08": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "4.2",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "4.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "175"
+            },
+            "1:33": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:46": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "4.2",
+                "direction": "5"
+            },
+            "02:28": {
+                "distance": "4.2",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man cooking (Sounding Object)",
+        "description": "Adult male, wearing a turquoise short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair. He is actively cooking at a black glass stovetop on a kitchen island/peninsula with a granite countertop.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "170"
+            },
+            "1:33": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:46": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "02:28": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.0,
+    "question": "When the speech topic: \"asking whether to cook more or finish cooking\" is mentioned, what is the distance between the window with a pool view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_200",
+    "video_id": "loc2_script3_seq34_rec2"
+}

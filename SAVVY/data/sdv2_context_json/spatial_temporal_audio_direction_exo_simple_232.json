@@ -1,0 +1,132 @@
+{
+    "event": "A person states they are looking at the pool.",
+    "start_time": "0:18",
+    "end_time": "0:20",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved t-shirt and dark shorts (possibly black or dark blue). Average build. He is mobile.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "2:20": {
+                "distance": "2.5",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A double-basin rectangular sink, likely stainless steel, inset into a speckled granite countertop on a kitchen island. It has a metallic tap/faucet. This is where the robot is standing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "0:53": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:57": {
+                "distance": "0.6",
+                "direction": "-25"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "1:45": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "2:14": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:27": {
+                "distance": "0.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven. This object is not directly visible in the video. Its location is inferred to be on the main appliance wall, likely near or integrated with the wooden cabinets and the visible stainless steel refrigerator. The robot is facing this inferred location.",
+        "key_frames": {
+            "0:16": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "2:15": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "2:20": {
+                "distance": "3.0",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the stainless steel double wall oven, when the speech topic: \"stating they are looking at the pool\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_232",
+    "video_id": "loc2_script3_seq33_rec1"
+}

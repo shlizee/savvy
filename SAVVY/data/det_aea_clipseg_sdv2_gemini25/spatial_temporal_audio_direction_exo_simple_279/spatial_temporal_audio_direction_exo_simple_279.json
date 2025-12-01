@@ -1,0 +1,160 @@
+{
+    "event": "inquiring about musical styles played",
+    "start_time": "1:21",
+    "end_time": "1:29",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses (though they are blurred due to privacy). He has a wired earpiece/microphone connected to his shirt. He is the person who opens the door and later sits on the sofa.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:29": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "5.5",
+                "direction": "-25"
+            },
+            "0:43": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:56": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:02": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "1:07": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "1:12": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:42": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:52": {
+                "distance": "2.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A modern stone fireplace with a light-colored stone facade and a wooden mantel. It appears to be a gas fireplace and is lit during the video. It is located on the right side of the living room from the perspective of entering the main area.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:41": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:58": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "1:06": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:23": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "1:38": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "1:49": {
+                "distance": "3.0",
+                "direction": "35"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A wooden rectangular dining table with chairs, located in the dining area beyond the kitchen island. It is visible through the open plan layout of the house.",
+        "key_frames": {
+            "0:08": {
+                "distance": "7.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "7.0",
+                "direction": "-15"
+            },
+            "0:22": {
+                "distance": "7.0",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "6.5",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "7.0",
+                "direction": "-10"
+            },
+            "0:47": {
+                "distance": "7.0",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "7.5",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "7.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the fireplace and facing the rectangular dining table, when the speech topic: \"inquiring about musical styles played\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_279",
+    "video_id": "loc3_script2_seq1_rec1"
+}

@@ -1,0 +1,192 @@
+{
+    "event": "The speech topic: \"questioning word appropriateness\" comes up.",
+    "start_time": "02:05",
+    "end_time": "02:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with short dark hair, wearing glasses, a light-colored (possibly beige or light grey) t-shirt, and light blue shorts. Appears to be of Asian descent. Approximate height around 1.7-1.8m when standing, but is seated for most of the video. The person is interacting with the camera wearer, playing Scrabble.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-35"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:33": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:19": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:42": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:09": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:23": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:50": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:40": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:58": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "4:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The person the camera wearer is interacting with and playing Scrabble with. Same as the sounding object.",
+        "key_frames": {
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-35"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:33": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:19": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:42": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:09": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:23": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:50": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:40": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:58": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "4:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"questioning word appropriateness\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_102",
+    "video_id": "loc2_script2_seq5_rec2"
+}

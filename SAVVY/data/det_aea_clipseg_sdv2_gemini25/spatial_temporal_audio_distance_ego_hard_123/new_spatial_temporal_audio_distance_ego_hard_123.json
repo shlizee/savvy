@@ -1,0 +1,100 @@
+{
+    "event": "The other person states their intention to place items down near the table, as suggested by the camera wearer.",
+    "start_time": "0:19",
+    "end_time": "0:21",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved t-shirt and khaki shorts. Appears to be of average height and build. White socks and sneakers. Short brown hair, possibly balding slightly on top. Wearing glasses.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "5.5",
+                "direction": "-10"
+            },
+            "0:14": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "2.6",
+                "direction": "-5"
+            },
+            "0:21": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:34": {
+                "distance": "1.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person sitting on a couch in a living room. The view is egocentric.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "living_room_area",
+        "description": "The general area of the living room, including a coffee table with snacks, a TV console, and the hallway from which the other person enters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating intention and placing items down here\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_123",
+    "video_id": "loc2_script3_seq1_rec2"
+}

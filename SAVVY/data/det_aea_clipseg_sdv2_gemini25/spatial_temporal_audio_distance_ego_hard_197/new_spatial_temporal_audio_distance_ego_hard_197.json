@@ -1,0 +1,83 @@
+{
+    "event": "A tab being pulled open sound from a beverage can.",
+    "start_time": "02:42",
+    "end_time": "02:43",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A standard 12 fl oz (approx. 355 ml) aluminum beverage can. The can is predominantly green with some white and orange/yellow text and graphics ('Arizona Green Tea with Ginseng and Honey'). Cylindrical shape, approximately 12 cm in height and 6.5 cm in diameter. The sound originates from its tab being pulled open.",
+        "is_static": false,
+        "key_frames": {
+            "00:38": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "00:40": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "01:04": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "02:41": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "02:42": {
+                "distance": "0.3",
+                "direction": "-40"
+            },
+            "02:45": {
+                "distance": "0.3",
+                "direction": "-35"
+            },
+            "03:03": {
+                "distance": "0.2",
+                "direction": "-20"
+            },
+            "03:52": {
+                "distance": "0.4",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Dining table and person opposite",
+        "description": "A small, round, dark brown wooden dining table. Another person is seated opposite the camera wearer at the table.",
+        "key_frames": {
+            "00:55": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:42": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "03:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "04:05": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.3,
+    "question": "Imagine you are the camera wearer, when a tab being pulled open sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_197",
+    "video_id": "loc2_script3_seq4_rec2"
+}

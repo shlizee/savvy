@@ -1,0 +1,108 @@
+{
+    "event": "The speech topic 'criticizing numerous intermediate stops' comes up.",
+    "start_time": "0:53",
+    "end_time": "1:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with light, curly hair, wearing a dark long-sleeved top over a collared shirt, and blue jeans. They are sitting on a light-colored couch. Approximate height while seated is around 1 meter.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-55"
+            },
+            "0:15": {
+                "distance": "2.6",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:53": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "1:05": {
+                "distance": "2.6",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-48"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "1:57": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "2:10": {
+                "distance": "2.6",
+                "direction": "-45"
+            },
+            "2:25": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "2:40": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, who is seated on a couch or chair.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General direction of the living room, including a coffee table and another couch.",
+        "description": "The camera is generally facing towards the center of the living room area, encompassing a coffee table, another couch where the sounding object is seated, and large windows in the background.",
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"criticizing numerous intermediate stops\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_319",
+    "video_id": "loc3_script3_seq2_rec1"
+}

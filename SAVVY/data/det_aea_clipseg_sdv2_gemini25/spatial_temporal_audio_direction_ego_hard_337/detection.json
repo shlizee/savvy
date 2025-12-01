@@ -1,0 +1,41 @@
+{
+    "00657": {
+        "The camera wearer. The speech is coming from the camera's location.": {
+            "direction": -49.93,
+            "distance": 2.35,
+            "det_conf": [
+                0.4128781855106354,
+                0.51743483543396,
+                0.4898078441619873,
+                0.39164426922798157,
+                0.01950729265809059
+            ]
+        }
+    },
+    "00701": {
+        "The camera wearer. The speech is coming from the camera's location.": {
+            "direction": -54.02,
+            "distance": 2.56,
+            "det_conf": [
+                0.6469737887382507,
+                0.6811155080795288,
+                0.6535483598709106,
+                0.4435657560825348,
+                0.43192899227142334
+            ]
+        }
+    },
+    "03551": {
+        "The camera wearer. The speech is coming from the camera's location.": {
+            "direction": -54.06,
+            "distance": 1.04,
+            "det_conf": [
+                0.6832500696182251,
+                0.6663504242897034,
+                0.69391268491745,
+                0.4900140166282654,
+                0.6469811201095581
+            ]
+        }
+    }
+}

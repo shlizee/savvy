@@ -1,0 +1,139 @@
+{
+    "event": "The speech topic \"praising the game\" comes up.",
+    "start_time": "04:14",
+    "end_time": "04:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man wearing a turquoise polo shirt and khaki shorts. He has short brown hair and is wearing glasses. He is sitting on a bar stool at a kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:10": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:20": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:40": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:50": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "01:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "01:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "03:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "03:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "04:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "04:14": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Scrabble board",
+        "description": "A standard Scrabble board on a wooden table.",
+        "key_frames": {
+            "00:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "04:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "04:14": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"praising the game\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_134",
+    "video_id": "loc2_script2_seq5_rec1"
+}

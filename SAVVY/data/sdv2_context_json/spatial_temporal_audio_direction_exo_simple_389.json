@@ -1,0 +1,116 @@
+{
+    "event": "A scraping sound occurs.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A white ceramic dinner plate, circular, approximately 25-30 cm in diameter. The sound is produced when this plate is picked up from/scraped against the wooden dining table by a man in a green shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric upholstered three-seater couch with a modern design. A blanket with 'NOBODY' written on it is draped over its back. It is located in the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "0:16": {
+                "distance": "4.0",
+                "direction": "-100"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "-110"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "-110"
+            },
+            "1:30": {
+                "distance": "4.5",
+                "direction": "-110"
+            },
+            "2:12": {
+                "distance": "4.5",
+                "direction": "-110"
+            },
+            "2:40": {
+                "distance": "4.5",
+                "direction": "-110"
+            },
+            "3:05": {
+                "distance": "4.5",
+                "direction": "-110"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden sideboard with slatted design",
+        "description": "A long, low wooden sideboard or credenza with a dark top and a distinctive slatted wooden front design. It is positioned against a wall in the living/dining area.",
+        "key_frames": {
+            "0:02": {
+                "distance": "4.0",
+                "direction": "70"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "80"
+            },
+            "0:17": {
+                "distance": "4.5",
+                "direction": "90"
+            },
+            "0:30": {
+                "distance": "5.0",
+                "direction": "100"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "100"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "100"
+            },
+            "2:12": {
+                "distance": "5.0",
+                "direction": "100"
+            },
+            "2:40": {
+                "distance": "5.0",
+                "direction": "100"
+            },
+            "3:05": {
+                "distance": "5.0",
+                "direction": "100"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the wooden sideboard with slatted design, when the scraping sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_389",
+    "video_id": "loc3_script3_seq5_rec2"
+}

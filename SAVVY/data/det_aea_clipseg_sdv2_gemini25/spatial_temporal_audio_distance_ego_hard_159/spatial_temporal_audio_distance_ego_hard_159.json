@@ -1,0 +1,128 @@
+{
+    "event": "The camera wearer mentions that the meat is not touching the pan in some places, implying a steaming effect rather than searing, which relates to a limited cooking ability.",
+    "start_time": "1:21",
+    "end_time": "1:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey t-shirt, dark shorts, glasses, and has dark curly hair. Appears to be of average height and build. This is the 'other person' in the question.",
+        "is_static": false,
+        "key_frames": {
+            "0:14": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:17": {
+                "distance": "2.8",
+                "direction": "-110"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-135"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-135"
+            },
+            "1:19": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "1:21": {
+                "distance": "0.6",
+                "direction": "75"
+            },
+            "1:23": {
+                "distance": "0.6",
+                "direction": "75"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "85"
+            },
+            "2:16": {
+                "distance": "2.5",
+                "direction": "-120"
+            },
+            "2:25": {
+                "distance": "3.0",
+                "direction": "-130"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, who is standing at the stovetop cooking the skewers.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stovetop/pan",
+        "description": "Black glass-ceramic electric cooktop with a silver-colored metal frying pan on it, containing skewers with meat and vegetables.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"limiting cooking ability to steaming\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_159",
+    "video_id": "loc2_script3_seq33_rec1"
+}

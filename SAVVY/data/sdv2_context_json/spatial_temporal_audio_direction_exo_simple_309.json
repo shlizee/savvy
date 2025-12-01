@@ -1,0 +1,112 @@
+{
+    "event": "Determine the direction of the boiling sound relative to a robot standing by the light-colored refrigerator and facing the light-gray three-seater couch.",
+    "start_time": "1:31",
+    "end_time": "1:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A blue, metallic stovetop kettle with a black handle and silver spout/lid, placed on a lit gas stove burner. The kettle is of a standard size, approximately 2-3 liters. The boiling water inside creates the sound.",
+        "is_static": true,
+        "key_frames": {
+            "0:33": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "1:31": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "1:40": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "1:44": {
+                "distance": "0.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored Refrigerator",
+        "description": "A tall, built-in refrigerator, likely white or light stainless steel, with what appears to be a two-door configuration (possibly French door or side-by-side) and an ice/water dispenser on one door. It is located against a wall in the kitchen.",
+        "key_frames": {
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:18": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "1:31": {
+                "distance": "2.5",
+                "direction": "-95"
+            },
+            "2:05": {
+                "distance": "2.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray Three-seater Couch",
+        "description": "A modern, light-gray fabric couch, appearing to be a three-seater, with low armrests and back. It is located in the living room area, visible from the kitchen.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "5.5",
+                "direction": "180"
+            },
+            "0:25": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "1:31": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "1:53": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "3:01": {
+                "distance": "4.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-colored refrigerator and facing the light-gray three-seater couch, when the background boiling sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_309",
+    "video_id": "loc3_script2_seq3_rec2"
+}

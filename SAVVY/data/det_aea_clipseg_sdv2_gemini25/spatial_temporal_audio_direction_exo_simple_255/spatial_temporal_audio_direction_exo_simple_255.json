@@ -1,0 +1,180 @@
+{
+    "event": "Speaker asks about the eating location or room.",
+    "start_time": "1:12",
+    "end_time": "1:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, approximately 5'10\"-6'0\" tall, medium build. He is wearing a light blue/teal short-sleeved polo shirt, khaki cargo shorts, and glasses. He has short brown hair and is wearing a watch on his left wrist. He is also wearing in-ear headphones connected by a wire around his neck for most of the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:21": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:24": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:16": {
+                "distance": "0.6",
+                "direction": "20"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "15"
+            },
+            "2:02": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "2:37": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "3:08": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "3:39": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "4:03": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "4:08": {
+                "distance": "0.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black glass-ceramic flat electric cooktop, approximately 30-36 inches wide, built into a light-colored granite countertop on a large kitchen island/peninsula made of wood.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "0:36": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:12": {
+                "distance": "2.5",
+                "direction": "-150"
+            },
+            "1:39": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "-150"
+            },
+            "4:02": {
+                "distance": "0.8",
+                "direction": "80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "Stainless steel double wall oven, standard residential size (e.g., 27 or 30 inches wide), built into light brown wooden kitchen cabinetry. It has two oven doors, one above the other, with handles and control panels.",
+        "key_frames": {
+            "0:05": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "75"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:43": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "3.8",
+                "direction": "-75"
+            },
+            "1:12": {
+                "distance": "4.5",
+                "direction": "-130"
+            },
+            "1:39": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:00": {
+                "distance": "4.5",
+                "direction": "-130"
+            },
+            "3:59": {
+                "distance": "2.5",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the stainless steel double wall oven, when the speech topic: \"asking about eating location or room\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_255",
+    "video_id": "loc2_script3_seq4_rec2"
+}

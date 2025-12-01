@@ -1,0 +1,124 @@
+{
+    "event": "Distance between camera wearer and the other person when the TV is narrating the princess's enchantment.",
+    "start_time": "3:14",
+    "end_time": "3:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 50-60 inches, mounted on a light-colored wooden media console. It is displaying an animated movie.",
+        "is_static": true,
+        "key_frames": {
+            "0:12": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:42": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "2:05": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "3:14": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "4:20": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person wearing the camera, seated on a couch in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A young woman with long, dark brown wavy hair, wearing a black short-sleeved crop top, light blue denim jeans, and black-framed smart glasses. She is barefoot and seated on the same couch as the camera wearer, to their left.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "2:20": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "3:10": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "3:14": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "3:15": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "3:20": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "4:24": {
+                "distance": "1.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"(tv) narrating the princess's enchantment\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_37",
+    "video_id": "loc1_script2_seq7_rec2"
+}

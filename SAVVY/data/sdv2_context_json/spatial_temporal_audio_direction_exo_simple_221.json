@@ -1,0 +1,96 @@
+{
+    "event": "The speaker (M1) agrees with the plan to add oil (suggests butter instead) for cooking kebabs.",
+    "start_time": "02:01",
+    "end_time": "02:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a man (M1) wearing a turquoise/light blue polo shirt and khaki shorts. He has short dark hair and is wearing glasses. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:06": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "00:08": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "00:38": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "00:40": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "01:06": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "02:01": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "02:08": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "02:13": {
+                "distance": "0.8",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, black, flat-screen television, mounted on a light-colored interior wall in the living room. It is part of a larger built-in or standalone shelving unit that is dark brown/black.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "00:02": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "00:04": {
+                "distance": "3.5",
+                "direction": "80"
+            },
+            "00:08": {
+                "distance": "4.0",
+                "direction": "-170"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A dark-colored (appears black or very dark brown) exterior front door with multiple rectangular frosted or translucent glass panels arranged in a grid. It has a visible door handle and is located at the end of a short hallway.",
+        "key_frames": {
+            "00:00": {
+                "distance": "6.0",
+                "direction": "5"
+            },
+            "00:02": {
+                "distance": "6.0",
+                "direction": "10"
+            },
+            "00:06": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the black front door with glass panels, when the speech topic: \"agreeing with the plan to add oil\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_221",
+    "video_id": "loc2_script3_seq31_rec2"
+}

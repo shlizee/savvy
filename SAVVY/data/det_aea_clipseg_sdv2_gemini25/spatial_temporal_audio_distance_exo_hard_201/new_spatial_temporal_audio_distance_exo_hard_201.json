@@ -1,0 +1,242 @@
+{
+    "event": "The speech topic 'volunteering to bring the food' is mentioned, and the distance between the stainless steel double wall oven and the speech sound source (camera holder) is requested.",
+    "start_time": "0:27",
+    "end_time": "0:28",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person whose first-person perspective the video is recorded from. This person speaks the line 'I'll bring the food.' Physical characteristics are not visible as this is the camera viewpoint.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "Stainless steel double wall oven, built into light brown wooden kitchen cabinetry. Standard appliance size, approximately 0.75m wide and 1.2m tall.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "0:27": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "0:34": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "4.2",
+                "direction": "-65"
+            },
+            "0:59": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "1:41": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "2:20": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "2:40": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "3:00": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "3:17": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "3:30": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "3:45": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "4:00": {
+                "distance": "4.5",
+                "direction": "-60"
+            },
+            "4:05": {
+                "distance": "4.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person in grey shirt",
+        "description": "Person in a grey short-sleeved collared shirt, dark shorts, glasses, and an earpiece/headset. Appears to be an adult male. Average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:22": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:34": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "3.2",
+                "direction": "-35"
+            },
+            "1:02": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:05": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "4:01": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "4:05": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "When the speech topic: \"volunteering to bring the food\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_201",
+    "video_id": "loc2_script3_seq4_rec1"
+}

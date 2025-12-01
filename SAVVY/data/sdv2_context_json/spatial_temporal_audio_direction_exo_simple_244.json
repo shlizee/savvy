@@ -1,0 +1,136 @@
+{
+    "event": "Speaker suggests getting a plate for serving food.",
+    "start_time": "0:56",
+    "end_time": "0:59",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. His face is blurred. He is the person cooking at the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:57": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:34": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:47": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:25": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "2:58": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors/windows on one side of the kitchen, offering a view of an outdoor pool and patio area. These are located to the right side of the kitchen from the camera's general perspective for most of the video.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "1:33": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:55": {
+                "distance": "2.5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A black double-basin rectangular sink with a silver gooseneck tap, set into a granite countertop. Located under wooden cabinets, to the left side of the kitchen from the camera's general perspective for most of the video.",
+        "key_frames": {
+            "0:08": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "2:58": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the double-basin rectangular sink and tap, when the speech topic: \"suggesting getting a plate for serving\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_244",
+    "video_id": "loc2_script3_seq34_rec2"
+}

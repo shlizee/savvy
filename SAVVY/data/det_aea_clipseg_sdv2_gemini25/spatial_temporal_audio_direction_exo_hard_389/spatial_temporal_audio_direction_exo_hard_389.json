@@ -1,0 +1,178 @@
+{
+    "event": "Identifying the speaker's location relative to a hypothetical robot when the topic 'inquiring about drink availability' comes up.",
+    "start_time": "02:08",
+    "end_time": "02:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a dark navy/black sweater over a light blue collared shirt, and blue jeans. This is the person who was initially cooking and later brings up the topic of drinks while standing near the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:05": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "00:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:51": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "01:05": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:23": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "01:33": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "02:08": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "02:16": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "02:25": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "02:40": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "02:55": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "03:30": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "03:45": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "04:12": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A long, light-gray upholstered couch, appearing to seat three people. It has a white throw blanket draped over its left side (from the initial camera perspective). Modern design. Approximately 2-2.5 meters wide.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "00:15": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "00:45": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "01:32": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "01:36": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "02:08": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "02:20": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "03:00": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "03:30": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "03:45": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "04:12": {
+                "distance": "3.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A shorter, light-gray upholstered couch, appearing to seat two people. Matches the style of the three-seater. Approximately 1.5-1.8 meters wide. Located further into the living room relative to the three-seater.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "6.0",
+                "direction": "-15"
+            },
+            "00:15": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "00:45": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "01:32": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "01:36": {
+                "distance": "4.5",
+                "direction": "-25"
+            },
+            "02:08": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "02:20": {
+                "distance": "4.5",
+                "direction": "-25"
+            },
+            "03:00": {
+                "distance": "4.5",
+                "direction": "-25"
+            },
+            "03:30": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "03:45": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "04:12": {
+                "distance": "4.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the light-gray two-seater couch, when the speech topic: \"inquiring about drink availability\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_389",
+    "video_id": "loc3_script3_seq4_rec2"
+}

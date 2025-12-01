@@ -1,0 +1,172 @@
+{
+    "event": "The speech topic 'comparing video length to university degree duration' comes up.",
+    "start_time": "0:34",
+    "end_time": "0:42",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with a blurred face, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair. He is initially sitting at a table, then moves to sit on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:01": {
+                "distance": "1.6",
+                "direction": "25"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:09": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera_wearer",
+        "description": "The person wearing the camera. Their arms and hands holding a phone are visible at the beginning, and later their legs are visible as they sit on the couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_gaze",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"comparing video length to university degree duration\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_296",
+    "video_id": "loc3_script2_seq7_rec2"
+}

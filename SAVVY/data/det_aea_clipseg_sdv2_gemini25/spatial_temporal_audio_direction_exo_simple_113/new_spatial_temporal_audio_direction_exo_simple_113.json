@@ -1,0 +1,120 @@
+{
+    "event": "The speech topic: \"complimenting the niceness of the place\" comes up.",
+    "start_time": "0:03",
+    "end_time": "0:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a white t-shirt and blue shorts. He has dark hair and is wearing glasses. He is initially sitting on a couch and later walks around the house.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "1:10": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:29": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:42": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door with multiple rectangular glass panels, located in the entryway of the house, down a short flight of steps from the main living area.",
+        "key_frames": {
+            "0:09": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large flat-screen TV mounted on the wall in the living room, above an entertainment console.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the wall-mounted tv, when the speech topic: \"complimenting the niceness of the place\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_113",
+    "video_id": "loc2_script2_seq2_rec2"
+}

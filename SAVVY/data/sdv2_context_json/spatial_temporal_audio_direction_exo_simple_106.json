@@ -1,0 +1,120 @@
+{
+    "event": "Speaker highlighting the pool as the centerpiece (pi\u00e8ce de r\u00e9sistance)",
+    "start_time": "0:34",
+    "end_time": "0:36",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal/blue short-sleeved polo shirt, khaki/beige cargo shorts, and glasses. He has short dark hair and a medium build. He is the person giving the tour and speaking during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "2.2",
+                "direction": "-25"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "-35"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:16": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:28": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A low, rectangular coffee table made of dark wood (appears dark brown or black). It is located in the main living room area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "5.0",
+                "direction": "160"
+            },
+            "1:16": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "1:40": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black-framed double front door, with multiple rectangular glass panels in each door. It is visible at the end of a hallway leading from the living room area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:11": {
+                "distance": "7.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "7.0",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "1:37": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "1:44": {
+                "distance": "7.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the black front door with glass panels, when the speech topic: \"highlighting the pool as the centerpiece (pi\u00e8ce de r\u00e9sistance)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_106",
+    "video_id": "loc2_script2_seq2_rec1"
+}

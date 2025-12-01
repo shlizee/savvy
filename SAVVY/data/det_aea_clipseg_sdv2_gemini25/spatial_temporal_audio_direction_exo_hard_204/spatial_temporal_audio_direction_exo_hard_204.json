@@ -1,0 +1,224 @@
+{
+    "event": "Speaker mentions completing a task with Maddie yesterday.",
+    "start_time": "0:59",
+    "end_time": "1:01",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person wearing a grey short-sleeved polo shirt, dark blue shorts, glasses, and a black earpiece/headset around their neck with one bud in their ear. They have curly dark brown hair. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:26": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:41": {
+                "distance": "1.2",
+                "direction": "-35"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:52": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:59": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "1:01": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "1:08": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "1:11": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "1:36": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "1:43": {
+                "distance": "0.6",
+                "direction": "-25"
+            },
+            "1:49": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:56": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:33": {
+                "distance": "2.0",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, rectangular electric induction cooktop integrated into the light-colored granite kitchen island countertop. It has visible white burner outlines and touch controls at the front.",
+        "key_frames": {
+            "0:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:47": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "1:01": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "1:18": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "1:50": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "2:09": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:17": {
+                "distance": "0.3",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, round wooden dining table with two matching wooden chairs. It is situated beyond the kitchen island, near large sliding glass doors that offer a view of an outdoor pool area.",
+        "key_frames": {
+            "0:29": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:42": {
+                "distance": "3.8",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:59": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:01": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:06": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "1:55": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "2:04": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "2:17": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the two-seater dining table, when the speech topic: \"mentioning completing current task with maddie yesterday\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_204",
+    "video_id": "loc2_script3_seq31_rec1"
+}

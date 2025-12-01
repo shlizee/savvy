@@ -1,0 +1,198 @@
+{
+    "event": "Speaker's location relative to a robot (standing by the light-gray three-seater couch and facing the fireplace) when the speech topic 'asking maddie about playing connect four' comes up.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a man with a blurred face, wearing a light green/teal short-sleeved polo shirt and a gold-colored watch on his left wrist. He has short, dark hair and is wearing an in-ear headphone in his left ear with a black wire. He is seated at a wooden dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:40": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:50": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A light-gray, fabric, three-seater couch with visible wooden legs. It has a dark patterned throw blanket (with white text 'NOBODY' visible) draped over its back on the right side (from the camera's perspective). It is located in the living room area, to the left and rear of the camera's view.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:40": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "2:08": {
+                "distance": "3.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace",
+        "description": "A fireplace with a dark, rectangular opening, set into a lighter-colored (possibly white or light gray) wall or chimney breast. It is located in the living room area, further to the left of the camera's view than the couch.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "0:10": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "0:40": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "0:50": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:10": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:20": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:30": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:40": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:50": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "2:00": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "2:08": {
+                "distance": "4.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the fireplace, when the speech topic: \"asking maddie about playing connect four\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_329",
+    "video_id": "loc3_script2_seq5_rec1"
+}

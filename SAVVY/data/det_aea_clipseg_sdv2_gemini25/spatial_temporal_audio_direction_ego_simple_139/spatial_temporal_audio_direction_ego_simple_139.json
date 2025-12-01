@@ -1,0 +1,176 @@
+{
+    "event": "Asking procedure for determining first player",
+    "start_time": "1:35",
+    "end_time": "1:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Male, wearing a light-colored (beige/light grey) t-shirt, light-colored (light blue/grey) shorts, dark hair, and glasses. He has a small microphone clipped to the collar of his t-shirt. He is seated on a bar stool to the left of the camera wearer at a wooden counter.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "2:10": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "3:10": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "3:50": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "4:10": {
+                "distance": "0.7",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Male, wearing a light-colored (beige/light grey) t-shirt, light-colored (light blue/grey) shorts, dark hair, and glasses. He has a small microphone clipped to the collar of his t-shirt. He is seated on a bar stool to the left of the camera wearer at a wooden counter.",
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "2:10": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "3:10": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "3:50": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "4:10": {
+                "distance": "0.7",
+                "direction": "-50"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking procedure for determining first player\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_139",
+    "video_id": "loc2_script2_seq5_rec2"
+}

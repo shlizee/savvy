@@ -1,0 +1,176 @@
+{
+    "event": "A creak and thud sound, likely a door closing.",
+    "start_time": "1:32",
+    "end_time": "1:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden interior door. Standard residential door size.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:32": {
+                "distance": "0.7",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General direction of gaze",
+        "description": "The area the camera is pointed towards.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_71",
+    "video_id": "loc1_script2_seq8_rec2"
+}

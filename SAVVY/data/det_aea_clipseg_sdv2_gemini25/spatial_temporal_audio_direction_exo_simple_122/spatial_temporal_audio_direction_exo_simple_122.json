@@ -1,0 +1,116 @@
+{
+    "event": "A person offers coffee to David.",
+    "start_time": "0:01",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise polo shirt and khaki shorts. He is the one who offers and prepares the coffee.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.8",
+                "direction": "-8"
+            },
+            "0:05": {
+                "distance": "3.2",
+                "direction": "-12"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:36": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "0:41": {
+                "distance": "2.6",
+                "direction": "-70"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A built-in stainless steel double wall oven, located in the kitchen cabinetry along the main counter wall.",
+        "key_frames": {
+            "0:14": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:31": {
+                "distance": "2.8",
+                "direction": "-85"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "A built-in stainless steel dishwasher, located under the kitchen counter to the right of the sink, along the main counter wall.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.8",
+                "direction": "8"
+            },
+            "0:13": {
+                "distance": "2.2",
+                "direction": "18"
+            },
+            "0:18": {
+                "distance": "2.7",
+                "direction": "35"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the built-in stainless steel dishwasher, when the speech topic: \"offering coffee to david\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_122",
+    "video_id": "loc2_script2_seq3_rec2"
+}

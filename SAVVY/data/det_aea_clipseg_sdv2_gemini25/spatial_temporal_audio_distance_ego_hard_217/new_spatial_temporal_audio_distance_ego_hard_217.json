@@ -1,0 +1,91 @@
+{
+    "event": "A ticking sound comes up, relative to where the camera wearer is standing, what is the distance between the camera wearer and the sound source in meters?",
+    "start_time": "0:50",
+    "end_time": "0:53",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A stainless steel gas stovetop with five black burners and black control knobs. The ticking sound originates from the igniter of one of the burners.",
+        "is_static": true,
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:33": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 0.3,
+    "question": "Imagine you are the camera wearer, when the ticking sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_217",
+    "video_id": "loc3_script2_seq3_rec1"
+}

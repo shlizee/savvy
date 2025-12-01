@@ -1,0 +1,148 @@
+{
+    "event": "The speech topic: \"identifying otto as cup's co-pilot figure\" is mentioned.",
+    "start_time": "0:48",
+    "end_time": "0:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person whose first-person perspective is captured by the camera. Their hands are visible holding a blue ceramic coffee mug with white text (partially visible as 'GOD IS MY CO-PILOT'). They are wearing a light-colored (possibly light blue or grey) short-sleeved shirt. This person is the source of the speech 'Otto was my co-pilot on the cup'.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "A large, multi-paneled sliding glass door or window assembly, likely made of glass with dark (possibly black or dark brown) metal or vinyl frames. It offers an expansive view of a sunlit outdoor patio area which includes a bright blue rectangular swimming pool, several white-cushioned lounge chairs, potted plants, and a partial view of a neighboring house or fence. The sky is clear and blue.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:27": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person at the table",
+        "description": "A man seated across a small wooden table from the camera holder. He is wearing a turquoise-colored short-sleeved polo shirt and light-colored (possibly khaki or beige) shorts. He has short, dark brown hair. His face is blurred in the video. He is actively engaged in conversation with the camera holder.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "When the speech topic: \"identifying otto as cup's co-pilot figure\" is mentioned, what is the distance between the window with a pool view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_114",
+    "video_id": "loc2_script2_seq3_rec2"
+}

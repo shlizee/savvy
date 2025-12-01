@@ -1,0 +1,124 @@
+{
+    "event": "The camera wearer asks the other person (the listener) about their day.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark brown/black hair, wearing clear-rimmed or thin-rimmed glasses. He is dressed in a grey, short-sleeved, collared polo shirt, black athletic-style shorts, and black sneakers with white soles and visible white ankle socks. He is also wearing a wired headset with a microphone, with the wire running down his shirt. He is holding a dark-colored smartphone in his hands, primarily his right hand, during the conversation.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "0:14": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, providing an egocentric view. Its line of sight defines the 'facing' direction (0 degrees).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's_Forward_Direction",
+        "description": "The direction the camera is currently pointing, defined as 0 degrees azimuth.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking about the listener's day\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_167",
+    "video_id": "loc2_script3_seq2_rec2"
+}

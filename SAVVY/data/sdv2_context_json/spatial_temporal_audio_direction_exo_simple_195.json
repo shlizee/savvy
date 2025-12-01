@@ -1,0 +1,160 @@
+{
+    "event": "A person suggests sitting down.",
+    "start_time": "0:04",
+    "end_time": "0:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a grey short-sleeved collared shirt, dark shorts (possibly black or navy), and black sneakers with white soles. They have dark, somewhat curly hair. They are wearing headphones with a wire around their neck and are initially holding a smartphone in their right hand and another small dark object (possibly a phone or power bank) in their left hand. This is the person who suggests sitting down.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "0:14": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A rectangular wooden coffee table, mostly obscured by a light blue tablecloth with a repeating white dot/star-like pattern. On the table, there are at least two bowls (one with red contents, likely watermelon, and another with yellow contents), a beverage can (yellow/orange), a small plate with a pattern, and some other indistinct items. Purple balloons are visible on the floor near it later in the video.",
+        "key_frames": {
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace built into a white wall, featuring a black metal screen covering the opening. It is flanked by two tall, arched windows covered with white plantation shutters. A painting is visible on the wall to the left of the left window, and another painting is above the fireplace mantel (though the mantel itself is not very distinct).",
+        "key_frames": {
+            "0:06": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:14": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "0:17": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "0:45": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "1:15": {
+                "distance": "3.8",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"suggesting sitting down\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_195",
+    "video_id": "loc2_script3_seq2_rec2"
+}

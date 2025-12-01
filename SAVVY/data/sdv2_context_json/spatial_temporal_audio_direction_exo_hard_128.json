@@ -1,0 +1,140 @@
+{
+    "event": "A person praises coffee as 'the best black coffee'.",
+    "start_time": "1:01",
+    "end_time": "1:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male wearing a white short-sleeved t-shirt and light blue shorts. He has dark, short hair. This is the person referred to as 'David' who receives the coffee.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:43": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:47": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:54": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:01": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:18": {
+                "distance": "2.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "Large, silver-colored, two-door stainless steel refrigerator, appearing to be a side-by-side or French door model. It is a standard kitchen appliance height, built into the cabinetry.",
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:21": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "-120"
+            },
+            "0:43": {
+                "distance": "4.5",
+                "direction": "-150"
+            },
+            "1:01": {
+                "distance": "4.5",
+                "direction": "-150"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "Built-in stainless steel double wall oven, silver-colored. It is positioned in the kitchen cabinetry to the physical left of the stainless steel refrigerator.",
+        "key_frames": {
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-95"
+            },
+            "0:05": {
+                "distance": "2.2",
+                "direction": "-90"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:37": {
+                "distance": "3.5",
+                "direction": "-130"
+            },
+            "0:43": {
+                "distance": "5.0",
+                "direction": "-160"
+            },
+            "1:01": {
+                "distance": "5.0",
+                "direction": "-160"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the stainless steel double wall oven, when the speech topic: \"praising it as the best black coffee\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_128",
+    "video_id": "loc2_script2_seq3_rec1"
+}

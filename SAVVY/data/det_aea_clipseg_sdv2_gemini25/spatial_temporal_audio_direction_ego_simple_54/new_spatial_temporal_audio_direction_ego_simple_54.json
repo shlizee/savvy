@@ -1,0 +1,168 @@
+{
+    "event": "The other person is reciting movie content advisory details.",
+    "start_time": "01:52",
+    "end_time": "01:56",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark brown wavy hair, wearing a black short-sleeved crop top, light blue jeans with a black belt, and dark-rimmed glasses. She is of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:02": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "00:04": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "00:08": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "00:11": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "00:19": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "00:25": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "01:12": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "01:40": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "01:52": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "01:56": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "02:20": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "02:26": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "02:31": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "02:47": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "03:00": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "03:10": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "03:13": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "03:30": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "04:00": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "04:24": {
+                "distance": "2.5",
+                "direction": "-85"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose perspective the video is from. Their hands holding a phone are visible at the beginning and end.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "04:28": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera forward view",
+        "description": "The general direction the camera is pointing.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "04:28": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"reciting movie content advisory details\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_54",
+    "video_id": "loc1_script2_seq7_rec2"
+}

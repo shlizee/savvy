@@ -1,0 +1,132 @@
+{
+    "event": "A person speaks about having placed items down.",
+    "start_time": "0:11",
+    "end_time": "0:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal t-shirt, khaki shorts, white socks, and sneakers. Average height and build. He is initially seen carrying items (bags/boxes) into the house.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "6.5",
+                "direction": "-25"
+            },
+            "0:02": {
+                "distance": "6.5",
+                "direction": "-25"
+            },
+            "0:12": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "0:14": {
+                "distance": "4.5",
+                "direction": "-55"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "-65"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "0:28": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:34": {
+                "distance": "4.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A low, rectangular table, presumably wooden, covered with a light blue tablecloth that has colorful confetti-like speckles. Various snacks (bowls of pretzels, cut watermelon) and drink cans are placed on it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A modern-style fireplace with a black metal screen or dark glass front, integrated into a wooden entertainment unit situated beneath a large flat-screen television.",
+        "key_frames": {
+            "0:04": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"stating intention and placing items down here\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_186",
+    "video_id": "loc2_script3_seq1_rec2"
+}

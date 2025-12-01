@@ -1,0 +1,132 @@
+{
+    "event": "A person announces their intention to gather their belongings before leaving.",
+    "start_time": "01:00",
+    "end_time": "01:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person wearing a white short-sleeved t-shirt, light blue shorts, and glasses. Appears to be male. This is the person who says 'let me get my stuff'.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "00:15": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "00:30": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "00:45": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "01:00": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "01:03": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "01:05": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "01:08": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "01:12": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "01:16": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "01:20": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "01:24": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Front Door",
+        "description": "A black front door with a large central glass panel featuring ornate black metal scrollwork, and a narrower sidelight panel to its right (from inside view) with similar glass and metalwork. The door has a silver handle.",
+        "key_frames": {
+            "01:09": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "01:13": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "01:17": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "01:21": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "0.3",
+                "direction": "-10"
+            },
+            "01:30": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Coffee Table",
+        "description": "A large, dark brown/black wooden rectangular coffee table with a matte finish. It is low and substantial, positioned in the center of the living room area.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:07": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:03": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:07": {
+                "distance": "1.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the rectangle wooden coffee table, when the speech topic: \"announcing intention to gather belongings\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_178",
+    "video_id": "loc2_script2_seq8_rec1"
+}

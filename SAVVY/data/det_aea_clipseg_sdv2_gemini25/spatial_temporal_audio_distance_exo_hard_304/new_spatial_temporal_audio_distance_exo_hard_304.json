@@ -1,0 +1,92 @@
+{
+    "event": "Speech topic: 'describing state of egg cartons' is mentioned.",
+    "start_time": "0:42",
+    "end_time": "0:44",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a light green short-sleeved polo shirt and blue jeans. Average height and build. He is the source of the speech about egg cartons.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:18": {
+                "distance": "4.5",
+                "direction": "60"
+            },
+            "0:39": {
+                "distance": "5.5",
+                "direction": "70"
+            },
+            "0:42": {
+                "distance": "5.5",
+                "direction": "70"
+            },
+            "0:44": {
+                "distance": "5.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A large, light brown, rectangular wooden coffee table. Approximately 1.5m long x 0.8m wide x 0.4m high. It has items like a colorful placemat, books, and a phone on its surface. The camera (person holding it) is positioned very close to this table, likely sitting on a couch in front of it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.75",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.75",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.75",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0.75",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.75",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Book 'Remodelista'",
+        "description": "A hardcover book titled 'Remodelista', being held and read by the person holding the camera. During the event, the camera is primarily focused on this book.",
+        "key_frames": {
+            "0:07": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 5.29,
+    "question": "When the speech topic: \"describing state of egg cartons\" is mentioned, what is the distance between the rectangular wooden coffee table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_304",
+    "video_id": "loc3_script3_seq1_rec2"
+}

@@ -1,0 +1,41 @@
+{
+    "00768": {
+        "The camera wearer, whose voice is heard. This entity is synonymous with the camera's perspective.": {
+            "direction": -49.15,
+            "distance": 1.0,
+            "det_conf": [
+                0.13682110607624054,
+                0.09301682561635971,
+                0.5891650319099426,
+                0.10365690290927887,
+                0.37545931339263916
+            ]
+        }
+    },
+    "00788": {
+        "The camera wearer, whose voice is heard. This entity is synonymous with the camera's perspective.": {
+            "direction": -57.85,
+            "distance": 1.03,
+            "det_conf": [
+                0.5276302099227905,
+                0.13917018473148346,
+                0.6828486919403076,
+                0.37651526927948,
+                0.4030761420726776
+            ]
+        }
+    },
+    "00906": {
+        "The camera wearer, whose voice is heard. This entity is synonymous with the camera's perspective.": {
+            "direction": -54.73,
+            "distance": 1.0,
+            "det_conf": [
+                0.43702515959739685,
+                0.1298060566186905,
+                0.1445658653974533,
+                0.09070944786071777,
+                0.57475346326828
+            ]
+        }
+    }
+}

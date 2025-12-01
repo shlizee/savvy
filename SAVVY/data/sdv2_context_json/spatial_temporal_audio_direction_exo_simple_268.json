@@ -1,0 +1,164 @@
+{
+    "event": "Determine the speaker's location (left, right, or back) relative to a robot standing by the double-basin sink and facing the pool view window, when the speech topic is 'instructing turning on dishwasher'.",
+    "start_time": "02:17",
+    "end_time": "02:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, black sneakers with white soles, and glasses. Has dark, curly hair. Wearing a headset/earbuds with a wire. This is the person who speaks about the dishwasher.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:16": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "00:31": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:50": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "01:17": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "02:13": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "02:17": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "02:25": {
+                "distance": "1.3",
+                "direction": "-55"
+            },
+            "02:38": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "02:47": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "03:08": {
+                "distance": "1.3",
+                "direction": "-60"
+            },
+            "03:17": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "03:27": {
+                "distance": "1.2",
+                "direction": "-55"
+            },
+            "03:38": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "03:44": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A double-basin rectangular sink, likely black or dark grey composite material, inset into a light-colored granite countertop. It has a modern, gooseneck-style stainless steel tap. This is where the robot is notionally standing.",
+        "key_frames": {
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:40": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "01:19": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "01:29": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "02:15": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "02:38": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:49": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "03:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:35": {
+                "distance": "0.8",
+                "direction": "25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with a pool view",
+        "description": "Large, multi-panel sliding glass doors/windows offering a clear view of an outdoor pool and patio area. This is the direction the robot is notionally facing.",
+        "key_frames": {
+            "00:08": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "00:16": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:30": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "00:49": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "02:32": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:32": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "03:42": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the window with a pool view, when the speech topic: \"instructing turning on dishwasher\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_268",
+    "video_id": "loc2_script3_seq5_rec2"
+}

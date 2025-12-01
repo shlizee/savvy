@@ -1,0 +1,124 @@
+{
+    "event": "A male speaker questions if the task involves mutual video sharing.",
+    "start_time": "0:53",
+    "end_time": "0:55",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. He is sitting on a couch in the living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:53": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Wooden Coffee Table",
+        "description": "A large, rectangular wooden coffee table in the living room with a light wood finish. Various items are on it, including a colorful cloth, a white llama figurine, books, and coasters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large flat-screen TV mounted above a stone fireplace. The fireplace is light-colored stone with a wooden mantel.",
+        "key_frames": {
+            "0:02": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:37": {
+                "distance": "3.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "A",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the tv by the fireplace, when the speech topic: \"questioning if task involves mutual video sharing\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_344",
+    "video_id": "loc3_script2_seq7_rec2"
+}

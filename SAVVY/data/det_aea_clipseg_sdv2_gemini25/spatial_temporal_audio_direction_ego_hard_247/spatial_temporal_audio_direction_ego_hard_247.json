@@ -1,0 +1,215 @@
+{
+    "event": "The camera wearer expresses a preference for rare beef. The question asks for the location of the other person (man in teal shirt) relative to where the camera wearer is facing at this time.",
+    "start_time": "1:54",
+    "end_time": "1:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The 'other person' whose location is queried during the speech event. This is a man wearing a teal polo shirt, khaki shorts, and glasses. He is primarily observed in the kitchen area and later seated at a dining table. The specific sound event (expressing preference for rare beef between 1:54-1:57) is uttered by the camera wearer, not this person. This object's tracking data is provided as it is the subject of the positional query.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:16": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:28": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:46": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:54": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:56": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:57": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:03": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:20": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:10": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:20": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:40": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:50": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "4:05": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "4:10": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the first-person viewpoint (camera wearer). All distances and directions are relative to this point.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "The direction the camera is pointing. In egocentric mode, this defines the 'forward' direction. As per instructions, this is empty when the reference object is the camera.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing preference for rare beef\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_247",
+    "video_id": "loc2_script3_seq4_rec2"
+}

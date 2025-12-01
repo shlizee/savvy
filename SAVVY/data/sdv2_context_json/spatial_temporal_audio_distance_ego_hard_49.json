@@ -1,0 +1,131 @@
+{
+    "event": "The camera wearer invites the other person to sit down.",
+    "start_time": "0:10",
+    "end_time": "0:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light-colored (white or very light beige) t-shirt and light blue shorts. He is barefoot. Appears to be of average height and build. His face is blurred in the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by an adult male (the host). His hands are sometimes visible, one wearing a gold-colored watch. He is initially holding a smartphone and a black power bank. Later, he is seen wearing grey pants and a light blue/teal t-shirt.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 2.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"inviting to sit down\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_49",
+    "video_id": "loc2_script2_seq1_rec2"
+}

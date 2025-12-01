@@ -1,0 +1,111 @@
+{
+    "event": "Accepting snack offer (popcorn)",
+    "start_time": "0:17",
+    "end_time": "0:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with dark hair and a dark beard, wearing glasses, a light teal/blue polo shirt, and khaki shorts. He is also wearing a wired earphone in his right ear. Approximate height 1.7-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:17": {
+                "distance": "2.8",
+                "direction": "33"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "0:21": {
+                "distance": "3.2",
+                "direction": "38"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:32": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:42": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:51": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "1:09": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:21": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, capturing a first-person perspective. The wearer is initially seated at a round wooden dining table.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "None",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 3.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"accepting snack offer (popcorn)\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_78",
+    "video_id": "loc2_script2_seq4_rec1"
+}

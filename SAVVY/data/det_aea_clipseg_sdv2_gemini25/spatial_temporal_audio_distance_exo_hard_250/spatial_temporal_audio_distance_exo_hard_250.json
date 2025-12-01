@@ -1,0 +1,88 @@
+{
+    "event": "Distance between the fireplace and the gas stove when the flame sound is happening.",
+    "start_time": "0:52",
+    "end_time": "1:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A stainless steel gas stovetop with multiple black burners and grates, integrated into a white countertop. It has control knobs on the front.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "2:37": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A stone-faced fireplace with a wooden mantelpiece. It has a black firebox and a television mounted above the mantel.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "5.5",
+                "direction": "-160"
+            },
+            "0:25": {
+                "distance": "5.5",
+                "direction": "-170"
+            },
+            "0:37": {
+                "distance": "5.5",
+                "direction": "-170"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 5.2,
+    "question": "When the flame sound is happening, what is the distance between the fireplace and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_250",
+    "video_id": "loc3_script2_seq3_rec1"
+}

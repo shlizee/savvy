@@ -1,0 +1,79 @@
+{
+    "event": "The other person suggests cooking together.",
+    "start_time": "0:18",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male wearing a light green/teal t-shirt and blue jeans, carrying paper grocery bags. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:18": {
+                "distance": "3.8",
+                "direction": "25"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:39": {
+                "distance": "3.2",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The perspective of the camera wearer, who is sitting on a couch in a living room.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "book and living room",
+        "description": "The camera wearer is initially looking at a phone, then picks up and looks at a book titled 'Remodelista' on a coffee table. The general facing direction is towards the coffee table and a fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting cooking together\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_290",
+    "video_id": "loc3_script3_seq1_rec2"
+}

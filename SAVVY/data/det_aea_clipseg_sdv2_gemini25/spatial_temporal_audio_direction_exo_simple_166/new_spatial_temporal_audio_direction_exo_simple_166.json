@@ -1,0 +1,180 @@
+{
+    "event": "Speech topic: asserting word validity without defining",
+    "start_time": "02:06",
+    "end_time": "02:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark, thinning hair, wearing glasses, a light blue short-sleeved polo shirt, khaki shorts, and white sneakers with grey accents. He is also wearing a gold-colored watch on his left wrist. He is of average to stocky build and is seated at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "2:06": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "2:12": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "4:13": {
+                "distance": "1.0",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A built-in under-counter dishwasher with a stainless steel front panel. It is situated within light brown wooden kitchen cabinetry, to the left of the kitchen sink (when viewed from the island).",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "4:00": {
+                "distance": "3.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A double-basin rectangular undermount kitchen sink, likely stainless steel, with a modern, tall, curved metallic tap. It is set into a speckled granite countertop, within light brown wooden kitchen cabinetry, to the right of the dishwasher (when viewed from the island).",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the double-basin rectangular sink and tap, when the speech topic: \"asserting word validity without defining\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_166",
+    "video_id": "loc2_script2_seq5_rec1"
+}

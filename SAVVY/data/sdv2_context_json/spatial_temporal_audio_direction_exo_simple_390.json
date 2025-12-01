@@ -1,0 +1,128 @@
+{
+    "event": "A scraping sound comes up, and the robot needs to determine the direction of the sounding object relative to its position (standing by the rectangular wooden coffee table) and orientation (facing the light-gray two-seater couch).",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A round, white ceramic plate, approximately 25-30 cm in diameter. It produces a scraping sound at 0:07 as it is picked up from the surface of the wooden dining table by a person.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, dark-colored wooden coffee table, likely rectangular, located directly in front of the light-gray two-seater couch in the main living area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-100"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-105"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "-110"
+            },
+            "0:20": {
+                "distance": "3.2",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "2:00": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "2:40": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch located in the living room area. It is distinguished by a white throw blanket draped over it, featuring the word 'NOBODY' in large, black capital letters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-135"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-140"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-145"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-100"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "5.0",
+                "direction": "-70"
+            },
+            "2:40": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "3:05": {
+                "distance": "3.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the light-gray two-seater couch, when the scraping sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_390",
+    "video_id": "loc3_script3_seq5_rec2"
+}

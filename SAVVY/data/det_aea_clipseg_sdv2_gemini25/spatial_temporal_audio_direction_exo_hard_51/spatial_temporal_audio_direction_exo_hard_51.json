@@ -1,0 +1,96 @@
+{
+    "event": "A person expresses the belief that cleaning is finished.",
+    "start_time": "01:55",
+    "end_time": "01:56",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "00:14": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:18": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "00:32": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "00:49": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "01:29": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "01:50": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "01:55": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "02:03": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop Drip Coffee Maker",
+        "description": "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.",
+        "key_frames": {
+            "00:03": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "00:59": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "01:02": {
+                "distance": "0.3",
+                "direction": "-70"
+            },
+            "01:57": {
+                "distance": "0.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop Oven",
+        "description": "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.",
+        "key_frames": {
+            "00:03": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "00:59": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:02": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "01:57": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the countertop drip coffee maker and facing the countertop oven, when the speech topic: \"expressing belief cleaning is finished\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_51",
+    "video_id": "loc1_script2_seq6_rec1"
+}

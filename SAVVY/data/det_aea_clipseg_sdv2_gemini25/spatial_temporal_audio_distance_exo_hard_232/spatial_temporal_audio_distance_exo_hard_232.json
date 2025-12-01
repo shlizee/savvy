@@ -1,0 +1,156 @@
+{
+    "event": "Distance between the black round ottoman and the speech sound source (man) when the speech topic is 'inquiring about playing instruments'.",
+    "start_time": "1:07",
+    "end_time": "1:49",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is an adult male whose face is intentionally blurred in the video. He is wearing a short-sleeved green polo shirt, blue denim jeans, and grey socks. He has dark, short hair and is wearing wired earphones with the wire visible on his left side, connected to a device in his pocket. He appears to be of average build. During the specified event, he is seated on a couch to the left of the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "0:29": {
+                "distance": "5.5",
+                "direction": "-50"
+            },
+            "0:35": {
+                "distance": "5.0",
+                "direction": "-55"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:07": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:25": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:45": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:52": {
+                "distance": "0.6",
+                "direction": "-75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black Round Ottoman",
+        "description": "A black, round ottoman, likely made of leather or faux leather. It has a smooth, slightly padded top surface. Its approximate diameter is 0.6-0.8 meters and height is 0.3-0.4 meters. It is placed in the living room, to the right of a wooden coffee table, in front of the couch area.",
+        "key_frames": {
+            "0:09": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "25"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:26": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:41": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:58": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "1:07": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "1:25": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Speech Sound Source (Man)",
+        "description": "The speech sound source is an adult male whose face is intentionally blurred in the video. He is wearing a short-sleeved green polo shirt, blue denim jeans, and grey socks. He has dark, short hair and is wearing wired earphones with the wire visible on his left side, connected to a device in his pocket. He appears to be of average build. During the specified event, he is seated on a couch to the left of the camera.",
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "0:29": {
+                "distance": "5.5",
+                "direction": "-50"
+            },
+            "0:35": {
+                "distance": "5.0",
+                "direction": "-55"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:07": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:25": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:45": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:52": {
+                "distance": "0.6",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": 2.04,
+    "question": "When the speech topic: \"inquiring about playing instruments\" is mentioned, what is the distance between the black round ottoman and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_232",
+    "video_id": "loc3_script2_seq1_rec1"
+}

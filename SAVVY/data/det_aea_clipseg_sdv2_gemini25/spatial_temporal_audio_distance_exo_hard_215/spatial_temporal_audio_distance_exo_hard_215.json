@@ -1,0 +1,174 @@
+{
+    "event": "Person instructing another to wipe down the stovetop.",
+    "start_time": "0:00:59",
+    "end_time": "0:01:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person whose perspective the video is from (camera person). Their hands are visible, wearing a watch on the left wrist. The camera is likely head-mounted or chest-mounted, and this person is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:59": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, rectangular electric cooktop, likely glass-ceramic, integrated into the light-colored speckled granite kitchen island countertop. It has four circular burner markings and touch controls visible. Approximate size: 0.75m wide x 0.5m deep.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:11": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:00:13": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:00:17": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:00:45": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "0:00:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:00:59": {
+                "distance": "0.4",
+                "direction": "10"
+            },
+            "0:01:08": {
+                "distance": "0.4",
+                "direction": "10"
+            },
+            "0:01:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01:28": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:01:46": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:03:42": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:03:46": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Michael",
+        "description": "Adult male, wearing a teal short-sleeved polo shirt, khaki shorts, glasses, and a watch on his left wrist. Brown hair. He is the person being instructed.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:00:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:00:12": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:00:17": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:00:51": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:00:59": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:01:08": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:01:17": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:01:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:31": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:02:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03:39": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "0.4",
+    "question": "When the speech topic: \"instructing item placement\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_215",
+    "video_id": "loc2_script3_seq5_rec1"
+}

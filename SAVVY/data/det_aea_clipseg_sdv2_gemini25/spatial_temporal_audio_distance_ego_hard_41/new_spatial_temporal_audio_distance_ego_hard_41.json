@@ -1,0 +1,87 @@
+{
+    "event": "The speech topic: \"saying farewell\" comes up, and the distance between the camera wearer and the other person is measured.",
+    "start_time": "0:47",
+    "end_time": "0:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly, short-to-medium length brown hair, wearing glasses with dark frames. He is dressed in a light teal/green short-sleeved polo shirt and dark navy or black shorts. He is of average build. Initially, he is seated on a couch, often looking at a smartphone he holds in his hands.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:47": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:10": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:25": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The camera is worn by a person. Parts of the wearer are visible, including hands (fair-skinned), arms, and legs (wearing light blue denim jeans). The wearer is also seen interacting with a smartphone (appears to be an iPhone X or similar model with a notch).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"saying farewell\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_41",
+    "video_id": "loc1_script2_seq8_rec2"
+}

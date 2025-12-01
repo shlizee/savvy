@@ -1,0 +1,84 @@
+{
+    "event": "Two people are agreeing on the house's size and niceness.",
+    "start_time": "0:41",
+    "end_time": "1:00",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a turquoise/light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short, dark hair and is wearing wired earbuds. He is primarily seated on a light-colored couch during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:41": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wall-mounted tv",
+        "description": "A large, black, flat-screen television mounted on a wall, above a dark wooden entertainment console with shelves. It is located on the wall opposite the main couch.",
+        "key_frames": {
+            "0:07": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:46": {
+                "distance": "3.8",
+                "direction": "60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "black front door with glass panels",
+        "description": "A dark-colored front door, likely black or very dark brown, featuring multiple rectangular glass panels. It is visible at the end of a hallway leading off the main living area.",
+        "key_frames": {
+            "0:12": {
+                "distance": "7.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "7.5",
+                "direction": "15"
+            },
+            "0:41": {
+                "distance": "7.5",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "7.5",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "7.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the black front door with glass panels, when the speech topic: \"agreeing on house size and niceness\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_193",
+    "video_id": "loc2_script3_seq2_rec1"
+}

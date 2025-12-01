@@ -1,0 +1,111 @@
+{
+    "event": "A creak and thud sound occurs.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A purple balloon. It is round and appears to be made of latex or a similar elastic material. Its approximate size is about 30-40 cm in diameter.",
+        "is_static": false,
+        "key_frames": {
+            "0:07": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "1:09": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:11": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:13": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:16": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:22": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:23": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable as the reference is the camera itself.",
+        "key_frames": {}
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_39",
+    "video_id": "loc1_script2_seq8_rec1"
+}

@@ -1,0 +1,168 @@
+{
+    "event": "A person announces that recording has started.",
+    "start_time": "0:01",
+    "end_time": "0:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal short-sleeved polo shirt with a small white logo on the left chest, khaki shorts, white sneakers with dark laces, and a watch on his left wrist. He has short brown hair and is wearing glasses. Approximate height when standing is 1.7-1.8 meters. He is initially seated at the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:46": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:17": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:28": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:46": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:31": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "2:51": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:14": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "3:39": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "3:50": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A small, wooden, two-seater dining table. It appears to be oval or a rounded rectangle, with a dark brown top. It has two wooden chairs with X-backs. Approximate dimensions: 1.2m long, 0.8m wide, 0.75m high.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "170"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "180"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "170"
+            },
+            "3:43": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "3:52": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "double-basin rectangular sink and tap",
+        "description": "A double-basin rectangular sink, likely stainless steel or a dark composite material, set into a light-colored granite countertop on a kitchen island. It has a tall, gooseneck-style tap. The visible part of the sink area is approximately 0.8m wide.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:21": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:50": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "2:33": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "3:17": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "3:43": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:50": {
+                "distance": "2.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the double-basin rectangular sink and tap, when the speech topic: \"announcing recording start\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_264",
+    "video_id": "loc2_script3_seq5_rec1"
+}

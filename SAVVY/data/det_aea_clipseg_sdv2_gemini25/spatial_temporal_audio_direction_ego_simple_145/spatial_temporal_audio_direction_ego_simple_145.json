@@ -1,0 +1,192 @@
+{
+    "event": "The relative direction of the other person from the camera wearer when the speech topic 'appreciating the surroundings and directing attention' is discussed.",
+    "start_time": "0:00",
+    "end_time": "0:39",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with short dark hair, wearing glasses, a white short-sleeved t-shirt, and light blue shorts. He is initially seated on a couch to the camera wearer's right.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:46": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:18": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "2.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The first-person perspective of the camera wearer. The camera wearer is initially seated, looking down at a phone, then looks up and around the room, and at the other person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The adult male with whom the camera wearer is conversing. Same as the sounding object. He is initially seated on a couch to the camera wearer's right.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:46": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:18": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "2.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"appreciating the surroundings and directing attention\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_145",
+    "video_id": "loc2_script2_seq8_rec1"
+}

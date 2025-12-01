@@ -1,0 +1,252 @@
+{
+    "event": "The other person expresses liking for the pepper.",
+    "start_time": "2:40",
+    "end_time": "2:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly, medium-length brown hair, wearing glasses. He is dressed in a grey short-sleeved polo shirt and dark blue or black shorts. He is also wearing a black neckband with earpieces, possibly headphones. He appears to be of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:22": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:31": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "3:22": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:48": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:01": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:04": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "4:08": {
+                "distance": "1.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The first-person point of view of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male with curly, medium-length brown hair, wearing glasses. He is dressed in a grey short-sleeved polo shirt and dark blue or black shorts. He is also wearing a black neckband with earpieces, possibly headphones. He appears to be of average build and height.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:22": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:31": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "3:22": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:48": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:01": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:04": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "4:08": {
+                "distance": "1.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing liking for the pepper\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_223",
+    "video_id": "loc2_script3_seq4_rec1"
+}

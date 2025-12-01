@@ -1,0 +1,112 @@
+{
+    "event": "The speaker (camera holder) asks 'Yeah, how about you?' in return after being asked about their day.",
+    "start_time": "0:32",
+    "end_time": "0:33",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person holding the camera, who speaks the line 'Yeah, how about you?'. This person is not visually depicted but their location is coincident with the camera's viewpoint.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A black flat-screen television, approximately 40-50 inches, situated on or as part of a dark brown/black shelving unit against a wall.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-100"
+            },
+            "0:32": {
+                "distance": "4.0",
+                "direction": "-110"
+            },
+            "0:42": {
+                "distance": "4.5",
+                "direction": "-120"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "-115"
+            },
+            "1:19": {
+                "distance": "4.5",
+                "direction": "-110"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A white-painted fireplace structure with a black metal screen covering the opening. A colorful painting is hung on the wall above it. It is flanked by two tall windows.",
+        "key_frames": {
+            "0:01": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"asking about the speaker's day in return\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_192",
+    "video_id": "loc2_script3_seq2_rec1"
+}

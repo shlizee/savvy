@@ -1,0 +1,136 @@
+{
+    "event": "The other person's location relative to the camera wearer when the speech topic '(tv) narrating the prince's bravery and appearance' comes up.",
+    "start_time": "3:53",
+    "end_time": "4:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing glasses, a light teal/green short-sleeved collared shirt, and dark shorts. He is also wearing in-ear headphones. He is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:14": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:16": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "0:45": {
+                "distance": "1.9",
+                "direction": "70"
+            },
+            "1:10": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "1:35": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "1:40": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "2:11": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "2:17": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "2:22": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "2:29": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "2:33": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "2:47": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "2:58": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "3:08": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "3:33": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "3:53": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "3:56": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "4:02": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "4:18": {
+                "distance": "1.9",
+                "direction": "80"
+            },
+            "4:22": {
+                "distance": "1.9",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV screen",
+        "description": "The television screen which is displaying the movie Shrek 2.",
+        "key_frames": {
+            "3:53": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "4:02": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the prince's bravery and appearance\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_56",
+    "video_id": "loc1_script2_seq7_rec1"
+}

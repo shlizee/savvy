@@ -1,0 +1,99 @@
+{
+    "event": "The other person volunteers to put away the food.",
+    "start_time": "0:23",
+    "end_time": "0:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly dark hair, wearing glasses, a light teal/blue short-sleeved collared shirt with a small dark logo or design on the left chest, and dark shorts. He is also wearing a wired earpiece connected to a device clipped to his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:19": {
+                "distance": "1.1",
+                "direction": "50"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:39": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "0:46": {
+                "distance": "0.9",
+                "direction": "20"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:57": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:26": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "1:43": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:57": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "2:08": {
+                "distance": "3.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from. Their hands and arms are visible at various points.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"volunteering to put away the food\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_35",
+    "video_id": "loc1_script2_seq6_rec2"
+}

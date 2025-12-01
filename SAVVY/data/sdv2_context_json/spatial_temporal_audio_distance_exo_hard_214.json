@@ -1,0 +1,78 @@
+{
+    "event": "A tab being pulled open sound.",
+    "start_time": "2:42",
+    "end_time": "2:43",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A standard 12 fl oz (355 mL) aluminum beverage can, specifically an Arizona Iced Tea can. The can is predominantly teal/light blue with cherry blossom graphics and text. It is cylindrical, with an approximate height of 12.2 cm and a diameter of 6.6 cm. At the time of the sound, it is on a small wooden table.",
+        "is_static": true,
+        "key_frames": {
+            "1:04": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "2:20": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "2:42": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "3:03": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "3:52": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors with dark frames, providing a view of an outdoor pool area. The doors make up a significant portion of the wall next to the dining table.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:55": {
+                "distance": "0.6",
+                "direction": "70"
+            },
+            "1:10": {
+                "distance": "0.6",
+                "direction": "70"
+            },
+            "2:42": {
+                "distance": "0.5",
+                "direction": "80"
+            },
+            "3:59": {
+                "distance": "0.6",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Arizona Iced Tea Can (Sounding Object)",
+        "description": "The same Arizona Iced Tea can described as the sounding object. This represents facing the can while standing by the window.",
+        "is_static": true,
+        "key_frames": {
+            "2:42": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.3,
+    "question": "When a tab being pulled open sound is happening, what is the distance between the window with a pool view and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_214",
+    "video_id": "loc2_script3_seq4_rec2"
+}

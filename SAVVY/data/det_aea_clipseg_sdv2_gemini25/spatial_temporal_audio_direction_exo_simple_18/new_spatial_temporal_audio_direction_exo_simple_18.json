@@ -1,0 +1,108 @@
+{
+    "event": "A person proposes stopping the recording at the two-minute mark.",
+    "start_time": "01:46",
+    "end_time": "01:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing glasses, a black short-sleeved top, and light blue jeans. She is sitting on a sofa.",
+        "is_static": false,
+        "key_frames": {
+            "00:08": {
+                "distance": 1.5,
+                "direction": 0
+            },
+            "00:10": {
+                "distance": 2.0,
+                "direction": 0
+            },
+            "00:19": {
+                "distance": 2.5,
+                "direction": -30
+            },
+            "00:34": {
+                "distance": 1.5,
+                "direction": -10
+            },
+            "00:45": {
+                "distance": 1.6,
+                "direction": -15
+            },
+            "01:00": {
+                "distance": 1.7,
+                "direction": -20
+            },
+            "01:15": {
+                "distance": 1.8,
+                "direction": -25
+            },
+            "01:34": {
+                "distance": 1.8,
+                "direction": -45
+            },
+            "01:46": {
+                "distance": 1.8,
+                "direction": -45
+            },
+            "01:57": {
+                "distance": 1.8,
+                "direction": -45
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A light-gray upholstered armchair. This specific armchair is located on the right side of the living room (from the initial camera entry perspective), near an arched window/doorway. It is further from the fireplace and the wall painting/decorations near the fireplace compared to the other light-gray armchair.",
+        "key_frames": {
+            "00:10": {
+                "distance": 2.5,
+                "direction": 45
+            },
+            "00:30": {
+                "distance": 2.5,
+                "direction": 45
+            },
+            "01:00": {
+                "distance": 2.5,
+                "direction": 45
+            },
+            "01:30": {
+                "distance": 2.5,
+                "direction": 45
+            },
+            "01:55": {
+                "distance": 2.5,
+                "direction": 45
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Nested coffee tables",
+        "description": "A set of two circular, nested coffee tables with light-colored tops and dark metal legs, located in the center of the living room.",
+        "key_frames": {
+            "00:10": {
+                "distance": 1.5,
+                "direction": 0
+            },
+            "00:30": {
+                "distance": 1.5,
+                "direction": 0
+            },
+            "01:00": {
+                "distance": 1.5,
+                "direction": 0
+            },
+            "01:30": {
+                "distance": 1.5,
+                "direction": 0
+            },
+            "01:55": {
+                "distance": 1.5,
+                "direction": 0
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing a set of nested coffee tables, when the speech topic: \"proposing stopping recording at two minutes\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_18",
+    "video_id": "loc1_script2_seq1_rec2"
+}

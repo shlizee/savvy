@@ -1,0 +1,168 @@
+{
+    "event": "A person volunteers to put away the food (fruit).",
+    "start_time": "0:50",
+    "end_time": "0:52",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark brown hair, wearing glasses with dark frames. He is wearing a light teal/blue short-sleeved polo shirt with a small cat-like logo on the left chest, and dark navy blue shorts. Appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:19": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:23": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:39": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:57": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "1:21": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:43": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:57": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "2:02": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:08": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "2:11": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "Built-in double wall oven. Stainless steel finish with black glass windows on the oven doors. Two horizontal handles, one for each oven. Control panel is located between the ovens. Standard kitchen appliance height (approx 1.5-1.8m tall), width approx 0.7-0.9m.",
+        "key_frames": {
+            "0:12": {
+                "distance": "4.5",
+                "direction": "-65"
+            },
+            "0:56": {
+                "distance": "4.2",
+                "direction": "-70"
+            },
+            "1:01": {
+                "distance": "3.8",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "4.3",
+                "direction": "-60"
+            },
+            "1:21": {
+                "distance": "4.0",
+                "direction": "-55"
+            },
+            "1:59": {
+                "distance": "4.3",
+                "direction": "-65"
+            },
+            "2:06": {
+                "distance": "4.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop oven",
+        "description": "Small countertop convection oven or toaster oven. Stainless steel/silver metallic finish on the exterior. Glass door with a black handle. Multiple silver knobs/dials on its right side for controls. Approximate size: 0.5m wide, 0.3m high, 0.4m deep. It is sitting on the white kitchen countertop.",
+        "key_frames": {
+            "0:12": {
+                "distance": "3.8",
+                "direction": "-50"
+            },
+            "0:56": {
+                "distance": "3.5",
+                "direction": "-55"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:03": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "1:22": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "1:59": {
+                "distance": "3.6",
+                "direction": "-50"
+            },
+            "2:06": {
+                "distance": "3.8",
+                "direction": "-55"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the countertop oven, when the speech topic: \"volunteering to put away the food\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_56",
+    "video_id": "loc1_script2_seq6_rec2"
+}

@@ -1,0 +1,120 @@
+{
+    "event": "The speech topic: \"mentioning script instruction about video choice\" comes up.",
+    "start_time": "0:56",
+    "end_time": "1:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair. She is wearing a yellow knitted short-sleeve vest over a white t-shirt, and light blue jeans. She is also wearing socks with a colorful pattern. She is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "35"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:56": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:01": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The perspective of the camera wearer. The wearer is a male, wearing a green t-shirt and blue jeans. He has a gold-colored watch on his left wrist.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The woman the camera wearer is interacting with. She has long, dark, curly hair, wearing a yellow knitted vest over a white t-shirt, and light blue jeans.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "35"
+            },
+            "0:56": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:01": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"mentioning script instruction about video choice\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_251",
+    "video_id": "loc3_script2_seq7_rec1"
+}

@@ -1,0 +1,116 @@
+{
+    "event": "The speech topic 'offering to take first turn' comes up, specifically when the other person (non-camera wearer) speaks about it.",
+    "start_time": "1:38",
+    "end_time": "1:39",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appearing middle-aged or older, with short, thinning brown hair, wearing glasses for most of the video. He is dressed in a light blue/turquoise short-sleeved polo shirt and khaki shorts. He wears a gold-colored watch on his left wrist. He is seated on a bar stool at a kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "1:46": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "1:55": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "2:10": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "2:55": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "3:20": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "3:40": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "3:50": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "4:05": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "4:13": {
+                "distance": "0.8",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering to take first turn\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_127",
+    "video_id": "loc2_script2_seq5_rec1"
+}

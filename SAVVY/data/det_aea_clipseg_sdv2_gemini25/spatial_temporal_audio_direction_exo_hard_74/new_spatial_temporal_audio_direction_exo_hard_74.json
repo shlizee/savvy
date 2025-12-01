@@ -1,0 +1,108 @@
+{
+    "event": "Identify the location of the speaker (TV) relative to a hypothetical robot standing by the TV and facing a specific armchair, when the TV is narrating the princess's enchantment.",
+    "start_time": "03:14",
+    "end_time": "03:16",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Large black flat-screen television, approximately 55-65 inches, mounted on a light brown wooden media console with cabinet doors. It is the source of the narration.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "7.5",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "3:14": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "3:16": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "4:20": {
+                "distance": "3.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Television",
+        "description": "Large black flat-screen television, approximately 55-65 inches, mounted on a light brown wooden media console with cabinet doors. The robot is described as 'standing by the tv'.",
+        "key_frames": {
+            "0:00": {
+                "distance": "7.5",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "3:14": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "3:16": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "4:20": {
+                "distance": "3.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair by window",
+        "description": "A light-gray upholstered armchair with wooden legs, positioned near a large arched window in the living room. It is the armchair further from the wall painting (which is located near the fireplace).",
+        "key_frames": {
+            "0:06": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the tv and facing the light-gray armchair further from the wall painting, when the speech topic: \"(tv) narrating the princess's enchantment\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_74",
+    "video_id": "loc1_script2_seq7_rec1"
+}

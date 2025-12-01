@@ -1,0 +1,144 @@
+{
+    "event": "The speech topic 'differentiating meat type from ground beef regarding doneness' comes up, and the location of the speaker relative to a robot (standing by the window with a pool view and facing the electric cooktop) is determined.",
+    "start_time": "01:51",
+    "end_time": "01:58",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is the person whose face is blurred. They have curly dark hair, wear glasses, a grey polo shirt, and dark shorts. This person is sitting at the small table by the window during the event.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:18": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "00:22": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "00:30": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "01:10": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "01:53": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "02:25": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "03:05": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "03:30": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "04:01": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "04:04": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors making up one wall of the kitchen/dining area, offering a view of an outdoor pool, patio, and greenery. The small table where the people are eating is located right next to these windows.",
+        "key_frames": {
+            "00:25": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "00:32": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "01:00": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "01:10": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "01:50": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "02:30": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "03:15": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "04:00": {
+                "distance": "0.8",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Electric cooktop",
+        "description": "A black, flat electric cooktop surface, likely ceramic glass, with multiple circular burner markings. It is integrated into the countertop of the kitchen island.",
+        "key_frames": {
+            "00:06": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:25": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "00:32": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "00:38": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "00:59": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "01:40": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "02:20": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "03:00": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "03:40": {
+                "distance": "2.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the electric cooktop, when the speech topic: \"differentiating meat type from ground beef regarding doneness\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_258",
+    "video_id": "loc2_script3_seq4_rec1"
+}

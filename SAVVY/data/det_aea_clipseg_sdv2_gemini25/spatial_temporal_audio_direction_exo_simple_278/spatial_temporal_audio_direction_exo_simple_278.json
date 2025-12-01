@@ -1,0 +1,116 @@
+{
+    "event": "A man approves of the camera person using a coaster.",
+    "start_time": "0:59",
+    "end_time": "1:01",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. He also has a wired earpiece in his left ear. He is the speaker.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "-50"
+            },
+            "0:29": {
+                "distance": "5.5",
+                "direction": "-65"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:51": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Piano",
+        "description": "A black upright piano, located against the left wall of the living room (relative to the entrance from the hallway). The robot is standing by this object.",
+        "key_frames": {
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-85"
+            },
+            "0:41": {
+                "distance": "3.2",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "1:09": {
+                "distance": "3.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch (Sofa A)",
+        "description": "A long, light-gray three-seater couch, part of an L-shaped seating arrangement with another couch (Sofa B). It has distinctive pillows including one with a red and white chevron pattern and another with a dog print. The camera person is seated on this couch. The robot is facing this object.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:49": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the piano and facing the light-gray three-seater couch, when the speech topic: \"approving coaster usage\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_278",
+    "video_id": "loc3_script2_seq1_rec1"
+}

@@ -1,0 +1,144 @@
+{
+    "event": "Inquiring about the availability of a water filter.",
+    "start_time": "0:56",
+    "end_time": "0:59",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing a light teal/green short-sleeve button-up shirt, dark shorts, and black socks/shoes. He has headphones around his neck and a small microphone clipped to his shirt. He is holding a small white object (likely a phone) in his right hand.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:39": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "1:19": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "2:27": {
+                "distance": "1.9",
+                "direction": "15"
+            },
+            "2:58": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with curly brown hair, wearing a light teal/green short-sleeve button-up shirt, dark shorts, and black socks/shoes. He has headphones around his neck and a small microphone clipped to his shirt. He is holding a small white object (likely a phone) in his right hand.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:39": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "1:19": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "2:27": {
+                "distance": "1.9",
+                "direction": "15"
+            },
+            "2:58": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "2.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"inquiring about availability of a water filter\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_17",
+    "video_id": "loc1_script2_seq3_rec2"
+}

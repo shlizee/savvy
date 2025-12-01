@@ -1,0 +1,104 @@
+{
+    "event": "A person is speaking about suggesting allowing more cooking time.",
+    "start_time": "01:01",
+    "end_time": "01:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/turquoise short-sleeved polo shirt, khaki shorts, and glasses. He is standing and cooking at an island stovetop.",
+        "is_static": false,
+        "key_frames": {
+            "00:03": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:07": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:11": {
+                "distance": "2.0",
+                "direction": "-150"
+            },
+            "00:50": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "01:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "01:02": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "01:06": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:34": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "01:47": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "02:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:29": {
+                "distance": "1.2",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dishwasher",
+        "description": "Built-in stainless steel dishwasher, located on the main kitchen counter, to the immediate left of the sink (when facing the counter). Standard under-counter size.",
+        "key_frames": {
+            "00:06": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "00:08": {
+                "distance": "2.2",
+                "direction": "-60"
+            },
+            "01:37": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "01:42": {
+                "distance": "1.8",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sink and Tap",
+        "description": "Double-basin rectangular sink, dark (black or dark grey) material, with a tall, curved stainless steel tap. Located on the main kitchen counter, to the immediate right of the dishwasher (when facing the counter).",
+        "key_frames": {
+            "00:08": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "01:38": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:42": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the double-basin rectangular sink and tap, when the speech topic: \"suggesting allowing more cooking time\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_237",
+    "video_id": "loc2_script3_seq33_rec2"
+}

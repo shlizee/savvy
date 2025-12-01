@@ -1,0 +1,116 @@
+{
+    "event": "A creak and thud sound occurs as a person stands up from a couch.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The adult human female who stands up from the couch. She is wearing a black short-sleeved top, light blue jeans, has long dark hair, and wears glasses. The creak likely comes from her movement or the couch, and the thud from her feet as she stands or the couch settling.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:08": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "1:28": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A large, light-gray fabric three-seater couch with pillows. It is the main couch in the living room where the woman is initially sitting.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:01": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "1:10": {
+                "distance": "4.0",
+                "direction": "-135"
+            },
+            "1:27": {
+                "distance": "4.5",
+                "direction": "160"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A light-gray fabric armchair. It is one of two identical armchairs located in a window nook. This specific armchair is the one positioned further away from the wall painting (which is near the front door), meaning it is deeper into the window nook or on the side of the nook away from the main entryway door.",
+        "key_frames": {
+            "0:07": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "1:01": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "1:27": {
+                "distance": "2.5",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the light-gray armchair further from the wall painting, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_75",
+    "video_id": "loc1_script2_seq8_rec1"
+}

@@ -1,0 +1,92 @@
+{
+    "event": "Distance between the black front door and the speech sound source when the topic 'deciding to skip cooking brussels sprouts' is mentioned.",
+    "start_time": "2:31",
+    "end_time": "2:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing a grey short-sleeved polo shirt and dark shorts. This is the person who speaks the line about skipping Brussels sprouts.",
+        "is_static": false,
+        "key_frames": {
+            "0:27": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:31": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door with multiple rectangular glass panels, and a decorative wrought iron design over some panels. It has a silver handle.",
+        "key_frames": {
+            "0:04": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-120"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "End of Entrance Hallway",
+        "description": "The end of the entrance hallway, viewed from the front door, looking into the house.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 9.16,
+    "question": "When the speech topic: \"deciding to skip cooking brussels sprouts\" is mentioned, what is the distance between the black front door with glass panels and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_164",
+    "video_id": "loc2_script3_seq31_rec1"
+}

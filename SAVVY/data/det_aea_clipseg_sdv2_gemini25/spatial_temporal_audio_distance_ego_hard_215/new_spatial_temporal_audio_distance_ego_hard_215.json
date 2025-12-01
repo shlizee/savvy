@@ -1,0 +1,176 @@
+{
+    "event": "The speech topic is 'describing vocal/playing ability as a muscle'. The question asks for the distance between the camera wearer and the other person (the sounding object) when this topic comes up.",
+    "start_time": "1:47",
+    "end_time": "1:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, light brown/blonde hair, wearing a yellow knitted sleeveless top over a white t-shirt, and light blue jeans. Her face is blurred. She is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:11": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:48": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "1:04": {
+                "distance": "2.1",
+                "direction": "25"
+            },
+            "1:10": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "1:20": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "1:30": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:40": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:47": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:48": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:49": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:51": {
+                "distance": "2.3",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman",
+        "description": "The woman with long, light brown/blonde hair, wearing a yellow knitted sleeveless top over a white t-shirt, and light blue jeans.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:11": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:48": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "1:04": {
+                "distance": "2.1",
+                "direction": "25"
+            },
+            "1:10": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "1:20": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "1:30": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:40": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:47": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:48": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:49": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "1:51": {
+                "distance": "2.3",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "2.3",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"describing vocal/playing ability as a muscle\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_215",
+    "video_id": "loc3_script2_seq1_rec2"
+}

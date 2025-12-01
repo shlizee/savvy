@@ -1,0 +1,104 @@
+{
+    "event": "Distance between the kitchen hob and the speech sound source when the speech topic 'offering a toast' is mentioned.",
+    "start_time": "02:50",
+    "end_time": "02:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appearing middle-aged, with short dark hair, wearing glasses, a green short-sleeved polo shirt, and blue jeans. He is the one speaking the toast.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:06": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:20": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "00:34": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "00:47": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "01:22": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "01:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:07": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "02:35": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "02:50": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "03:01": {
+                "distance": "0.7",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Hob",
+        "description": "A built-in 4-burner gas kitchen hob. It has a stainless steel surface with black iron grates and black burner caps. It is set into a white countertop. Approximate dimensions are 60cm wide by 50cm deep.",
+        "is_static": true,
+        "key_frames": {
+            "00:11": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "00:33": {
+                "distance": "0.3",
+                "direction": "-80"
+            },
+            "00:46": {
+                "distance": "0.2",
+                "direction": "-30"
+            },
+            "01:22": {
+                "distance": "0.4",
+                "direction": "-80"
+            },
+            "01:45": {
+                "distance": "0.3",
+                "direction": "-70"
+            },
+            "02:07": {
+                "distance": "0.4",
+                "direction": "-70"
+            },
+            "02:35": {
+                "distance": "0.4",
+                "direction": "-70"
+            },
+            "02:50": {
+                "distance": "0.4",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General scene",
+        "description": "The general direction faced from the reference object towards the sounding object or general activity area. In egocentric mode, all keyframes are relative to the camera.",
+        "key_frames": {}
+    },
+    "prediction": "0.5",
+    "question": "When the speech topic: \"offering a toast\" is mentioned, what is the distance between the kitchen hob and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_265",
+    "video_id": "loc3_script2_seq3_rec2"
+}

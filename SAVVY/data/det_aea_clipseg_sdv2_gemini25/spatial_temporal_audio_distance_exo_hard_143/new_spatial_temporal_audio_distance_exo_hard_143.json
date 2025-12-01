@@ -1,0 +1,206 @@
+{
+    "event": "A person inquires about the necessity of placing an item, specifically asking \"Do you need me to put that...\"",
+    "start_time": "0:32",
+    "end_time": "0:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with a deliberately blurred face, indicating they are the primary subject of focus for privacy. They are wearing a light-colored (possibly white or beige) short-sleeved t-shirt and light blue or grey shorts. The person is seated on a dark-colored stool with a visible backrest, positioned at a long, dark wooden table that has a distinctive live edge. The person appears to have dark hair. This is the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:01": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "-75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A built-in stainless steel double wall oven, located within light brown wooden kitchen cabinetry. It features two oven compartments stacked vertically, each with a black glass door panel and a prominent horizontal stainless steel handle. The overall unit has a stainless steel trim. Approximate height is 1.2-1.5 meters, and width is approximately 0.75 meters.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "3.8",
+                "direction": "-35"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:13": {
+                "distance": "4.2",
+                "direction": "-45"
+            },
+            "0:18": {
+                "distance": "4.3",
+                "direction": "-48"
+            },
+            "0:23": {
+                "distance": "4.4",
+                "direction": "-48"
+            },
+            "0:28": {
+                "distance": "4.5",
+                "direction": "-50"
+            },
+            "0:32": {
+                "distance": "4.5",
+                "direction": "-50"
+            },
+            "0:37": {
+                "distance": "4.5",
+                "direction": "-50"
+            },
+            "0:42": {
+                "distance": "4.5",
+                "direction": "-50"
+            },
+            "0:47": {
+                "distance": "4.5",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "4.6",
+                "direction": "-55"
+            },
+            "0:55": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person speaking (Sounding Object)",
+        "description": "A person with a deliberately blurred face, indicating they are the primary subject of focus for privacy. They are wearing a light-colored (possibly white or beige) short-sleeved t-shirt and light blue or grey shorts. The person is seated on a dark-colored stool with a visible backrest, positioned at a long, dark wooden table that has a distinctive live edge. The person appears to have dark hair. This is the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:01": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": 3.58,
+    "question": "When the speech topic: \"inquiring about necessity of placing item\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_143",
+    "video_id": "loc2_script2_seq6_rec2"
+}

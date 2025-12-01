@@ -1,0 +1,184 @@
+{
+    "event": "The other person agrees to give a tour of the house.",
+    "start_time": "0:05",
+    "end_time": "0:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved polo shirt, khaki/beige cargo shorts, white sneakers, and dark-framed glasses. He has short dark hair and is of average to slightly heavy build. He is also wearing wired earphones connected to a phone he is initially holding.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:19": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:49": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:12": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:17": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:21": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:44": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera wearer",
+        "description": "The person whose first-person perspective is being recorded. Parts of their body (hands, legs) are sometimes visible. Initially seated, wearing light blue shorts and a light-colored t-shirt, holding a yellow beverage can.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person",
+        "description": "Adult male, wearing a light blue/teal short-sleeved polo shirt, khaki/beige cargo shorts, white sneakers, and dark-framed glasses. He has short dark hair and is of average to slightly heavy build. He is also wearing wired earphones connected to a phone he is initially holding.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:19": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:49": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:12": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:17": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:21": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:44": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"agreeing to conduct the requested tour\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_87",
+    "video_id": "loc2_script2_seq2_rec1"
+}

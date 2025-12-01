@@ -1,0 +1,141 @@
+{
+    "event": "Speech topic: \"praising food taste and seasoning\"",
+    "start_time": "3:38",
+    "end_time": "4:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (P2), medium build, wearing a turquoise/green short-sleeved polo shirt, blue jeans, and glasses. He has short dark hair and is wearing white wired in-ear headphones. Approx 1.7-1.8m tall if standing. This is the person speaking about the food at the specific time used for distance calculation (3:38).",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:23": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "2:07": {
+                "distance": "0.7",
+                "direction": "-130"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "-130"
+            },
+            "2:20": {
+                "distance": "0.7",
+                "direction": "-130"
+            },
+            "2:55": {
+                "distance": "0.7",
+                "direction": "-130"
+            },
+            "3:31": {
+                "distance": "0.7",
+                "direction": "-130"
+            },
+            "3:38": {
+                "distance": "0.7",
+                "direction": "-130"
+            },
+            "4:03": {
+                "distance": "0.7",
+                "direction": "-130"
+            },
+            "4:11": {
+                "distance": "0.7",
+                "direction": "-130"
+            },
+            "4:36": {
+                "distance": "0.7",
+                "direction": "-130"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with balcony view",
+        "description": "A large expanse of floor-to-ceiling glass, including sliding doors and fixed panels, providing a view onto a wooden balcony with a metal railing, and beyond that, trees and a hillside. The frames are light-colored. The overall width of this glass wall in the dining/living area is estimated at 5-7 meters, height around 2.5-3 meters. The distance and direction are to its geometric center.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "6.0",
+                "direction": "-75"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:28": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:07": {
+                "distance": "2.75",
+                "direction": "-45"
+            },
+            "2:15": {
+                "distance": "2.75",
+                "direction": "-45"
+            },
+            "2:55": {
+                "distance": "2.75",
+                "direction": "-45"
+            },
+            "3:31": {
+                "distance": "2.75",
+                "direction": "-45"
+            },
+            "3:38": {
+                "distance": "2.75",
+                "direction": "-45"
+            },
+            "4:03": {
+                "distance": "2.75",
+                "direction": "-45"
+            },
+            "4:11": {
+                "distance": "2.75",
+                "direction": "-45"
+            },
+            "4:36": {
+                "distance": "2.75",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Dining Table / P2",
+        "description": "During the event, the camera (P1) is seated at the dining table, generally facing the table and P2, who is seated to P1's left.",
+        "key_frames": {
+            "3:38": {
+                "distance": "0.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "2.77",
+    "question": "When the speech topic: \"praising food taste and seasoning\" is mentioned, what is the distance between the window with a balcony view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_326",
+    "video_id": "loc3_script3_seq4_rec1"
+}

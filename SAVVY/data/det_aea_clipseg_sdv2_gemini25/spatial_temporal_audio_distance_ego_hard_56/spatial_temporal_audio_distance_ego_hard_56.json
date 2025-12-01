@@ -1,0 +1,132 @@
+{
+    "event": "Agreeing to conduct the requested tour",
+    "start_time": "0:05",
+    "end_time": "0:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person: A male, wearing a turquoise/light blue polo shirt, khaki shorts, and glasses. He has short dark hair and is holding a phone with wired earphones.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:14": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:49": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:56": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:11": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, providing an egocentric view. Its position is the origin (0,0).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The person who agrees to give the tour. At the moment of agreement, the camera is generally facing this person.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"agreeing to conduct the requested tour\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_56",
+    "video_id": "loc2_script2_seq2_rec1"
+}

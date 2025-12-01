@@ -1,0 +1,131 @@
+{
+    "event": "When the speech topic: \"offering to get napkins\" comes up.",
+    "start_time": "1:05",
+    "end_time": "1:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person. A male with curly dark brown/black hair, wearing glasses, a grey short-sleeved polo shirt, and dark blue or black shorts. Appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:21": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:24": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:39": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:02": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "1:05": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "1:07": {
+                "distance": "0.7",
+                "direction": "-35"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "1:39": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:06": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:22": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:48": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:02": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "4:06": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewpoint of the wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"offering to get napkins\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_177",
+    "video_id": "loc2_script3_seq4_rec1"
+}

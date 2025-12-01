@@ -1,0 +1,124 @@
+{
+    "event": "Speaker states belief that water needs to be added to the coffee machine.",
+    "start_time": "0:44",
+    "end_time": "0:45",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a black crop-top t-shirt, light blue high-waisted jeans, and glasses. She is also wearing a lavalier microphone clipped to her jeans and an audio recorder on her belt. She is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:59": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:06": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:18": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:37": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:59": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:06": {
+                "distance": "0.6",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dark Wooden Front Door",
+        "description": "A dark brown wooden front door with a curved top, located in the living room. It has a metallic handle.",
+        "key_frames": {
+            "0:12": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "85"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White Recessed Fireplace",
+        "description": "A white fireplace, recessed into the wall, with a mantelpiece. It is located in the living room.",
+        "key_frames": {
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the dark wooden front door and facing the white recessed fireplace, when the speech topic: \"stating belief water needs adding\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_20",
+    "video_id": "loc1_script2_seq3_rec1"
+}

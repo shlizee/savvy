@@ -1,0 +1,202 @@
+{
+    "event": "The person in the blue shirt comments positively ('Yeah, it's pretty tight.') about a rock formation after describing it.",
+    "start_time": "0:33",
+    "end_time": "0:39",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/turquoise polo shirt, khaki shorts, and glasses (face blurred). He is the source of the speech about the rock formation. He is initially seated on a couch to the camera's left, then stands and walks towards the end of the video. He has a wired earpiece.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:26": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:39": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:14": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:16": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:24": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "2.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, black, flat-screen television, approximately 50-60 inches diagonally. It is wall-mounted above a low, dark wooden media console. It is located on the wall opposite the couch where the individuals are seated.",
+        "is_static": true,
+        "key_frames": {
+            "0:02": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:38": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:47": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Speech sound source (Person in blue shirt)",
+        "description": "The person in the blue shirt, who is the source of the speech. This is the object faced when standing by the TV to determine the distance to the speaker.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:26": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:39": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:14": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:16": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:24": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "2.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": 3.11,
+    "question": "When the speech topic: \"commenting positively on the rock formation\" is mentioned, what is the distance between the wall-mounted tv and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_150",
+    "video_id": "loc2_script2_seq8_rec2"
+}

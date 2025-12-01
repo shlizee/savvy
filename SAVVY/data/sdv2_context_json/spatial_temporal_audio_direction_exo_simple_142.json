@@ -1,0 +1,100 @@
+{
+    "event": "Speaker offering a spoon, relative to a robot standing by the dishwasher and facing the double wall oven.",
+    "start_time": "0:49",
+    "end_time": "0:51",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal polo shirt, khaki shorts, glasses, and has a dark cord (possibly for headphones or a mic) around his neck. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:26": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "0:35": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:04": {
+                "distance": "3.2",
+                "direction": "30"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard under-counter dishwasher, located to the right of the kitchen sink (from the camera's perspective). Its front panel appears to match the kitchen cabinetry, but its position is typical for a dishwasher.",
+        "key_frames": {
+            "0:18": {
+                "distance": "3.8",
+                "direction": "10"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "1:04": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A set of two ovens built into the kitchen cabinetry, one above the other. They have stainless steel fronts with glass windows. Located on the far left of the main kitchen counter run (from the camera's perspective).",
+        "key_frames": {
+            "0:18": {
+                "distance": "4.8",
+                "direction": "35"
+            },
+            "0:35": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "1:04": {
+                "distance": "4.5",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"offering a spoon\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_142",
+    "video_id": "loc2_script2_seq4_rec1"
+}

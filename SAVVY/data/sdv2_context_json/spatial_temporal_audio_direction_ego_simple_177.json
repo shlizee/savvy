@@ -1,0 +1,131 @@
+{
+    "event": "The other person suggests keeping the stove off temporarily.",
+    "start_time": "1:57",
+    "end_time": "2:00",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a grey short-sleeved shirt, dark shorts, and glasses. They also have an earpiece in their right ear.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:08": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:11": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:29": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:36": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:39": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:43": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:47": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:53": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:59": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:33": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting keeping the stove off temporarily\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_177",
+    "video_id": "loc2_script3_seq31_rec1"
+}

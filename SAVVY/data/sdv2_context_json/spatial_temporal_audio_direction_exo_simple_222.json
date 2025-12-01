@@ -1,0 +1,97 @@
+{
+    "event": "A person introduces a point of consideration while in the kitchen.",
+    "start_time": "0:00",
+    "end_time": "0:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with dark hair, wearing glasses, a grey polo shirt, and dark shorts. This is Person 2 (P2), not the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-43"
+            },
+            "0:02": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:11": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "2:02": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:20": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "2:41": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "Large, metallic silver, double-door stainless steel refrigerator, located on the right-hand counter run when viewing the kitchen from the pool/sliding doors.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:28": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-85"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "75"
+            },
+            "2:02": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:40": {
+                "distance": "0.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the double-basin rectangular sink and tap, when the speech topic: \"introducing a point of consideration\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_222",
+    "video_id": "loc2_script3_seq32_rec1"
+}

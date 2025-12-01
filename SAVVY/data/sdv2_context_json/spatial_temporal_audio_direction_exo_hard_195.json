@@ -1,0 +1,150 @@
+{
+    "event": "The moment the speaker (man in blue shirt) expresses willingness to cook kebabs.",
+    "start_time": "01:11",
+    "end_time": "01:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a turquoise/light blue polo shirt, khaki shorts, and white sneakers. He has short brown hair and is wearing glasses (though his face is blurred in the video). He is also wearing wired earphones. He appears to be of average build and height (approx. 1.7-1.8m).",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:03": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:15": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "00:30": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "00:45": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "01:00": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "01:11": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "01:20": {
+                "distance": "1.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black-painted wooden front door, approximately 0.9m wide and 2m tall. It features multiple rectangular clear glass panels arranged vertically. It has a silver-colored door handle. The door is located at the end of a hallway which has light-colored tiled flooring and white walls.",
+        "is_static": true,
+        "key_frames": {
+            "00:03": {
+                "distance": "7.0",
+                "direction": "60"
+            },
+            "00:07": {
+                "distance": "6.0",
+                "direction": "-30"
+            },
+            "00:13": {
+                "distance": "5.5",
+                "direction": "-70"
+            },
+            "00:28": {
+                "distance": "5.5",
+                "direction": "-75"
+            },
+            "00:43": {
+                "distance": "5.5",
+                "direction": "-75"
+            },
+            "00:58": {
+                "distance": "5.5",
+                "direction": "-75"
+            },
+            "01:12": {
+                "distance": "5.5",
+                "direction": "-75"
+            },
+            "01:20": {
+                "distance": "5.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A low, rectangular wooden coffee table, approximately 1.2m long, 0.6m wide, and 0.4m high. Throughout the video, it is covered with a light blue tablecloth that has a white polka dot pattern and a colorful border print. Various items are on the table, including bowls of snacks (watermelon, chips), cans of drinks, and a small decorative item.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "00:03": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "00:06": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:12": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:11": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the rectangle wooden coffee table, when the speech topic: \"expressing willingness to cook the mentioned items\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_195",
+    "video_id": "loc2_script3_seq2_rec1"
+}

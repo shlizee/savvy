@@ -1,0 +1,116 @@
+{
+    "event": "Speaker's location when the speech topic 'clarifying previous statement about not using time codes with david' comes up, relative to a robot by the coffee table facing the front door.",
+    "start_time": "0:37",
+    "end_time": "0:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/light blue short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair and an average build. He is mobile.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:07": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "2:01": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "2:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "2:35": {
+                "distance": "1.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A low, rectangular wooden coffee table located in the living room. In the initial scenes, it is covered with a light-colored (possibly light blue or grey) patterned tablecloth and has various items on it, including bowls of snacks, drink cans, and remote controls.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A dark-colored (appearing black or very dark brown) front entrance door with multiple rectangular glass panels inset into it. It is visible in the background from the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "7.0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "7.0",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "7.0",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "6.0",
+                "direction": "-70"
+            },
+            "0:09": {
+                "distance": "5.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the black front door with glass panels, when the speech topic: \"clarifying previous statement about not using time codes with david\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_213",
+    "video_id": "loc2_script3_seq31_rec2"
+}

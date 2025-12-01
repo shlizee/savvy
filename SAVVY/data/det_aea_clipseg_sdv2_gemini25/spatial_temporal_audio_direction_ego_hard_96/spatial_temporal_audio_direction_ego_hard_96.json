@@ -1,0 +1,112 @@
+{
+    "event": "The speech topic 'inquiring about the specific arizona flavor' comes up.",
+    "start_time": "0:27",
+    "end_time": "0:29",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person wearing a light-colored t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He is barefoot.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:18": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:29": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "25"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:13": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:18": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "1:25": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "1:56": {
+                "distance": "1.7",
+                "direction": "15"
+            },
+            "2:05": {
+                "distance": "1.7",
+                "direction": "15"
+            },
+            "2:11": {
+                "distance": "1.7",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "direction_camera_is_pointing",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inquiring about the specific arizona flavor\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_96",
+    "video_id": "loc2_script2_seq1_rec2"
+}

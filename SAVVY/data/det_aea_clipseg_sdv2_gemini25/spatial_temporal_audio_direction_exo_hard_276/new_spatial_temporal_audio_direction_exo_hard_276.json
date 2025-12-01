@@ -1,0 +1,148 @@
+{
+    "event": "A person welcomes a guest inside their home.",
+    "start_time": "0:04",
+    "end_time": "0:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. He also has a wired earpiece in his left ear. This is the person who opens the door and speaks the welcoming words.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:29": {
+                "distance": "5.5",
+                "direction": "-75"
+            },
+            "0:35": {
+                "distance": "6.0",
+                "direction": "-80"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:52": {
+                "distance": "1.2",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A wooden rectangular dining table, likely with a light-colored wood top and darker legs/frame. It has chairs around it. It's located between the kitchen island and the large windows, in the open-plan living/dining area.",
+        "key_frames": {
+            "0:08": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:11": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "4.2",
+                "direction": "-75"
+            },
+            "0:45": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:58": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "1:10": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "1:40": {
+                "distance": "4.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A stone fireplace with a wooden mantel. A large landscape painting is hung above the mantel. It's located on the right-side wall of the main living area.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "2.8",
+                "direction": "30"
+            },
+            "0:26": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:41": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:57": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:09": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the fireplace, when the speech topic: \"welcoming guest inside\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_276",
+    "video_id": "loc3_script2_seq1_rec1"
+}

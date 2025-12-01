@@ -1,0 +1,128 @@
+{
+    "event": "The speech topic: \"expressing pleasure at seeing the listener\" comes up.",
+    "start_time": "1:12",
+    "end_time": "1:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue polo shirt, khaki shorts, white sneakers, and glasses. He has a visible watch on his left wrist and an earbud in his left ear with a wire running down his shirt. His face is blurred. At the time the speech topic comes up, he is seated on a couch or just beginning to stand up from it.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:57": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "1.6",
+                "direction": "-50"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:14": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "1:16": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "1:23": {
+                "distance": "4.0",
+                "direction": "-90"
+            },
+            "1:26": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:29": {
+                "distance": "3.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wall-mounted tv",
+        "description": "A large, black, flat-screen television mounted on the wall above a wooden entertainment console. It is located on the wall opposite the main seating area.",
+        "key_frames": {
+            "0:02": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace with a black metal screen",
+        "description": "The wall to the right of the main TV wall (from the initial camera perspective), featuring a large window with white plantation shutters. This area is assumed to be where the \"fireplace with a black metal screen\" is located, or represents that general direction for the robot's facing.",
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:38": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:52": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"expressing pleasure at seeing the listener\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_181",
+    "video_id": "loc2_script2_seq8_rec2"
+}

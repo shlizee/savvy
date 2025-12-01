@@ -1,0 +1,124 @@
+{
+    "event": "The speech topic: \"reiterating the coffee offer to guest\" comes up.",
+    "start_time": "1:11",
+    "end_time": "1:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt and khaki shorts, with short brown hair. He has a lavalier microphone clipped to his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "4.2",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:21": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "2.2",
+                "direction": "-60"
+            },
+            "0:42": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:46": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The other person in the scene, who is the sounding object in this case.",
+        "key_frames": {
+            "1:11": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"reiterating the coffee offer to guest\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_73",
+    "video_id": "loc2_script2_seq3_rec2"
+}

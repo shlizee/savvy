@@ -1,0 +1,128 @@
+{
+    "event": "Distance between the fireplace and the speech sound source when the topic 'reporting feeling good and looking forward to end of day' is mentioned.",
+    "start_time": "01:32",
+    "end_time": "01:35",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is an adult male guest. He is wearing a light beige t-shirt, light blue shorts, and glasses. He has short dark hair. He is sitting on a light-colored couch in the living room. His approximate height while sitting is around 1 meter.",
+        "is_static": false,
+        "key_frames": {
+            "00:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:13": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:17": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "00:21": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "00:40": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:12": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:32": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:57": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "02:10": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A built-in fireplace with a white/light-colored surround and a black metal screen covering the opening. It is located on the far wall of the living room. The screen/opening is approximately 1 meter wide and 0.8 meters high.",
+        "key_frames": {
+            "00:09": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "00:20": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "00:35": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "01:00": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "01:32": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "02:00": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "02:10": {
+                "distance": "4.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Guest (Speech Sound Source)",
+        "description": "The speech sound source is an adult male guest. He is wearing a light beige t-shirt, light blue shorts, and glasses. He has short dark hair. He is sitting on a light-colored couch in the living room. His approximate height while sitting is around 1 meter.",
+        "key_frames": {
+            "00:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:13": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:17": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "00:21": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "00:40": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:12": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:32": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:57": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "02:10": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": 2.2,
+    "question": "When the speech topic: \"reporting feeling good and looking forward to end of day\" is mentioned, what is the distance between the fireplace with a black metal screen and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_90",
+    "video_id": "loc2_script2_seq1_rec2"
+}

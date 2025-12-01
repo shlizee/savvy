@@ -1,0 +1,140 @@
+{
+    "event": "Speaker instructing item placement, specifically 'wipe down like the stovetop'.",
+    "start_time": "1:03",
+    "end_time": "1:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person 1, the individual whose first-person perspective is captured by the camera. We primarily see their hands interacting with objects like a phone, plates, food, Tupperware, and dishwasher items. They are actively moving around the kitchen and dining area. At the event time, they are at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:55": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A double-basin black composite or stone sink, undermounted in a granite countertop. It has a tall, gooseneck, single-handle faucet, likely brushed nickel or stainless steel. Located against a wall with a tiled backsplash.",
+        "key_frames": {
+            "0:21": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:43": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:36": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:52": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:41": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen island below a black glass-ceramic cooktop. The top oven has a visible handle and window. The cooktop has multiple burners.",
+        "key_frames": {
+            "0:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0.5",
+                "direction": "20"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:46": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:42": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:45": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel double wall oven, when the speech topic: \"instructing item placement\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_266",
+    "video_id": "loc2_script3_seq5_rec1"
+}

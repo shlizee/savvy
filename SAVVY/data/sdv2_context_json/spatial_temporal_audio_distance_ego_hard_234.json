@@ -1,0 +1,152 @@
+{
+    "event": "The speech topic: \"stating a red piece is stuck\" comes up.",
+    "start_time": "0:16",
+    "end_time": "0:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a light green/teal polo shirt and a watch on his left wrist. He is also wearing in-ear headphones with a black cord. His face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera_wearer",
+        "description": "The person wearing the camera, whose hands are visible interacting with objects on the table.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other_person",
+        "description": "Adult male with short, dark hair, wearing a light green/teal polo shirt and a watch on his left wrist. He is also wearing in-ear headphones with a black cord. His face is blurred.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating a red piece is stuck\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_234",
+    "video_id": "loc3_script2_seq5_rec1"
+}

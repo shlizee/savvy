@@ -1,0 +1,190 @@
+{
+    "event": "The camera wearer invites the other person to sit down.",
+    "start_time": "0:10",
+    "end_time": "0:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, likely male, with short dark hair, wearing a light-colored (appears white or very light pink/cream) short-sleeved t-shirt and light blue shorts that end above the knee. The person is barefoot. Their face is intentionally blurred in the video. Approximate height appears average. Build appears average to slightly stocky.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:11": {
+                "distance": "3.5",
+                "direction": "-35"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "0:16": {
+                "distance": "3.8",
+                "direction": "-60"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "0:55": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "1:05": {
+                "distance": "N/A",
+                "direction": "N/A"
+            },
+            "1:08": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:25": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:55": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:05": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:12": {
+                "distance": "3.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the first person, providing the egocentric viewpoint. It is the origin (0,0) for all relative measurements.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Forward Direction",
+        "description": "The direction the camera is currently pointing, defined as 0 degrees.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "inf",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "inf",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "inf",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "inf",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "inf",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "inf",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "inf",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "inf",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "inf",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inviting to sit down\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_94",
+    "video_id": "loc2_script2_seq1_rec2"
+}

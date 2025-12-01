@@ -1,0 +1,143 @@
+{
+    "event": "The other person asks about adding more water to the kettle.",
+    "start_time": "0:35",
+    "end_time": "0:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a green short-sleeved polo shirt, blue jeans, glasses, and a watch on their left wrist. Their face is blurred. They have short, dark hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:47": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:21": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:31": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:44": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "1:53": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "2:09": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "2:12": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "2:23": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "2:35": {
+                "distance": "0.4",
+                "direction": "-10"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "3:01": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:07": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about adding more water\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_224",
+    "video_id": "loc3_script2_seq3_rec2"
+}

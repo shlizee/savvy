@@ -1,0 +1,136 @@
+{
+    "event": "A creak and thud sound occurs, and the task is to determine the direction of the sounding object (front door) relative to a hypothetical robot standing by the fireplace and facing the coffee tables.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden arched front door. It has a small, narrow rectangular glass pane in its upper half and a black metal handle. It appears to be a solid wood door.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:07": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:14": {
+                "distance": "3.1",
+                "direction": "25"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:40": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "1:10": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "1:33": {
+                "distance": "4.2",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White Recessed Fireplace",
+        "description": "A white recessed fireplace with a dark wooden mantelpiece. A round mirror with a decorative frame hangs above the mantel. There are small decorative items on the mantel, including dolls and a string of carrot-shaped decorations. The firebox is dark and recessed.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.6",
+                "direction": "-5"
+            },
+            "0:17": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "2.7",
+                "direction": "-25"
+            },
+            "1:15": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "1:38": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:55": {
+                "distance": "3.1",
+                "direction": "-25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two round, nested coffee tables with a light-colored (possibly stone or light wood) top and dark metal frames. The larger table has a large potted plant (possibly aloe or agave) in a dark bowl. The smaller, lower table has a magazine and a smartphone on it. Two beverage cans are also on the tables.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:32": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing a set of nested coffee tables, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_1",
+    "video_id": "loc1_script2_seq1_rec1"
+}

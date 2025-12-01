@@ -1,0 +1,120 @@
+{
+    "event": "A person expresses a preference for variable weather patterns, specifically liking when the weather changes rather than staying the same all day.",
+    "start_time": "01:14",
+    "end_time": "01:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved V-neck top, light blue jeans, and glasses. She has a small device clipped to her waistband. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "00:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:19": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:33": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "00:38": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "00:45": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "01:15": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "01:25": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "01:34": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "01:40": {
+                "distance": "1.2",
+                "direction": "-35"
+            },
+            "01:50": {
+                "distance": "1.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two round, nested coffee tables. The tabletops appear to be a light-colored material (possibly light wood or laminate) with dark metal legs. The larger, lower table has a book on it. The smaller, upper table has a potted plant and a couple of small, colorful cylindrical items.",
+        "key_frames": {
+            "00:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:33": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White Recessed Fireplace",
+        "description": "A white fireplace structure with a recessed firebox. It has a dark wooden mantelpiece. Decorations on the mantel include two dolls (one boy, one girl) and a garland of small white bunnies and orange carrots. A round mirror with a dark frame, adorned with small colorful square tiles, hangs on the wall above the mantel.",
+        "key_frames": {
+            "00:10": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "00:19": {
+                "distance": "2.5",
+                "direction": "25"
+            },
+            "00:45": {
+                "distance": "2.8",
+                "direction": "20"
+            },
+            "01:15": {
+                "distance": "2.8",
+                "direction": "20"
+            },
+            "01:35": {
+                "distance": "2.8",
+                "direction": "20"
+            },
+            "01:55": {
+                "distance": "2.8",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the white recessed fireplace, when the speech topic: \"expressing preference for variable weather patterns\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_16",
+    "video_id": "loc1_script2_seq1_rec2"
+}

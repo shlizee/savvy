@@ -1,0 +1,152 @@
+{
+    "event": "A woman accepts an offer of water.",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, wavy brown hair. She is wearing a yellow, knitted, sleeveless V-neck top over a white t-shirt, and light blue cuffed jeans. She has glasses on her head and is wearing light-colored socks. She is the source of the speech 'Oh sure, I'll have water.'",
+        "is_static": false,
+        "key_frames": {
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:49": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:58": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A modern fireplace with a light-colored stacked stone surround and a wooden mantelpiece. A large landscape painting is mounted above it. It appears to be a gas fireplace with artificial logs.",
+        "key_frames": {
+            "0:12": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "0:32": {
+                "distance": "6.5",
+                "direction": "-15"
+            },
+            "0:49": {
+                "distance": "4.5",
+                "direction": "-25"
+            },
+            "0:52": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:56": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman (Sounding Object)",
+        "description": "The woman who accepted the offer of water. If standing at the fireplace, this is the object one would be facing to measure the distance to.",
+        "key_frames": {
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:49": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:58": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": 1.67,
+    "question": "When the speech topic: \"accepting offer of water\" is mentioned, what is the distance between the fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_239",
+    "video_id": "loc3_script2_seq1_rec2"
+}

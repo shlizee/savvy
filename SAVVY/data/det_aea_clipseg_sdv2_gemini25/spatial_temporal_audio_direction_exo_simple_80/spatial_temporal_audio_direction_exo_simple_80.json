@@ -1,0 +1,220 @@
+{
+    "event": "A male speaker expresses gratitude for an invitation.",
+    "start_time": "0:26",
+    "end_time": "0:28",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A male with curly brown hair, wearing glasses, a light green/blue short-sleeved collared shirt, and dark shorts. He has black wired headphones around his neck and is holding a smartphone. He is approximately 1.7-1.8 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:09": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "0:17": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:24": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:59": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "1:01": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "1:04": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "1:09": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:20": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:28": {
+                "distance": "2.2",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white recessed fireplace with a dark interior. It has a white mantelpiece above it, decorated with a doll and a string of orange carrot-shaped items. The fireplace opening is arched. Approximate height of the visible structure is 1.2 meters, width 1 meter.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:26": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:57": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "1:12": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "1:19": {
+                "distance": "2.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Nested coffee tables",
+        "description": "A set of two round, light-colored (beige/light wood) nested coffee tables. The larger table has a diameter of approximately 0.8 meters, and the smaller one is slightly tucked underneath. On the tables are a bag of pistachios, a small bowl with snacks, a bag of pretzels, and a book/magazine.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:19": {
+                "distance": "0.7",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing a set of nested coffee tables, when the speech topic: \"expressing gratitude for the invitation\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_80",
+    "video_id": "loc1_script2_seq8_rec2"
+}

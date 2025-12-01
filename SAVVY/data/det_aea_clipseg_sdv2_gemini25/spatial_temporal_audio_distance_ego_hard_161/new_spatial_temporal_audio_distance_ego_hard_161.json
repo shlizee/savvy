@@ -1,0 +1,152 @@
+{
+    "event": "The moment the speech topic 'concluding the person passing through has left' comes up, initiated by the other person asking 'She gone?'.",
+    "start_time": "2:27",
+    "end_time": "2:28",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Appears to be male. This is the person who asks 'She gone?' and is present in the kitchen with the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:17": {
+                "distance": "2.2",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "2.3",
+                "direction": "50"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:19": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "2:15": {
+                "distance": "2.2",
+                "direction": "50"
+            },
+            "2:22": {
+                "distance": "2.3",
+                "direction": "60"
+            },
+            "2:27": {
+                "distance": "2.2",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:27": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Same as the sounding object. This is the person whose distance from the camera is being queried.",
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:17": {
+                "distance": "2.2",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "2.3",
+                "direction": "50"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:19": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "2:15": {
+                "distance": "2.2",
+                "direction": "50"
+            },
+            "2:22": {
+                "distance": "2.3",
+                "direction": "60"
+            },
+            "2:27": {
+                "distance": "2.2",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": 2.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"concluding the person passing through has left\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_161",
+    "video_id": "loc2_script3_seq33_rec1"
+}

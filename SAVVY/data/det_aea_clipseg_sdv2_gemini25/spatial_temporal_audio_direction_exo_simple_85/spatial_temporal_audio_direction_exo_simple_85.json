@@ -1,0 +1,104 @@
+{
+    "event": "Determine the direction of a knocking door sound relative to a robot standing by a coffee table and facing a fireplace.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A dark brown/black metal security front door with ornate scrollwork designs and textured glass panels. It has a visible handle and lock mechanism. It appears to be a standard single-entry door size, approximately 2 meters tall and 0.8-0.9 meters wide.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "6.0",
+                "direction": "-70"
+            },
+            "1:10": {
+                "distance": "6.0",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "6.0",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "6.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A large, dark brown/black, rectangular wooden coffee table. It has a solid, flat top and appears to be of sturdy construction. Approximate dimensions: 1.2-1.5 meters long, 0.6-0.8 meters wide, and 0.4-0.5 meters high.",
+        "key_frames": {
+            "0:17": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:36": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A white-painted fireplace, likely made of stucco or plaster, with a mantle. It has a black metal fireplace screen with a curved top covering the firebox opening. It is a built-in wall feature.",
+        "key_frames": {
+            "0:17": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:25": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:56": {
+                "distance": "3.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the knocking door sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_85",
+    "video_id": "loc2_script2_seq1_rec1"
+}

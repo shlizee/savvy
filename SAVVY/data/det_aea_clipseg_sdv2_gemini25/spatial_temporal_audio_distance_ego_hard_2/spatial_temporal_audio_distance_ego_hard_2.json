@@ -1,0 +1,133 @@
+{
+    "event": "A creak sound followed by three distinct thudding sounds, consistent with knocking on a wooden door.",
+    "start_time": "0:00",
+    "end_time": "0:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown, arched wooden front door with a small, barred rectangular window. It has a black metal door handle.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:14": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "0.3",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "5.0",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "70"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer. Initially seated on a couch in the living room, then gets up and walks to the front door, interacts with a guest, and returns to the living room area, eventually sitting down again.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A white stucco fireplace with a dark brown wooden mantel. A round mirror with a colorful tiled frame is mounted above it. Easter-themed decorations (a garland of carrots and small white bunnies) are on the mantel. The fireplace opening is arched.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 5,
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_2",
+    "video_id": "loc1_script2_seq1_rec1"
+}

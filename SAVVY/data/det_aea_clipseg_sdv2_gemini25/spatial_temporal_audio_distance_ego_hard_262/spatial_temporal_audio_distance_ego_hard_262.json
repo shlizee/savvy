@@ -1,0 +1,92 @@
+{
+    "event": "The speech topic: \"specifying video topic as stock market\" comes up.",
+    "start_time": "0:16",
+    "end_time": "0:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. He is holding a smartphone during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "0:17": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "50"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "50"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "Camera worn by the first person, providing a first-person perspective. The wearer's hands are sometimes visible holding a phone and another black rectangular device. The wearer is sitting on a couch next to the sounding object during the event.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General direction of interaction",
+        "description": "During the event, the camera (wearer) is generally facing towards the other person (sounding object) who is sitting to their right on the couch and showing a video on a smartphone. The broader view includes a coffee table and large windows.",
+        "key_frames": {
+            "0:17": {
+                "distance": "0.7",
+                "direction": "60"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"specifying video topic as stock market\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_262",
+    "video_id": "loc3_script2_seq7_rec2"
+}

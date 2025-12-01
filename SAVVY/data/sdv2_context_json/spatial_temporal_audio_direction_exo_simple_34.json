@@ -1,0 +1,134 @@
+{
+    "event": "Robot is by the stainless steel refrigerator and facing the kitchen hob. The speech topic 'accepting snack offer' comes up. Relative to where the robot is facing, where is the speaker?",
+    "start_time": "0:04",
+    "end_time": "0:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing glasses, a light teal/blue short-sleeve collared shirt, and dark shorts. He has headphones around his neck/ears.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:56": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "2:45": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:15": {
+                "distance": "1.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "Large, stainless steel refrigerator, likely double-door and built-in or counter-depth, located on the right-hand wall of the kitchen when entering from the dining area.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:13": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen hob",
+        "description": "A gas kitchen hob with multiple burners, stainless steel finish, located on the kitchen countertop on the back wall of the kitchen.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:12": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:22": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the kitchen hob, when the speech topic: \"accepting snack offer\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_34",
+    "video_id": "loc1_script2_seq4_rec1"
+}

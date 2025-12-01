@@ -1,0 +1,184 @@
+{
+    "event": "Describing meat as slightly underdone",
+    "start_time": "1:47",
+    "end_time": "1:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a teal/light blue short-sleeved polo shirt, khaki shorts, and glasses. He has brown hair, balding on top, and an average to slightly larger build. He is the one who states the meat is 'a little underdone'.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "1:03": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:47": {
+                "distance": "3.0",
+                "direction": "-110"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "4:05": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "4:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their viewpoint. This is the 'you' in the question.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:47": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Michael (other person)",
+        "description": "Adult male (Michael), wearing a teal/light blue short-sleeved polo shirt, khaki shorts, and glasses. He has brown hair, balding on top, and an average to slightly larger build. This is the 'other person' in the question.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "1:03": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:47": {
+                "distance": "3.0",
+                "direction": "-110"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "4:05": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "4:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"describing meat as slightly underdone\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_193",
+    "video_id": "loc2_script3_seq4_rec2"
+}

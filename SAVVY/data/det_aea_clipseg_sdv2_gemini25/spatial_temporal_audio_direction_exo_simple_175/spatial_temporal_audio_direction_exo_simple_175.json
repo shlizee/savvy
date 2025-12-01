@@ -1,0 +1,212 @@
+{
+    "event": "Speaker instructing to place an item on a table.",
+    "start_time": "0:47",
+    "end_time": "0:53",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise/light blue short-sleeved polo shirt, khaki/beige shorts, and glasses. He has short brown hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "2.1",
+                "direction": "35"
+            },
+            "0:10": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "0:20": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "0:25": {
+                "distance": "2.1",
+                "direction": "38"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "0:45": {
+                "distance": "1.9",
+                "direction": "40"
+            },
+            "0:47": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:58": {
+                "distance": "3.5",
+                "direction": "50"
+            },
+            "1:01": {
+                "distance": "4.0",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "double-basin rectangular sink and tap",
+        "description": "A stainless steel double-basin rectangular kitchen sink with a tap, set into a light-colored granite countertop. It is located along the back wall of the kitchen, to the right of the double wall oven.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-42"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-48"
+            },
+            "0:47": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:55": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "1:01": {
+                "distance": "3.5",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. It is located along the back wall of the kitchen, to the left of the sink.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-55"
+            },
+            "0:05": {
+                "distance": "4.0",
+                "direction": "-55"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "-55"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-57"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:35": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "4.0",
+                "direction": "-63"
+            },
+            "0:47": {
+                "distance": "4.0",
+                "direction": "-65"
+            },
+            "0:50": {
+                "distance": "4.0",
+                "direction": "-65"
+            },
+            "0:53": {
+                "distance": "4.0",
+                "direction": "-65"
+            },
+            "0:55": {
+                "distance": "4.0",
+                "direction": "-65"
+            },
+            "1:01": {
+                "distance": "4.0",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the stainless steel double wall oven, when the speech topic: \"instructing placing item on table\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_175",
+    "video_id": "loc2_script2_seq6_rec1"
+}

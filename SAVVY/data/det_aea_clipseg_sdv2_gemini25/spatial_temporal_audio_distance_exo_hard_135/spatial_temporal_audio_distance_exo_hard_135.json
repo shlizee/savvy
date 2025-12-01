@@ -1,0 +1,87 @@
+{
+    "event": "Asking if 'don' is a valid word",
+    "start_time": "02:54",
+    "end_time": "02:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person holding the camera (P1), whose arms are sometimes visible. This person is the source of the speech questioning the word 'don'. The camera itself represents the location of this sound source.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "04:10": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A dark brown, rectangular wooden dining table with two matching dark brown wooden chairs. It is located to the left of the kitchen island, near large sliding glass doors leading to an outdoor pool area.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "00:02": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:07": {
+                "distance": "2.3",
+                "direction": "-90"
+            },
+            "00:46": {
+                "distance": "2.3",
+                "direction": "-90"
+            },
+            "01:30": {
+                "distance": "2.3",
+                "direction": "-90"
+            },
+            "02:09": {
+                "distance": "2.3",
+                "direction": "-90"
+            },
+            "02:54": {
+                "distance": "2.3",
+                "direction": "-90"
+            },
+            "03:30": {
+                "distance": "2.3",
+                "direction": "-90"
+            },
+            "04:10": {
+                "distance": "2.3",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 2.3,
+    "question": "When the speech topic: \"asking if 'don' is a valid word\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_135",
+    "video_id": "loc2_script2_seq5_rec2"
+}

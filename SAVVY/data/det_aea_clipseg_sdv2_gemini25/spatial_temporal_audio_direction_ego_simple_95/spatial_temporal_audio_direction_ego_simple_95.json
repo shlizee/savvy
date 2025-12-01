@@ -1,0 +1,148 @@
+{
+    "event": "The other person specifies the origin of a painting as 'the Amazon'.",
+    "start_time": "1:02",
+    "end_time": "1:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, approximately 1.75-1.85m tall, medium to heavy build. He is wearing a turquoise/cyan short-sleeved polo shirt, light brown/khaki cargo shorts ending around the knees, and white athletic sneakers with dark laces/accents. He wears dark-rimmed glasses. His face is intentionally blurred in the video. He has short, dark hair. He is holding a black smartphone in his right hand, connected to wired earphones.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:26": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:37": {
+                "distance": "1.8",
+                "direction": "60"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:57": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:07": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:13": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:19": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:25": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "1:32": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:37": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer. The camera wearer is holding a yellow beverage can, wearing a white t-shirt and light blue shorts.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wall with paintings",
+        "description": "The wall in the kitchen/dining area where several paintings are hung. At the moment of the event, the camera is primarily facing this wall.",
+        "key_frames": {
+            "0:59": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"specifying painting origin as the amazon\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_95",
+    "video_id": "loc2_script2_seq2_rec1"
+}

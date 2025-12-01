@@ -1,0 +1,208 @@
+{
+    "event": "suggesting chatting briefly",
+    "start_time": "0:45",
+    "end_time": "0:46",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The sounding object is the person holding the camera, who is speaking. This person is wearing a teal shirt and a gold watch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A small, wooden, oval-shaped drop-leaf dining table with two matching wooden chairs. There is a lamp and a piece of paper on the table. A black silhouette of the state of Arizona is on the wall behind it.",
+        "key_frames": {
+            "0:31": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:33": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "0.4",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "0.3",
+                "direction": "20"
+            },
+            "0:55": {
+                "distance": "0.3",
+                "direction": "20"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "20"
+            },
+            "1:05": {
+                "distance": "0.3",
+                "direction": "20"
+            },
+            "1:10": {
+                "distance": "0.3",
+                "direction": "20"
+            },
+            "1:15": {
+                "distance": "0.3",
+                "direction": "20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A person with short dark hair, wearing a white t-shirt and light blue shorts. Their face is blurred.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "5"
+            },
+            "0:23": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:44": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "0.4",
+    "question": "When the speech topic: \"suggesting chatting briefly\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_105",
+    "video_id": "loc2_script2_seq3_rec1"
+}

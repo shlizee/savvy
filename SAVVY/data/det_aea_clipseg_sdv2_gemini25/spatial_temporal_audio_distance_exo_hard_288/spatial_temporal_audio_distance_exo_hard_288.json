@@ -1,0 +1,131 @@
+{
+    "event": "Distance between the light-gray two-seater couch and the speech sound source (camera person) when the topic 'asking about couch activity' is first mentioned by the camera person.",
+    "start_time": "0:01",
+    "end_time": "0:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person holding the camera, who is speaking. This is an egocentric view, so the person is not visible. Based on the voice, the person is male. The sound emanates from the camera's location.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray, fabric-upholstered two-seater couch. It has a modern design with visible wooden legs and a rectangular form. It is located in the living room, against a wall with bookshelves. A multi-colored pillow (predominantly orange, yellow, and pink) is visible on its left side (relative to the camera's view when facing it later). Approximate dimensions: 1.5-2 meters wide, 0.8 meters deep, 0.8 meters high.",
+        "key_frames": {
+            "0:03": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "3.8",
+                "direction": "20"
+            },
+            "0:05": {
+                "distance": "3.2",
+                "direction": "30"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "50"
+            },
+            "0:08": {
+                "distance": "1.8",
+                "direction": "60"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "0:40": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "1:38": {
+                "distance": "1.8",
+                "direction": "65"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "4.5",
+    "question": "When the speech topic: \"asking about couch activity\" is mentioned, what is the distance between the light-gray two-seater couch and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_288",
+    "video_id": "loc3_script2_seq7_rec1"
+}

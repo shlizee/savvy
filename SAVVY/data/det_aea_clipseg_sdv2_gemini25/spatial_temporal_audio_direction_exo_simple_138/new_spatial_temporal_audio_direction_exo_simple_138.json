@@ -1,0 +1,100 @@
+{
+    "event": "Speaker describes popcorn as 'pretty fire'",
+    "start_time": "0:00:42",
+    "end_time": "0:00:43",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male wearing a light blue/teal short-sleeved polo shirt, khaki shorts, glasses, and white sneakers. He has dark hair and a beard. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:00:15": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:00:25": {
+                "distance": "3.5",
+                "direction": "25"
+            },
+            "0:00:35": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:00:42": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:01:08": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:01:22": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:01:38": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, rectangular electric cooktop, likely glass-ceramic, built into the wooden kitchen island. Approximate size: 60-70 cm wide, 50 cm deep.",
+        "key_frames": {
+            "0:00:18": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:00:35": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:00:42": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:01:00": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:01:25": {
+                "distance": "3.0",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round Sink with a Tap",
+        "description": "A stainless steel sink (appears to be double-basin with rounded corners) with a tall, gooseneck-style metal tap, located on the wooden kitchen island to the right of the cooktop (when viewed from the main kitchen area).",
+        "key_frames": {
+            "0:00:18": {
+                "distance": "3.0",
+                "direction": "22"
+            },
+            "0:00:35": {
+                "distance": "3.0",
+                "direction": "22"
+            },
+            "0:00:42": {
+                "distance": "3.0",
+                "direction": "22"
+            },
+            "0:01:00": {
+                "distance": "3.0",
+                "direction": "22"
+            },
+            "0:01:25": {
+                "distance": "3.0",
+                "direction": "22"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the round sink with a tap, when the speech topic: \"describing popcorn as pre-fired\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_138",
+    "video_id": "loc2_script2_seq4_rec1"
+}

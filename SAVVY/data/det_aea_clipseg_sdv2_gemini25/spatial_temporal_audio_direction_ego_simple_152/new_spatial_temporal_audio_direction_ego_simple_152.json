@@ -1,0 +1,116 @@
+{
+    "event": "The speech topic 'praising the authentic sound of vinyl records' comes up.",
+    "start_time": "0:21",
+    "end_time": "0:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a light blue/cyan polo shirt with a small white logo on the left chest, khaki/light brown shorts, and a watch on his left wrist. He has short, dark hair and is wearing wired earphones, with the wire running down his shirt. He is initially seated on a couch to the camera wearer's left, then gets up and walks to the front door.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-55"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "1:16": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:18": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera device itself, representing the wearer's egocentric viewpoint. All distances and directions for other objects are relative to this point.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's Line of Sight",
+        "description": "The central axis of the camera's field of view. The direction '0 degrees' in an object's keyframes indicates it is centered in this line of sight at that moment.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"praising the authentic sound of vinyl records\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_152",
+    "video_id": "loc2_script2_seq8_rec2"
+}

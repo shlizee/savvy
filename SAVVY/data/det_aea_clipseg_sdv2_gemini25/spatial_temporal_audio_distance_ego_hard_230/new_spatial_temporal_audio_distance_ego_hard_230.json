@@ -1,0 +1,143 @@
+{
+    "event": "The other person (man in green shirt) confirms the readiness of the French press coffee by saying 'Alright, yeah, we should be good.'",
+    "start_time": "02:31",
+    "end_time": "02:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing glasses, a green short-sleeved polo shirt, and blue jeans. He is of average build and is actively participating in making coffee.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:46": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:31": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "1:37": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "1:40": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "1:42": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "1:53": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "1:57": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:03": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:12": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:22": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:31": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:35": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:49": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:51": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "2:57": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "3:01": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "3:04": {
+                "distance": "0.7",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, worn by another person (likely female, wearing a yellow top), providing a first-person perspective of the coffee-making activity.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Counter and Sounding Object",
+        "description": "The camera is generally facing the kitchen counter where coffee is being made, and the sounding object (the other person).",
+        "key_frames": {}
+    },
+    "prediction": 0.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"confirming readiness\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_230",
+    "video_id": "loc3_script2_seq3_rec2"
+}

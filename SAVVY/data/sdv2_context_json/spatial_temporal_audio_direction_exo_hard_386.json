@@ -1,0 +1,122 @@
+{
+    "event": "Speaker expressing satisfaction with mashed potatoes",
+    "start_time": "03:38",
+    "end_time": "04:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a green short-sleeved polo shirt and blue jeans. He is also wearing wired earphones. During the event, he is seated at the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "00:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:13": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:20": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "01:22": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "01:31": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "02:10": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "02:20": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "03:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "04:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "04:35": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular wooden coffee table with a light-colored wood top and darker legs/frame. It is located in the living room area.",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "00:05": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "01:28": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "02:07": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "03:29": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "04:30": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch with wooden legs. It has a patterned throw blanket draped over its back, with the word 'NOBODY' visible. It is located in the living room, typically behind the coffee table from the kitchen's perspective.",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "00:05": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "01:28": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "02:07": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "03:29": {
+                "distance": "4.8",
+                "direction": "5"
+            },
+            "04:30": {
+                "distance": "4.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the light-gray two-seater couch, when the speech topic: \"expressing satisfaction with mashed potatoes\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_386",
+    "video_id": "loc3_script3_seq4_rec1"
+}

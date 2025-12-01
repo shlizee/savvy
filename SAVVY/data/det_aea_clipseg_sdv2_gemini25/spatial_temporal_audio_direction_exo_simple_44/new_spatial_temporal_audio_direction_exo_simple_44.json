@@ -1,0 +1,144 @@
+{
+    "event": "Speaker commenting on mango's poor appearance",
+    "start_time": "02:39",
+    "end_time": "02:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing glasses, a black short-sleeved crop top, and light blue denim shorts. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:12": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:34": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:53": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:39": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:44": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:12": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:25": {
+                "distance": "0.7",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop Oven",
+        "description": "A small, black countertop oven (likely a toaster oven) located on the kitchen counter to the left of the main sink area. Approximate dimensions: 0.5m width x 0.3m height x 0.4m depth.",
+        "key_frames": {
+            "0:07": {
+                "distance": "2.2",
+                "direction": "-65"
+            },
+            "0:12": {
+                "distance": "2.2",
+                "direction": "-65"
+            },
+            "0:20": {
+                "distance": "2.2",
+                "direction": "-65"
+            },
+            "0:42": {
+                "distance": "2.2",
+                "direction": "-65"
+            },
+            "0:46": {
+                "distance": "2.2",
+                "direction": "-65"
+            },
+            "1:14": {
+                "distance": "2.2",
+                "direction": "-65"
+            },
+            "1:24": {
+                "distance": "2.2",
+                "direction": "-65"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Sink with Tap",
+        "description": "A double-basin kitchen sink, appearing white or light-colored, with a metallic gooseneck tap. Located on the main kitchen counter, to the right of the countertop oven.",
+        "key_frames": {
+            "0:07": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:09": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:43": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:14": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:24": {
+                "distance": "1.8",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the countertop oven and facing the kitchen sink with a tap, when the speech topic: \"commenting on mango's poor appearance\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_44",
+    "video_id": "loc1_script2_seq4_rec2"
+}

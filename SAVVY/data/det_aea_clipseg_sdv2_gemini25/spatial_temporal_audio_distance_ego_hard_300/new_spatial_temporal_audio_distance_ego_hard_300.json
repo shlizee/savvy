@@ -1,0 +1,120 @@
+{
+    "event": "Distance between camera wearer and the other person when the speech topic 'clarifying equidistant location relative to downtown and airport' comes up.",
+    "start_time": "2:00",
+    "end_time": "2:12",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly, light-colored (possibly blond or light brown) hair, wearing a dark long-sleeved shirt or sweater (appears black or dark blue) over a collared shirt (light blue or white), and blue jeans. They are wearing glasses and appear to be of average build. They are seated on a light-colored couch, often gesturing with their hands while speaking. Approximate height while seated might be around 1-1.2 meters from seat to top of head.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:09": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:05": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:10": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:45": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:48": {
+                "distance": "1.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. The question implies the camera wearer is the reference.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "sounding_object",
+        "description": "The camera is generally facing towards the sounding object (the other person) once the camera wearer is seated.",
+        "key_frames": {
+            "0:09": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:05": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:48": {
+                "distance": "1.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"clarifying equidistant location relative to downtown and airport\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_300",
+    "video_id": "loc3_script3_seq2_rec1"
+}

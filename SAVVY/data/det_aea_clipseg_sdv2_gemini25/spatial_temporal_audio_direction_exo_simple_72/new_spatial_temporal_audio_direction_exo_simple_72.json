@@ -1,0 +1,148 @@
+{
+    "event": "The speech topic: \"describing commitment location as having people\" comes up.",
+    "start_time": "0:54",
+    "end_time": "0:55",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The male speaker. He is wearing glasses. Initially, he wears a black short-sleeved t-shirt and light blue jeans, barefoot. Around 1:03, when putting on shoes, he is seen wearing dark shorts instead of jeans. The camera is mounted on this person.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dark wooden front door",
+        "description": "A dark brown wooden front door with an arched top. It has a small, upper, rectangular window with a grille pattern. The door opens inwards. The exterior side of the door is painted a light blue color and has a floral wreath.",
+        "key_frames": {
+            "0:02": {
+                "distance": "6",
+                "direction": "-80"
+            },
+            "1:01": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:05": {
+                "distance": "1",
+                "direction": "-80"
+            },
+            "1:12": {
+                "distance": "1",
+                "direction": "-80"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "1:21": {
+                "distance": "0.2",
+                "direction": "-20"
+            },
+            "1:22": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden china cabinet",
+        "description": "A tall, traditional-style wooden china cabinet, likely dark brown or cherry wood. The upper section has glass doors displaying white and patterned china/dishes. The lower section consists of solid wooden cabinet doors. It is located in what appears to be a dining area, visible from the living room through an archway.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "0:03": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "0:09": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "0:45": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "0:52": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "0:59": {
+                "distance": "4",
+                "direction": "-70"
+            },
+            "1:01": {
+                "distance": "5",
+                "direction": "20"
+            },
+            "1:03": {
+                "distance": "6",
+                "direction": "10"
+            },
+            "1:27": {
+                "distance": "7",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the dark wooden front door and facing the wooden china cabinet, when the speech topic: \"describing commitment location as having people\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_72",
+    "video_id": "loc1_script2_seq8_rec1"
+}

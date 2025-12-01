@@ -1,0 +1,82 @@
+{
+    "event": "Speech topic: suggesting stopping the recording",
+    "start_time": "02:02",
+    "end_time": "02:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene. A young woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. She has a microphone clipped to her top.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": 1.2,
+                "direction": -45
+            },
+            "00:06": {
+                "distance": 1.0,
+                "direction": -30
+            },
+            "00:14": {
+                "distance": 3.5,
+                "direction": -70
+            },
+            "00:18": {
+                "distance": 1.5,
+                "direction": -45
+            },
+            "00:26": {
+                "distance": 0.8,
+                "direction": -25
+            },
+            "00:32": {
+                "distance": 0.8,
+                "direction": -20
+            },
+            "00:38": {
+                "distance": 0.6,
+                "direction": -10
+            },
+            "00:47": {
+                "distance": 0.7,
+                "direction": -15
+            },
+            "00:53": {
+                "distance": 1.0,
+                "direction": -40
+            },
+            "01:29": {
+                "distance": 1.1,
+                "direction": -40
+            },
+            "01:37": {
+                "distance": 0.7,
+                "direction": -20
+            },
+            "01:43": {
+                "distance": 0.8,
+                "direction": -30
+            },
+            "01:50": {
+                "distance": 1.0,
+                "direction": -45
+            },
+            "02:02": {
+                "distance": 2.2,
+                "direction": 40
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, from whose perspective the scene is viewed.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 2.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting stopping the recording\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_27",
+    "video_id": "loc1_script2_seq6_rec1"
+}

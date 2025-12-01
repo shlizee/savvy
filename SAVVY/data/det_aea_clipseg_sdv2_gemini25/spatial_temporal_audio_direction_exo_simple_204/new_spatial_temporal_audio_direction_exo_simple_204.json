@@ -1,0 +1,144 @@
+{
+    "event": "Location of the speaker (discussing egg cooking as a different task) relative to a robot positioned at the front door and facing the TV.",
+    "start_time": "0:54",
+    "end_time": "0:56",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with curly dark brown/black hair, wearing glasses (possibly smart glasses), a grey short-sleeved polo shirt, and dark shorts. He appears to be of average build and height. He is the one who says 'Yeah, no, that's a different...'",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:01": {
+                "distance": "3.7",
+                "direction": "65"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "1:05": {
+                "distance": "0.5",
+                "direction": "-50"
+            },
+            "1:11": {
+                "distance": "0.3",
+                "direction": "-60"
+            },
+            "1:17": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:25": {
+                "distance": "0.4",
+                "direction": "-55"
+            },
+            "1:30": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "1:43": {
+                "distance": "0.4",
+                "direction": "-40"
+            },
+            "1:49": {
+                "distance": "0.4",
+                "direction": "-45"
+            },
+            "1:56": {
+                "distance": "0.5",
+                "direction": "-35"
+            },
+            "2:02": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:33": {
+                "distance": "2.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door with multiple ornate, translucent glass panels, and a black metal security screen door on the exterior. Standard residential door height.",
+        "key_frames": {
+            "0:06": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, dark, flat-screen television mounted on the wall in the living room area, above a wooden entertainment console.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "4.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the wall-mounted tv, when the speech topic: \"identifying the egg cooking as a different task\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_204",
+    "video_id": "loc2_script3_seq31_rec1"
+}

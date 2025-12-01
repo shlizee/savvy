@@ -1,0 +1,123 @@
+{
+    "event": "The other person reflects on the fun afternoon they've had.",
+    "start_time": "0:44",
+    "end_time": "0:46",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male with curly brown hair, wearing glasses, a light green/blue short-sleeved collared shirt, and dark shorts. He is also wearing wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:56": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:59": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:04": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:14": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:19": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. The person is sitting on a couch in a living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"reflecting on the fun afternoon\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_70",
+    "video_id": "loc1_script2_seq8_rec2"
+}

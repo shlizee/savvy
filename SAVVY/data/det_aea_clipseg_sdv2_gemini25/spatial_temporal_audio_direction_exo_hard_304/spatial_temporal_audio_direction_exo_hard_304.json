@@ -1,0 +1,132 @@
+{
+    "event": "When the background boiling sound comes up, relative to where the robot is facing (standing by the black round ottoman and facing the rectangular dining table), where is the sounding object.",
+    "start_time": "1:32",
+    "end_time": "1:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A blue metal stovetop kettle with a black handle and a silver lid/spout. Approximate height is 20-25cm. It is placed on a gas stove when making the boiling sound.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:21": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:46": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "-35"
+            },
+            "1:35": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "1:42": {
+                "distance": "0.5",
+                "direction": "-25"
+            },
+            "1:45": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:09": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:36": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "2:58": {
+                "distance": "0.6",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black round ottoman",
+        "description": "A black, round, upholstered ottoman located in the living room area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "3.2",
+                "direction": "55"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "65"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A wooden rectangular dining table with chairs, located beyond the living room area, towards the large windows.",
+        "key_frames": {
+            "0:01": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "5.2",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:37": {
+                "distance": "4.2",
+                "direction": "10"
+            },
+            "1:53": {
+                "distance": "4.8",
+                "direction": "15"
+            },
+            "2:50": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "3:01": {
+                "distance": "4.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the rectangular dining table, when the background boiling sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_304",
+    "video_id": "loc3_script2_seq3_rec2"
+}

@@ -1,0 +1,104 @@
+{
+    "event": "Identify the location of a scraping sound relative to a robot standing by the tv by the fireplace and facing the rectangular dining table.",
+    "start_time": "2:13",
+    "end_time": "2:18",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A black, circular, metallic frying pan, approximately 10-12 inches in diameter. It is being scraped with a utensil by a man in a green shirt while being washed in the kitchen island sink.",
+        "is_static": false,
+        "key_frames": {
+            "0:29": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "2:13": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "2:15": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "2:17": {
+                "distance": "0.6",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A flat-screen TV mounted on the wall to the left of a stone fireplace. The fireplace has a mantel and is located in the living room area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:06": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "0:20": {
+                "distance": "5.0",
+                "direction": "-80"
+            },
+            "1:31": {
+                "distance": "5.0",
+                "direction": "-80"
+            },
+            "2:13": {
+                "distance": "6.0",
+                "direction": "-90"
+            },
+            "2:40": {
+                "distance": "5.0",
+                "direction": "-80"
+            },
+            "3:05": {
+                "distance": "5.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular dining table",
+        "description": "The main wooden rectangular dining table, light brown/tan color, with a slatted or textured top. It is initially located in the center of the dining area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:13": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "2:40": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "3:05": {
+                "distance": "3.0",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the tv by the fireplace and facing the rectangular dining table, when the scraping sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_399",
+    "video_id": "loc3_script3_seq5_rec2"
+}

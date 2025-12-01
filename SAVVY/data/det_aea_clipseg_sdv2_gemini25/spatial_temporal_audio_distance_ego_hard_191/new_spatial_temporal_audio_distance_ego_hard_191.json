@@ -1,0 +1,219 @@
+{
+    "event": "The distance between the camera wearer and the other person when the speech topic: \"suggesting grabbing drinks\" comes up.",
+    "start_time": "0:36",
+    "end_time": "0:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short brown hair, wearing a light blue short-sleeved collared shirt, khaki shorts, and a watch on his left wrist. He is also wearing glasses and has earbuds in.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "1:04": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with short brown hair, wearing a light blue short-sleeved collared shirt, khaki shorts, and a watch on his left wrist. He is also wearing glasses and has earbuds in.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "1:04": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "1.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting grabbing drinks\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_191",
+    "video_id": "loc2_script3_seq4_rec2"
+}

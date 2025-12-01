@@ -1,0 +1,104 @@
+{
+    "event": "inquiring about the specific arizona flavor",
+    "start_time": "0:27",
+    "end_time": "0:28",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:19": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:56": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.",
+        "key_frames": {
+            "0:46": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "two-seater dining table",
+        "description": "A small, round or oval dining table with two chairs, located near large sliding glass doors that lead to an outdoor pool area. The table appears light-colored, and the chairs may have light upholstery.",
+        "key_frames": {
+            "0:46": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:47": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "2.8",
+                "direction": "20"
+            },
+            "1:03": {
+                "distance": "3.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the two-seater dining table, when the speech topic: \"inquiring about the specific arizona flavor\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_95",
+    "video_id": "loc2_script2_seq1_rec2"
+}

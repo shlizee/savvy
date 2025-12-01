@@ -1,0 +1,128 @@
+{
+    "event": "A speaker suggests sitting down.",
+    "start_time": "0:04",
+    "end_time": "0:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with a blurred face, wearing a grey short-sleeved collared shirt, dark shorts, black sneakers with white soles, and glasses. He is holding a smartphone and has wired earbuds. This is the person who suggests sitting down.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wall-mounted tv",
+        "description": "A large, black, flat-screen television mounted on the wall in the living room. It is part of an entertainment shelving unit. This is the object the robot is standing by.",
+        "key_frames": {
+            "0:07": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:12": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "0:45": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "1:20": {
+                "distance": "4.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace with a black metal screen",
+        "description": "A fireplace built into the wall, with a black metal screen covering the opening. It's located in the living room, on the wall opposite the TV. This is the object the robot is facing.",
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"suggesting sitting down\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_196",
+    "video_id": "loc2_script3_seq2_rec2"
+}

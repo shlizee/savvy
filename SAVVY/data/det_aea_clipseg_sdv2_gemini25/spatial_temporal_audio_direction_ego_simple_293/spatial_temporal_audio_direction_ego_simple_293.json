@@ -1,0 +1,96 @@
+{
+    "event": "The other person (Michael) asks if the recording task is finished or if they should sit down and talk.",
+    "start_time": "0:53",
+    "end_time": "0:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a light green/teal short-sleeved polo shirt and blue jeans. He has short dark hair and is of average height and build. He is initially seen carrying paper grocery bags.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "85"
+            },
+            "0:53": {
+                "distance": "2.2",
+                "direction": "65"
+            },
+            "0:54": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:55": {
+                "distance": "1.9",
+                "direction": "55"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:01": {
+                "distance": "3.0",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "First-person view camera worn by a person (Thomas) sitting on a couch in a living room. The wearer is looking at a book on a coffee table in front of them during the specified event.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Forward View (Book on Coffee Table)",
+        "description": "The camera is generally facing forward towards a coffee table where a book titled 'Remodelista' is placed and being looked at by the camera wearer. This direction is considered 0 degrees.",
+        "key_frames": {
+            "0:12": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking if recording task is finished or if they should talk\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_293",
+    "video_id": "loc3_script3_seq1_rec2"
+}

@@ -1,0 +1,120 @@
+{
+    "event": "The speaker explains that the guitar has always been an avenue for her to sing.",
+    "start_time": "01:31",
+    "end_time": "01:34",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult female with long brown hair, wearing a yellow knitted sleeveless top over a white t-shirt, and light blue jeans. She is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "00:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:13": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "00:48": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:51": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:32": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:51": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric upholstered three-seater segment of a larger sectional couch. Modern style. The sounding object (woman) is sitting on this couch segment.",
+        "key_frames": {
+            "00:13": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "00:48": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:51": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:32": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:51": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A large wooden rectangular dining table, light to medium brown wood. Located in the dining area near the kitchen and large windows, past the living room coffee table.",
+        "key_frames": {
+            "00:12": {
+                "distance": "6.5",
+                "direction": "-20"
+            },
+            "00:15": {
+                "distance": "6.0",
+                "direction": "-15"
+            },
+            "00:49": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "01:00": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "01:32": {
+                "distance": "5.5",
+                "direction": "-35"
+            },
+            "01:45": {
+                "distance": "5.5",
+                "direction": "-35"
+            },
+            "01:51": {
+                "distance": "5.5",
+                "direction": "-35"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the rectangular dining table, when the speech topic: \"explaining guitar as an avenue for singing\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_289",
+    "video_id": "loc3_script2_seq1_rec2"
+}

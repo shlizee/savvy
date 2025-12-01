@@ -1,0 +1,112 @@
+{
+    "event": "Speech topic: \"offering coffee additions (cream)\"",
+    "start_time": "0:04",
+    "end_time": "0:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person 2: A man with a blurred face, wearing a teal short-sleeved polo shirt, khaki/light brown shorts, and glasses. He has dark hair and is wearing a wired earbud in his right ear, with the wire running down his shirt. He appears to be of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:37": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, rectangular electric cooktop, likely glass-ceramic, built into the kitchen island. It has multiple circular burner markings.",
+        "key_frames": {
+            "0:17": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:32": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:36": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:04": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in Stainless Steel Dishwasher",
+        "description": "A standard-sized built-in dishwasher with a stainless steel front panel, located under the main kitchen counter, to the right of the kitchen sink (when facing the sink).",
+        "key_frames": {
+            "0:19": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "0:26": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:33": {
+                "distance": "2.8",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the built-in stainless steel dishwasher, when the speech topic: \"offering coffee additions (cream)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_133",
+    "video_id": "loc2_script2_seq4_rec1"
+}

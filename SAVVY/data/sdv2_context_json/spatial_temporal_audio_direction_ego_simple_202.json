@@ -1,0 +1,128 @@
+{
+    "event": "The other person states their intention to put kebabs on to cook, implying they are for a meal like lunch.",
+    "start_time": "02:03",
+    "end_time": "02:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, glasses, and a black headset/earpiece on his left ear. Medium build, brown hair. Approx 1.7-1.8m tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "100"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:03": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:04": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:24": {
+                "distance": "1.5",
+                "direction": "-110"
+            },
+            "2:34": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first-person participant, representing their viewpoint and position.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Direction of Camera Gaze",
+        "description": "The central direction the camera is pointing at any given time. All 'direction' values for other objects are relative to this.",
+        "key_frames": {
+            "02:03": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating kebabs are intended for lunch\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_202",
+    "video_id": "loc2_script3_seq32_rec2"
+}

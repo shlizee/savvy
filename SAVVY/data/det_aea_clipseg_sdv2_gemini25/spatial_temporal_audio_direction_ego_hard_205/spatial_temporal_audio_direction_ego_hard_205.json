@@ -1,0 +1,192 @@
+{
+    "event": "The speech topic 'suggesting allowing more cooking time' comes up, and the location of the other person relative to the camera wearer is determined.",
+    "start_time": "0:01:01",
+    "end_time": "0:01:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The 'other person'. A male wearing a grey t-shirt, dark shorts, and glasses. Appears to be of average height and build. He is initially seen by a window looking at a pool, then moves near the refrigerator, and later stands near the counter edge to the right of the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:03": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:00:04": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:00:14": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:00:15": {
+                "distance": "2.8",
+                "direction": "90"
+            },
+            "0:00:16": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "0:00:21": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "0:00:25": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "0:00:30": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "0:00:35": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "0:00:40": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "0:00:45": {
+                "distance": "3.0",
+                "direction": "90"
+            },
+            "0:00:59": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:01:02": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:01:19": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:01:20": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:02:14": {
+                "distance": "2.5",
+                "direction": "90"
+            },
+            "0:02:15": {
+                "distance": "2.5",
+                "direction": "90"
+            },
+            "0:02:20": {
+                "distance": "2.5",
+                "direction": "90"
+            },
+            "0:02:25": {
+                "distance": "2.5",
+                "direction": "90"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:36": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stove / Pan with food",
+        "description": "A black glass-top stove. On it is a silver-colored metal frying pan containing colorful vegetable and meat skewers (red onion, yellow pepper, green pepper, meat).",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:00:06": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:00:52": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:01:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:01:01": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:01:02": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:01:03": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:01:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:01:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:02:27": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:02:36": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting allowing more cooking time\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_205",
+    "video_id": "loc2_script3_seq33_rec1"
+}

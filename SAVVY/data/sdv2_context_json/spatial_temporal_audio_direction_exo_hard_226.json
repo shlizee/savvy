@@ -1,0 +1,120 @@
+{
+    "event": "A person comments on the ease of turning on the stove, noting it responded to another person's touch.",
+    "start_time": "0:01:02",
+    "end_time": "0:01:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue short-sleeved polo shirt, khaki shorts, glasses, and a head-mounted device. He is standing and interacting with items on a kitchen counter and cooktop.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:05": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:00:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:00:26": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:00:53": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "0:01:03": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "0:01:19": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:02:02": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:02:09": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "0:02:35": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric cooktop",
+        "description": "Black, flat, glass-ceramic electric cooktop with touch controls, integrated into a kitchen island with a granite countertop. Approximately 0.8m wide and 0.5m deep.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:00:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:00:53": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:01:03": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:01:10": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "0:02:08": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:02:38": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with pool view",
+        "description": "Large, multi-panel sliding glass doors on the far wall of the kitchen, offering a view of an outdoor swimming pool and patio area.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:00:07": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:00:30": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:01:03": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:01:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "0:02:25": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the window with a pool view, when the speech topic: \"commenting on ease after stove turned on\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_226",
+    "video_id": "loc2_script3_seq32_rec2"
+}

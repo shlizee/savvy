@@ -1,0 +1,200 @@
+{
+    "event": "A person asks 'Are you ready to start?' and their location is queried relative to a hypothetical robot.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is an adult male, likely middle-aged, with short brown hair (balding on top). He is wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He wears glasses and a watch on his left wrist. He is sitting on a bar stool at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "2:45": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "3:00": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "3:15": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "3:30": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "3:45": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "4:00": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "4:13": {
+                "distance": "1.8",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat-surface electric cooktop, likely glass-ceramic, built into the wooden kitchen island. It is rectangular, approximately 0.8m x 0.5m.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Refrigerator",
+        "description": "A tall, stainless steel refrigerator, likely a two-door model (French door or side-by-side). It has a metallic silver finish and is approximately 1.8m high and 0.9m wide.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "0:18": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "0:27": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "4.2",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "4.2",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "4.2",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "4.2",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "4.2",
+                "direction": "-70"
+            },
+            "3:00": {
+                "distance": "4.2",
+                "direction": "-70"
+            },
+            "3:30": {
+                "distance": "4.2",
+                "direction": "-70"
+            },
+            "4:00": {
+                "distance": "4.2",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the stainless steel refrigerator, when the speech topic: \"asking about readiness to start\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_156",
+    "video_id": "loc2_script2_seq5_rec1"
+}

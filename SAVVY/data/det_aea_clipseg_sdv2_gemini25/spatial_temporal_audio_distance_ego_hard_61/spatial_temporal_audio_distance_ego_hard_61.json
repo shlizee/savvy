@@ -1,0 +1,107 @@
+{
+    "event": "The speech topic: \"indicating readiness to end the interaction\" comes up.",
+    "start_time": "01:41",
+    "end_time": "01:43",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise polo shirt, khaki shorts, glasses, and has a blurred face. He is holding a phone with wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:28": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:05": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:16": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:40": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:41": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:43": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:44": {
+                "distance": "2.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the person asking the question.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 2.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"indicating readiness to end the interaction\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_61",
+    "video_id": "loc2_script2_seq2_rec1"
+}

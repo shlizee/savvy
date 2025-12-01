@@ -1,0 +1,168 @@
+{
+    "event": "Speaker states belief that bedrooms are unoccupied, relative to a robot standing by the window with a pool view and facing the electric cooktop.",
+    "start_time": "0:18",
+    "end_time": "0:20",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with dark hair, wearing glasses, a grey short-sleeved polo shirt, and dark shorts. Approximately 1.7-1.8 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:11": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:41": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors with a metal frame, offering a clear view of an outdoor pool, patio, and greenery. Spans a significant portion of the kitchen wall.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "90"
+            },
+            "0:18": {
+                "distance": "2.0",
+                "direction": "90"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "90"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "90"
+            },
+            "2:02": {
+                "distance": "2.0",
+                "direction": "90"
+            },
+            "2:09": {
+                "distance": "2.0",
+                "direction": "90"
+            },
+            "2:41": {
+                "distance": "2.0",
+                "direction": "90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Electric cooktop",
+        "description": "Black, flat, glass-ceramic electric cooktop with multiple burners, built into a light-colored (beige/grey speckled) granite countertop on a kitchen island. Rectangular in shape.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:41": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the electric cooktop, when the speech topic: \"stating belief that bedrooms are unoccupied\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_223",
+    "video_id": "loc2_script3_seq32_rec1"
+}

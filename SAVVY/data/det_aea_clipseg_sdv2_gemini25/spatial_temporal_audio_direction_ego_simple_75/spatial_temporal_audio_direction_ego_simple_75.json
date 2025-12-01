@@ -1,0 +1,103 @@
+{
+    "event": "The speech topic 'proposing the conversation is ending' comes up.",
+    "start_time": "1:26",
+    "end_time": "1:28",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appearing to be of average build, with short, dark hair, balding on top. He is wearing a light blue short-sleeved polo shirt and khaki cargo shorts. He is also wearing glasses and has wired earbuds in, with the wire running down his shirt. His face is blurred in the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:23": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:42": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "1:27": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "1:33": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "2:12": {
+                "distance": "1.8",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person whose perspective the video is from. The wearer's hands and legs are occasionally visible (e.g., at 0:18 wearing light blue shorts with small white dots). This is the reference point for direction.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera wearer is generally facing. For this egocentric view, this is implicitly forward (0 degrees).",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"proposing the conversation is ending\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_75",
+    "video_id": "loc2_script2_seq1_rec1"
+}

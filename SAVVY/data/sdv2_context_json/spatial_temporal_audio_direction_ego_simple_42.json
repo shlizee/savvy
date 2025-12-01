@@ -1,0 +1,180 @@
+{
+    "event": "The speech topic 'guessing identification of the song' comes up.",
+    "start_time": "2:12",
+    "end_time": "2:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene. An adult male with curly, medium-length brown hair, wearing glasses, a light teal/mint green short-sleeved collared shirt, and dark navy blue shorts. He is seated on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:14": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:11": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:18": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:22": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:29": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:47": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "4:00": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "4:22": {
+                "distance": "2.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the recording, representing the camera wearer. During the event, the camera wearer is generally facing the television.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:27": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:18": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person in the scene. An adult male with curly, medium-length brown hair, wearing glasses, a light teal/mint green short-sleeved collared shirt, and dark navy blue shorts. He is seated on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:14": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:11": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:18": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:22": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:29": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:47": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "4:00": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "4:22": {
+                "distance": "2.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"guessing identification of the song\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_42",
+    "video_id": "loc1_script2_seq7_rec1"
+}

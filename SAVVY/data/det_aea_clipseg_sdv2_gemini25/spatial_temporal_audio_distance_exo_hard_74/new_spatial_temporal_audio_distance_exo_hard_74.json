@@ -1,0 +1,85 @@
+{
+    "event": "Acknowledging and confirming getting shoes ready, specifically when the speaker says 'Got my shoes' while at the window seat.",
+    "start_time": "1:06",
+    "end_time": "1:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing glasses, a light green/blue short-sleeved polo shirt, and dark shorts. He is also wearing wired earphones. Approximate height 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:59": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "1:07": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white recessed fireplace with a white mantel above it. There are some small decorative items (carrots, a doll) on the mantel. The fireplace opening is dark. Approximate width of the fireplace structure is 1.2 meters.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:09": {
+                "distance": "3.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Living room seating area / Couch",
+        "description": "The main seating area of the living room, including a large grey sectional couch. The fireplace is oriented towards this area.",
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.2",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 2.6,
+    "question": "When the speech topic: \"acknowledging and confirming getting shoes ready\" is mentioned, what is the distance between the white recessed fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_74",
+    "video_id": "loc1_script2_seq8_rec2"
+}

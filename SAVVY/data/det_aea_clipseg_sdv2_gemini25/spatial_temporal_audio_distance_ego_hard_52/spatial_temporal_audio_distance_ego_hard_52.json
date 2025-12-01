@@ -1,0 +1,83 @@
+{
+    "event": "The speech topic 'requesting faster service' comes up, interpreted as Person 1 (camera wearer) stating a desire to complete tasks efficiently ('gotta knock these out').",
+    "start_time": "01:36",
+    "end_time": "01:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Person 1, the camera wearer. Visible physical characteristics include hands and arms, with tattoos visible on the right forearm/wrist area. This person is wearing a gold-colored watch on the left wrist. Clothing includes grey pants/shorts and a teal/blue t-shirt. Person 1 is holding the camera and is the source of the speech ('gotta knock these out') that defines the event time.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:36": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:10": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by Person 1, providing a first-person perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:36": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"requesting faster service\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_52",
+    "video_id": "loc2_script2_seq1_rec2"
+}

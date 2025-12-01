@@ -1,0 +1,120 @@
+{
+    "event": "Scrabble tiles spilling from a box and audibly impacting the game board.",
+    "start_time": "0:08",
+    "end_time": "0:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A square Scrabble game board, approximately 35-40cm per side. It has a light-colored playing surface with a grid of squares, some of which are colored (e.g., pink, blue, red) to denote score multipliers. Made of stiff cardboard. It is lying flat on the wooden dining table, and is the surface the tiles impact, creating the sound.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by the user, providing a first-person perspective. Its location is the origin for distance and direction measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man across the table",
+        "description": "An adult male with curly dark hair, wearing glasses and a light green short-sleeved collared shirt. He is seated across the dining table from the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the splashing sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_28",
+    "video_id": "loc1_script2_seq6_rec2"
+}

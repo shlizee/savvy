@@ -1,0 +1,156 @@
+{
+    "event": "A person asks another person about their day.",
+    "start_time": "0:31",
+    "end_time": "0:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person wearing a light blue short-sleeved collared shirt, khaki shorts, and white sneakers. They have short brown hair and are wearing wired earbuds. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Front Door",
+        "description": "A black front door with multiple glass panels.",
+        "key_frames": {
+            "0:12": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:31": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:48": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:55": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "4.5",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Coffee Table",
+        "description": "A rectangular wooden coffee table covered with a light blue and white patterned tablecloth. There are bowls of snacks, drinks, and a phone on it.",
+        "key_frames": {
+            "0:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the rectangle wooden coffee table, when the speech topic: \"asking about the speaker's day in return\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_193",
+    "video_id": "loc2_script3_seq2_rec1"
+}

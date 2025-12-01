@@ -1,0 +1,120 @@
+{
+    "event": "Speaker suggests chatting during meal",
+    "start_time": "3:33",
+    "end_time": "3:34",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, curly dark hair, wearing glasses, a dark long-sleeve shirt over a lighter collared shirt, and blue jeans. Approx 1.7-1.8m tall. This is person P2, who is not holding the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:33": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "2:16": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:56": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "3:33": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "4:30": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "Low, rectangular wooden coffee table in the living room. Light-colored wood top, darker wood frame/legs. Approx 1.2m x 0.6m x 0.4m high.",
+        "key_frames": {
+            "0:16": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "3:33": {
+                "distance": "3.0",
+                "direction": "180"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Gray reclining lounge chair with ottoman",
+        "description": "Black leather Eames-style lounge chair with matching ottoman. Located on the balcony/deck area, visible through large windows.",
+        "key_frames": {
+            "0:16": {
+                "distance": "7.5",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "7.5",
+                "direction": "-15"
+            },
+            "1:37": {
+                "distance": "7.5",
+                "direction": "-15"
+            },
+            "2:15": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "3:33": {
+                "distance": "6.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the gray reclining lounge chair with ottoman, when the speech topic: \"suggesting chatting during meal\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_379",
+    "video_id": "loc3_script3_seq4_rec2"
+}

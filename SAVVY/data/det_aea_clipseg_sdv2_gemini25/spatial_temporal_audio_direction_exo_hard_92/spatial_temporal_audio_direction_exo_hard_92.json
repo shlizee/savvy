@@ -1,0 +1,100 @@
+{
+    "event": "Speech topic: acknowledging and confirming getting shoes ready",
+    "start_time": "1:01",
+    "end_time": "1:20",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person wearing a light green short-sleeved polo shirt, dark shorts, and glasses. Appears to be an adult male with curly brown hair. He is the one who speaks about and puts on his shoes. He is mobile.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:09": {
+                "distance": "2.5",
+                "direction": "75"
+            },
+            "1:19": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from wall painting",
+        "description": "A light-gray upholstered armchair with wooden legs. It is located near a large arched window. A prominent circular mirror is above the fireplace; this armchair is further from that mirror than another similar armchair in the room. It is static.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "35"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "75"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white recessed fireplace with a black interior. It has a white mantelpiece above it, on which a circular mirror and some small decorative items are placed. It is static.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing the white recessed fireplace, when the speech topic: \"acknowledging and confirming getting shoes ready\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_92",
+    "video_id": "loc1_script2_seq8_rec2"
+}

@@ -1,0 +1,96 @@
+{
+    "event": "Speaker commenting on Endeavor's profitability despite perception",
+    "start_time": "01:25",
+    "end_time": "01:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short, dark hair and a beard. He is of average build. At the time of the event, he is seated on a light-colored couch in the living room, holding and looking at a black smartphone.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:07": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "00:13": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:38": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "01:28": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "01:36": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored refrigerator",
+        "description": "Tall, light-colored (likely stainless steel or white) refrigerator, part of the kitchen cabinetry and counter area. It appears to be a standard side-by-side or French door model. It is located in the kitchen area of the open-plan room.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "00:01": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "00:03": {
+                "distance": "4.5",
+                "direction": "80"
+            },
+            "00:10": {
+                "distance": "5.0",
+                "direction": "100"
+            },
+            "01:28": {
+                "distance": "5.0",
+                "direction": "100"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "Stone-faced fireplace with a wooden mantel. A large landscape painting is mounted above the mantel. It is located in the living room area, on a wall that is generally opposite the kitchen area.",
+        "key_frames": {
+            "00:00": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "00:03": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:11": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "01:28": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the light-colored refrigerator and facing the fireplace, when the speech topic: \"commenting on endeavor's profitability despite perception\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_350",
+    "video_id": "loc3_script2_seq7_rec2"
+}

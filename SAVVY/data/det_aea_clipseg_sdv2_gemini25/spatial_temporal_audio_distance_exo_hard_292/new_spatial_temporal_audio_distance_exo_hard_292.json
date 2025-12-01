@@ -1,0 +1,152 @@
+{
+    "event": "The speech topic \"asking about personal investments\" is mentioned.",
+    "start_time": "01:06",
+    "end_time": "01:35",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person whose first-person perspective the video is from (male voice). They are wearing a green t-shirt, blue jeans, and a gold-colored watch on their left wrist. They are holding a smartphone. This person is the primary speaker detailing their personal investments.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the location of the sounding object (POV person). All distances and directions are measured from this point.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A modern-style, light-gray fabric two-seater couch with light-colored wooden legs. It has a colorful striped pillow (orange, yellow, pink, blue) on its left side (from camera's POV) and a yellow giraffe-shaped plush toy/pillow on its right side. It is positioned across a coffee table from the camera/sounding object.",
+        "key_frames": {
+            "00:03": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:07": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:15": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:35": {
+                "distance": "2.5",
+                "direction": "60"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "When the speech topic: \"asking about personal investments\" is mentioned, what is the distance between the light-gray two-seater couch and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_292",
+    "video_id": "loc3_script2_seq7_rec1"
+}

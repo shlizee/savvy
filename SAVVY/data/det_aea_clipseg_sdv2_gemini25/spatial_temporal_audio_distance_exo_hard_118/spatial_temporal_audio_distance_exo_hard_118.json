@@ -1,0 +1,116 @@
+{
+    "event": "The man in the teal shirt (speech sound source) says '...you're my guest...' while sitting at a table with the camera person.",
+    "start_time": "01:11",
+    "end_time": "01:12",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appearing to be in his 40s-50s, with short brown hair, wearing a light teal short-sleeved polo shirt, khaki-colored cargo shorts, and white athletic shoes with dark laces. He is also wearing a lavalier microphone clipped to his shirt, with the wire running across his chest. This is the person speaking.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:05": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "00:10": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:22": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "00:27": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "00:36": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:42": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "00:53": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:11": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:17": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with tap",
+        "description": "A round, undermount kitchen sink, dark grey or black in color, likely made of composite granite or enameled cast iron. It is set into a speckled light-colored (beige/cream with brown and grey flecks) granite countertop on a kitchen island. A tall, gooseneck-style faucet with a single lever handle, metallic in finish (likely brushed nickel or stainless steel), is installed with the sink.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:13": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:16": {
+                "distance": "2.2",
+                "direction": "-30"
+            },
+            "00:31": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "00:38": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "00:43": {
+                "distance": "2.5",
+                "direction": "75"
+            },
+            "01:11": {
+                "distance": "2.5",
+                "direction": "75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man in teal shirt",
+        "description": "Adult male, appearing to be in his 40s-50s, with short brown hair, wearing a light teal short-sleeved polo shirt, khaki-colored cargo shorts, and white athletic shoes with dark laces. He is also wearing a lavalier microphone clipped to his shirt, with the wire running across his chest. This is the object to be faced if standing at the reference object (sink).",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:22": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "00:42": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "01:11": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": 2.6,
+    "question": "When the speech topic: \"identifying listener as guest\" is mentioned, what is the distance between the round sink with a tap and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_118",
+    "video_id": "loc2_script2_seq3_rec2"
+}

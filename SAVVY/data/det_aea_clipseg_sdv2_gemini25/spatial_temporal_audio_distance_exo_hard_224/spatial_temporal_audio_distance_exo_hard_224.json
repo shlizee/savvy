@@ -1,0 +1,184 @@
+{
+    "event": "Calculating the distance between the round sink with a tap and the speech sound source when the topic \"instructing turning on dishwasher\" is mentioned.",
+    "start_time": "02:18",
+    "end_time": "02:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. They are also wearing glasses and have a microphone headset on. Approximate height around 1.7-1.8m. This is Person 2 in the video.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "00:32": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "00:49": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "01:12": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "01:54": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "02:02": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "02:13": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "02:18": {
+                "distance": "1.6",
+                "direction": "-30"
+            },
+            "02:19": {
+                "distance": "1.6",
+                "direction": "-30"
+            },
+            "02:25": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "02:38": {
+                "distance": "1.5",
+                "direction": "-35"
+            },
+            "02:46": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "03:06": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "03:10": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "03:17": {
+                "distance": "1.7",
+                "direction": "-30"
+            },
+            "03:27": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "03:37": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "03:40": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "03:43": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "03:47": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, undermount kitchen sink, likely stainless steel, with a single-lever pull-down faucet. It is installed in a light-colored granite countertop on a kitchen island. The sink diameter is approximately 0.4-0.5 meters.",
+        "is_static": true,
+        "key_frames": {
+            "00:08": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "00:19": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "00:47": {
+                "distance": "1.8",
+                "direction": "60"
+            },
+            "01:28": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:29": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "01:31": {
+                "distance": "0.8",
+                "direction": "25"
+            },
+            "01:35": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "01:38": {
+                "distance": "1.3",
+                "direction": "60"
+            },
+            "01:45": {
+                "distance": "1.3",
+                "direction": "65"
+            },
+            "02:05": {
+                "distance": "1.3",
+                "direction": "70"
+            },
+            "02:18": {
+                "distance": "1.2",
+                "direction": "75"
+            },
+            "02:19": {
+                "distance": "1.2",
+                "direction": "75"
+            },
+            "02:32": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "03:32": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "03:35": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "03:41": {
+                "distance": "1.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's View",
+        "description": "The direction the camera is pointing. In egocentric mode, this is the primary reference.",
+        "key_frames": {}
+    },
+    "prediction": 2.2,
+    "question": "When the speech topic: \"instructing turning on dishwasher\" is mentioned, what is the distance between the round sink with a tap and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_224",
+    "video_id": "loc2_script3_seq5_rec2"
+}

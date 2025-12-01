@@ -1,0 +1,108 @@
+{
+    "event": "A man asks Maddie if she wants to play Connect Four.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a green polo shirt and a headset with a microphone. He is the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch, located in the living room area to the left of the dining table (from the camera's perspective). It has a dark throw blanket with the word 'NOBODY' on it.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "0:05": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "0:20": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "1:20": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "1:40": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "2:09": {
+                "distance": "2.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera's view",
+        "description": "The direction the camera is pointing, generally forward towards the man sitting across the table.",
+        "key_frames": {}
+    },
+    "prediction": 2.63,
+    "question": "When the speech topic: \"asking maddie about playing connect four\" is mentioned, what is the distance between the light-gray two-seater couch and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_274",
+    "video_id": "loc3_script2_seq5_rec1"
+}

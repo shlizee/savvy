@@ -1,0 +1,132 @@
+{
+    "event": "Speech topic: \"instructing not to move french press while pressing\"",
+    "start_time": "02:45",
+    "end_time": "02:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark curly hair, wearing glasses, a white t-shirt, a yellow knitted vest, and light blue jeans. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:58": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:39": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:28": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:46": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "2:52": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A medium-sized rectangular wooden coffee table, light to medium brown wood. It has a colorful, patterned runner on top (mostly red, yellow, blue with food/hotdog print). Approximately 1.2m long, 0.6m wide, 0.4m high.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "170"
+            },
+            "0:22": {
+                "distance": "3.8",
+                "direction": "165"
+            },
+            "0:35": {
+                "distance": "4.2",
+                "direction": "175"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A stone-faced fireplace with a wooden mantelpiece. The stone is light grey/beige, stacked style. There's a painting above the mantel.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "3.2",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:10": {
+                "distance": "5.0",
+                "direction": "150"
+            },
+            "0:22": {
+                "distance": "4.8",
+                "direction": "145"
+            },
+            "0:35": {
+                "distance": "5.2",
+                "direction": "155"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the fireplace, when the speech topic: \"instructing not to move french press while pressing\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_306",
+    "video_id": "loc3_script2_seq3_rec1"
+}

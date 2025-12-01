@@ -1,0 +1,127 @@
+{
+    "event": "The other person is offering creamer.",
+    "start_time": "0:09",
+    "end_time": "0:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a black short-sleeved crop top, light blue denim shorts, and glasses. She has a microphone clipped to her shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "1:11": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:33": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:52": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:12": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:19": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. The view is egocentric.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "None",
+        "description": "The camera is facing forward from the wearer's perspective.",
+        "key_frames": {}
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering creamer\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_28",
+    "video_id": "loc1_script2_seq4_rec2"
+}

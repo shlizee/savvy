@@ -1,0 +1,81 @@
+{
+    "event": "A person states their intention to place items down in the area of the coffee table.",
+    "start_time": "0:20",
+    "end_time": "0:22",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short brown hair and glasses, wearing a light blue short-sleeved collared shirt and khaki shorts. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "7.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "6.5",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "5.0",
+                "direction": "-25"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "1.8",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A black metal wood-burning stove or fireplace insert, approximately 0.6m wide x 0.8m tall. It is located to the right of a large flat-screen TV and is integrated into a wooden shelving unit. It has a visible door, likely glass with a black metal frame.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "80"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "45"
+            }
+        }
+    },
+    "question": "Imagine you are a robot standing by the fireplace with a black metal screen and facing the rectangle wooden coffee table, when the speech topic: \"stating intention and placing items down here\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_185",
+    "video_id": "loc2_script3_seq1_rec2"
+}

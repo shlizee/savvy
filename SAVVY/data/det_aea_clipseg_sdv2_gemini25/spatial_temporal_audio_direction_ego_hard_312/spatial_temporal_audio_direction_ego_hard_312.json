@@ -1,0 +1,111 @@
+{
+    "event": "The speech topic 'asking about purchasing fruit' comes up.",
+    "start_time": "0:31",
+    "end_time": "0:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark hair, wearing glasses, a dark sweater over a light-colored collared shirt, and blue jeans. He is sitting on a light-colored couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "1.6",
+                "direction": "-55"
+            },
+            "0:25": {
+                "distance": "1.6",
+                "direction": "-50"
+            },
+            "0:31": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:10": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "1:30": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "1:50": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "2:10": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "2:48": {
+                "distance": "1.6",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is initially standing and then sits down on a couch or chair, facing a living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A for egocentric mode as the camera defines the facing direction.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking about purchasing fruit\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_312",
+    "video_id": "loc3_script3_seq2_rec1"
+}

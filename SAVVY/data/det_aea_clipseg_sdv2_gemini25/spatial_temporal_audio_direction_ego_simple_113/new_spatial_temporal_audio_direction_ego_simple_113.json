@@ -1,0 +1,180 @@
+{
+    "event": "Determining the relative position of the other person when the speech topic 'greeting and asking about status' comes up.",
+    "start_time": "0:00",
+    "end_time": "0:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short dark hair, initially wearing glasses on top of his head, later puts them on properly. He is wearing a white plain t-shirt and light blue shorts. He is seated on a wooden chair with a dark metal frame at a wooden drop-leaf table. He has a blue ceramic mug with a white logo on a coaster in front of him. Approximate height when seated appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "1.4",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:17": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:48": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "1:04": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "1:07": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.9",
+                "direction": "-5"
+            },
+            "1:16": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:19": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera providing the first-person perspective, worn by the individual asking questions. The camera wearer's hands are visible at times, holding a smartphone and a black power bank.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with short dark hair, initially wearing glasses on top of his head, later puts them on properly. He is wearing a white plain t-shirt and light blue shorts. He is seated on a wooden chair with a dark metal frame at a wooden drop-leaf table. He has a blue ceramic mug with a white logo on a coaster in front of him. This is the person the camera wearer is primarily interacting with and facing during the specified event.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:01": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "1.4",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:17": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:48": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "1:04": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "1:07": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.9",
+                "direction": "-5"
+            },
+            "1:16": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:19": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"greeting and asking about status\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_113",
+    "video_id": "loc2_script2_seq4_rec2"
+}

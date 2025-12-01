@@ -1,0 +1,168 @@
+{
+    "event": "Speaker states they are currently using a specific utensil (spatula).",
+    "start_time": "01:31",
+    "end_time": "01:33",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has short brown hair and is holding a spatula at the time of the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:31": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:36": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:53": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:19": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "01:31": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "01:33": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:09": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:19": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:34": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:39": {
+                "distance": "1.0",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "Large, stainless steel, double-door refrigerator with an ice/water dispenser on the left door. Located against a kitchen wall.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:33": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "1:57": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "2:26": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "2:29": {
+                "distance": "0.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "Stainless steel double wall oven, built into the wooden cabinetry, located on the same wall as the refrigerator, to the right of the refrigerator (when facing that wall).",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:31": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:37": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:53": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:57": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the stainless steel double wall oven, when the speech topic: \"indicating current use of specific utensil\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_228",
+    "video_id": "loc2_script3_seq32_rec2"
+}

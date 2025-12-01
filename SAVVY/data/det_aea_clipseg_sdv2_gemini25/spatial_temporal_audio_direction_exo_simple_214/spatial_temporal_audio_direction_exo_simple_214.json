@@ -1,0 +1,148 @@
+{
+    "event": "A person announces the location of items (groceries).",
+    "start_time": "0:30",
+    "end_time": "0:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, short dark hair (balding on top), wearing glasses, a light blue/teal short-sleeved polo shirt, and khaki shorts. Approximately 1.7-1.8m tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:08": {
+                "distance": "5.0",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:39": {
+                "distance": "1.8",
+                "direction": "50"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "1:06": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:18": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "rectangle wooden coffee table",
+        "description": "A rectangular coffee table, appears to be made of wood but is covered by a light blue tablecloth with a white sprinkle-like pattern. It's laden with party snacks: bowls of pretzels, cut watermelon, drink cans, and a purple balloon nearby. Approximate dimensions: 1.2m long, 0.6m wide, 0.4m high.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-90"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-110"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "black front door with glass panels",
+        "description": "A dark-colored (likely black or very dark brown) front door. It features multiple rectangular glass panels, possibly 6 or 8, arranged in rows. It has a standard door handle. Located at the end of a short hallway.",
+        "key_frames": {
+            "0:00": {
+                "distance": "6.5",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "6.5",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "6.5",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the black front door with glass panels, when the speech topic: \"announcing location of items\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_214",
+    "video_id": "loc2_script3_seq31_rec2"
+}

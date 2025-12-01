@@ -1,0 +1,112 @@
+{
+    "event": "The speech topic: \"(tv) narrating the purpose of the kiss breaking the curse\" comes up.",
+    "start_time": "4:05",
+    "end_time": "4:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches, mounted on a light-brown wooden TV stand. It is the source of the narration.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "2:06": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "4:10": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "4:25": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair. It is located in the living room, to the left of the main couch (when viewed from the kitchen/dining area), near an arched window and a wall painting.",
+        "key_frames": {
+            "0:07": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "0:08": {
+                "distance": "2.2",
+                "direction": "-70"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A large, light-gray, fabric, three-seater couch with various pillows, located in the living room, in front of the TV.",
+        "key_frames": {
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray armchair closer to the wall painting and facing the light-gray three-seater couch, when the speech topic: \"(tv) narrating the purpose of the kiss breaking the curse\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_69",
+    "video_id": "loc1_script2_seq7_rec2"
+}

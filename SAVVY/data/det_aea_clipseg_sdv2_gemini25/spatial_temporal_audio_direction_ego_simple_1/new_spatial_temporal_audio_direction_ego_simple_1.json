@@ -1,0 +1,140 @@
+{
+    "event": "Knocking door sound and determining its direction relative to the camera wearer's facing direction.",
+    "start_time": "0:01",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The front door of the house. It is a wooden, arched door, dark brown in color. It has a small, narrow arched window with metal bars on it. Standard residential door size.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3-4",
+                "direction": "80"
+            },
+            "0:02": {
+                "distance": "3-4",
+                "direction": "80"
+            },
+            "0:05": {
+                "distance": "3-4",
+                "direction": "80"
+            },
+            "0:07": {
+                "distance": "2-3",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "2",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "3-4",
+                "direction": "-90"
+            },
+            "0:45": {
+                "distance": "3-4",
+                "direction": "-90"
+            },
+            "1:15": {
+                "distance": "3-4",
+                "direction": "-90"
+            },
+            "1:45": {
+                "distance": "3-4",
+                "direction": "-90"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A white fireplace with a dark wooden mantel. A round mirror with a decorative, colorful tiled frame is mounted above the mantel. There are small decorative items on the mantel, including a string of carrot-shaped decorations.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2-3",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2-3",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "2-3",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "2-3",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2-3",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "2-3",
+                "direction": "30"
+            },
+            "1:15": {
+                "distance": "2-3",
+                "direction": "30"
+            },
+            "1:45": {
+                "distance": "2-3",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the knocking door sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_1",
+    "video_id": "loc1_script2_seq1_rec1"
+}

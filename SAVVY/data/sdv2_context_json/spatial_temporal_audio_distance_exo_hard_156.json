@@ -1,0 +1,69 @@
+{
+    "event": "A person greets Thomas.",
+    "start_time": "0:15",
+    "end_time": "0:17",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue t-shirt and khaki shorts, white socks, and sneakers. Approximate height 1.75m, average build. This is the person who speaks 'Hi Thomas'.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "7.5",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "2.0",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wall-mounted tv",
+        "description": "Large black flat-screen television, approximately 55-65 inches diagonal, mounted on a light-colored interior wall above a wooden media console. The console has multiple shelves holding various items.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "3.8",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "3.8",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "3.8",
+                "direction": "5"
+            },
+            "0:23": {
+                "distance": "3.8",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "3.8",
+                "direction": "5"
+            }
+        }
+    },
+    "question": "When the speech topic: \"greeting thomas\" is mentioned, what is the distance between the wall-mounted tv and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_156",
+    "video_id": "loc2_script3_seq1_rec2"
+}

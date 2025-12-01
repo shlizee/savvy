@@ -1,0 +1,132 @@
+{
+    "event": "The camera wearer is instructing another person (Thomas) on where to place items, specifically 'by the table'.",
+    "start_time": "0:17",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (Thomas), wearing a light blue t-shirt, khaki shorts, white socks, and white sneakers. He appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "0:14": {
+                "distance": "4.8",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:17": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:18": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:19": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "4.2",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "4.8",
+                "direction": "-20"
+            },
+            "0:28": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-35"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by the first person, who is sitting on a couch in a living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "table",
+        "description": "A low coffee table in the living room, covered with a light blue tablecloth with a confetti-like print. It has snacks (pretzels, watermelon) and drinks (cans) on it. There are also purple balloons on the floor near it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing item placement by the table\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_122",
+    "video_id": "loc2_script3_seq1_rec2"
+}

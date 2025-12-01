@@ -1,0 +1,140 @@
+{
+    "event": "The other person describes meat as slightly underdone.",
+    "start_time": "1:47",
+    "end_time": "1:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with short, dark hair, wearing a teal short-sleeved polo shirt and khaki shorts. He is also wearing glasses and a watch on his left wrist. He has wired earphones in.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:16": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:47": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. The view is egocentric.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_view",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing meat as slightly underdone\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_244",
+    "video_id": "loc2_script3_seq4_rec2"
+}

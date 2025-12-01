@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic: \"naming the hallway location\" comes up.",
+    "start_time": "01:22",
+    "end_time": "01:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise polo shirt, khaki shorts, white sneakers, and glasses. He has short dark hair and is holding a black smartphone with a wired earphone.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.1",
+                "direction": "-25"
+            },
+            "00:05": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "00:12": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "00:19": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "00:22": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "00:25": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:28": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "00:37": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "00:50": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:05": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "01:13": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "01:18": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "01:22": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "01:27": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "01:35": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "01:44": {
+                "distance": "1.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Hallway and Bathroom Entrance",
+        "description": "The hallway area where the other person is standing, including the entrance to a bathroom, at the moment the hallway is named.",
+        "key_frames": {
+            "01:22": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"naming the hallway location\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_59",
+    "video_id": "loc2_script2_seq2_rec1"
+}

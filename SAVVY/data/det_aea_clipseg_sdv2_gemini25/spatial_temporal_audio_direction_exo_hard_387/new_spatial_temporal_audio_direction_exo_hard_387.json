@@ -1,0 +1,180 @@
+{
+    "event": "inquiring about drink availability",
+    "start_time": "2:09",
+    "end_time": "2:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a person with curly dark hair, wearing glasses, a dark navy or black long-sleeved sweater over a light blue collared shirt, and blue jeans. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:40": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:09": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:16": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:25": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:55": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "3:29": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "3:37": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "4:12": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "4:37": {
+                "distance": "1.2",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black Round Ottoman",
+        "description": "A small, black, cylindrical ottoman with a flat top, covered in a dark fabric. Approximate diameter 0.5 meters, height 0.4 meters.",
+        "key_frames": {
+            "0:15": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "80"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "100"
+            },
+            "1:32": {
+                "distance": "2.0",
+                "direction": "75"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "2:09": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "2:20": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "3:00": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "3:30": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "4:00": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "4:30": {
+                "distance": "1.8",
+                "direction": "80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A wooden rectangular dining table with a light-colored wood top and darker legs/frame. It has a ribbed, light-colored runner. Approximate size 2m x 1m.",
+        "key_frames": {
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "4:30": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the rectangular dining table, when the speech topic: \"inquiring about drink availability\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_387",
+    "video_id": "loc3_script3_seq4_rec2"
+}

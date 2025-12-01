@@ -1,0 +1,96 @@
+{
+    "event": "The speech topic 'stating need for only half a cup of coffee' comes up.",
+    "start_time": "02:30",
+    "end_time": "02:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with curly light brown/reddish hair, wearing a light blue/green short-sleeved button-up shirt, dark shorts (navy or black), and black socks/shoes. He is also wearing wired earphones that go over his ears and a small black device clipped to his shirt pocket. He is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "00:03": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "00:38": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "00:59": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "01:18": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "01:30": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "01:44": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "01:59": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "02:07": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "02:19": {
+                "distance": "1.5",
+                "direction": "25"
+            },
+            "02:30": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "02:33": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "02:45": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "02:58": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "03:06": {
+                "distance": "0.8",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, representing the egocentric viewpoint.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_facing_direction",
+        "description": "The direction the camera is pointing, which is 0 degrees by definition in an egocentric frame.",
+        "key_frames": {
+            "00:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating need for only half a cup of coffee\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_23",
+    "video_id": "loc1_script2_seq3_rec2"
+}

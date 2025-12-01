@@ -1,0 +1,100 @@
+{
+    "event": "Speech topic: \"calling video duration quick comparatively\"",
+    "start_time": "0:37",
+    "end_time": "0:42",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, face intentionally blurred. He is wearing a light green short-sleeved polo shirt and blue jeans. He appears to be of average to larger build. He is the one who says 'It's pretty quick' comparing the video's duration.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A modern-style three-seater couch, upholstered in light gray fabric with visible texture. It has cylindrical, medium-brown wooden legs. At the beginning of the video (0:00-0:03), a white blanket with the word 'NOBODY' in black capital letters is draped over its back. The sounding object (man) sits on this couch from 0:12 onwards. It is positioned against a wall with a large painting and near a fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-colored refrigerator",
+        "description": "A tall, rectangular, light-colored (appears white or light stainless steel) refrigerator. It is located in the kitchen area, integrated into the kitchen cabinetry on the far side of the room from the couches. It has two doors, typical of a fridge-freezer combination.",
+        "key_frames": {
+            "0:00": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "0:01": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "25"
+            },
+            "0:41": {
+                "distance": "5.5",
+                "direction": "25"
+            },
+            "1:00": {
+                "distance": "5.5",
+                "direction": "25"
+            },
+            "1:35": {
+                "distance": "5.5",
+                "direction": "25"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the light-colored refrigerator, when the speech topic: \"calling video duration quick comparatively\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_346",
+    "video_id": "loc3_script2_seq7_rec2"
+}

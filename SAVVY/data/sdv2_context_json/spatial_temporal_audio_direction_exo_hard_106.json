@@ -1,0 +1,112 @@
+{
+    "event": "A thud sound occurs, and the task is to determine its location relative to a hypothetical robot standing by a double-basin sink and facing an electric cooktop.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The sounding object is the front door of the house. It is a dark brown/black door, likely wooden or metal, featuring ornate black wrought iron scrollwork over textured glass panels. It is a standard exterior door size.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "double-basin rectangular sink and tap",
+        "description": "A stainless steel, undermount, double-basin rectangular kitchen sink with a modern tap, set into a granite countertop on the central kitchen island.",
+        "key_frames": {
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:46": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:48": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "0:53": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "4.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "electric cooktop",
+        "description": "A black glass-ceramic electric cooktop with multiple circular burner markings, built into the granite countertop of the kitchen island, located to the physical left of the double-basin sink.",
+        "key_frames": {
+            "0:46": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:47": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:48": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:49": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "0:55": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:58": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "1:03": {
+                "distance": "4.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the electric cooktop, when the thud sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_106",
+    "video_id": "loc2_script2_seq1_rec2"
+}

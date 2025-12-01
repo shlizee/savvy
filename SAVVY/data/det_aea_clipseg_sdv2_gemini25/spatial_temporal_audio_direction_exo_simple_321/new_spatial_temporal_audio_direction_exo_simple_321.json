@@ -1,0 +1,192 @@
+{
+    "event": "A person asks about other uses for a bag sealer.",
+    "start_time": "01:34",
+    "end_time": "01:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a woman with long dark hair, wearing glasses, a yellow knitted sleeveless top/vest over a white t-shirt, and blue jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "00:02": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "00:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:34": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "00:38": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "00:45": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:49": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "00:52": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "00:55": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:02": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "01:10": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "01:20": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:30": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:35": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:40": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:45": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "01:53": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. It has two oven compartments stacked vertically. Located on the kitchen wall.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "00:05": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "00:17": {
+                "distance": "2.0",
+                "direction": "-85"
+            },
+            "00:27": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "00:33": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "00:42": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "00:51": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "01:01": {
+                "distance": "4.5",
+                "direction": "-45"
+            },
+            "01:15": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "01:45": {
+                "distance": "4.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sink with a tap",
+        "description": "A stainless steel sink, likely double basin, with a modern gooseneck tap. It is set into the white countertop of the kitchen island.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "00:16": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "00:20": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "00:34": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "00:42": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "00:51": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "01:01": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "01:15": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:45": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the sink with a tap, when the speech topic: \"asking about other bag sealer uses\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_321",
+    "video_id": "loc3_script2_seq4_rec1"
+}

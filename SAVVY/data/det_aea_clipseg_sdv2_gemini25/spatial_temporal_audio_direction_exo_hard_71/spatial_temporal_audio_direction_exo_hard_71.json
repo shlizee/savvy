@@ -1,0 +1,180 @@
+{
+    "event": "Speaker's location relative to a robot by the fireplace, facing an armchair, when the speech topic 'stating inability to recall the movie's start' occurs.",
+    "start_time": "2:39",
+    "end_time": "2:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male person with curly brown hair, wearing glasses, a light teal short-sleeved collared shirt, and dark shorts. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:14": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "2.2",
+                "direction": "-10"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:35": {
+                "distance": "2.1",
+                "direction": "-10"
+            },
+            "2:11": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "2:39": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "3:30": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "4:00": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "4:22": {
+                "distance": "2.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white fireplace built into the wall, with a mantelpiece. It has a black firebox opening. Decorations are on the mantel.",
+        "key_frames": {
+            "0:06": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:16": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:11": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:11": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "2:39": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "3:08": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "4:22": {
+                "distance": "2.5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair. It is one of two similar armchairs in the room, located near a large arched window. This specific one is closer to a painting on the wall to its left (when viewed from the center of the room).",
+        "key_frames": {
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:16": {
+                "distance": "3.8",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:11": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:11": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:39": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "3:08": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "4:22": {
+                "distance": "3.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing the light-gray armchair closer to the wall painting, when the speech topic: \"stating inability to recall the movie's start\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_71",
+    "video_id": "loc1_script2_seq7_rec1"
+}

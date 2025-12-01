@@ -1,0 +1,80 @@
+{
+    "00480": {
+        "Adult male, dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Medium build. Approximate height 1.7-1.8m.": {
+            "direction": 50.54,
+            "distance": 2.79,
+            "det_conf": [
+                0.5023844242095947,
+                0.5626263618469238,
+                0.5290366411209106,
+                0.5359703302383423,
+                0.5642867684364319
+            ]
+        }
+    },
+    "00780": {
+        "Adult male, dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Medium build. Approximate height 1.7-1.8m.": {
+            "direction": 56.47,
+            "distance": 1.07,
+            "det_conf": [
+                0.5001466870307922,
+                0.35343196988105774,
+                0.3226751387119293,
+                0.42288878560066223,
+                0.44280609488487244
+            ]
+        }
+    },
+    "02700": {
+        "Adult male, dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Medium build. Approximate height 1.7-1.8m.": {
+            "direction": 61.4,
+            "distance": 2.0,
+            "det_conf": [
+                0.523126482963562,
+                0.5085848569869995,
+                0.37376144528388977,
+                0.5084993243217468,
+                0.35920190811157227
+            ]
+        }
+    },
+    "02710": {
+        "Adult male, dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Medium build. Approximate height 1.7-1.8m.": {
+            "direction": 27.07,
+            "distance": 2.11,
+            "det_conf": [
+                0.4871751070022583,
+                0.5368468761444092,
+                0.2162950187921524,
+                0.5297548174858093,
+                0.46679750084877014
+            ]
+        }
+    },
+    "02780": {
+        "Adult male, dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Medium build. Approximate height 1.7-1.8m.": {
+            "direction": 36.64,
+            "distance": 3.01,
+            "det_conf": [
+                0.5252411961555481,
+                0.5071630477905273,
+                0.5332208871841431,
+                0.35457926988601685,
+                0.10660599917173386
+            ]
+        }
+    },
+    "02810": {
+        "Adult male, dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Medium build. Approximate height 1.7-1.8m.": {
+            "direction": 14.62,
+            "distance": 3.64,
+            "det_conf": [
+                0.5543016195297241,
+                0.4066171944141388,
+                0.5187110304832458,
+                0.07574435323476791,
+                0.2944048345088959
+            ]
+        }
+    }
+}

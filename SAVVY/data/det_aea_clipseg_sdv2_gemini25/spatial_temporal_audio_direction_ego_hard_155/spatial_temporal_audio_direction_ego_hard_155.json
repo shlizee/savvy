@@ -1,0 +1,76 @@
+{
+    "event": "A creak and thud sound, identified as the front door closing.",
+    "start_time": "01:30",
+    "end_time": "01:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The front door of the house. It is a dark brown, likely wooden door, with a large rectangular glass panel inset with decorative black wrought iron scrollwork. It has a matching sidelight panel to its right (from the inside perspective). The door handle is on the left side (from the inside). Approximate height 2-2.2 meters, width 0.8-0.9 meters.",
+        "is_static": false,
+        "key_frames": {
+            "01:17": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "01:21": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:22": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "01:24": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:25": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "01:28": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "01:30": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "01:31": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, whose perspective is being used.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Doorway/Front Door",
+        "description": "The direction the camera is pointing. At the time of the event, the camera is facing the front door as it closes.",
+        "key_frames": {
+            "01:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:31": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are facing, where is the sound source: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_155",
+    "video_id": "loc2_script2_seq8_rec2"
+}

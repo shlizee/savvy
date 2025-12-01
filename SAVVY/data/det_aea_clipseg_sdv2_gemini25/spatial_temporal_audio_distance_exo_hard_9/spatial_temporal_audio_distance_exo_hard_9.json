@@ -1,0 +1,109 @@
+{
+    "event": "Speech topic: \"observing blue sky appearing\"",
+    "start_time": "1:13",
+    "end_time": "1:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is the guest, a man with curly brown hair, wearing glasses, a light teal short-sleeved button-up shirt, and dark shorts. He has wired earbuds around his neck/over his ears. At the event time, he is holding a smartphone in his left hand and a beverage can (Arizona Iced Tea) in his right hand, standing in the living room. Approximate height 1.75m.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "0:39": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:13": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Armchair (Right, further from wall painting)",
+        "description": "A light-gray upholstered armchair with dark wooden legs. It has a blue rectangular pillow on it. This specific armchair is the one on the right side of a pair of armchairs situated near a large arched window. This position makes it further from the wall painting, which is located to the left of the pair of armchairs when viewed from the main living area.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:13": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace area",
+        "description": "The general area the camera (held by the host seated on a couch) is pointing towards at the event time. This area includes a white fireplace with a mantel, and a round mirror above the mantel. A TV is also in this area but not the direct focus.",
+        "key_frames": {
+            "1:13": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.3,
+    "question": "When the speech topic: \"observing blue sky appearing\" is mentioned, what is the distance between the light-gray armchair further from the wall painting and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_9",
+    "video_id": "loc1_script2_seq1_rec1"
+}

@@ -1,0 +1,240 @@
+{
+    "event": "A person suggests splitting coffee into two cups.",
+    "start_time": "02:27",
+    "end_time": "02:33",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing a light blue/teal short-sleeved button-up shirt, dark shorts, dark socks/shoes, headphones around his neck, and a small microphone clipped to his shirt. He is approximately 1.75-1.85 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:18": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:38": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "00:59": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "01:18": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "01:44": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:00": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:07": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:13": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:18": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:23": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:27": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:30": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:58": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "03:06": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "03:12": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, metallic, two-door stainless steel refrigerator, likely a standard kitchen appliance size.",
+        "key_frames": {
+            "00:17": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "00:18": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "00:38": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "00:59": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "01:19": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "01:44": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "02:00": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "02:07": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "02:13": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "02:18": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "02:23": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "02:27": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "02:30": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "02:58": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "03:06": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "03:12": {
+                "distance": "1.8",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Keurig coffee maker",
+        "description": "A black, single-serve pod coffee maker (Keurig K-Mini or similar model) located on the kitchen countertop.",
+        "key_frames": {
+            "00:22": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "00:38": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "00:41": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "00:59": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "01:13": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "01:18": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "01:41": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "01:51": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:07": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:13": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:18": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:23": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:27": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:40": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "02:47": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "02:58": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "03:06": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "03:12": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the countertop drip coffee maker, when the speech topic: \"suggesting splitting coffee into two cups\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_38",
+    "video_id": "loc1_script2_seq3_rec2"
+}

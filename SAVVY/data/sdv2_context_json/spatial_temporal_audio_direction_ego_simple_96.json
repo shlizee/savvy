@@ -1,0 +1,152 @@
+{
+    "event": "The speech topic 'identifying another room ('that room') during the tour' comes up.",
+    "start_time": "1:10",
+    "end_time": "1:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man wearing a turquoise blue short-sleeved polo shirt, khaki cargo shorts, white athletic sneakers, and dark-rimmed glasses. He has short brown hair and is also wearing wired earbuds, with the wire running down his shirt. He appears to be of average height and build. This is the person giving the tour.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:46": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:56": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:17": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:27": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:32": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:37": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:44": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person, providing an egocentric first-person perspective. The wearer's hands, legs, and a beverage can are occasionally visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Hallway view",
+        "description": "At the moment of the event (1:10), the camera is facing down a tiled hallway. The hallway has white walls and several closed and open doorways leading to other rooms. The floor is made of large, light-brown square tiles. The lighting in the hallway is somewhat dim compared to the adjacent rooms.",
+        "key_frames": {
+            "1:10": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"identifying another room ('that room') during the tour\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_96",
+    "video_id": "loc2_script2_seq2_rec1"
+}

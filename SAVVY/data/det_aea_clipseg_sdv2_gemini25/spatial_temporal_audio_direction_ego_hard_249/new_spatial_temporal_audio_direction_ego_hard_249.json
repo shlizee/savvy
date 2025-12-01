@@ -1,0 +1,120 @@
+{
+    "event": "Location of the other person (Michael) relative to the camera wearer's facing direction when the camera wearer says 'we do not turn on the dishwasher'.",
+    "start_time": "2:18",
+    "end_time": "2:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), wearing a light blue/teal short-sleeved polo shirt, khaki shorts, glasses, and a black headset with a microphone. He has short brown hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:59": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "1:16": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:27": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:46": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:18": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:31": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "2:50": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "3:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:39": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:49": {
+                "distance": "2.0",
+                "direction": "170"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, providing a first-person perspective. The instruction about the dishwasher is spoken by the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Dishwasher",
+        "description": "The open dishwasher that the camera wearer is looking at and interacting with at the moment the speech occurs. This defines the 'facing' direction.",
+        "key_frames": {
+            "2:18": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing turning on dishwasher\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_249",
+    "video_id": "loc2_script3_seq5_rec1"
+}

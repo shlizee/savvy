@@ -1,0 +1,180 @@
+{
+    "event": "Camera wearer suggests grabbing plates.",
+    "start_time": "0:06",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, wearing a light teal short-sleeved polo shirt with a small logo on the left chest, khaki cargo shorts, and glasses. He has short dark hair and is holding a smartphone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "1.6",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:04": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "2:03": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "3:20": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "3:55": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "4:08": {
+                "distance": "1.0",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male, medium build, wearing a light teal short-sleeved polo shirt with a small logo on the left chest, khaki cargo shorts, and glasses. He has short dark hair and is holding a smartphone. This is the object the camera is primarily facing during the specified event and other key interaction moments.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "1.6",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:04": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "2:03": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "3:20": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "3:55": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "4:08": {
+                "distance": "1.0",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "1.6",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting grabbing plates\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_188",
+    "video_id": "loc2_script3_seq4_rec2"
+}

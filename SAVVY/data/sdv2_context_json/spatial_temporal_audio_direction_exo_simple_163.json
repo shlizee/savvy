@@ -1,0 +1,196 @@
+{
+    "event": "Speaker states who should take the first turn in a game.",
+    "start_time": "1:38",
+    "end_time": "1:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue polo shirt, khaki shorts, white sneakers, glasses, and a gold watch. He is sitting on a dark brown bar stool with a metal frame at the wooden kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:46": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "4:13": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "Black, flat electric cooktop, likely ceramic glass, built into the wooden kitchen island. It is rectangular, approximately 0.8m x 0.5m.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:32": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:55": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "4:00": {
+                "distance": "0.8",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "Standard-sized built-in dishwasher with a stainless steel front panel, located under the kitchen counter along the wall with wooden cabinets, to the left of the main kitchen sink.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the built-in stainless steel dishwasher, when the speech topic: \"stating taking the first turn\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_163",
+    "video_id": "loc2_script2_seq5_rec1"
+}

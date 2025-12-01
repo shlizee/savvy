@@ -1,0 +1,96 @@
+{
+    "event": "The other person describes their flight as smooth on American Airlines.",
+    "start_time": "0:48",
+    "end_time": "0:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing glasses, a light blue/green short-sleeved button-up shirt, and dark shorts. He has wired headphones around his neck and is initially holding a phone. Later, he holds a can of Arizona iced tea. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:54": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:05": {
+                "distance": "1.6",
+                "direction": "10"
+            },
+            "1:18": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:48": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "environment",
+        "description": "The direction the camera is pointing within the environment.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing the flight as smooth on american airlines\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_4",
+    "video_id": "loc1_script2_seq1_rec1"
+}

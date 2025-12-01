@@ -1,0 +1,152 @@
+{
+    "event": "Speech topic: \"differentiating meat type from ground beef regarding doneness\"",
+    "start_time": "01:50",
+    "end_time": "01:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a teal/blue short-sleeved polo shirt, khaki shorts, and glasses. He is also wearing a watch on his left wrist and has a wired earpiece in his right ear. Approximate height around 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "00:03": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:12": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "00:22": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "00:25": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "00:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:04": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:16": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:28": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:57": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:03": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:47": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "03:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "03:16": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "03:40": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "03:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "04:04": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "04:08": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with short, dark hair, wearing a teal/blue short-sleeved polo shirt, khaki shorts, and glasses.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "00:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:57": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "04:08": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "0.8",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"differentiating meat type from ground beef regarding doneness\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_195",
+    "video_id": "loc2_script3_seq4_rec2"
+}

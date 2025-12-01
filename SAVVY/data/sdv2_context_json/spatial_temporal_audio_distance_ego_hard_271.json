@@ -1,0 +1,132 @@
+{
+    "event": "The speech topic 'asking if other person has video to show' comes up.",
+    "start_time": "0:50",
+    "end_time": "0:51",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. He is initially sitting at a table, then moves to a couch and sits to the left of the camera wearer, looking at his phone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-55"
+            },
+            "0:37": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the user, representing the user's point of view. The user is sitting on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The person the camera wearer is interacting with. Adult male, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. This is the same as the sounding object for this event.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-55"
+            },
+            "0:37": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking if other person has video to show\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_271",
+    "video_id": "loc3_script2_seq7_rec2"
+}

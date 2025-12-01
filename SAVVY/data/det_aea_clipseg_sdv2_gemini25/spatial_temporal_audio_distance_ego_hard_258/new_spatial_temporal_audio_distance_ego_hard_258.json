@@ -1,0 +1,172 @@
+{
+    "event": "Speech topic: 'mentioning starting with tradeking account' comes up",
+    "start_time": "01:23",
+    "end_time": "01:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A smartphone, dark-colored (likely black or dark grey), with an illuminated screen displaying a video. It is being held by the camera wearer. Approximate size of a standard smartphone (e.g., 6-7 inches diagonally).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer. The wearer appears to be a male, wearing a green t-shirt and blue jeans. A gold-colored watch is visible on his left wrist. The camera is capturing the scene from his viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A woman with long, dark, curly hair. She is wearing a yellow knitted short-sleeve top over a white t-shirt with lace trim, and light blue jeans. She is also wearing colorful patterned socks. ",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:01": {
+                "distance": "1.6",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "55"
+            },
+            "0:08": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "1:23": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "60"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"mentioning starting with tradeking account\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_258",
+    "video_id": "loc3_script2_seq7_rec1"
+}

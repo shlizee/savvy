@@ -1,0 +1,176 @@
+{
+    "event": "Speaker specifying grabbing a particular plate",
+    "start_time": "0:22",
+    "end_time": "0:24",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. He is the person speaking and interacting with the plates.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:41": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:05": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:43": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "3:06": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "3:22": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "3:48": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "4:02": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "4:08": {
+                "distance": "2.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with tap",
+        "description": "A dark-colored (likely black or dark grey) round sink embedded in a granite countertop, with a metallic gooseneck tap. This is the robot's location.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "0:03": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:34": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:10": {
+                "distance": "4.5",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "4.5",
+                "direction": "-5"
+            },
+            "3:00": {
+                "distance": "4.5",
+                "direction": "-5"
+            },
+            "4:00": {
+                "distance": "4.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors/windows on an exterior wall, offering a view of an outdoor pool and patio area. This is the direction the robot is facing.",
+        "key_frames": {
+            "0:08": {
+                "distance": "4.5",
+                "direction": "60"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:59": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the window with a pool view, when the speech topic: \"specifying grabbing a particular plate\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_254",
+    "video_id": "loc2_script3_seq4_rec1"
+}

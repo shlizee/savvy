@@ -1,0 +1,123 @@
+{
+    "event": "complimenting michael's cooking",
+    "start_time": "03:54",
+    "end_time": "03:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person whose first-person perspective the video is from. Their hands are visible, one wearing a gold-colored digital watch. They are speaking the compliment while seated at a table eating.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "04:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "A large, full-size, two-door side-by-side stainless steel refrigerator with an ice/water dispenser on the left door. It is located in the kitchen, built into the cabinetry on the left side of a counter run.",
+        "key_frames": {
+            "00:11": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "00:35": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "00:40": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "00:43": {
+                "distance": "0.4",
+                "direction": "-70"
+            },
+            "00:56": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:57": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "00:59": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "01:45": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "02:30": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "03:15": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "03:54": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "04:03": {
+                "distance": "2.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 3.5,
+    "question": "When the speech topic: \"complimenting michael's cooking\" is mentioned, what is the distance between the stainless steel refrigerator and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_209",
+    "video_id": "loc2_script3_seq4_rec1"
+}

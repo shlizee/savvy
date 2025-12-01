@@ -1,0 +1,128 @@
+{
+    "event": "The other person describes popcorn as 'pre-fired' (actually says 'pretty fire').",
+    "start_time": "0:41",
+    "end_time": "0:43",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person with a dark beard and glasses, wearing a light blue/teal short-sleeved polo shirt and khaki shorts. He is also wearing a wired earpiece connected to a device he holds. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:26": {
+                "distance": "4.0",
+                "direction": "50"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:38": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:41": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, whose hands are visible at times holding a phone, a coffee mug, and a bag of popcorn. Wearing a light blue t-shirt.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's view",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing popcorn as pre-fired\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_109",
+    "video_id": "loc2_script2_seq4_rec1"
+}

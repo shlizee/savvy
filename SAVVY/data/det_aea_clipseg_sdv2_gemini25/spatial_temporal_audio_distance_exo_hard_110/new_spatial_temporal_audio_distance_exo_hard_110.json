@@ -1,0 +1,111 @@
+{
+    "event": "A person indicates that coffee is prepared and available.",
+    "start_time": "0:06",
+    "end_time": "0:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person wearing a light blue/teal polo shirt and khaki shorts. He is the one speaking and indicating coffee availability.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:09": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:36": {
+                "distance": "2.8",
+                "direction": "-75"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A small, wooden, rectangular dining table with two matching wooden chairs, located in a dining nook near large windows overlooking a pool.",
+        "key_frames": {
+            "0:35": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:41": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this specific distance calculation between two objects.",
+        "key_frames": {}
+    },
+    "prediction": 4.7,
+    "question": "When the speech topic: \"indicating prepared coffee availability\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_110",
+    "video_id": "loc2_script2_seq3_rec2"
+}

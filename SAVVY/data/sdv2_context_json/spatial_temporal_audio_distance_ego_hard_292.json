@@ -1,0 +1,83 @@
+{
+    "event": "The other person is narrating putting eggs in the fridge.",
+    "start_time": "0:32",
+    "end_time": "0:39",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male, wearing a light green short-sleeved collared shirt and blue jeans. He has short, dark hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "80"
+            },
+            "0:39": {
+                "distance": "4.0",
+                "direction": "80"
+            },
+            "0:40": {
+                "distance": "3.8",
+                "direction": "75"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:01": {
+                "distance": "3.0",
+                "direction": "60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is initially interacting with a phone, then picks up a book and sits on a couch.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The camera is generally facing towards a coffee table, and then towards the kitchen area when the other person is speaking from there.",
+        "key_frames": {}
+    },
+    "prediction": 4,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"narrating putting eggs in fridge\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_292",
+    "video_id": "loc3_script3_seq1_rec2"
+}

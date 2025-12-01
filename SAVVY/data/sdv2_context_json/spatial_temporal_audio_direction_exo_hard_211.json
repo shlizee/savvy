@@ -1,0 +1,88 @@
+{
+    "event": "Speaker 1 announces the location/presence of kabobs and discusses finding other cooking items like butter and a wok/knife.",
+    "start_time": "02:00",
+    "end_time": "02:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A low, rectangle wooden coffee table, medium to dark brown wood. Located in the living room in front of a couch. Various items like drinks and bowls are on it at the start of the video.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-100"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.",
+        "key_frames": {
+            "0:02": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "0:03": {
+                "distance": "5.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"announcing location of items\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_211",
+    "video_id": "loc2_script3_seq31_rec2"
+}

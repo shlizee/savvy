@@ -1,0 +1,88 @@
+{
+    "event": "Speech about having strategic plans (plots, plans, ploys)",
+    "start_time": "0:01:31",
+    "end_time": "0:01:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, face blurred, wearing a light green short-sleeved polo shirt and dark trousers. He has dark hair and is wearing a black headset with a microphone boom. He is sitting at a wooden table, across from the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "0:00:30": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "0:01:00": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "0:01:31": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "0.9",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A built-in kitchen appliance, consisting of two ovens stacked vertically. It has a stainless steel finish with black glass windows on the doors and stainless steel handles. It is integrated into dark brown wooden kitchen cabinetry in the background. Approximate width 60-70cm, height ~1-1.2m.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:00:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:01:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:01:31": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:02:00": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Connect 4 game board",
+        "description": "A blue plastic Connect 4 game board, standing vertically on the wooden table between the camera and the sounding_object. It has red and yellow circular game pieces.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:00:15": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:00:49": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.64,
+    "question": "When the speech topic: \"acknowledging having strategic plans\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_281",
+    "video_id": "loc3_script2_seq5_rec1"
+}

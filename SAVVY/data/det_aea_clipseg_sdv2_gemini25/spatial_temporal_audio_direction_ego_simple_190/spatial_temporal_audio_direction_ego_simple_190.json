@@ -1,0 +1,110 @@
+{
+    "event": "stating belief that bedrooms are unoccupied",
+    "start_time": "0:18",
+    "end_time": "0:20",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male wearing a grey short-sleeved polo shirt, dark shorts (possibly navy or black), dark sneakers with white soles, and dark-rimmed glasses. He has dark, somewhat curly hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:48": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:13": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:01": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "2:07": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:20": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:41": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:43": {
+                "distance": "0.7",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The point of view of the camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Camera Gaze",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating belief that bedrooms are unoccupied\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_190",
+    "video_id": "loc2_script3_seq32_rec1"
+}

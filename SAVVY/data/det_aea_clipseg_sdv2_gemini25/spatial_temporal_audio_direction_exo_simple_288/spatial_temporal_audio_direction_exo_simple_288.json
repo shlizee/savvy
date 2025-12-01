@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic: \"specifying playing the guitar\" comes up.",
+    "start_time": "1:12",
+    "end_time": "1:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, wavy brown hair, wearing a yellow knit sleeveless top over a white short-sleeved t-shirt, and light blue cuffed jeans. She is also wearing glasses pushed up on her head. She is the one speaking about playing the guitar.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:51": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "rectangular wooden coffee table",
+        "description": "A large, square (though described as rectangular in the prompt, it appears square), light-colored wooden coffee table. It has a colorful, patterned placemat or inlay in the center featuring images of food (burgers, fries, etc.), a white ceramic bunny figurine, and some coasters on it. The robot is hypothetically standing by this table.",
+        "key_frames": {
+            "0:11": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "window with a balcony view",
+        "description": "A large expanse of floor-to-ceiling windows and a sliding glass door that make up one wall of the living room, offering a view of an outdoor balcony and trees beyond. This is the direction the robot is hypothetically facing.",
+        "key_frames": {
+            "0:11": {
+                "distance": "6.0",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "0:56": {
+                "distance": "5.0",
+                "direction": "5"
+            },
+            "1:05": {
+                "distance": "5.0",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "5.0",
+                "direction": "5"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "5"
+            },
+            "1:45": {
+                "distance": "5.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the window with a balcony view, when the speech topic: \"specifying playing the guitar\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_288",
+    "video_id": "loc3_script2_seq1_rec2"
+}

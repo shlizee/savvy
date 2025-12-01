@@ -1,0 +1,134 @@
+{
+    "event": "Speculating and confirming mugs are by coffee",
+    "start_time": "0:18",
+    "end_time": "0:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene, appearing to be male, with curly, light brown/reddish hair. He is wearing a light teal or mint green short-sleeved button-up shirt, dark navy or black shorts, and black socks/shoes. He has headphones with a black wire draped around his neck, with the earpieces near his ears. He is also holding a smartphone in his right hand for part of the video and has a small black device (possibly a microphone or audio recorder) clipped to his shirt pocket. Approximate height seems average.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:10": {
+                "distance": "1.3",
+                "direction": "10"
+            },
+            "1:19": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:28": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "1:40": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:20": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:48": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:58": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "3:02": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:06": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "3:13": {
+                "distance": "0.8",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person view camera, serving as the origin (0,0) for all measurements. Its forward direction is 0 degrees.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Forward Direction",
+        "description": "The direction the camera is oriented, which defines the 0-degree (forward) axis for directional measurements of other objects.",
+        "key_frames": {}
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"speculating and confirming mugs are by coffee\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_17",
+    "video_id": "loc1_script2_seq3_rec2"
+}

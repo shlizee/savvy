@@ -1,0 +1,107 @@
+{
+    "event": "The speech topic: \"suggesting stopping the recording\" comes up.",
+    "start_time": "4:05",
+    "end_time": "4:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved collared shirt, dark shorts, glasses, and has curly dark hair. He is wearing an earpiece or headphones around his neck. Approximate height 1.7-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:22": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:34": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:38": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:07": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:07": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:09": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is recorded from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable as the reference is the camera itself in egocentric mode.",
+        "key_frames": {}
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting stopping the recording\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_187",
+    "video_id": "loc2_script3_seq4_rec1"
+}

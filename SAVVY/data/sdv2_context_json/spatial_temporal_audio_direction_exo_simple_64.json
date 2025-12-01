@@ -1,0 +1,148 @@
+{
+    "event": "Speaker praises a movie's music and humor based on a recent viewing.",
+    "start_time": "1:44",
+    "end_time": "1:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A young woman with long, dark, wavy brown hair, wearing a black short-sleeved crop top, light-wash blue jeans with a black belt, and black-framed smart glasses. She has a visible tattoo on her left forearm. She is the primary speaker during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:44": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "2:20": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "2:47": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "3:10": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "4:25": {
+                "distance": "1.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two round, nested coffee tables. The larger, lower table has a dark metal frame and a light-colored (possibly light wood or beige stone) circular top. The smaller, taller table, nested partially under the larger one, also has a dark metal frame and a similar light-colored circular top. They are positioned in front of the main grey sofa. Various items like remotes, a bag of pistachios, and a magazine are on the tables at different times.",
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:27": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair by window",
+        "description": "A light-gray upholstered armchair with visible wooden legs. It is situated near a large arched window and to the left of a white fireplace (when facing the fireplace area). This armchair is further from the prominent wall painting located above the fireplace compared to another similar armchair in the room.",
+        "key_frames": {
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:44": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "4:25": {
+                "distance": "3.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the light-gray armchair further from the wall painting, when the speech topic: \"praising movie's music and humor based on recent viewing\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_64",
+    "video_id": "loc1_script2_seq7_rec2"
+}

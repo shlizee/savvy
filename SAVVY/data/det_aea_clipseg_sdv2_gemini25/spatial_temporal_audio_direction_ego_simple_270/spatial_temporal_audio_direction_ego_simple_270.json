@@ -1,0 +1,121 @@
+{
+    "event": "The speech topic 'suggesting putting game away or ending' comes up.",
+    "start_time": "02:06",
+    "end_time": "02:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer, whose voice initiates the speech topic.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:06": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person wearing the camera, from whose perspective the direction is determined.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:06": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Man with a blurred face, wearing a green polo shirt, sitting across the table.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:06": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "02:08": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting putting game away or ending\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_270",
+    "video_id": "loc3_script2_seq5_rec1"
+}

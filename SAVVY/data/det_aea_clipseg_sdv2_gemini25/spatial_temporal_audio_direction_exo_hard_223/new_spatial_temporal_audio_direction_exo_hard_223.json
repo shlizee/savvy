@@ -1,0 +1,136 @@
+{
+    "event": "Speaker acknowledges flipping action and offers to find a plastic utensil.",
+    "start_time": "01:41",
+    "end_time": "01:46",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved polo shirt, dark (navy or black) shorts, black-rimmed glasses, and dark hair. Appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "00:03": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "00:28": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "00:41": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "00:43": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "01:11": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "01:14": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "01:41": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "01:44": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "02:41": {
+                "distance": "0.4",
+                "direction": "-10"
+            },
+            "02:43": {
+                "distance": "0.6",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Refrigerator",
+        "description": "Large, two-door stainless steel refrigerator with a water/ice dispenser on the left door. Standard kitchen appliance size, located on the right side of the kitchen.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "00:03": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:28": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "00:40": {
+                "distance": "1.8",
+                "direction": "85"
+            },
+            "01:11": {
+                "distance": "2.2",
+                "direction": "70"
+            },
+            "01:41": {
+                "distance": "2.0",
+                "direction": "75"
+            },
+            "01:58": {
+                "distance": "2.2",
+                "direction": "70"
+            },
+            "02:40": {
+                "distance": "1.5",
+                "direction": "80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors/windows making up most of the far wall of the kitchen, offering a clear view of an outdoor pool and patio area.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:03": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:28": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:40": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "01:11": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "01:41": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "01:58": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "02:40": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the window with a pool view, when the speech topic: \"acknowledging flipping action and offering to find plastic utensil\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_223",
+    "video_id": "loc2_script3_seq32_rec1"
+}

@@ -1,0 +1,70 @@
+{
+    "event": "Distance to other person when task completion is discussed.",
+    "start_time": "03:45",
+    "end_time": "03:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Person with blurred face, wearing a grey short-sleeved polo shirt, dark blue or black shorts, dark socks, and dark sneakers with white soles. Appears to be an adult male of average build. Has dark, curly hair. Wearing glasses. Has a lavalier microphone clipped to their shirt collar.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "00:17": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "00:49": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:13": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "02:20": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "02:40": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "03:15": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "03:28": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "03:42": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "03:45": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "03:48": {
+                "distance": "1.9",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this egocentric distance measurement; camera is generally facing the kitchen area where the other person is.",
+        "key_frames": {}
+    },
+    "prediction": 1.9,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"expressing belief task is complete\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_204",
+    "video_id": "loc2_script3_seq5_rec2"
+}

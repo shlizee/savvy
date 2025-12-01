@@ -1,0 +1,264 @@
+{
+    "event": "The camera wearer asks the other person if they play any instruments, and the other person confirms they play the guitar.",
+    "start_time": "1:08",
+    "end_time": "1:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, light brown curly hair, wearing a yellow knitted sleeveless top over a white t-shirt, light blue jeans rolled up at the ankles, and light-colored socks with a pattern. She is sitting on a light-colored couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:14": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:48": {
+                "distance": "2.8",
+                "direction": "20"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "25"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "0:58": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:04": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:08": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:11": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:14": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, who is asking the questions and interacting with the other person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "direction camera is facing",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"confirming instrument playing\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_260",
+    "video_id": "loc3_script2_seq1_rec2"
+}

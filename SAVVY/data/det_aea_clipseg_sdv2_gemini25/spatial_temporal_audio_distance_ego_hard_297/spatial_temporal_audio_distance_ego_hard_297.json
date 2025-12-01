@@ -1,0 +1,160 @@
+{
+    "event": "The other person is stating that trains have many stops.",
+    "start_time": "0:53",
+    "end_time": "1:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, likely male, with short, curly, light-colored (possibly blond or light brown) hair. They are wearing a dark (possibly navy or black) long-sleeved sweater or jacket over a light-colored (white or light blue) collared shirt, and blue denim jeans with white socks. They are sitting on a light-colored (beige or light grey) fabric couch. Approximate height while sitting is around 0.9-1.1 meters. The person is expressive with hand gestures while speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:53": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:48": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "2:45": {
+                "distance": "1.8",
+                "direction": "-35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewer's perspective. In egocentric mode, this is the origin (0,0).",
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person",
+        "description": "Same as the sounding object. This is the object the camera is primarily oriented towards during the event.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:30": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:53": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:48": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "2:45": {
+                "distance": "1.8",
+                "direction": "-35"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating trains have many stops\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_297",
+    "video_id": "loc3_script3_seq2_rec1"
+}

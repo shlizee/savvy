@@ -1,0 +1,184 @@
+{
+    "event": "The speech topic 'specifying the object as a rock formation' comes up.",
+    "start_time": "0:32",
+    "end_time": "0:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. They have a black earphone wire around their neck. They are initially seated on a couch to the camera wearer's left, and later stand and walk towards the front door.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:13": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:14": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:27": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with a blurred face, wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. They have a black earphone wire around their neck. They are initially seated on a couch to the camera wearer's left, and later stand and walk towards the front door.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:13": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:14": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:27": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"specifying the object as a rock formation\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_153",
+    "video_id": "loc2_script2_seq8_rec2"
+}

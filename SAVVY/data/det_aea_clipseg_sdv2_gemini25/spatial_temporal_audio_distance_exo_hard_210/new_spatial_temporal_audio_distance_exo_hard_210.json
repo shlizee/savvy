@@ -1,0 +1,115 @@
+{
+    "event": "Distance between the stainless steel double wall oven and the speech sound source when the topic 'suggesting stopping the recording' is mentioned.",
+    "start_time": "04:05",
+    "end_time": "04:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source: An adult male with curly dark brown hair, wearing a grey short-sleeved collared shirt, dark blue shorts, glasses, and a black neck-loop earpiece with a wire going to his ear. This person suggests stopping the recording.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:32": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "01:03": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "01:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:05": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "02:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "03:25": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "04:01": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "04:05": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Speech Sound Source (Person B)",
+        "description": "The person who suggests stopping the recording. This is the same as the 'sounding_object'. We are considering the distance from this person.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:32": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "01:03": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "01:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:05": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "02:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "03:25": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "04:01": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "04:05": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "Built-in stainless steel double wall oven, approximately 0.6m wide and 1.2m tall, located in the kitchen cabinetry to the right of a stainless steel refrigerator.",
+        "key_frames": {
+            "00:09": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "00:11": {
+                "distance": "3.0",
+                "direction": "-85"
+            }
+        }
+    },
+    "question": "When the speech topic: \"suggesting stopping the recording\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_210",
+    "video_id": "loc2_script3_seq4_rec1"
+}

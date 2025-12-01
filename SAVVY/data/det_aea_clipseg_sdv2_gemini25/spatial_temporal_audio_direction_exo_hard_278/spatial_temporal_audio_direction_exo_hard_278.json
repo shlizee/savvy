@@ -1,0 +1,142 @@
+{
+    "event": "A person suggests sitting down to talk.",
+    "start_time": "0:55",
+    "end_time": "0:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, approximately 5'10\"-6'0\" tall, medium build. He is wearing a short-sleeved turquoise/green polo shirt, blue denim jeans, and clear-rimmed glasses. He has short, dark, receding hair. This is Person 2 in the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:29": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "5.5",
+                "direction": "-35"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:25": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:52": {
+                "distance": "1.8",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A modern two-seater couch, approximately 1.8 meters wide. It is upholstered in a light gray or very light beige fabric. It has two seat cushions and two back cushions, with a low back and armrests. A red and white chevron patterned throw blanket is draped over its left armrest (camera left) when the camera is positioned on it. The camera person (Person 1) sits on this couch from 0:15 onwards.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Piano",
+        "description": "An upright acoustic piano, classic design, finished in polished black (ebony). It is approximately 1.5 meters wide and 1.2 meters tall. It is positioned against a white wall, with a framed picture (depicting a truck with an American flag design) hanging above it. It is located to the left side of the living room when entering from the hallway.",
+        "is_static": true,
+        "key_frames": {
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:55": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:40": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the piano, when the speech topic: \"suggesting sitting down to talk\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_278",
+    "video_id": "loc3_script2_seq1_rec1"
+}

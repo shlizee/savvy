@@ -1,0 +1,108 @@
+{
+    "event": "Determine the relative position of the other person when the speech topic 'describing state of egg cartons' comes up.",
+    "start_time": "0:42",
+    "end_time": "0:44",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair and is of average build. He is carrying paper grocery bags.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "75"
+            },
+            "0:40": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from. They are sitting on a couch in a living room, initially interacting with a phone, then reading a book.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Book 'Remodelista'",
+        "description": "A hardcover book titled 'Remodelista' with a black and white cover image of an interior space. The camera wearer is holding and reading this book.",
+        "key_frames": {
+            "0:06": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing state of egg cartons\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_292",
+    "video_id": "loc3_script3_seq1_rec2"
+}

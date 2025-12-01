@@ -1,0 +1,276 @@
+{
+    "event": "Speaker instructs water amount (8-10 ounces) for coffee maker.",
+    "start_time": "01:13",
+    "end_time": "01:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark curly hair, wearing a black short-sleeved crop top, light blue high-waisted jeans, and glasses. She is barefoot. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:10": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:20": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "00:25": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "00:30": {
+                "distance": "1.6",
+                "direction": "10"
+            },
+            "00:40": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:50": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "01:00": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "01:07": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "01:14": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "01:20": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "01:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "01:40": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "01:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "02:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "02:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "02:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "02:38": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "02:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "02:59": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:06": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "03:13": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop Drip Coffee Maker",
+        "description": "A black Keurig K-Mini or similar model single-serve coffee maker. It is compact, rectangular with rounded edges. Positioned on the white kitchen countertop. Approximate dimensions: 15cm wide, 30cm deep, 30cm high.",
+        "key_frames": {
+            "00:25": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "00:30": {
+                "distance": "1.7",
+                "direction": "15"
+            },
+            "00:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "00:50": {
+                "distance": "1.6",
+                "direction": "20"
+            },
+            "01:00": {
+                "distance": "1.6",
+                "direction": "20"
+            },
+            "01:07": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:14": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:20": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "01:50": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:15": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:38": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:50": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "02:59": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "03:06": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "03:13": {
+                "distance": "1.5",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Hob",
+        "description": "A stainless steel gas hob with multiple burners (appears to be 5 or 6). It is built into the white kitchen countertop to the right of the coffee maker (from camera's perspective). Approximate dimensions: 75cm wide, 50cm deep.",
+        "key_frames": {
+            "00:25": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:30": {
+                "distance": "1.9",
+                "direction": "25"
+            },
+            "00:40": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "00:50": {
+                "distance": "1.9",
+                "direction": "30"
+            },
+            "01:00": {
+                "distance": "1.9",
+                "direction": "30"
+            },
+            "01:07": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "01:14": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "01:20": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "01:30": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "01:40": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "01:50": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "02:00": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "02:15": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "02:30": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "02:38": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "02:50": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "02:59": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "03:06": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "03:13": {
+                "distance": "1.8",
+                "direction": "25"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the countertop drip coffee maker and facing the kitchen hob, when the speech topic: \"instructing water amount (8-10 ounces)\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_25",
+    "video_id": "loc1_script2_seq3_rec1"
+}

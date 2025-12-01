@@ -1,0 +1,100 @@
+{
+    "event": "A person asks if the recording task is finished or if they should sit down and talk.",
+    "start_time": "0:53",
+    "end_time": "0:55",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair and is of average build. He was initially carrying paper grocery bags.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.2",
+                "direction": "65"
+            },
+            "0:18": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:56": {
+                "distance": "2.8",
+                "direction": "25"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular wooden coffee table with a light to medium brown finish. It has items on it including a colorful placemat/runner, books, and coasters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.7",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large flat-screen TV mounted on the wall to the left of a stone-faced fireplace. The fireplace has a wooden mantel.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "3.6",
+                "direction": "-5"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the tv by the fireplace, when the speech topic: \"asking if recording task is finished or if they should talk\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_355",
+    "video_id": "loc3_script3_seq1_rec2"
+}

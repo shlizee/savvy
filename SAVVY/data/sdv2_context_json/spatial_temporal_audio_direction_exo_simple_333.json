@@ -1,0 +1,188 @@
+{
+    "event": "The speaker offers the opponent the first turn in a game of Connect 4.",
+    "start_time": "0:50",
+    "end_time": "0:51",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a light green short-sleeved polo shirt. He has short, dark hair and is wearing an earbud in his right ear connected by a black wire. He wears a gold-colored watch on his left wrist. He is seated at a wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "0:55": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "1:01": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "1:10": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "1:22": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "1:31": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "1:42": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "1:50": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "2:01": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "2:06": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:09": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch with light-colored wooden legs. A dark gray or black blanket with white text \"NOBODY\" is draped over its backrest. It has two seat cushions and two back cushions.",
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:08": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace (assumed on wall with bookshelves)",
+        "description": "The fireplace is not directly visible. It is assumed to be on the wall that the light-gray couch is facing, which contains bookshelves and a large window/door. This wall is to the far left of the camera's field of view.",
+        "key_frames": {
+            "0:02": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "2:08": {
+                "distance": "3.5",
+                "direction": "-85"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the fireplace, when the speech topic: \"offering opponent the first turn\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_333",
+    "video_id": "loc3_script2_seq5_rec1"
+}

@@ -1,0 +1,115 @@
+{
+    "event": "The other person admits a lack of specific band knowledge related to a song in the movie Shrek 2.",
+    "start_time": "02:20",
+    "end_time": "02:26",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark brown wavy hair, wearing glasses with dark frames, a black short-sleeved crop top, and light blue denim jeans. She is barefoot. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "00:03": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:08": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "00:12": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "00:15": {
+                "distance": "1.6",
+                "direction": "-45"
+            },
+            "00:25": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "00:45": {
+                "distance": "1.6",
+                "direction": "-55"
+            },
+            "01:12": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "01:35": {
+                "distance": "1.6",
+                "direction": "-55"
+            },
+            "01:43": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:00": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "02:20": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:23": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "02:26": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "02:45": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "03:10": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "03:30": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "04:00": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "04:25": {
+                "distance": "1.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "04:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for egocentric mode where the reference is the camera itself.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"admitting lack of specific band knowledge\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_67",
+    "video_id": "loc1_script2_seq7_rec2"
+}

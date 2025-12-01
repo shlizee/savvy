@@ -1,0 +1,96 @@
+{
+    "event": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the round sink with a tap, when the speech topic: \"instructing person not to come through currently\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "start_time": "0:50",
+    "end_time": "0:52",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a turquoise t-shirt and khaki shorts. He has short brown hair and is wearing glasses. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:34": {
+                "distance": "0.9",
+                "direction": "-10"
+            },
+            "1:42": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:46": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:07": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "1.2",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dishwasher",
+        "description": "A built-in stainless steel dishwasher, located to the left of the sink.",
+        "key_frames": {
+            "0:06": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:37": {
+                "distance": "0.3",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sink",
+        "description": "A round, black sink with a silver tap, set into a granite countertop.",
+        "key_frames": {
+            "0:08": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the round sink with a tap, when the speech topic: \"instructing person not to come through currently\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_235",
+    "video_id": "loc2_script3_seq33_rec2"
+}

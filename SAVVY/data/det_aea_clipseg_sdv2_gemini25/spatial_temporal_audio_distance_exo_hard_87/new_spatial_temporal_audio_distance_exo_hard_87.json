@@ -1,0 +1,80 @@
+{
+    "event": "Inquiring about available drinks",
+    "start_time": "0:20",
+    "end_time": "0:34",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A double-basin rectangular sink with a gooseneck tap, located on the kitchen island. The basins appear to be undermount stainless steel. The countertop is a mottled granite or engineered stone (beige, grey, brown tones). The tap is metallic silver. Each basin is approximately 0.35-0.4m wide and 0.4-0.45m front-to-back.",
+        "is_static": true,
+        "key_frames": {
+            "0:43": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:46": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "0:56": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "0:58": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, held by the host, representing one of the speech sound sources.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general direction of view",
+        "description": "The direction the camera is pointing. During the speech event (0:20-0:34), it's generally towards the guest in the living room.",
+        "key_frames": {
+            "0:25": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 6.7,
+    "question": "When the speech topic: \"inquiring about available drinks\" is mentioned, what is the distance between the double-basin rectangular sink and tap and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_87",
+    "video_id": "loc2_script2_seq1_rec2"
+}

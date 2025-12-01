@@ -1,0 +1,127 @@
+{
+    "event": "Camera wearer indicates their current intended use of a specific utensil (spatula).",
+    "start_time": "1:38",
+    "end_time": "1:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene. An adult male, wearing a grey short-sleeved polo shirt, dark shorts, glasses, and has dark hair. Appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "1.1",
+                "direction": "-25"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:41": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "0:43": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "1:11": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:13": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:38": {
+                "distance": "0.5",
+                "direction": "75"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "35"
+            },
+            "1:42": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "1:57": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:01": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:09": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:29": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "2:42": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "2:48": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the person, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"indicating current use of specific utensil\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_143",
+    "video_id": "loc2_script3_seq32_rec1"
+}

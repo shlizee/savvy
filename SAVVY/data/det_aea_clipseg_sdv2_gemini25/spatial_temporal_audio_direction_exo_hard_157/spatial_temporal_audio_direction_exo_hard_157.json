@@ -1,0 +1,140 @@
+{
+    "event": "A person (man in blue shirt) suggests putting an item (Scrabble box lid) aside while setting up a Scrabble game at a kitchen island.",
+    "start_time": "0:24",
+    "end_time": "0:26",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has short brown hair and is sitting on a bar stool at a kitchen island. Approximate height when sitting is 1.3m, width 0.5m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:55": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "3:05": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "1.8",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, smooth-top electric cooktop, integrated into the wooden kitchen island. Appears to have multiple burners. Rectangular shape, approximately 0.8m x 0.5m.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "Standard-sized built-in dishwasher with a stainless steel front panel. Located under the kitchen counter, to the left of the sink area, against the wall with wooden cabinets. Approximate dimensions: 0.6m width x 0.85m height.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the built-in stainless steel dishwasher, when the speech topic: \"suggesting putting item aside\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_157",
+    "video_id": "loc2_script2_seq5_rec1"
+}

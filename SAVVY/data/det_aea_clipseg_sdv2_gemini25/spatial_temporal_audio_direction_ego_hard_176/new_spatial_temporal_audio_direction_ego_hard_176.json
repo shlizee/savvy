@@ -1,0 +1,136 @@
+{
+    "event": "The other person explains that the stove setting represents the heat level.",
+    "start_time": "1:49",
+    "end_time": "1:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a grey short-sleeved shirt, dark shorts, and glasses. They are also wearing an earpiece or headset.",
+        "is_static": false,
+        "key_frames": {
+            "0:1": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:5": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:11": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:19": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:39": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:49": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:59": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "2:3": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:33": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:0": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:0": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:0": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_view_center",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:0": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:0": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:0": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining stove setting represents heat level\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_176",
+    "video_id": "loc2_script3_seq31_rec1"
+}

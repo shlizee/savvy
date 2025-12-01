@@ -1,0 +1,108 @@
+{
+    "event": "Speech topic: \"calling video duration quick comparatively\"",
+    "start_time": "0:37",
+    "end_time": "0:42",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, face blurred, wearing a light green/teal short-sleeved polo shirt and blue jeans. He has short dark hair. Appears to be of average to large build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A small, black, four-legged animal sculpture, possibly resembling a dog or goat. It appears to be made of a dark, matte material. It is approximately 0.5-0.7 meters tall and is standing on the wooden floor near the large sliding glass doors.",
+        "key_frames": {
+            "0:10": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:37": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:42": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A large, wooden rectangular dining table, light-colored wood. It has four legs. At the beginning of the video, it has a Connect Four game, a glass, and other items on it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "4.0",
+                "direction": "70"
+            },
+            "0:37": {
+                "distance": "4.5",
+                "direction": "165"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the black decorative animal sculpture and facing the rectangular dining table, when the speech topic: \"calling video duration quick comparatively\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_345",
+    "video_id": "loc3_script2_seq7_rec2"
+}

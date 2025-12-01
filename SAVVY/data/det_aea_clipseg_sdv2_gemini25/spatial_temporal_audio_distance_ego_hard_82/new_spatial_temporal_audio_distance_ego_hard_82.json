@@ -1,0 +1,169 @@
+{
+    "event": "expressing doubt about properly shaking creamer",
+    "start_time": "0:56",
+    "end_time": "0:58",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person wearing the camera, whose speech indicates doubt about shaking the creamer. This person is not visible in the egocentric view, but their hands are visible holding objects like a phone, coffee mug, and creamer. They are wearing a light blue t-shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:15": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:30": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:45": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:56": {
+                "distance": 0,
+                "direction": 0
+            },
+            "1:00": {
+                "distance": 0,
+                "direction": 0
+            },
+            "1:15": {
+                "distance": 0,
+                "direction": 0
+            },
+            "1:30": {
+                "distance": 0,
+                "direction": 0
+            },
+            "1:40": {
+                "distance": 0,
+                "direction": 0
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the viewpoint of the person speaking (camera wearer).",
+        "key_frames": {
+            "0:00": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:15": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:30": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:45": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:56": {
+                "distance": 0,
+                "direction": 0
+            },
+            "1:00": {
+                "distance": 0,
+                "direction": 0
+            },
+            "1:15": {
+                "distance": 0,
+                "direction": 0
+            },
+            "1:30": {
+                "distance": 0,
+                "direction": 0
+            },
+            "1:40": {
+                "distance": 0,
+                "direction": 0
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person in the scene, a male with a dark beard and glasses, wearing a light blue/teal short-sleeved collared shirt and khaki shorts. He is also wearing a wired earpiece on his left ear.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": 1.2,
+                "direction": -5
+            },
+            "0:10": {
+                "distance": 1.5,
+                "direction": 5
+            },
+            "0:16": {
+                "distance": 2.8,
+                "direction": 35
+            },
+            "0:25": {
+                "distance": 4.0,
+                "direction": 40
+            },
+            "0:33": {
+                "distance": 3.5,
+                "direction": 30
+            },
+            "0:41": {
+                "distance": 1.2,
+                "direction": 5
+            },
+            "0:43": {
+                "distance": 0.8,
+                "direction": 0
+            },
+            "0:46": {
+                "distance": 1.0,
+                "direction": -5
+            },
+            "0:51": {
+                "distance": 1.1,
+                "direction": 0
+            },
+            "0:56": {
+                "distance": 1.0,
+                "direction": 5
+            },
+            "0:58": {
+                "distance": 1.0,
+                "direction": 5
+            },
+            "1:06": {
+                "distance": 1.2,
+                "direction": 10
+            },
+            "1:09": {
+                "distance": 0.8,
+                "direction": -5
+            },
+            "1:17": {
+                "distance": 1.0,
+                "direction": 0
+            },
+            "1:22": {
+                "distance": 2.0,
+                "direction": 20
+            },
+            "1:37": {
+                "distance": 1.5,
+                "direction": 5
+            },
+            "1:39": {
+                "distance": 1.0,
+                "direction": 0
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"expressing doubt about properly shaking creamer\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_82",
+    "video_id": "loc2_script2_seq4_rec1"
+}

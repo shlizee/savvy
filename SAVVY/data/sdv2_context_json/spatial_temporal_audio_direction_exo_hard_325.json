@@ -1,0 +1,150 @@
+{
+    "event": "Speech topic: 'acknowledging having strategic plans' comes up, and determining the location of the male speaker relative to a hypothetical robot observer.",
+    "start_time": "01:30",
+    "end_time": "01:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, face blurred, wearing a light green short-sleeved polo shirt and dark-rimmed glasses (visible when he turns his head slightly). He has short dark hair. He is seated at the dining table, opposite the camera.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:08": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "Large wooden rectangular dining table with a light brown wood grain. The Connect 4 game is played on it. The robot is assumed to be standing by this table, at the camera's location.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "02:08": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "Stainless steel double wall oven, built into dark wooden kitchen cabinetry in the background. The top unit appears to be a microwave, and the bottom unit a conventional oven.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "00:15": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "00:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "00:45": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:15": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "01:45": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "02:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "02:08": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the stainless steel double wall oven, when the speech topic: \"acknowledging having strategic plans\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_325",
+    "video_id": "loc3_script2_seq5_rec1"
+}

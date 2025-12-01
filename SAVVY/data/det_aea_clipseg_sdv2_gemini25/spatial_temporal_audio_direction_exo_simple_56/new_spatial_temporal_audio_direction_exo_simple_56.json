@@ -1,0 +1,164 @@
+{
+    "event": "expressing surprised relief about not resembling george",
+    "start_time": "1:20",
+    "end_time": "1:22",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male with curly brown hair, glasses, wearing a light teal/blue short-sleeved collared shirt, dark shorts, and wired earbuds. He is primarily seen sitting on a grey couch in the living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "1:11": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "2:11": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "2:29": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "2:47": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "3:08": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "4:22": {
+                "distance": "1.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two round nested coffee tables. The larger, lower table has a light-colored wood/laminate top and a dark metal frame. The smaller, taller table, also with a light top and dark frame, is partially tucked under the larger one. They are positioned in the center of the living room area.",
+        "key_frames": {
+            "0:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White Recessed Fireplace",
+        "description": "A white recessed fireplace built into the wall, with a white mantelpiece above it. There are some small decorative items on the mantel. It is located on the wall to the right of the TV (from the perspective of someone on the couch).",
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "2:20": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "2:59": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "3:07": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "4:20": {
+                "distance": "2.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the white recessed fireplace, when the speech topic: \"expressing surprised relief about not resembling george\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_56",
+    "video_id": "loc1_script2_seq7_rec1"
+}

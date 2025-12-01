@@ -1,0 +1,120 @@
+{
+    "event": "The other person is instructing the camera wearer on opening/setting up the Scrabble game.",
+    "start_time": "0:29",
+    "end_time": "0:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a light blue short-sleeved polo shirt and khaki shorts. He has a watch on his left wrist. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "35"
+            },
+            "0:12": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "0.9",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "0.9",
+                "direction": "5"
+            },
+            "1:05": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "1:55": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "2:04": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "2:10": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:09": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "3:55": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "4:13": {
+                "distance": "1.2",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing opening the game\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_121",
+    "video_id": "loc2_script2_seq5_rec1"
+}

@@ -1,0 +1,154 @@
+{
+    "event": "Commenting on taking a long sip",
+    "start_time": "03:11",
+    "end_time": "03:12",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult female, long dark brown curly hair, wearing thin-framed glasses, a black short-sleeved V-neck crop top, and light blue high-waisted jeans. A small black lavalier microphone pack is clipped to her right hip/belt loop, with the wire running up her shirt. She is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:03": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "00:07": {
+                "distance": "2.5",
+                "direction": "170"
+            },
+            "00:12": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:19": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "00:25": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:45": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "01:15": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "02:50": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "02:59": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "03:06": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "03:11": {
+                "distance": "1.2",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "Standard-sized stainless steel double wall oven, with two doors (upper and lower oven compartments), black glass windows on the doors, and stainless steel handles. It is built into white kitchen cabinetry, located to the right of a stainless steel refrigerator.",
+        "is_static": true,
+        "key_frames": {
+            "00:20": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "00:24": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "00:45": {
+                "distance": "3.2",
+                "direction": "45"
+            },
+            "01:01": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "01:20": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "02:50": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "03:11": {
+                "distance": "3.0",
+                "direction": "50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman (Sounding Object)",
+        "description": "The woman described as the sounding object. This is for completing the template; the keyframes are camera-centric.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "00:03": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "00:07": {
+                "distance": "2.5",
+                "direction": "170"
+            },
+            "00:12": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:19": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "00:25": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:45": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "01:15": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "02:50": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "02:59": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "03:06": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "03:11": {
+                "distance": "1.2",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": 2.62,
+    "question": "When the speech topic: \"commenting on taking a long sip\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_27",
+    "video_id": "loc1_script2_seq3_rec1"
+}

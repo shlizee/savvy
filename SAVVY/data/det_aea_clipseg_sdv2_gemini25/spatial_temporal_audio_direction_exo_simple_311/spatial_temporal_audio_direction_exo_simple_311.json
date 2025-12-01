@@ -1,0 +1,152 @@
+{
+    "event": "Speaker instructs to turn off heat (stove/kettle)",
+    "start_time": "1:38",
+    "end_time": "1:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, appears to be of average height and build. He is wearing a short-sleeved green polo shirt and blue jeans. He has short, dark hair and is wearing glasses. His face is blurred in the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:38": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:51": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "3:05": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A dark wood rectangular dining table, likely seating 6-8 people. It has matching dark wood chairs around it. It is located in a brightly lit area of the house, near large windows and glass doors leading outside, beyond the kitchen island.",
+        "key_frames": {
+            "0:02": {
+                "distance": "5.0",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "6.0",
+                "direction": "20"
+            },
+            "0:22": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:37": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "1:35": {
+                "distance": "4.2",
+                "direction": "-5"
+            },
+            "1:53": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "3:01": {
+                "distance": "4.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A modern-style two-seater couch upholstered in a light-gray fabric. It has a low back and armrests. A red and white chevron-patterned throw blanket is draped over one end. It is situated in the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:37": {
+                "distance": "5.0",
+                "direction": "-40"
+            },
+            "0:50": {
+                "distance": "5.5",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "1:53": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "2:25": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "3:01": {
+                "distance": "4.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the light-gray two-seater couch, when the speech topic: \"instructing to turn off heat\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_311",
+    "video_id": "loc3_script2_seq3_rec2"
+}

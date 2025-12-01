@@ -1,0 +1,136 @@
+{
+    "event": "The speaker suggests pouring water.",
+    "start_time": "0:01:43",
+    "end_time": "0:01:45",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A male, likely adult, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. He also has a headset/earpiece on his left ear. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:00:03": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:00:04": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:00:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:00:13": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:00:22": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:00:34": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:00:47": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:22": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:01:41": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "0:01:44": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "0:01:53": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:02:09": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:02:35": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "0:02:50": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:03:01": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:03:05": {
+                "distance": "0.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A rectangular wooden coffee table, medium brown color. It has items on it like books, a glass, and a colorful mat. Appears to be about 1-1.2 meters long and 0.5-0.7 meters wide.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "0:00:01": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "0:00:02": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:00:03": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:00:04": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace with a white mantelpiece and a stone/brick surround. There is a large landscape painting or photograph mounted above it. It's built into the wall.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:00:01": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:00:02": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:00:03": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:00:04": {
+                "distance": "4.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the fireplace, when the speech topic: \"suggesting pouring water\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_313",
+    "video_id": "loc3_script2_seq3_rec2"
+}

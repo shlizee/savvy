@@ -1,0 +1,220 @@
+{
+    "event": "When the speech topic 'acknowledging listener's specific band knowledge (shrek opening)' comes up, relative to where you are facing, where is the other person.",
+    "start_time": "2:17",
+    "end_time": "2:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark brown, wavy hair, wearing a black short-sleeved crop top, light blue jeans, and black-rimmed glasses. She is barefoot. She has a tattoo on her left forearm.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:14": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:19": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:11": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:39": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:43": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:19": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:25": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:31": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:47": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:00": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:09": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:12": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:21": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "4:00": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "4:17": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "4:24": {
+                "distance": "1.2",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person who is initially standing and then sits on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large flat-screen television mounted on a light-colored wooden media console. There are plants on a coffee table in front of it.",
+        "key_frames": {
+            "0:10": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:23": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:42": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "2:05": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "2:20": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "2:55": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "4:20": {
+                "distance": "3.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"acknowledging listener's specific band knowledge (shrek opening)\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_55",
+    "video_id": "loc1_script2_seq7_rec2"
+}

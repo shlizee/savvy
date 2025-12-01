@@ -1,0 +1,129 @@
+{
+    "event": "The TV is narrating the prince's arduous journey.",
+    "start_time": "3:32",
+    "end_time": "3:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches, mounted on a light-colored wooden media console. It is displaying the movie Shrek 2.",
+        "is_static": true,
+        "key_frames": {
+            "0:07": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:55": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:32": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:48": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The perspective of the camera, worn by a person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A man with curly brown hair, wearing glasses, a light blue/green short-sleeved collared shirt, and dark shorts. He is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:14": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "2:10": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "2:29": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "3:32": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "3:37": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "3:48": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "4:22": {
+                "distance": "2.0",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the prince's arduous journey\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_45",
+    "video_id": "loc1_script2_seq7_rec1"
+}

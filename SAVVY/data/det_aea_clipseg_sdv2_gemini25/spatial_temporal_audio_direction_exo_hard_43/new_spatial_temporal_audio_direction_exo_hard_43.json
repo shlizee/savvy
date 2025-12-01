@@ -1,0 +1,194 @@
+{
+    "event": "When the speech topic 'offering creamer' comes up, relative to where the robot is (standing by the countertop oven and facing the countertop drip coffee maker), where is the speaker.",
+    "start_time": "0:09",
+    "end_time": "0:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair (in a braid/ponytail), wearing glasses, a black short-sleeved crop top, and light blue denim shorts. She is the one speaking and offering creamer.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:43": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:02": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:11": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:34": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:50": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:42": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:55": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:12": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in Oven Stack",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. This is considered the 'countertop oven' location for the robot.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:47": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:14": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop Drip Coffee Maker",
+        "description": "A black countertop single-serve coffee maker (Keurig style), located on the kitchen counter.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:10": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:14": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:19": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:30": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:45": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "2:30": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "3:00": {
+                "distance": "2.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the countertop oven and facing the countertop drip coffee maker, when the speech topic: \"offering creamer\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_43",
+    "video_id": "loc1_script2_seq4_rec2"
+}

@@ -1,0 +1,96 @@
+{
+    "event": "Speech topic: \"associating movie music with 'all star' song\"",
+    "start_time": "0:02:08",
+    "end_time": "0:02:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, with curly brown hair, wearing glasses, a light teal/blue short-sleeve collared shirt, and dark shorts. He is the source of the speech during the event, sitting on the couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:00:03": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:00:07": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:00:13": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:01:00": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:02:08": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:03:00": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:04:00": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:04:23": {
+                "distance": "2.8",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A light-gray fabric upholstered three-seater couch with three distinct seat cushions and three back cushions. It has armrests on both sides. Approximate width is 2.1 meters.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:00:07": {
+                "distance": "2.7",
+                "direction": "10"
+            },
+            "0:00:13": {
+                "distance": "2.7",
+                "direction": "10"
+            },
+            "0:01:00": {
+                "distance": "2.7",
+                "direction": "10"
+            },
+            "0:02:08": {
+                "distance": "2.7",
+                "direction": "10"
+            },
+            "0:03:00": {
+                "distance": "2.7",
+                "direction": "10"
+            },
+            "0:04:00": {
+                "distance": "2.7",
+                "direction": "10"
+            },
+            "0:04:23": {
+                "distance": "2.7",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera",
+        "description": "The camera is the viewpoint for the keyframes. No specific facing object from the reference object is needed for this question.",
+        "key_frames": {}
+    },
+    "prediction": 0.7,
+    "question": "When the speech topic: \"associating movie music with \"all star\" song\" is mentioned, what is the distance between the light-gray three-seater couch and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_52",
+    "video_id": "loc1_script2_seq7_rec1"
+}

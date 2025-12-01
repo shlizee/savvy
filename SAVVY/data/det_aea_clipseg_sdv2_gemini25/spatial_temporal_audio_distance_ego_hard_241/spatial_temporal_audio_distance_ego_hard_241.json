@@ -1,0 +1,204 @@
+{
+    "event": "The speech topic: \"agreeing and joking about required attire\" comes up.",
+    "start_time": "0:26",
+    "end_time": "0:28",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A female with long, dark, curly hair. She is wearing a yellow knitted vest over a white short-sleeved shirt with a frilled collar/sleeves, and light blue jeans. She is also wearing socks with a colorful pattern.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:06": {
+                "distance": "3.2",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.6",
+                "direction": "25"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:26": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:37": {
+                "distance": "0.9",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer's perspective. The camera wearer is male, wearing a green t-shirt, blue jeans, and a gold-colored watch on his left wrist. His arms and legs are visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A female with long, dark, curly hair. She is wearing a yellow knitted vest over a white short-sleeved shirt with a frilled collar/sleeves, and light blue jeans. She is also wearing socks with a colorful pattern.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:06": {
+                "distance": "3.2",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.6",
+                "direction": "25"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:26": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:37": {
+                "distance": "0.9",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"agreeing and joking about required attire\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_241",
+    "video_id": "loc3_script2_seq7_rec1"
+}

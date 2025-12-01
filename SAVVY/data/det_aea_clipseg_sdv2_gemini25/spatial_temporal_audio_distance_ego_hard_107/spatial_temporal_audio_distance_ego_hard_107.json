@@ -1,0 +1,131 @@
+{
+    "event": "Extending an invitation for a future visit",
+    "start_time": "1:21",
+    "end_time": "1:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the video. A male, appearing to be in his late 20s or 30s, with short dark hair, wearing glasses, a plain white short-sleeved t-shirt, and light blue shorts. He is of average height and build. He is the guest who is leaving.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:10": {
+                "distance": "1.6",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "1.6",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:08": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:12": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the first person, providing a first-person perspective. This is the 'you' in the question.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person in the video, same as the sounding object. A male, appearing to be in his late 20s or 30s, with short dark hair, wearing glasses, a plain white short-sleeved t-shirt, and light blue shorts. He is of average height and build. He is the guest who is leaving.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:10": {
+                "distance": "1.6",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "1.6",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:08": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:12": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"extending an invitation for a future visit\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_107",
+    "video_id": "loc2_script2_seq8_rec1"
+}

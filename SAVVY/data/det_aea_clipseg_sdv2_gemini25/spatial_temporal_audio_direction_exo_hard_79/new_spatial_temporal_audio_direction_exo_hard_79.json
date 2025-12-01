@@ -1,0 +1,172 @@
+{
+    "event": "Speech topic: \"complimenting listener's encyclopedic knowledge\"",
+    "start_time": "2:29",
+    "end_time": "2:36",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a woman with long, dark brown wavy hair. She is wearing a black short-sleeved crop top, light blue jeans with a black belt, and glasses (which appear to be smart glasses with a wire connected to a device in her pocket or waistband). She is barefoot. She appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "2:29": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "2:36": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "4:27": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dark wooden front door",
+        "description": "A standard-sized interior/exterior door, made of dark brown wood, featuring some paneling. It is located in the hallway leading to the living room.",
+        "key_frames": {
+            "0:06": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "160"
+            },
+            "4:27": {
+                "distance": "3.5",
+                "direction": "160"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white, traditional-style fireplace, recessed into the wall. It has a mantelpiece with some small decorative items on it (e.g., small bunny figures).",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "2:29": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "2:45": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "3:15": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "3:45": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "4:15": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "4:27": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the dark wooden front door and facing the white recessed fireplace, when the speech topic: \"complimenting listener's encyclopedic knowledge\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_79",
+    "video_id": "loc1_script2_seq7_rec2"
+}

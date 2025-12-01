@@ -1,0 +1,133 @@
+{
+    "event": "Michael states that the food is cooked ('All done').",
+    "start_time": "02:24",
+    "end_time": "02:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael), medium build, wearing a light blue short-sleeved polo shirt, khaki shorts, and glasses. He is standing at the kitchen stovetop, cooking.",
+        "is_static": false,
+        "key_frames": {
+            "00:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:11": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "00:20": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "00:33": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "00:43": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "00:55": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "01:34": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "01:47": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "02:00": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "02:15": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "02:24": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "02:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:42": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:50": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "02:59": {
+                "distance": "1.5",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "Large, stainless steel, two-door French door style refrigerator with a bottom freezer drawer, located against a kitchen wall. Standard kitchen appliance size, approximately 0.9m wide and 1.8m tall.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:03": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "00:06": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "00:08": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "01:05": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "01:17": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "01:41": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "02:56": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "02:58": {
+                "distance": "1.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stove area / Michael",
+        "description": "The kitchen stove area where Michael is cooking. This is generally in the direction of the sounding object from the reference object.",
+        "key_frames": {
+            "00:08": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "02:24": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "When the speech topic: \"stating belief food is cooked\" is mentioned, what is the distance between the stainless steel refrigerator and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_198",
+    "video_id": "loc2_script3_seq34_rec2"
+}

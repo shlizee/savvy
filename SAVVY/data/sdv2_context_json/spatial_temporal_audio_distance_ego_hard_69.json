@@ -1,0 +1,192 @@
+{
+    "event": "Other person indicating prepared coffee availability by stating 'Got some made right here.'",
+    "start_time": "0:06",
+    "end_time": "0:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt and khaki shorts. He has short brown hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:24": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:27": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the first person, representing their point of view. Its position is the origin (0,0) in egocentric mode.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male, wearing a light blue/teal polo shirt and khaki shorts. He has short brown hair and is of average build. The camera is generally facing this person during interactions.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:24": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:27": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"indicating prepared coffee availability\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_69",
+    "video_id": "loc2_script2_seq3_rec2"
+}

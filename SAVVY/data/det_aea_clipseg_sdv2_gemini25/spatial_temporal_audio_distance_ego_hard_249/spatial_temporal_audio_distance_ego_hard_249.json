@@ -1,0 +1,63 @@
+{
+    "event": "questioning if task involves mutual video sharing",
+    "start_time": "0:52",
+    "end_time": "0:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with long dark hair, wearing a yellow knitted top over a white short-sleeved shirt, and light blue jeans. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "0:51": {
+                "distance": "0.8",
+                "direction": "25"
+            },
+            "1:36": {
+                "distance": "0.8",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"questioning if task involves mutual video sharing\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_249",
+    "video_id": "loc3_script2_seq7_rec1"
+}

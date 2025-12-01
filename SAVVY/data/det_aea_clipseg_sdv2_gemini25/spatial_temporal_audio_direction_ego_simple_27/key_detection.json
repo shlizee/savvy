@@ -1,0 +1,431 @@
+{
+    "00010": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 8.0,
+            "distance": 3.14,
+            "det_conf": [
+                0.2843112349510193,
+                0.5189152359962463,
+                0.4602729082107544,
+                0.3274605870246887,
+                0.26562750339508057
+            ]
+        }
+    },
+    "00280": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 40.33,
+            "distance": 2.02,
+            "det_conf": [
+                0.10451636463403702,
+                0.12684164941310883,
+                0.19703683257102966,
+                0.13525906205177307,
+                0.508433997631073
+            ]
+        }
+    },
+    "00320": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 60.26,
+            "distance": 1.17,
+            "det_conf": [
+                0.8659441471099854,
+                0.8828229308128357,
+                0.880897045135498,
+                0.8250176906585693,
+                0.46346110105514526
+            ]
+        }
+    },
+    "00600": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 6.48,
+            "distance": 4.12,
+            "det_conf": [
+                0.020262982696294785,
+                0.051723793148994446,
+                0.025745699182152748,
+                0.7015282511711121,
+                0.013447560369968414
+            ]
+        }
+    },
+    "00610": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 16.44,
+            "distance": 2.04,
+            "det_conf": [
+                0.4605616331100464,
+                0.4705633223056793,
+                0.5114800333976746,
+                0.01879221573472023,
+                0.08038666844367981
+            ]
+        }
+    },
+    "00620": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 46.12,
+            "distance": 1.27,
+            "det_conf": [
+                0.6902209520339966,
+                0.5586397051811218,
+                0.0999850407242775,
+                0.48661771416664124,
+                0.4564059376716614
+            ]
+        }
+    },
+    "00900": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 31.84,
+            "distance": 1.97,
+            "det_conf": [
+                0.3866002559661865,
+                0.5574078559875488,
+                0.3556583821773529,
+                0.4313306510448456,
+                0.32754987478256226
+            ]
+        }
+    },
+    "01200": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 65.72,
+            "distance": 1.94,
+            "det_conf": [
+                0.5494505167007446,
+                0.27996066212654114,
+                0.29330897331237793,
+                0.3226938545703888,
+                0.25635218620300293
+            ]
+        }
+    },
+    "01210": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": -24.38,
+            "distance": 1.01,
+            "det_conf": [
+                0.5943579077720642,
+                0.6278101205825806,
+                0.6261537671089172,
+                0.3970525860786438,
+                0.30362507700920105
+            ]
+        }
+    },
+    "01220": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": -55.23,
+            "distance": 1.01,
+            "det_conf": [
+                0.34964868426322937,
+                0.3360730707645416,
+                0.3987070918083191,
+                0.5397962927818298,
+                0.25539645552635193
+            ]
+        }
+    },
+    "01510": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": -12.16,
+            "distance": 1.48,
+            "det_conf": [
+                0.6291235685348511,
+                0.212760791182518,
+                0.8282894492149353,
+                0.8042072057723999,
+                0.7840125560760498
+            ]
+        }
+    },
+    "01520": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 44.92,
+            "distance": 2.17,
+            "det_conf": [
+                0.8954360485076904,
+                0.8180710077285767,
+                0.9025483131408691,
+                0.8568494915962219,
+                0.4763048589229584
+            ]
+        }
+    },
+    "02090": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 67.21,
+            "distance": 1.0,
+            "det_conf": [
+                0.497915655374527,
+                0.6546056866645813,
+                0.3427943289279938,
+                0.474276065826416,
+                0.6636666059494019
+            ]
+        }
+    },
+    "02100": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 41.87,
+            "distance": 1.01,
+            "det_conf": [
+                0.8145997524261475,
+                0.8020476698875427,
+                0.7730571627616882,
+                0.40584301948547363,
+                0.5728821754455566
+            ]
+        }
+    },
+    "02120": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 57.69,
+            "distance": 1.01,
+            "det_conf": [
+                0.7347967028617859,
+                0.07099563628435135,
+                0.6915432810783386,
+                0.6589502096176147,
+                0.6593966484069824
+            ]
+        }
+    },
+    "02380": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 50.96,
+            "distance": 1.05,
+            "det_conf": [
+                0.34941259026527405,
+                0.6041837930679321,
+                0.25840240716934204,
+                0.5172866582870483,
+                0.3601513206958771
+            ]
+        }
+    },
+    "02390": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": -1.36,
+            "distance": 1.04,
+            "det_conf": [
+                0.1734611541032791,
+                0.12929128110408783,
+                0.22168634831905365,
+                0.6882483959197998,
+                0.15830272436141968
+            ]
+        }
+    },
+    "02400": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 67.45,
+            "distance": 1.9,
+            "det_conf": [
+                0.5041564106941223,
+                0.4509909749031067,
+                0.3378511667251587,
+                0.04811255633831024,
+                0.0072190361097455025
+            ]
+        }
+    },
+    "02410": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 55.55,
+            "distance": 1.0,
+            "det_conf": [
+                0.5113604068756104,
+                0.8221629858016968,
+                0.48718491196632385,
+                0.8255173563957214,
+                0.7868507504463196
+            ]
+        }
+    },
+    "02420": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 65.3,
+            "distance": 1.0,
+            "det_conf": [
+                0.6782812476158142,
+                0.6296835541725159,
+                0.6809672117233276,
+                0.6783333420753479,
+                0.6781904697418213
+            ]
+        }
+    },
+    "02680": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 40.67,
+            "distance": 1.0,
+            "det_conf": [
+                0.7521140575408936,
+                0.542533278465271,
+                0.6957737803459167,
+                0.4867783188819885,
+                0.4980691373348236
+            ]
+        }
+    },
+    "02690": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 55.35,
+            "distance": 1.0,
+            "det_conf": [
+                0.6824713945388794,
+                0.18544098734855652,
+                0.1821412295103073,
+                0.7347350120544434,
+                0.39807993173599243
+            ]
+        }
+    },
+    "02700": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 39.34,
+            "distance": 1.51,
+            "det_conf": [
+                0.6791824102401733,
+                0.33268070220947266,
+                0.01935170404613018,
+                0.3260594606399536,
+                0.6142048835754395
+            ]
+        }
+    },
+    "02720": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 62.17,
+            "distance": 1.14,
+            "det_conf": [
+                0.24274952709674835,
+                0.21145616471767426,
+                0.5161558985710144,
+                0.47017139196395874,
+                0.4883241355419159
+            ]
+        }
+    },
+    "02990": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 61.18,
+            "distance": 1.0,
+            "det_conf": [
+                0.46958619356155396,
+                0.226491317152977,
+                0.5128909945487976,
+                0.47002580761909485,
+                0.4750191271305084
+            ]
+        }
+    },
+    "03280": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 51.92,
+            "distance": 2.19,
+            "det_conf": [
+                0.5390636324882507,
+                0.2863790988922119,
+                0.006791397929191589,
+                0.08633334934711456,
+                0.049844175577163696
+            ]
+        }
+    },
+    "03580": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 69.42,
+            "distance": 1.0,
+            "det_conf": [
+                0.7849591970443726,
+                0.7551975250244141,
+                0.7519072890281677,
+                0.7518593668937683,
+                0.7525255084037781
+            ]
+        }
+    },
+    "03920": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 27.67,
+            "distance": 2.84,
+            "det_conf": [
+                0.31024178862571716,
+                0.37038493156433105,
+                0.5151505470275879,
+                0.4511100947856903,
+                0.00011933189671253785
+            ]
+        }
+    },
+    "04180": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": -17.19,
+            "distance": 1.0,
+            "det_conf": [
+                0.5659141540527344,
+                0.5224026441574097,
+                0.6052520275115967,
+                0.5255217552185059,
+                0.5477153062820435
+            ]
+        }
+    },
+    "04190": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 58.36,
+            "distance": 1.11,
+            "det_conf": [
+                0.40963223576545715,
+                0.5123447775840759,
+                0.44224292039871216,
+                0.48581215739250183,
+                0.4000962972640991
+            ]
+        }
+    },
+    "04200": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 66.34,
+            "distance": 1.05,
+            "det_conf": [
+                0.698771595954895,
+                0.6945980787277222,
+                0.6939177513122559,
+                0.7004107236862183,
+                0.6526235938072205
+            ]
+        }
+    },
+    "04210": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 60.07,
+            "distance": 1.12,
+            "det_conf": [
+                0.6211636066436768,
+                0.656851053237915,
+                0.6803911924362183,
+                0.7004457116127014,
+                0.6709920167922974
+            ]
+        }
+    },
+    "04220": {
+        "The camera wearer, whose hands are visible at times. The speech originates from the camera's location.": {
+            "direction": 32.91,
+            "distance": 1.03,
+            "det_conf": [
+                0.37648457288742065,
+                0.6344678401947021,
+                0.601698100566864,
+                0.5930233597755432,
+                0.10330773890018463
+            ]
+        }
+    }
+}

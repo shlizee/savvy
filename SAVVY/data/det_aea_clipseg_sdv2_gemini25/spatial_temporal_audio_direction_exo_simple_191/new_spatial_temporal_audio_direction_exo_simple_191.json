@@ -1,0 +1,128 @@
+{
+    "event": "The speech topic 'describing recent activities (eating, drinking coffee)' comes up.",
+    "start_time": "0:28",
+    "end_time": "0:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a light blue/teal polo shirt, khaki shorts, and white sneakers. He has short hair and is wearing wired earbuds connected to a device he's holding. He appears to be of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:29": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:19": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black-painted wooden front door with multiple rectangular glass panels, located at the end of a hallway.",
+        "key_frames": {
+            "0:13": {
+                "distance": "6.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "6.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "7.0",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "7.0",
+                "direction": "10"
+            },
+            "0:42": {
+                "distance": "7.0",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "7.0",
+                "direction": "15"
+            },
+            "1:03": {
+                "distance": "7.0",
+                "direction": "15"
+            },
+            "1:15": {
+                "distance": "7.0",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, black, flat-screen television mounted on the wall in the living room, to the left of a fireplace and above a shelving unit.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:07": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "0:09": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "4.5",
+                "direction": "40"
+            },
+            "0:41": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:55": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "1:18": {
+                "distance": "4.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the wall-mounted tv, when the speech topic: \"describing recent activities (eating, drinking coffee)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_191",
+    "video_id": "loc2_script3_seq2_rec1"
+}

@@ -1,0 +1,132 @@
+{
+    "event": "Determining the relative position of the other person when the speech topic 'indicating current use of specific utensil' comes up.",
+    "start_time": "1:32",
+    "end_time": "1:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise polo shirt, khaki shorts, and glasses. He is interacting with the stove and kitchen counter.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:32": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:54": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:04": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:09": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:19": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:26": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:02": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "2:06": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "2:10": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "2:17": {
+                "distance": "0.9",
+                "direction": "-25"
+            },
+            "2:24": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:34": {
+                "distance": "1.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person, providing an egocentric view. Its position is the origin (0,0) and its facing direction is 0 degrees for calculating relative directions of other objects.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Drawer",
+        "description": "A kitchen drawer that the camera wearer is interacting with at the start of the specified event. This defines the initial 'facing' direction.",
+        "key_frames": {
+            "1:32": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"indicating current use of specific utensil\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_198",
+    "video_id": "loc2_script3_seq32_rec2"
+}

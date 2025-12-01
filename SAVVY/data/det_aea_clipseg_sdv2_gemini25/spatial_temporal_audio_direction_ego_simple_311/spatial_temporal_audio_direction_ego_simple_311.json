@@ -1,0 +1,200 @@
+{
+    "event": "Confirming purchase of fruit platter",
+    "start_time": "0:32",
+    "end_time": "0:36",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a green short-sleeved polo shirt and blue jeans. Appears to be an adult male. Seated on a light-colored couch to the right of a coffee table.",
+        "is_static": false,
+        "key_frames": {
+            "0:07": {
+                "distance": "1.8",
+                "direction": "60"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "50"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "55"
+            },
+            "0:20": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:25": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:32": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:34": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:36": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:40": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:50": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "1:15": {
+                "distance": "1.7",
+                "direction": "45"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "45"
+            },
+            "2:00": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "2:15": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "2:30": {
+                "distance": "1.7",
+                "direction": "40"
+            },
+            "2:45": {
+                "distance": "1.7",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the first person, representing their point of view. The person is seated, initially looking at a book, then generally towards a coffee table and the other person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Forward view",
+        "description": "The general direction the camera is pointing. Initially towards a book, then mostly towards a coffee table and the area where the other person is seated.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:48": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"confirming purchase of fruit platter\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_311",
+    "video_id": "loc3_script3_seq2_rec2"
+}

@@ -1,0 +1,124 @@
+{
+    "event": "The speech topic 'guessing stove type as induction' comes up.",
+    "start_time": "01:16",
+    "end_time": "01:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with short, dark hair, wearing glasses, a teal short-sleeved polo shirt, and khaki shorts. He is of average to slightly heavy build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "00:02": {
+                "distance": "1.6",
+                "direction": "-75"
+            },
+            "00:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "00:07": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "00:39": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "00:40": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "00:50": {
+                "distance": "1.1",
+                "direction": "75"
+            },
+            "01:00": {
+                "distance": "1.3",
+                "direction": "60"
+            },
+            "01:06": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "01:10": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "01:16": {
+                "distance": "0.7",
+                "direction": "85"
+            },
+            "01:18": {
+                "distance": "0.7",
+                "direction": "85"
+            },
+            "01:26": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "01:32": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "01:57": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "02:02": {
+                "distance": "0.7",
+                "direction": "75"
+            },
+            "02:07": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "02:10": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "02:12": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "02:18": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "02:30": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "02:36": {
+                "distance": "1.0",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera wearer's gaze",
+        "description": "The direction the camera wearer is looking.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"guessing stove type as induction\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_184",
+    "video_id": "loc2_script3_seq31_rec2"
+}

@@ -1,0 +1,96 @@
+{
+    "event": "stating video is about an hour long",
+    "start_time": "0:36",
+    "end_time": "0:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, likely male, wearing a green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. He is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:38": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:35": {
+                "distance": "0.6",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "fireplace",
+        "description": "A stone fireplace with a wooden mantel. There is a large painting above the mantel.",
+        "key_frames": {
+            "0:03": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.8",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "3.2",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:59": {
+                "distance": "3.1",
+                "direction": "10"
+            },
+            "1:36": {
+                "distance": "3.0",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera",
+        "description": "The camera recording the scene.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "When the speech topic: \"stating video is about an hour long\" is mentioned, what is the distance between the fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_295",
+    "video_id": "loc3_script2_seq7_rec2"
+}

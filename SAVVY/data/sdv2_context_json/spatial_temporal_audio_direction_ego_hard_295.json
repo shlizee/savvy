@@ -1,0 +1,140 @@
+{
+    "event": "Speech topic 'specifying video topic as stock market' comes up",
+    "start_time": "0:16",
+    "end_time": "0:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Man wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short brown hair and is of average build. He is holding a black smartphone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general forward direction",
+        "description": "The direction the camera is pointing, which defines the 0-degree line for relative directions.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"specifying video topic as stock market\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_295",
+    "video_id": "loc3_script2_seq7_rec2"
+}

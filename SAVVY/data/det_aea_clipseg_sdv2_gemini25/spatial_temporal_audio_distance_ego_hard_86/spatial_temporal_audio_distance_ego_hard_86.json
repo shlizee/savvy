@@ -1,0 +1,176 @@
+{
+    "event": "The camera wearer reiterates their intention to get creamer.",
+    "start_time": "0:05",
+    "end_time": "0:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer, whose hands are visible holding a phone and a power bank. They are wearing a light-colored shirt and possibly shorts or pants (not fully visible).",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by the sounding object, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with short dark hair, wearing a white t-shirt and light blue shorts. They are initially sitting at a wooden table with a blue mug.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "2.8",
+                "direction": "5"
+            },
+            "0:38": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"reiterating intention to get creamer\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_86",
+    "video_id": "loc2_script2_seq4_rec2"
+}

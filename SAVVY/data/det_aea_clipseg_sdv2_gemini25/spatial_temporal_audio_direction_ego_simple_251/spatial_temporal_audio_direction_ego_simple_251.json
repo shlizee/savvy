@@ -1,0 +1,124 @@
+{
+    "event": "Ticking sound from gas stove ignition, determining its direction relative to camera's facing.",
+    "start_time": "0:50",
+    "end_time": "0:53",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A stainless steel, built-in gas stovetop. The sound specifically originates from the electric igniter of its front-left burner. The stovetop has four burners arranged in a 2x2 grid and five control knobs along its front edge. The stovetop is approximately 60-70 cm wide.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:10": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:20": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:30": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:40": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:44": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:45": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "3:08": {
+                "distance": "0.6",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the person, representing their viewpoint and current facing direction at the time of the event.",
+        "key_frames": {
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stovetop Knobs",
+        "description": "The row of control knobs at the front of the gas stovetop. The camera is primarily focused on these when the ticking sound begins, defining the camera's facing direction.",
+        "key_frames": {
+            "0:47": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the ticking sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_251",
+    "video_id": "loc3_script2_seq3_rec1"
+}

@@ -1,0 +1,108 @@
+{
+    "event": "The speaker discusses 'describing vocal/playing ability as a muscle'.",
+    "start_time": "1:47",
+    "end_time": "1:49",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult female with long brown hair, wearing a yellow knitted sleeveless top over a white t-shirt, and light blue jeans. She is sitting on the light-gray two-seater couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:08": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:13": {
+                "distance": "null",
+                "direction": "null"
+            },
+            "0:48": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "1:15": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "1:47": {
+                "distance": "2.8",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A modern, light-gray fabric two-seater couch with rectangular cushions and armrests. The sounding object (woman) is sitting on this couch. It has some throw pillows, including one that appears orange or pink.",
+        "key_frames": {
+            "0:12": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "0:48": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "1:15": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "35"
+            },
+            "1:47": {
+                "distance": "2.8",
+                "direction": "35"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with a balcony view",
+        "description": "Large floor-to-ceiling windows and sliding glass doors that form a significant portion of the living room wall, offering a view of an outdoor balcony and trees. The windows have multiple panes.",
+        "key_frames": {
+            "0:12": {
+                "distance": "5.5",
+                "direction": "20"
+            },
+            "0:48": {
+                "distance": "3.5",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "35"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "35"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "35"
+            },
+            "1:47": {
+                "distance": "3.5",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the window with a balcony view, when the speech topic: \"describing vocal/playing ability as a muscle\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_290",
+    "video_id": "loc3_script2_seq1_rec2"
+}

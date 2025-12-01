@@ -1,0 +1,87 @@
+{
+    "event": "Speech topic '(tv) narrating fairy godmother's solution and princess's imprisonment awaiting rescue' comes up.",
+    "start_time": "03:22",
+    "end_time": "04:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A young woman with long, dark brown, wavy hair. She is wearing a black short-sleeved crop top, light blue high-waisted jeans with a black belt. She later puts on black-framed smart glasses with a wire connected to a device. She appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "00:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:09": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:12": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "00:23": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "00:46": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "01:12": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "01:37": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "02:25": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "03:08": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "03:23": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "04:00": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "04:24": {
+                "distance": "1.2",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer is interacting with the sounding object (the woman).",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating fairy godmother's solution and princess's imprisonment awaiting rescue\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_71",
+    "video_id": "loc1_script2_seq7_rec2"
+}

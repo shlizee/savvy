@@ -1,0 +1,140 @@
+{
+    "event": "A woman suggests using the French press method to make coffee.",
+    "start_time": "1:04",
+    "end_time": "1:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person holding the camera, a woman. This is a first-person perspective video. Her hands are visible interacting with objects. She is wearing a yellow knitted top. She is the one who suggests using the French press.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:07": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "rectangular dining table",
+        "description": "A long, dark wooden rectangular dining table with at least four chairs visible around it. It's located in the main living/dining area, near large floor-to-ceiling windows.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "0:06": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "6.5",
+                "direction": "-50"
+            },
+            "1:05": {
+                "distance": "7.0",
+                "direction": "-55"
+            },
+            "1:30": {
+                "distance": "7.0",
+                "direction": "-55"
+            },
+            "2:00": {
+                "distance": "7.0",
+                "direction": "-55"
+            },
+            "2:30": {
+                "distance": "7.0",
+                "direction": "-55"
+            },
+            "3:02": {
+                "distance": "7.0",
+                "direction": "-55"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "black decorative animal sculpture",
+        "description": "A black, stylized sculpture of a four-legged animal (possibly a dog or horse), approximately 0.5-0.7m tall. It is positioned on the floor in the main living/dining area, near the large windows and generally to the right of the dining table from the initial camera perspective.",
+        "key_frames": {
+            "0:01": {
+                "distance": "5.5",
+                "direction": "15"
+            },
+            "0:03": {
+                "distance": "6.0",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "7.0",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "7.5",
+                "direction": "-35"
+            },
+            "1:05": {
+                "distance": "8.0",
+                "direction": "-40"
+            },
+            "1:30": {
+                "distance": "8.0",
+                "direction": "-40"
+            },
+            "2:00": {
+                "distance": "8.0",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "8.0",
+                "direction": "-40"
+            },
+            "3:02": {
+                "distance": "8.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the black decorative animal sculpture, when the speech topic: \"suggesting using french press method\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_314",
+    "video_id": "loc3_script2_seq3_rec2"
+}

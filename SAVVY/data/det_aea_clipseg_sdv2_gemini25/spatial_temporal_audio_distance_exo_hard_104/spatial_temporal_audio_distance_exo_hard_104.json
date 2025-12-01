@@ -1,0 +1,88 @@
+{
+    "event": "The speech topic: \"indicating readiness to end the interaction\" is mentioned, and the distance between the wall-mounted TV and the speech sound source (the person holding the camera) is estimated.",
+    "start_time": "1:43",
+    "end_time": "1:44",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male, the person holding the camera and speaking at this moment (1:43-1:44). He is wearing a teal t-shirt, khaki/grey pants, and a gold-colored digital watch on his left wrist. His voice is the sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wall-mounted TV",
+        "description": "A large, black, flat-screen television, approximately 55-65 inches, mounted on a light-colored interior wall above a dark wooden entertainment console. The console holds various items including books and decorative objects. A colorful pennant banner is strung below the TV.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "1:14": {
+                "distance": "4.0",
+                "direction": "-25"
+            },
+            "1:38": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "1:43": {
+                "distance": "4.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person A (camera operator)",
+        "description": "An adult male, the person holding the camera and speaking at this moment (1:43-1:44). He is wearing a teal t-shirt, khaki/grey pants, and a gold-colored digital watch on his left wrist. His voice is the sound source.",
+        "key_frames": {
+            "1:43": {
+                "distance": "4.0",
+                "direction": "180"
+            }
+        }
+    },
+    "prediction": 4.0,
+    "question": "When the speech topic: \"indicating readiness to end the interaction\" is mentioned, what is the distance between the wall-mounted tv and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_104",
+    "video_id": "loc2_script2_seq2_rec2"
+}

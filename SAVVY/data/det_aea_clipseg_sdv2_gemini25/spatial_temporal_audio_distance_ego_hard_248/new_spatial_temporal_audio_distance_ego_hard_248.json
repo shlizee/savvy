@@ -1,0 +1,156 @@
+{
+    "event": "Asking if the other person has a video to show.",
+    "start_time": "0:50",
+    "end_time": "0:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with long, dark, curly hair, wearing a yellow knitted sleeveless top or vest over a white short-sleeved shirt with a frilled collar/sleeve edge, and light blue jeans. Appears to be female.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:25": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:35": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:55": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "1:05": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "1:25": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "1:35": {
+                "distance": "0.6",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the viewpoint of the camera wearer. The wearer's hands, blue jeans, green t-shirt, and a gold-colored watch on the left wrist are sometimes visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with long, dark, curly hair, wearing a yellow knitted sleeveless top or vest over a white short-sleeved shirt with a frilled collar/sleeve edge, and light blue jeans. Appears to be female.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "0.6",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "0.6",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking if other person has video to show\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_248",
+    "video_id": "loc3_script2_seq7_rec1"
+}

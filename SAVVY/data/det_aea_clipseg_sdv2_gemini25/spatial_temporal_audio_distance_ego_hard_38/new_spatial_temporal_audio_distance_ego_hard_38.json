@@ -1,0 +1,120 @@
+{
+    "event": "The speech topic: \"suggesting stopping recording as duration requirement met\" comes up.",
+    "start_time": "2:21",
+    "end_time": "2:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A young woman with long, dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and glasses (which appear to be smart glasses or have a device attached). She is barefoot. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "0:07": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:09": {
+                "distance": "3.2",
+                "direction": "-55"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:12": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "0:18": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "0:43": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "1:32": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "2:21": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "2:22": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "2:24": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "2:28": {
+                "distance": "0.6",
+                "direction": "-75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewpoint of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sounding Object (Woman)",
+        "description": "The woman who is speaking and suggesting to stop the recording.",
+        "key_frames": {
+            "2:21": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "2:22": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "2:24": {
+                "distance": "0.6",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting stopping recording as duration requirement met\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_38",
+    "video_id": "loc1_script2_seq7_rec2"
+}

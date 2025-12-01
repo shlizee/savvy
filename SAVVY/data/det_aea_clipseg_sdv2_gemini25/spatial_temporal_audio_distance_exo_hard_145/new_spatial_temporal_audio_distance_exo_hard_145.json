@@ -1,0 +1,88 @@
+{
+    "event": "A person asks about the identity of a machine.",
+    "start_time": "0:04",
+    "end_time": "0:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, likely male, wearing a white t-shirt and blue shorts. Their face is blurred. They are sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "rectangle wooden coffee table",
+        "description": "A dark brown, rectangular wooden coffee table. It has a slightly textured surface.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera",
+        "description": "The camera recording the scene, from a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "When the speech topic: \"asking about the identity of a machine\" is mentioned, what is the distance between the rectangle wooden coffee table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_145",
+    "video_id": "loc2_script2_seq8_rec1"
+}

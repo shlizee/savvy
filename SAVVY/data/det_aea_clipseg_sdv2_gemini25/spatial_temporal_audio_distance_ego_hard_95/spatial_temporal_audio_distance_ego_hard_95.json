@@ -1,0 +1,143 @@
+{
+    "event": "The speech topic: \"stating plan to distribute seven letters\" comes up.",
+    "start_time": "0:36",
+    "end_time": "0:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue polo shirt, khaki shorts, white sneakers, glasses, and a gold watch. He has short brown hair and is sitting on a bar stool at a kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:10": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "1:05": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "2:05": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "2:55": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "3:05": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "3:15": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "3:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "3:50": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:55": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "4:05": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the user.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "0.6",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating plan to distribute seven letters\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_95",
+    "video_id": "loc2_script2_seq5_rec1"
+}

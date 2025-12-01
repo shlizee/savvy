@@ -1,0 +1,160 @@
+{
+    "event": "Flame sound from gas stove ignition",
+    "start_time": "0:51",
+    "end_time": "0:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The front-left gas stove burner (relative to the operator facing the stove) on a stainless steel cooktop. It is circular, black, with a black metal grate above it. The flame produced is initially blue with some orange. The burner itself is approximately 10-15 cm in diameter. The blue kettle is placed on this burner when it is lit.",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:47": {
+                "distance": "0.4",
+                "direction": "-25"
+            },
+            "0:51": {
+                "distance": "0.4",
+                "direction": "-30"
+            },
+            "0:54": {
+                "distance": "0.4",
+                "direction": "-15"
+            },
+            "1:02": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "1:12": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "1:25": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "1:32": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "1:41": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "1:43": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "1:57": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:04": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:22": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "3:00": {
+                "distance": "0.6",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the person, representing their viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stove Knobs",
+        "description": "The black control knobs on the front panel of the gas stove, which the camera is primarily looking at when the flame ignites.",
+        "key_frames": {
+            "0:46": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the flame sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_252",
+    "video_id": "loc3_script2_seq3_rec1"
+}

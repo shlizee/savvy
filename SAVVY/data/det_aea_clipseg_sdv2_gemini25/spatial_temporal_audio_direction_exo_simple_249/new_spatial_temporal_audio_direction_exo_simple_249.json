@@ -1,0 +1,120 @@
+{
+    "event": "A person offers to get napkins while two people are preparing to eat at a small table.",
+    "start_time": "1:05",
+    "end_time": "1:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a grey short-sleeved collared shirt, dark shorts, and black earbuds around his neck. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:31": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:02": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:06": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:07": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:48": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "4:05": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "Large, two-door stainless steel refrigerator with an ice/water dispenser on the left door. Standard kitchen appliance height (~1.8m). Located on the main kitchen counter wall.",
+        "key_frames": {
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "0:41": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:57": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:59": {
+                "distance": "3.0",
+                "direction": "-130"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "Standard-sized built-in stainless steel dishwasher, located under the kitchen counter, to the right of the sink (which is to the right of the refrigerator).",
+        "key_frames": {
+            "0:09": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "1.5",
+                "direction": "80"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the built-in stainless steel dishwasher, when the speech topic: \"offering to get napkins\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_249",
+    "video_id": "loc2_script3_seq4_rec1"
+}

@@ -1,0 +1,287 @@
+{
+    "event": "Inquiring about availability of a water filter",
+    "start_time": "0:57",
+    "end_time": "1:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a black short-sleeved crop top, light blue jeans, and glasses. She is barefoot. She also has a small black rectangular device clipped to her jeans on her right side with a wire running up to her ear.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:21": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:24": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:33": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "0:36": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:42": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:51": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "0:54": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:57": {
+                "distance": "2.8",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "1:03": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:06": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "1:18": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:24": {
+                "distance": "1.9",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:36": {
+                "distance": "1.9",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:42": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:48": {
+                "distance": "1.9",
+                "direction": "0"
+            },
+            "1:51": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:54": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "2:00": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "2:03": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "2:06": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "1.9",
+                "direction": "5"
+            },
+            "2:12": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "2:18": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "2:21": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "2:24": {
+                "distance": "1.9",
+                "direction": "0"
+            },
+            "2:27": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "2:30": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "2:33": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "2:36": {
+                "distance": "1.9",
+                "direction": "0"
+            },
+            "2:39": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "2:42": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:51": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "2:54": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "2:57": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "3:03": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:06": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:09": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "3:12": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the person asking the question.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inquiring about availability of a water filter\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_11",
+    "video_id": "loc1_script2_seq3_rec1"
+}

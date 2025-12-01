@@ -1,0 +1,41 @@
+{
+    "00000": {
+        "A person with curly brown hair, wearing glasses, a light green short-sleeved collared shirt, and dark shorts. Approximate height appears to be average adult male.": {
+            "direction": 2.46,
+            "distance": 4.14,
+            "det_conf": [
+                0.5543354153633118,
+                0.5639269351959229,
+                0.5529915690422058,
+                0.5708456635475159,
+                0.47931331396102905
+            ]
+        }
+    },
+    "00041": {
+        "A person with curly brown hair, wearing glasses, a light green short-sleeved collared shirt, and dark shorts. Approximate height appears to be average adult male.": {
+            "direction": 1.95,
+            "distance": 2.0,
+            "det_conf": [
+                0.3346808850765228,
+                0.3254595398902893,
+                0.3343788683414459,
+                0.5383620262145996,
+                0.47157561779022217
+            ]
+        }
+    },
+    "00083": {
+        "A person with curly brown hair, wearing glasses, a light green short-sleeved collared shirt, and dark shorts. Approximate height appears to be average adult male.": {
+            "direction": 76.08,
+            "distance": 1.97,
+            "det_conf": [
+                0.1750069260597229,
+                0.4946049153804779,
+                0.5331217050552368,
+                0.5380823612213135,
+                0.06348848342895508
+            ]
+        }
+    }
+}

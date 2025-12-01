@@ -1,0 +1,92 @@
+{
+    "event": "The woman in the yellow top accepts an offer of water from the person holding the camera.",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult female with long, dark brown, wavy hair. She is wearing a yellow knitted sleeveless top over a white short-sleeved t-shirt, and light blue denim capri pants. She is also wearing light-colored socks. Approximate height appears to be 1.6-1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with a balcony view",
+        "description": "Large floor-to-ceiling windows in the living room, located at the far end of the room from the kitchen. They offer a view of an outdoor balcony and natural scenery. The windows are composed of multiple vertical glass panels with dark frames, likely 2.5-3 meters in height, spanning a significant width of the room.",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "6.0",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "6.0",
+                "direction": "-5"
+            },
+            "0:51": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 3.0,
+    "question": "When the speech topic: \"accepting offer of water\" is mentioned, what is the distance between the window with a balcony view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_238",
+    "video_id": "loc3_script2_seq1_rec2"
+}

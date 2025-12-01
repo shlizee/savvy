@@ -1,0 +1,120 @@
+{
+    "event": "The speaker (man in green shirt) jokingly claims to have made the chips himself and just put them in the Ruffles bag.",
+    "start_time": "01:26",
+    "end_time": "01:28",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with short, dark hair, balding on top, wearing a light green/teal polo shirt, blue jeans, and glasses. He has a wired earpiece in his right ear, with the wire running down his shirt. He is wearing a watch on his left wrist. At the time of the event, he is seated at the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:56": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A large, light-colored wooden rectangular dining table. It has a smooth surface and simple legs. During the event, it has two mugs, a bag of chips, and a smartphone on it.",
+        "key_frames": {
+            "0:28": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:26": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden Sideboard with Slatted Design",
+        "description": "A dark brown wooden sideboard with a visible slatted or textured pattern on its front panels/doors. It is rectangular and stands against a wall. Three rectangular, dark-framed pictures with light-colored mats and dark artwork are hung horizontally above it.",
+        "key_frames": {
+            "0:28": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:47": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "1:26": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "1:40": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "1:50": {
+                "distance": "2.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the wooden sideboard with slatted design, when the speech topic: \"jokingly claiming making the chips\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_326",
+    "video_id": "loc3_script2_seq4_rec2"
+}

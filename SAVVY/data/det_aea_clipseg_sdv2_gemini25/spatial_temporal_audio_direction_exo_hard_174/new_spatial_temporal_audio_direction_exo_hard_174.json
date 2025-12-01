@@ -1,0 +1,144 @@
+{
+    "event": "Speaker proposes cleaning up.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person (male, based on voice, though face is blurred) sitting at a large wooden table/island. He is wearing a light-colored (possibly white or beige) t-shirt and light blue or grey shorts. He is initially seen interacting with a Scrabble game. Approximate height when sitting is around 0.8-1.0 meters above the seat.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-35"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:51": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:03": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "double-basin rectangular sink and tap",
+        "description": "A stainless steel, undermount, double-basin rectangular sink with a gooseneck tap. It is set into a light-colored (possibly granite or quartz) countertop which is part of a large kitchen island. The sink dimensions are roughly 0.8m wide x 0.5m deep.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:52": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:58": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "1:04": {
+                "distance": "2.2",
+                "direction": "-35"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "window with a pool view",
+        "description": "A set of large, floor-to-ceiling sliding glass doors or windows. They offer a clear view of an outdoor area featuring a swimming pool, patio furniture, and some greenery (palm trees, bougainvillea). The window expanse is several meters wide.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:10": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:40": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:04": {
+                "distance": "3.5",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the window with a pool view, when the speech topic: \"proposing cleaning up\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_174",
+    "video_id": "loc2_script2_seq6_rec2"
+}

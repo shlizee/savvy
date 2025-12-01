@@ -1,0 +1,168 @@
+{
+    "event": "The speech topic 'suggesting palo alto as a major stop' comes up.",
+    "start_time": "1:30",
+    "end_time": "1:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, appearing to be an adult male. He has dark, curly hair and is wearing a dark long-sleeved top (possibly a sweater or collared shirt, it appears to be a dark sweater over a light collared shirt) and blue jeans with white socks. He is seated on a light-colored (beige or off-white) couch. He is actively gesturing with his hands while speaking. Approximate size of an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.6",
+                "direction": "-65"
+            },
+            "0:15": {
+                "distance": "1.6",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "1.6",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:34": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:37": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "2:45": {
+                "distance": "1.8",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "sounding_object",
+        "description": "The person speaking, who is the sounding object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.6",
+                "direction": "-65"
+            },
+            "0:15": {
+                "distance": "1.6",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "1.6",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:34": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:37": {
+                "distance": "1.7",
+                "direction": "-65"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "2:15": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "2:45": {
+                "distance": "1.8",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting palo alto as a major stop\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_303",
+    "video_id": "loc3_script3_seq2_rec1"
+}

@@ -1,0 +1,156 @@
+{
+    "event": "Speech topic: identifying kebabs as another cooking ingredient",
+    "start_time": "01:07",
+    "end_time": "01:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with light skin and curly dark brown hair. He is wearing a grey short-sleeved collared shirt, black shorts, and black sneakers with white socks. He has over-ear headphones around his neck and is holding a small black rectangular device (likely a phone or controller) in his hands. Appears to be of average build and height for an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:14": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:35": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:07": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's viewpoint. The wearer is sitting on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with light skin and curly dark brown hair. He is wearing a grey short-sleeved collared shirt, black shorts, and black sneakers with white socks. He has over-ear headphones around his neck and is holding a small black rectangular device (likely a phone or controller) in his hands. He is sitting on a couch opposite the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:12": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:14": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:35": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:07": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"identifying kebabs as another cooking ingredient\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_132",
+    "video_id": "loc2_script3_seq2_rec2"
+}

@@ -1,0 +1,159 @@
+{
+    "event": "The distance between the camera wearer and the other person when the speech topic 'reporting items purchased and items missed' comes up.",
+    "start_time": "0:11",
+    "end_time": "0:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a light green short-sleeved polo shirt and blue jeans. He is also wearing a gold-colored watch on his left wrist. He is sitting on a light-colored couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:07": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:38": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:05": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:35": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:45": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is sitting on a couch, looking forward into a living room. The camera wearer is holding a book initially, then places it down.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": "1.5",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"reporting items purchased and items missed\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_304",
+    "video_id": "loc3_script3_seq2_rec2"
+}

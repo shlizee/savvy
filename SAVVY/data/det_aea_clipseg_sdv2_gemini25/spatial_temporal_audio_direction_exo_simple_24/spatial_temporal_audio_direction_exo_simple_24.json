@@ -1,0 +1,174 @@
+{
+    "event": "The speech topic: \"commenting on the coffee maker's sleekness\" comes up.",
+    "start_time": "1:32",
+    "end_time": "1:46",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a black short-sleeved crop top, light blue high-waisted jeans, and glasses. She is also wearing a lavalier microphone clipped to her jeans and an audio recorder on her belt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:26": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:42": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "2.3",
+                "direction": "-30"
+            },
+            "1:07": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "1:19": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "1:32": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "1:38": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "2:38": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "1.7",
+                "direction": "-5"
+            },
+            "2:59": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:06": {
+                "distance": "1.3",
+                "direction": "-10"
+            },
+            "3:13": {
+                "distance": "1.3",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch with several throw pillows (yellow, patterned, and a cream-colored knitted throw blanket).",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-100"
+            },
+            "0:25": {
+                "distance": "5.0",
+                "direction": "-90"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "-90"
+            },
+            "1:35": {
+                "distance": "5.0",
+                "direction": "-90"
+            },
+            "2:00": {
+                "distance": "5.0",
+                "direction": "-90"
+            },
+            "3:00": {
+                "distance": "5.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A light-gray fabric armchair with a blue throw pillow, located on the right side of a large arched window when viewed from the hallway entrance to the living room. The wall painting is on the left wall of the living room.",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "6.0",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "6.0",
+                "direction": "-75"
+            },
+            "1:35": {
+                "distance": "6.0",
+                "direction": "-75"
+            },
+            "2:00": {
+                "distance": "6.0",
+                "direction": "-75"
+            },
+            "3:00": {
+                "distance": "6.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the light-gray armchair further from the wall painting, when the speech topic: \"commenting on the coffee maker's sleekness\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_24",
+    "video_id": "loc1_script2_seq3_rec1"
+}

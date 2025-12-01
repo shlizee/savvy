@@ -1,0 +1,204 @@
+{
+    "event": "The other person states they have a French press, which serves as an alternative to a coffee filter.",
+    "start_time": "1:05",
+    "end_time": "1:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white short-sleeved t-shirt, a yellow knitted vest, light blue jeans, and colorful socks. She is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:05": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-55"
+            },
+            "1:33": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:09": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "2:35": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "2:51": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "3:03": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The person is wearing a green t-shirt, blue jeans, and a gold-colored watch on their left wrist.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white short-sleeved t-shirt, a yellow knitted vest, light blue jeans, and colorful socks. She is of average height and build.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:05": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-55"
+            },
+            "1:33": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:09": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "2:35": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "2:51": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "3:03": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating possession of filter alternative\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_254",
+    "video_id": "loc3_script2_seq3_rec1"
+}

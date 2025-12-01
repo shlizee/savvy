@@ -1,0 +1,103 @@
+{
+    "event": "Speech topic: \"associating movie music with 'all star' song\"",
+    "start_time": "2:07",
+    "end_time": "2:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly brown hair, wearing glasses, a light blue short-sleeved collared shirt, and dark shorts. He is also wearing in-ear headphones connected to a device clipped to his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:14": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "1:11": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:35": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "1:39": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "2:11": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "2:18": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "2:23": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "2:29": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "2:33": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "2:47": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "2:58": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "3:08": {
+                "distance": "1.1",
+                "direction": "10"
+            },
+            "4:22": {
+                "distance": "1.1",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.1,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"associating movie music with \"all star\" song\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_33",
+    "video_id": "loc1_script2_seq7_rec1"
+}

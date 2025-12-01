@@ -1,0 +1,132 @@
+{
+    "event": "The speaker clarifies their intent to only flip food and asserts their capability to do so.",
+    "start_time": "1:39",
+    "end_time": "1:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short brown hair, wearing glasses, a turquoise short-sleeved polo shirt, and khaki shorts. He is also wearing white sneakers. He is the person cooking at the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.3",
+                "direction": "40"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "1.3",
+                "direction": "-20"
+            },
+            "0:26": {
+                "distance": "1.6",
+                "direction": "-35"
+            },
+            "0:32": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "0:36": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:52": {
+                "distance": "1.3",
+                "direction": "-20"
+            },
+            "0:59": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:09": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:18": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "1.1",
+                "direction": "-25"
+            },
+            "1:39": {
+                "distance": "1.1",
+                "direction": "-15"
+            },
+            "1:55": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "2:02": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:19": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:35": {
+                "distance": "1.4",
+                "direction": "-25"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Refrigerator",
+        "description": "A large, stainless steel, double-door refrigerator with an ice/water dispenser on the left door. It is located to the left of a set of wooden kitchen cabinets and drawers.",
+        "key_frames": {
+            "0:30": {
+                "distance": "1.6",
+                "direction": "-80"
+            },
+            "0:33": {
+                "distance": "1.0",
+                "direction": "-85"
+            },
+            "1:57": {
+                "distance": "2.2",
+                "direction": "-70"
+            },
+            "2:26": {
+                "distance": "0.4",
+                "direction": "-90"
+            },
+            "2:32": {
+                "distance": "1.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A black or dark-colored double-basin rectangular sink embedded in a granite countertop, with a silver-colored tap. It is located to the right of the refrigerator (from the camera's general perspective in the video) and to the left of the stove area.",
+        "key_frames": {
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:54": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the double-basin rectangular sink and tap, when the speech topic: \"clarifying intent to only flip food and asserting capability\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_229",
+    "video_id": "loc2_script3_seq32_rec2"
+}

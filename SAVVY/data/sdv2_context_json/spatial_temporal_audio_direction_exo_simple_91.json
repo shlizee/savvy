@@ -1,0 +1,88 @@
+{
+    "event": "A thud sound occurs, and the task is to determine its direction (left, right, or back) relative to a hypothetical robot standing by a stainless steel double wall oven and facing a round sink with a tap.",
+    "start_time": "0:59",
+    "end_time": "1:00",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A stainless steel, double-door refrigerator. The thud sound is produced by its right door closing.",
+        "is_static": true,
+        "key_frames": {
+            "0:50": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "1.5",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into wooden cabinetry, located on the kitchen wall. It has two oven compartments stacked vertically.",
+        "key_frames": {
+            "0:45": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:47": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:06": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, dark-colored (likely stainless steel or composite) sink with a metallic gooseneck tap, located on the kitchen island which has a light-colored countertop (possibly granite).",
+        "key_frames": {
+            "0:44": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:46": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the round sink with a tap, when the thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_91",
+    "video_id": "loc2_script2_seq1_rec2"
+}

@@ -1,0 +1,124 @@
+{
+    "event": "Speaker's location relative to a robot when the speech topic 'stating belief task is showing reminding video' comes up.",
+    "start_time": "0:55",
+    "end_time": "1:01",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, dark brown hair, wearing a green short-sleeved t-shirt and blue denim jeans. He is the one holding the camera for this first-person video, so his voice originates from the camera's location. He is seated on a couch during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A large, black, flat-screen television. It is part of a light-colored wooden media console unit that also includes shelves. It is positioned to the left of a prominent stone-faced fireplace.",
+        "key_frames": {
+            "0:01": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "0:55": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "1:01": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "1:38": {
+                "distance": "3.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A small, black, decorative sculpture of a four-legged animal, possibly a dog or deer, with a smooth finish. It is approximately 30-50 cm in length and height. It is initially seen on the wooden floor near large sliding glass doors leading to a balcony.",
+        "key_frames": {
+            "0:00": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:55": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "1:01": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "1:20": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "1:38": {
+                "distance": "4.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "B",
+    "question": "Imagine you are a robot standing by the tv by the fireplace and facing the black decorative animal sculpture, when the speech topic: \"stating belief task is showing reminding video\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_335",
+    "video_id": "loc3_script2_seq7_rec1"
+}

@@ -1,0 +1,112 @@
+{
+    "event": "Expressing shared feeling about day ending",
+    "start_time": "1:33",
+    "end_time": "1:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue short-sleeved polo shirt, khaki cargo shorts, and white sneakers. He has short brown hair, appears to be balding on top, and wears glasses. He is also wearing wired earbuds. Approximate height appears average, with a medium to stocky build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:09": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:20": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:33": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:50": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "2:10": {
+                "distance": "1.2",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from. Visible parts include hands and legs wearing light blue shorts with small white dots. Appears to be barefoot indoors.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:59": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera's forward direction",
+        "description": "The direction the camera is pointing. At the time of the event, the camera is facing towards a dark wooden coffee table, and beyond that, an entertainment center with a TV, shelves, and various decorative items. Two armchairs are visible further into the living room.",
+        "key_frames": {
+            "1:33": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing shared feeling about day ending\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_91",
+    "video_id": "loc2_script2_seq1_rec1"
+}

@@ -1,0 +1,104 @@
+{
+    "event": "A creak and thud sound occurs as the front door is opened.",
+    "start_time": "0:06",
+    "end_time": "0:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The sounding object is the front door of the house. It is a dark brown, wooden, arched door with a small, rectangular, barred window in its upper half. It has a black metal handle/knob assembly. Approximate dimensions are 2 meters in height and 0.9 meters in width. The sound is produced when it is opened.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "A tall, dark brown wooden china cabinet. It features two glass-paned upper doors revealing white and patterned china, and solid wooden lower doors/drawers. Approximate dimensions are 2 meters in height, 1 meter in width, and 0.4 meters in depth.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:17": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:25": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:55": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White Recessed Fireplace",
+        "description": "A kiva-style, white-painted recessed fireplace. It has a curved opening at the bottom for the firebox and a flat mantelpiece above. A round mirror with a decorative, colorful tiled frame is mounted on the wall above the mantel. The fireplace structure extends upwards from the mantel, tapering slightly. Approximate width at the base is 1.5 meters, and the mantel height is about 1.2 meters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:21": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:38": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:55": {
+                "distance": "2.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the wooden china cabinet and facing the white recessed fireplace, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_7",
+    "video_id": "loc1_script2_seq1_rec1"
+}

@@ -1,0 +1,84 @@
+{
+    "event": "The specified speech topic 'stating kebabs are intended for lunch' was not found in the video. The following data pertains to a representative moment (0:01:38) where the camera wearer (assumed speech sound source for this exercise) is near the stainless steel double wall oven, and food preparation (kebabs) is in progress.",
+    "start_time": "0:01:38",
+    "end_time": "0:01:39",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Person A, the camera wearer. This person's voice is audible, and they are actively involved in the kitchen activities. For this exercise, they are considered the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "A built-in stainless steel double wall oven, with two oven compartments stacked vertically. It is silver/grey metallic in color. Approximate dimensions: 0.75m wide, 1.2m tall, 0.6m deep.",
+        "is_static": true,
+        "key_frames": {
+            "0:01:31": {
+                "distance": "0.9",
+                "direction": "-20"
+            },
+            "0:01:34": {
+                "distance": "0.7",
+                "direction": "40"
+            },
+            "0:01:38": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:01:41": {
+                "distance": "0.8",
+                "direction": "25"
+            },
+            "0:01:52": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:01:53": {
+                "distance": "0.7",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "Not applicable as the mode is egocentric and measurements are from the camera.",
+        "key_frames": {}
+    },
+    "prediction": 0.6,
+    "question": "When the speech topic: \"stating kebabs are intended for lunch\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_185",
+    "video_id": "loc2_script3_seq32_rec2"
+}

@@ -1,0 +1,216 @@
+{
+    "event": "Speech topic: \"continuing hypothetical bleeding scenario\"",
+    "start_time": "3:02",
+    "end_time": "3:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person wearing a grey short-sleeved polo shirt, dark blue shorts, and glasses. They have dark, curly hair. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:12": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "2:18": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "2:38": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "2:47": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:02": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "3:07": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "3:10": {
+                "distance": "1.1",
+                "direction": "-78"
+            },
+            "3:14": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "3:20": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "3:27": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "3:38": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:43": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "3:47": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into wooden kitchen cabinetry. Each oven has a handle and a window. Standard appliance size.",
+        "key_frames": {
+            "0:14": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:44": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:16": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "1:25": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "2:11": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "2:31": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "3:30": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "3:33": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "3:40": {
+                "distance": "2.2",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "two-seater dining table",
+        "description": "A wooden, semi-circular or oval dining table with a dark wood finish, accompanied by two chairs with dark frames and patterned cushions. Positioned near a large window/sliding glass door.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:19": {
+                "distance": "2.2",
+                "direction": "30"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:48": {
+                "distance": "2.8",
+                "direction": "70"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:26": {
+                "distance": "3.2",
+                "direction": "40"
+            },
+            "1:36": {
+                "distance": "2.5",
+                "direction": "50"
+            },
+            "2:05": {
+                "distance": "2.7",
+                "direction": "60"
+            },
+            "2:32": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "3:42": {
+                "distance": "3.5",
+                "direction": "50"
+            },
+            "3:46": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the two-seater dining table, when the speech topic: \"continuing hypothetical bleeding scenario\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_270",
+    "video_id": "loc2_script3_seq5_rec2"
+}

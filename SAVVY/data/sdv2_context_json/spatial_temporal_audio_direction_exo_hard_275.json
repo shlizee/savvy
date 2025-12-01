@@ -1,0 +1,160 @@
+{
+    "event": "A speaker expresses the belief that a task is complete.",
+    "start_time": "03:44",
+    "end_time": "03:44",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark brown hair, wearing glasses, a grey short-sleeved polo shirt with a collar, and dark blue shorts. He appears to be of average height and build. Throughout the video, he is actively involved in cleaning up in the kitchen.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "00:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:32": {
+                "distance": "2.2",
+                "direction": "-10"
+            },
+            "00:45": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "00:50": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "02:12": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "02:18": {
+                "distance": "1.6",
+                "direction": "-20"
+            },
+            "02:25": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "02:38": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "03:08": {
+                "distance": "1.7",
+                "direction": "-20"
+            },
+            "03:17": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "03:27": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "03:38": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "03:44": {
+                "distance": "1.9",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard built-in dishwasher with a stainless steel front panel. It is located along a kitchen counter run, to the immediate left of a black double-basin sink (when facing the sink/dishwasher from the front) and to the right of a section of wooden cabinetry before the wall ovens (when facing the sink/dishwasher from the front).",
+        "key_frames": {
+            "00:11": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "00:23": {
+                "distance": "1.6",
+                "direction": "-45"
+            },
+            "01:17": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "02:11": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "02:18": {
+                "distance": "1.6",
+                "direction": "-30"
+            },
+            "02:28": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "03:08": {
+                "distance": "1.7",
+                "direction": "-20"
+            },
+            "03:13": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "03:27": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "03:37": {
+                "distance": "1.7",
+                "direction": "-20"
+            },
+            "03:44": {
+                "distance": "1.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. It is located further down the same counter run as the dishwasher, to the left of the dishwasher (when facing the counter run from the kitchen island, or in the direction the robot is facing).",
+        "key_frames": {
+            "00:11": {
+                "distance": "3.5",
+                "direction": "-65"
+            },
+            "00:23": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "01:17": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "02:11": {
+                "distance": "3.7",
+                "direction": "-70"
+            },
+            "03:32": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "03:44": {
+                "distance": "4.2",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"expressing belief task is complete\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_275",
+    "video_id": "loc2_script3_seq5_rec2"
+}

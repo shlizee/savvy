@@ -1,0 +1,60 @@
+{
+    "event": "A creak sound is heard as a door opens.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A light blue, arched wooden door with a black handle and a floral wreath hanging on it. The door has a small, four-paned window in its upper half. It appears to be a standard exterior door size.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0.3",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Door",
+        "description": "The blue arched door.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "0.7",
+    "question": "Imagine you are the camera wearer, when the creak sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_4",
+    "video_id": "loc1_script2_seq1_rec2"
+}

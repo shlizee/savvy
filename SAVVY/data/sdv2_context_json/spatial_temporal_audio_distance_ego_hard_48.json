@@ -1,0 +1,124 @@
+{
+    "event": "Thud sound of the front door closing.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Dark brown or black front door with a large decorative glass panel featuring wrought iron scrollwork, and a matching sidelight. Approximate dimensions: 2m height, 0.9m width.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.3",
+                "direction": "-70"
+            },
+            "0:08": {
+                "distance": "0.6",
+                "direction": "-140"
+            },
+            "0:09": {
+                "distance": "0.5",
+                "direction": "-175"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "165"
+            },
+            "0:42": {
+                "distance": "4.5",
+                "direction": "170"
+            },
+            "1:08": {
+                "distance": "2.5",
+                "direction": "-165"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the person, providing an egocentric point of view. Its location is the origin (0,0) for distance and direction measurements to other objects.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General View Ahead",
+        "description": "The direction the camera is primarily pointing at different times.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.5,
+    "question": "Imagine you are the camera wearer, when the thud sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_48",
+    "video_id": "loc2_script2_seq1_rec2"
+}

@@ -1,0 +1,140 @@
+{
+    "event": "A person is instructing another to place kebabs onto a pan on the cooktop.",
+    "start_time": "02:03",
+    "end_time": "02:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/blue polo shirt, khaki shorts, glasses, and a headset with a microphone. He is the one speaking and cooking.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:26": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:32": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:54": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "1:19": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:05": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:16": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:34": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A double-basin sink, likely dark composite material or stainless steel, with a metallic gooseneck tap. It is installed in a light-colored granite kitchen island.",
+        "key_frames": {
+            "0:30": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:54": {
+                "distance": "0.6",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Electric cooktop",
+        "description": "A black glass-ceramic electric cooktop with multiple burners and touch controls, integrated into the light-colored granite kitchen island, to the right of the sink.",
+        "key_frames": {
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:52": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:08": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:39": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the electric cooktop, when the speech topic: \"instructing placing kebabs onto the pan\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_233",
+    "video_id": "loc2_script3_seq32_rec2"
+}

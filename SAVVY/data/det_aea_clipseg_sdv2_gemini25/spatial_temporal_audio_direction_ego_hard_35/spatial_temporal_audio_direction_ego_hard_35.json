@@ -1,0 +1,92 @@
+{
+    "event": "A splashing sound occurs when a bowl of fruit is knocked over on the table.",
+    "start_time": "0:34",
+    "end_time": "0:36",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A small, round, white ceramic bowl, approximately 10-12 cm in diameter. It contains pieces of red, moist fruit (likely watermelon) and a silver metal fork. The sound is generated when the bowl is knocked over and its contents spill onto the wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:26": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "0:33": {
+                "distance": "0.4",
+                "direction": "-10"
+            },
+            "0:34": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:38": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:48": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:53": {
+                "distance": "0.3",
+                "direction": "-5"
+            },
+            "1:03": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera (wearer)",
+        "description": "The first-person view from the camera worn by the user. This is the origin point for distance and direction measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General direction of gaze",
+        "description": "The direction the camera is pointing at the moment of the event. For egocentric tasks, this is implicitly forward (0 degrees).",
+        "key_frames": {
+            "0:34": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the splashing sound comes up, relative to where you are facing, where is the sound source: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_35",
+    "video_id": "loc1_script2_seq6_rec2"
+}

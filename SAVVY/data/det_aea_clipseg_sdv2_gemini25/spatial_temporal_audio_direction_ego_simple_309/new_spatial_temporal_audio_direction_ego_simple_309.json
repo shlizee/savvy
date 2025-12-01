@@ -1,0 +1,244 @@
+{
+    "event": "The other person is stating their readiness with items they purchased from the supermarket.",
+    "start_time": "0:21",
+    "end_time": "0:28",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a light green short-sleeved collared shirt and blue jeans. He is sitting on a light-colored couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:07": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "55"
+            },
+            "0:25": {
+                "distance": "2.1",
+                "direction": "50"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "0:55": {
+                "distance": "2.1",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "2.2",
+                "direction": "50"
+            },
+            "1:15": {
+                "distance": "2.1",
+                "direction": "45"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "2.1",
+                "direction": "50"
+            },
+            "1:55": {
+                "distance": "2.2",
+                "direction": "55"
+            },
+            "2:05": {
+                "distance": "2.1",
+                "direction": "50"
+            },
+            "2:15": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "2:25": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "2:35": {
+                "distance": "2.1",
+                "direction": "45"
+            },
+            "2:45": {
+                "distance": "2.2",
+                "direction": "50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_view",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "55"
+            },
+            "0:25": {
+                "distance": "2.1",
+                "direction": "50"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "0:55": {
+                "distance": "2.1",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "2.2",
+                "direction": "50"
+            },
+            "1:15": {
+                "distance": "2.1",
+                "direction": "45"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "2.1",
+                "direction": "50"
+            },
+            "1:55": {
+                "distance": "2.2",
+                "direction": "55"
+            },
+            "2:05": {
+                "distance": "2.1",
+                "direction": "50"
+            },
+            "2:15": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "2:25": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "2:35": {
+                "distance": "2.1",
+                "direction": "45"
+            },
+            "2:45": {
+                "distance": "2.2",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating readiness with purchased items\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_309",
+    "video_id": "loc3_script3_seq2_rec2"
+}

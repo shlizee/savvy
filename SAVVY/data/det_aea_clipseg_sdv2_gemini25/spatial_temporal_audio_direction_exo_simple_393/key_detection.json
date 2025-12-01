@@ -1,0 +1,717 @@
+{
+    "00000": {
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": -64.24,
+            "distance": 2.52,
+            "det_conf": [
+                0.5221900343894958,
+                0.48766496777534485,
+                0.35717320442199707,
+                0.5741869807243347,
+                0.038096439093351364
+            ]
+        }
+    },
+    "00005": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -33.5,
+            "distance": 1.0,
+            "det_conf": [
+                0.4474077820777893,
+                0.5076137185096741,
+                0.508544385433197,
+                0.48552405834198,
+                0.44012942910194397
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": -65.28,
+            "distance": 3.55,
+            "det_conf": [
+                0.4245482087135315,
+                0.5817278623580933,
+                0.24069102108478546,
+                0.5795442461967468,
+                0.2312631905078888
+            ]
+        }
+    },
+    "00020": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -11.87,
+            "distance": 1.01,
+            "det_conf": [
+                0.447585791349411,
+                0.4928029477596283,
+                0.523402750492096,
+                0.4515868127346039,
+                0.5041858553886414
+            ]
+        }
+    },
+    "00105": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -21.69,
+            "distance": 1.05,
+            "det_conf": [
+                0.47623753547668457,
+                0.18711666762828827,
+                0.6155858635902405,
+                0.6234400868415833,
+                0.444907546043396
+            ]
+        }
+    },
+    "00110": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -26.03,
+            "distance": 1.02,
+            "det_conf": [
+                0.5945119261741638,
+                0.6907214522361755,
+                0.6205025911331177,
+                0.34499064087867737,
+                0.6167726516723633
+            ]
+        }
+    },
+    "00115": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -5.91,
+            "distance": 1.05,
+            "det_conf": [
+                0.5428608059883118,
+                0.47961318492889404,
+                0.5438277721405029,
+                0.49256542325019836,
+                0.5018746852874756
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": 41.93,
+            "distance": 3.86,
+            "det_conf": [
+                0.18687468767166138,
+                0.08492080867290497,
+                0.10442567616701126,
+                0.5657338500022888,
+                0.47255823016166687
+            ]
+        }
+    },
+    "00125": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 7.04,
+            "distance": 1.08,
+            "det_conf": [
+                0.5234153866767883,
+                0.44608402252197266,
+                0.574110209941864,
+                0.5633848905563354,
+                0.40552762150764465
+            ]
+        }
+    },
+    "00130": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -6.92,
+            "distance": 1.02,
+            "det_conf": [
+                0.527186930179596,
+                0.4108203053474426,
+                0.4907020330429077,
+                0.3951946794986725,
+                0.5377911925315857
+            ]
+        }
+    },
+    "00140": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -22.84,
+            "distance": 1.01,
+            "det_conf": [
+                0.48010116815567017,
+                0.45366349816322327,
+                0.4015220105648041,
+                0.5380570888519287,
+                0.5136282444000244
+            ]
+        }
+    },
+    "00570": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": -49.04,
+            "distance": 1.03,
+            "det_conf": [
+                0.17378589510917664,
+                0.5004252791404724,
+                0.2933429777622223,
+                0.07003378868103027,
+                0.0790758728981018
+            ]
+        }
+    },
+    "00580": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -71.05,
+            "distance": 1.0,
+            "det_conf": [
+                0.46998146176338196,
+                0.255092054605484,
+                0.6124306917190552,
+                0.6384163498878479,
+                0.4802074134349823
+            ]
+        }
+    },
+    "00600": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": -49.59,
+            "distance": 1.07,
+            "det_conf": [
+                0.5110352635383606,
+                0.5124317407608032,
+                0.06357749551534653,
+                0.5551937818527222,
+                0.2478833943605423
+            ]
+        }
+    },
+    "01100": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -13.05,
+            "distance": 1.1,
+            "det_conf": [
+                0.23508374392986298,
+                0.3577590882778168,
+                0.6262823343276978,
+                0.31768134236335754,
+                0.1785317212343216
+            ]
+        }
+    },
+    "01110": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -11.33,
+            "distance": 1.4,
+            "det_conf": [
+                0.49737751483917236,
+                0.05646560341119766,
+                0.5239907503128052,
+                0.32881900668144226,
+                0.43050435185432434
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": 5.29,
+            "distance": 1.57,
+            "det_conf": [
+                0.23506340384483337,
+                0.5072849988937378,
+                0.5479152798652649,
+                0.5931496620178223,
+                0.12400918453931808
+            ]
+        }
+    },
+    "01120": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -70.55,
+            "distance": 1.0,
+            "det_conf": [
+                0.7166550159454346,
+                0.7139562964439392,
+                0.7418150901794434,
+                0.7680407166481018,
+                0.6612123250961304
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": -25.02,
+            "distance": 1.41,
+            "det_conf": [
+                0.31851598620414734,
+                0.10979265719652176,
+                0.5148577094078064,
+                0.10687346756458282,
+                0.48776307702064514
+            ]
+        }
+    },
+    "01140": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": 0.55,
+            "distance": 1.04,
+            "det_conf": [
+                0.4530763030052185,
+                0.4791356921195984,
+                0.716790497303009,
+                0.47501859068870544,
+                0.3948061168193817
+            ]
+        }
+    },
+    "01210": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": 3.62,
+            "distance": 1.0,
+            "det_conf": [
+                0.5532562732696533,
+                0.539702296257019,
+                0.5327472686767578,
+                0.5794094800949097,
+                0.5381234288215637
+            ]
+        }
+    },
+    "01790": {
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": -60.84,
+            "distance": 2.2,
+            "det_conf": [
+                0.3348604142665863,
+                0.3329465091228485,
+                0.28141674399375916,
+                0.47170063853263855,
+                0.5025014281272888
+            ]
+        }
+    },
+    "01795": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 47.01,
+            "distance": 1.47,
+            "det_conf": [
+                0.49020302295684814,
+                0.40244507789611816,
+                0.500807523727417,
+                0.5473937392234802,
+                0.32305386662483215
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": 2.52,
+            "distance": 2.97,
+            "det_conf": [
+                0.15152214467525482,
+                0.19419628381729126,
+                0.01080330926924944,
+                0.10835538804531097,
+                0.581998884677887
+            ]
+        }
+    },
+    "01805": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 36.4,
+            "distance": 1.37,
+            "det_conf": [
+                0.7984023094177246,
+                0.7198330163955688,
+                0.7324926257133484,
+                0.777908980846405,
+                0.7102226614952087
+            ]
+        }
+    },
+    "01810": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 31.98,
+            "distance": 1.4,
+            "det_conf": [
+                0.7087039351463318,
+                0.831551730632782,
+                0.77117919921875,
+                0.7607846856117249,
+                0.798818051815033
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": -0.98,
+            "distance": 4.97,
+            "det_conf": [
+                0.5842289924621582,
+                0.5272210240364075,
+                0.5792725682258606,
+                0.1613517552614212,
+                0.42880967259407043
+            ]
+        }
+    },
+    "01815": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 29.63,
+            "distance": 1.28,
+            "det_conf": [
+                0.6953661441802979,
+                0.7245230674743652,
+                0.7198447585105896,
+                0.6827954649925232,
+                0.7119696140289307
+            ]
+        }
+    },
+    "01820": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 16.46,
+            "distance": 1.22,
+            "det_conf": [
+                0.742770791053772,
+                0.6436867117881775,
+                0.592287003993988,
+                0.7122051119804382,
+                0.27298495173454285
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": 2.79,
+            "distance": 3.72,
+            "det_conf": [
+                0.25554075837135315,
+                0.550383985042572,
+                0.5518668293952942,
+                0.4478643238544464,
+                0.500800609588623
+            ]
+        }
+    },
+    "02580": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 0.41,
+            "distance": 1.33,
+            "det_conf": [
+                0.5296124815940857,
+                0.3144872784614563,
+                0.5318356156349182,
+                0.23037153482437134,
+                0.17706288397312164
+            ]
+        }
+    },
+    "02590": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": -38.98,
+            "distance": 1.0,
+            "det_conf": [
+                0.6244496703147888,
+                0.6973398923873901,
+                0.6162731051445007,
+                0.5957784056663513,
+                0.7413970232009888
+            ]
+        }
+    },
+    "02595": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": -34.11,
+            "distance": 1.0,
+            "det_conf": [
+                0.7242574691772461,
+                0.4951710104942322,
+                0.6225540637969971,
+                0.6351436972618103,
+                0.5975591540336609
+            ]
+        }
+    },
+    "02615": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": -63.61,
+            "distance": 2.37,
+            "det_conf": [
+                0.5811136364936829,
+                0.5392686128616333,
+                0.3695903420448303,
+                0.3274262845516205,
+                0.029114343225955963
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": -65.71,
+            "distance": 2.71,
+            "det_conf": [
+                0.49201443791389465,
+                0.4568134546279907,
+                0.04467015713453293,
+                0.5032539367675781,
+                0.4980691373348236
+            ]
+        }
+    },
+    "02620": {
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": -58.54,
+            "distance": 2.45,
+            "det_conf": [
+                0.5495441555976868,
+                0.47708117961883545,
+                0.5138227939605713,
+                0.5092986822128296,
+                0.44001463055610657
+            ]
+        }
+    },
+    "02660": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 4.56,
+            "distance": 2.46,
+            "det_conf": [
+                0.6556519865989685,
+                0.27665746212005615,
+                0.2951242923736572,
+                0.4091709554195404,
+                0.06385975331068039
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": 55.53,
+            "distance": 5.06,
+            "det_conf": [
+                0.49773845076560974,
+                0.5429458022117615,
+                0.5419226288795471,
+                0.4955102503299713,
+                0.2725251615047455
+            ]
+        }
+    },
+    "02670": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -19.78,
+            "distance": 1.24,
+            "det_conf": [
+                0.8428447842597961,
+                0.8847910165786743,
+                0.8168409466743469,
+                0.910290002822876,
+                0.8581926226615906
+            ]
+        }
+    },
+    "02680": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -30.85,
+            "distance": 1.27,
+            "det_conf": [
+                0.8492313623428345,
+                0.8461604714393616,
+                0.8482224345207214,
+                0.8097317814826965,
+                0.8162975311279297
+            ]
+        }
+    },
+    "02690": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -40.09,
+            "distance": 1.3,
+            "det_conf": [
+                0.9242671728134155,
+                0.9388229846954346,
+                0.9212172627449036,
+                0.928325355052948,
+                0.9332627654075623
+            ]
+        }
+    },
+    "02700": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": -58.35,
+            "distance": 2.83,
+            "det_conf": [
+                0.5979323983192444,
+                0.5512335300445557,
+                0.29515591263771057,
+                0.0010937830666080117,
+                0.0008257483714260161
+            ]
+        }
+    },
+    "02720": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -70.84,
+            "distance": 1.76,
+            "det_conf": [
+                0.381589412689209,
+                0.5213569402694702,
+                0.47693026065826416,
+                0.3922364115715027,
+                0.10347656905651093
+            ]
+        }
+    },
+    "02740": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -42.94,
+            "distance": 1.15,
+            "det_conf": [
+                0.6586229205131531,
+                0.6320549249649048,
+                0.6280366778373718,
+                0.46768417954444885,
+                0.6105255484580994
+            ]
+        }
+    },
+    "02760": {
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": -48.7,
+            "distance": 5.2,
+            "det_conf": [
+                0.5390133261680603,
+                0.5459214448928833,
+                0.38440531492233276,
+                0.4370291233062744,
+                0.31718385219573975
+            ]
+        }
+    },
+    "03180": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": 29.2,
+            "distance": 1.36,
+            "det_conf": [
+                0.7156608700752258,
+                0.7775390148162842,
+                0.3054160475730896,
+                0.3418499529361725,
+                0.18754534423351288
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": 38.67,
+            "distance": 2.95,
+            "det_conf": [
+                0.5214982032775879,
+                0.2626209557056427,
+                0.3352908194065094,
+                0.060293521732091904,
+                0.14059996604919434
+            ]
+        }
+    },
+    "03185": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": 22.94,
+            "distance": 1.29,
+            "det_conf": [
+                0.5871157646179199,
+                0.46442270278930664,
+                0.1854115128517151,
+                0.14926110208034515,
+                0.04214777797460556
+            ]
+        }
+    },
+    "03190": {
+        "A dark-colored metal frying pan, approximately 10-12 inches in diameter. The sound is produced when it's being scraped/cleaned by the man in the green shirt at the kitchen island sink.": {
+            "direction": 17.45,
+            "distance": 1.33,
+            "det_conf": [
+                0.3324356973171234,
+                0.5559329986572266,
+                0.16119824349880219,
+                0.14839260280132294,
+                0.03838204964995384
+            ]
+        },
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 5.49,
+            "distance": 1.54,
+            "det_conf": [
+                0.4480341076850891,
+                0.457168310880661,
+                0.47489607334136963,
+                0.5331533551216125,
+                0.5785921812057495
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": 21.43,
+            "distance": 5.95,
+            "det_conf": [
+                0.5707820653915405,
+                0.38293585181236267,
+                0.5397021174430847,
+                0.4523635506629944,
+                0.09908618032932281
+            ]
+        }
+    },
+    "03195": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 13.5,
+            "distance": 1.21,
+            "det_conf": [
+                0.6805848479270935,
+                0.6514995694160461,
+                0.7081847190856934,
+                0.7151452302932739,
+                0.6449756026268005
+            ]
+        },
+        "A flat-screen TV mounted above a fireplace. The fireplace has a light-colored stone/brick facade and a mantel. Located on the far wall of the living room. The robot is hypothetically facing this object.": {
+            "direction": 10.08,
+            "distance": 5.04,
+            "det_conf": [
+                0.4399908185005188,
+                0.4092307388782501,
+                0.4148206114768982,
+                0.5259508490562439,
+                0.4121512174606323
+            ]
+        }
+    },
+    "03200": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": 16.14,
+            "distance": 1.3,
+            "det_conf": [
+                0.8429490923881531,
+                0.28463485836982727,
+                0.7995293736457825,
+                0.2753974199295044,
+                0.8298606276512146
+            ]
+        }
+    },
+    "03205": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -53.99,
+            "distance": 2.3,
+            "det_conf": [
+                0.3836665451526642,
+                0.5109260082244873,
+                0.19002459943294525,
+                0.6131723523139954,
+                0.34356600046157837
+            ]
+        }
+    },
+    "03215": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -14.65,
+            "distance": 1.28,
+            "det_conf": [
+                0.6587064266204834,
+                0.7753264904022217,
+                0.7787462472915649,
+                0.7455337047576904,
+                0.7324013710021973
+            ]
+        }
+    },
+    "03220": {
+        "A low, rectangular coffee table made of light-colored wood, located in the center of the living room area. The robot is hypothetically standing by this table.": {
+            "direction": -9.57,
+            "distance": 1.32,
+            "det_conf": [
+                0.7707537412643433,
+                0.7747374773025513,
+                0.3555085062980652,
+                0.5550491213798523,
+                0.7746530771255493
+            ]
+        }
+    }
+}

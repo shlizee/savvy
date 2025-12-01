@@ -1,0 +1,64 @@
+{
+    "event": "Distance between the built-in stainless steel dishwasher and the speech sound source when the speech topic: \"expressing doubt about using time codes\" is mentioned.",
+    "start_time": "0:36",
+    "end_time": "0:39",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Man in a turquoise/blue polo shirt and khaki shorts, wearing glasses. Appears to be of average height and build. He is holding a smartphone and is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:39": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "0.6",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard built-in kitchen dishwasher with a stainless steel front panel, approximately 0.6 meters wide, located under the kitchen counter.",
+        "is_static": true,
+        "key_frames": {
+            "0:15": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:29": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.4,
+    "question": "When the speech topic: \"expressing doubt about using time codes\" is mentioned, what is the distance between the built-in stainless steel dishwasher and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_169",
+    "video_id": "loc2_script3_seq31_rec2"
+}

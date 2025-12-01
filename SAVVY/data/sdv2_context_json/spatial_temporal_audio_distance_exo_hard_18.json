@@ -1,0 +1,148 @@
+{
+    "event": "The speech topic: \"stating belief water needs adding\" is mentioned.",
+    "start_time": "0:44",
+    "end_time": "0:45",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A black, single-serve countertop drip coffee maker, likely a Keurig or similar model. It has a plastic body and is relatively compact, approximately 30cm tall, 15cm wide, and 25cm deep. It is located on the kitchen counter.",
+        "is_static": true,
+        "key_frames": {
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:26": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:44": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:52": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:40": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "3:00": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "3:12": {
+                "distance": "1.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Speech Sound Source (Woman)",
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved crop top and light blue high-waisted jeans. She is the one operating the coffee maker and speaking at the specified event time.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:26": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:44": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:49": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:52": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:40": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:53": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:58": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "3:12": {
+                "distance": "1.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera",
+        "description": "The camera is the viewpoint for the egocentric perspective.",
+        "key_frames": {}
+    },
+    "prediction": 0.4,
+    "question": "When the speech topic: \"stating belief water needs adding\" is mentioned, what is the distance between the countertop drip coffee maker and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_18",
+    "video_id": "loc1_script2_seq3_rec1"
+}

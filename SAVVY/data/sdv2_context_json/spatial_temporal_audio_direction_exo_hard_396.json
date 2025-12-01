@@ -1,0 +1,158 @@
+{
+    "event": "A scraping sound occurs while a robot is positioned by the kitchen hob, facing the rectangular dining table.",
+    "start_time": "0:29",
+    "end_time": "0:30",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The scraping sound originates from an item (likely a plate or utensil) being washed in the kitchen island sink. The sink is stainless steel, part of a kitchen island with a white countertop. The sound is produced by the item being scraped against another surface during the washing process.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:29": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "2.2",
+                "direction": "25"
+            },
+            "1:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "2:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Hob",
+        "description": "A stainless steel gas stovetop with multiple burners, integrated into the kitchen counter against the far wall of the kitchen. It has dark grates and silver knobs. Approximately 0.8 meters wide.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "0:25": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "0:28": {
+                "distance": "0.3",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:20": {
+                "distance": "0.2",
+                "direction": "10"
+            },
+            "2:45": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "3:03": {
+                "distance": "0.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A wooden rectangular dining table, light brown color, with a slatted wood design on top. It is located in the dining area adjacent to the kitchen. Approximately 2 meters long by 1 meter wide.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "35"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:00": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "2:10": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "2:40": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the kitchen hob and facing the rectangular dining table, when the scraping sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_396",
+    "video_id": "loc3_script3_seq5_rec2"
+}

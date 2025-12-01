@@ -1,0 +1,79 @@
+{
+    "event": "Scraping sound from a pan being washed in the kitchen sink.",
+    "start_time": "02:10",
+    "end_time": "02:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The sound originates from a man (wearing a green short-sleeved polo shirt, blue jeans, glasses, short dark hair, wearing a watch on his left wrist) scrubbing a black, metallic non-stick frying pan (approximately 10-12 inches or 25-30 cm in diameter with a long silver handle) in the stainless steel kitchen island sink, using an unseen scrubbing tool.",
+        "is_static": false,
+        "key_frames": {
+            "00:29:00": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "01:30:00": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "02:10:30": {
+                "distance": "0.8",
+                "direction": "90"
+            },
+            "02:14:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:17:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:33:00": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Main Kitchen Counter",
+        "description": "The primary kitchen counter area featuring wooden cabinets, white countertops, a stainless steel gas stovetop, a silver toaster, and a stainless steel range hood. This is the area the camera is generally oriented towards at the onset of the specified sound event.",
+        "key_frames": {
+            "00:25:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:43:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "01:14:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "02:10:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:20:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:45:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "03:03:00": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the scraping sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_326",
+    "video_id": "loc3_script3_seq5_rec2"
+}

@@ -1,0 +1,116 @@
+{
+    "event": "The other person remarks on the listener's (camera wearer's) surprising amount of knowledge.",
+    "start_time": "2:29",
+    "end_time": "2:36",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A young woman with long, dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and glasses. She is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:44": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:18": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:47": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:10": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:55": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "4:15": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "4:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing, considered as 0 degrees.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"remarking on listener's surprising amount of knowledge\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_58",
+    "video_id": "loc1_script2_seq7_rec2"
+}

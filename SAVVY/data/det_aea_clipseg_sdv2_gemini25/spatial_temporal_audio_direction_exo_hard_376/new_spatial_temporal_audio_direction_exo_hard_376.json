@@ -1,0 +1,166 @@
+{
+    "event": "A person is describing their experience on a train that was making early stops.",
+    "start_time": "1:48",
+    "end_time": "1:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short, curly, dark brown/black hair, wearing glasses. He is wearing a dark navy or black sweater over a light-blue collared shirt, and blue denim jeans with light-colored socks. He is sitting on a long, light-colored (beige/light-gray) sofa. Initially, he might be looking at a magazine/book, but during the specified event, he is actively speaking and gesturing.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:48": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:57": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "2:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "2:47": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch (Armchair)",
+        "description": "A modern armchair, upholstered in a light gray or beige fabric. It has a somewhat boxy shape with wide armrests. The camera person (first speaker) sits in this chair from 0:08 onwards. It appears to be a single, generously sized armchair, but could be considered a very compact two-seater/loveseat.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "2:47": {
+                "distance": "0.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace built into the wall, with a surround made of stacked, light-colored (gray/beige) stones. It has a dark firebox opening. Above the firebox is a thick, light-colored wooden mantelpiece. A large, colorful landscape painting hangs above the mantel. To the right of the fireplace (from camera's seated view), there's a built-in shelving unit with books.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "3.8",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:48": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:57": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:47": {
+                "distance": "3.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the fireplace, when the speech topic: \"describing own train making early stops\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_376",
+    "video_id": "loc3_script3_seq2_rec1"
+}

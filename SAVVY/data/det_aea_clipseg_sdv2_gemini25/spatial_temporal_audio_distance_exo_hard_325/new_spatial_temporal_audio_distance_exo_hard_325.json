@@ -1,0 +1,121 @@
+{
+    "event": "Speech topic: \"recommending eating eggs and potatoes together\"",
+    "start_time": "03:50",
+    "end_time": "03:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with short dark hair, wearing glasses, a turquoise/green short-sleeved polo shirt, and blue jeans. He is also wearing wired earbuds. Approximate height when sitting is around 0.8-0.9m from seat to top of head. This is the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:22": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:31": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "2:07": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "2:18": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "2:56": {
+                "distance": "0.6",
+                "direction": "-90"
+            },
+            "3:31": {
+                "distance": "0.6",
+                "direction": "-90"
+            },
+            "03:51": {
+                "distance": "0.6",
+                "direction": "-90"
+            },
+            "04:13": {
+                "distance": "0.6",
+                "direction": "-90"
+            },
+            "04:37": {
+                "distance": "0.6",
+                "direction": "-90"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden sideboard with slatted design",
+        "description": "A long, low wooden sideboard, appearing to be made of dark-stained wood (possibly walnut or similar), with a smooth, darker flat top surface. The front features multiple vertical slatted wooden panels, creating a textured, ribbed appearance. It has minimalist or integrated handles. Approximate dimensions: 2-2.5 meters in length, 0.5-0.6 meters in depth, and 0.7-0.8 meters in height. Various items are on top, including framed pictures, small plants, and decorative objects.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:25": {
+                "distance": "2.2",
+                "direction": "-85"
+            },
+            "2:05": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "2:55": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "3:30": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "03:51": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "04:15": {
+                "distance": "2.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Dining table scene",
+        "description": "At the event time, the camera (and thus the implicit facing direction if the camera is the reference) is oriented towards the dining table, with plates of food, a bowl of potatoes, and a bag of chips in view. The sounding object (person) is to the immediate left.",
+        "key_frames": {
+            "03:51": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.4,
+    "question": "When the speech topic: \"recommending eating eggs and potatoes together\" is mentioned, what is the distance between the wooden sideboard with slatted design and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_325",
+    "video_id": "loc3_script3_seq4_rec1"
+}

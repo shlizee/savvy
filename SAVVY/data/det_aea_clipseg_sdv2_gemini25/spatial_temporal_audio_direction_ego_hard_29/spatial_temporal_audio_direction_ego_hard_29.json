@@ -1,0 +1,124 @@
+{
+    "event": "Inquiring about completing the game clean-up",
+    "start_time": "0:28",
+    "end_time": "0:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with dark hair, wearing a black short-sleeved top, light blue denim shorts, and glasses. She also has a microphone clipped to her shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:04": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "0.9",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "-100"
+            },
+            "0:18": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:26": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "0:29": {
+                "distance": "0.6",
+                "direction": "-55"
+            },
+            "0:32": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:35": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:39": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "0:47": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-35"
+            },
+            "0:53": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:29": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:37": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:43": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:47": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:50": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "2:03": {
+                "distance": "3.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inquiring about completing the game clean-up\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_29",
+    "video_id": "loc1_script2_seq6_rec1"
+}

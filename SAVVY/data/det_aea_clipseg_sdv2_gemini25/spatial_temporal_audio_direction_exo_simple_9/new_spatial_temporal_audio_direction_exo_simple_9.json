@@ -1,0 +1,128 @@
+{
+    "event": "A creak sound occurs, and the task is to determine its location (left, right, or back) relative to a hypothetical robot standing by the TV and facing the white recessed fireplace.",
+    "start_time": "0:00:40",
+    "end_time": "0:00:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The creak sound is associated with the woman's movement. At the time of the sound, she is standing near the couch and the coffee table. The woman has long dark hair, is wearing a black short-sleeved top and light blue jeans. She is of average height and build. The sound itself likely originates from the floorboards under her or the couch she might be interacting with.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:00:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:00:19": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:00:32": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:00:38": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:00:40": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:00:50": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:01:25": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:01:34": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:01:40": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:01:51": {
+                "distance": "1.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "tv",
+        "description": "A black flat-screen television mounted on a light-colored wooden media console. It is located against a wall in the living room, to the left of the fireplace (from the camera's initial perspective after entering).",
+        "key_frames": {
+            "0:00:10": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:00:20": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:00:35": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:00:50": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:01:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:01:35": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:01:50": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "white recessed fireplace",
+        "description": "A white recessed fireplace with a dark wooden mantel. It is situated on a wall to the right of the TV (from the camera's initial perspective after entering). The mantel has various decorations, including a string of carrot-shaped items and some dolls.",
+        "key_frames": {
+            "0:00:10": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:00:20": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:00:35": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:00:50": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:01:15": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:01:35": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:01:50": {
+                "distance": "3.0",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the tv and facing the white recessed fireplace, when the creak sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_9",
+    "video_id": "loc1_script2_seq1_rec2"
+}

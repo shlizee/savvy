@@ -1,0 +1,114 @@
+{
+    "event": "The speech topic 'offering own untouched water bottle' comes up.",
+    "start_time": "1:05",
+    "end_time": "1:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly, light brown/reddish hair. He is wearing a light teal/blue short-sleeved, collared button-up shirt, dark navy or black shorts, and black athletic shoes with white soles. He has wired headphones around his neck, with the earbuds in his ears, and a small black rectangular device (possibly a microphone or audio recorder) clipped to his left shirt pocket. He is also holding a small, light-colored rectangular object (possibly a phone or a small notepad) in his left hand at times.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:07": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:19": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:31": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:53": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "2:08": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "2:13": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "2:20": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "2:27": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "2:40": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:49": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:58": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:03": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "3:09": {
+                "distance": "0.7",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from. Their hands are sometimes visible, showing light skin and occasionally painted fingernails.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering own untouched water bottle\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_20",
+    "video_id": "loc1_script2_seq3_rec2"
+}

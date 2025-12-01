@@ -1,0 +1,122 @@
+{
+    "event": "The speech topic: \"asking whether to cook more or finish cooking\" comes up.",
+    "start_time": "0:28",
+    "end_time": "0:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a light blue short-sleeved polo shirt, khaki shorts, glasses, and a lanyard with a badge. He has short dark hair. Approximate height appears average adult male. This is the person cooking at the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:34": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:47": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "2:28": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "2:31": {
+                "distance": "1.4",
+                "direction": "8"
+            },
+            "2:42": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:50": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A dark-colored (possibly black composite or dark stainless steel) double-basin rectangular sink embedded in a granite countertop. It has a modern, tall, arched metal tap. Located on the main counter wall, to the right of the refrigerator.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:05": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "1:16": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "1:41": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:55": {
+                "distance": "0.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, stainless steel refrigerator, likely a side-by-side or French door model. Located on the main counter wall, to the left of the sink.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "2:57": {
+                "distance": "1.0",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the stainless steel refrigerator, when the speech topic: \"asking whether to cook more or finish cooking\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_248",
+    "video_id": "loc2_script3_seq34_rec2"
+}

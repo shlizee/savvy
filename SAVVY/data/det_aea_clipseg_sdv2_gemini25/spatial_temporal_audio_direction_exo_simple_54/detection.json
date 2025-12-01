@@ -1,0 +1,808 @@
+{
+    "00000": {
+        "Adult male with curly brown hair, wearing glasses, a light blue/green short-sleeved collared shirt, dark shorts, and black socks/shoes. He has headphones around his neck. He is approximately 1.7-1.8 meters tall.": {
+            "direction": 2.44,
+            "distance": 4.14,
+            "det_conf": [
+                0.6260733604431152,
+                0.5213561654090881,
+                0.5453682541847229,
+                0.39843615889549255,
+                0.5981438755989075
+            ]
+        }
+    },
+    "00041": {
+        "Adult male with curly brown hair, wearing glasses, a light blue/green short-sleeved collared shirt, dark shorts, and black socks/shoes. He has headphones around his neck. He is approximately 1.7-1.8 meters tall.": {
+            "direction": 1.95,
+            "distance": 2.0,
+            "det_conf": [
+                0.6399604082107544,
+                0.6482459306716919,
+                0.5455495715141296,
+                0.610475480556488,
+                0.5899311900138855
+            ]
+        }
+    },
+    "00083": {
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 54.22,
+            "distance": 3.86,
+            "det_conf": [
+                0.45099809765815735,
+                0.6123403310775757,
+                0.5906214118003845,
+                0.720025897026062,
+                0.06681306660175323
+            ]
+        }
+    },
+    "00125": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 13.51,
+            "distance": 4.57,
+            "det_conf": [
+                0.6071668267250061,
+                0.5578762888908386,
+                0.6236838102340698,
+                0.48815080523490906,
+                0.6677104234695435
+            ]
+        }
+    },
+    "00167": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -59.29,
+            "distance": 1.01,
+            "det_conf": [
+                0.878334641456604,
+                0.8800349235534668,
+                0.8628683686256409,
+                0.8391754031181335,
+                0.5550390481948853
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -57.99,
+            "distance": 1.01,
+            "det_conf": [
+                0.751298725605011,
+                0.7460845708847046,
+                0.8053187727928162,
+                0.7377216815948486,
+                0.6731221079826355
+            ]
+        }
+    },
+    "00292": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 64.77,
+            "distance": 1.99,
+            "det_conf": [
+                0.9252938628196716,
+                0.9243548512458801,
+                0.9112799167633057,
+                0.8786166310310364,
+                0.8971478939056396
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 58.94,
+            "distance": 1.15,
+            "det_conf": [
+                0.8866022825241089,
+                0.8999870419502258,
+                0.885211169719696,
+                0.9305188655853271,
+                0.8297391533851624
+            ]
+        }
+    },
+    "00710": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 67.12,
+            "distance": 1.21,
+            "det_conf": [
+                0.4005206525325775,
+                0.6448386311531067,
+                0.5855146646499634,
+                0.5789158940315247,
+                0.6086125373840332
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 67.47,
+            "distance": 1.21,
+            "det_conf": [
+                0.6042159795761108,
+                0.599097728729248,
+                0.6117768287658691,
+                0.5608816742897034,
+                0.6539493203163147
+            ]
+        }
+    },
+    "00752": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -6.87,
+            "distance": 2.42,
+            "det_conf": [
+                0.5683568716049194,
+                0.6006926894187927,
+                0.5651487708091736,
+                0.574036180973053,
+                0.5966670513153076
+            ]
+        }
+    },
+    "00793": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 67.13,
+            "distance": 1.3,
+            "det_conf": [
+                0.09862633049488068,
+                0.5532709360122681,
+                0.6491873264312744,
+                0.6270689964294434,
+                0.37667298316955566
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 63.74,
+            "distance": 1.36,
+            "det_conf": [
+                0.18343600630760193,
+                0.6956104040145874,
+                0.0961029976606369,
+                0.6342147588729858,
+                0.6436321139335632
+            ]
+        }
+    },
+    "00877": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -16.48,
+            "distance": 2.72,
+            "det_conf": [
+                0.6080689430236816,
+                0.609618604183197,
+                0.5820562243461609,
+                0.2112126499414444,
+                0.09760893881320953
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 59.46,
+            "distance": 1.37,
+            "det_conf": [
+                0.6239564418792725,
+                0.12962226569652557,
+                0.07256121188402176,
+                0.6005233526229858,
+                0.43814754486083984
+            ]
+        }
+    },
+    "00919": {
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -4.21,
+            "distance": 2.61,
+            "det_conf": [
+                0.12104446440935135,
+                0.5508524179458618,
+                0.2529868483543396,
+                0.11187588423490524,
+                0.13409100472927094
+            ]
+        }
+    },
+    "01211": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -38.62,
+            "distance": 3.06,
+            "det_conf": [
+                0.7597393989562988,
+                0.7936615347862244,
+                0.7804685831069946,
+                0.46118417382240295,
+                0.010535869747400284
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -13.82,
+            "distance": 2.1,
+            "det_conf": [
+                0.49743255972862244,
+                0.4818892180919647,
+                0.12366003543138504,
+                0.7951887845993042,
+                0.1467190384864807
+            ]
+        }
+    },
+    "01253": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -60.36,
+            "distance": 4.58,
+            "det_conf": [
+                0.048715971410274506,
+                0.326089084148407,
+                0.6587415337562561,
+                0.6401638388633728,
+                0.10992521047592163
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -32.05,
+            "distance": 1.27,
+            "det_conf": [
+                0.6804633736610413,
+                0.6795348525047302,
+                0.4625210762023926,
+                0.5430412292480469,
+                0.06801629811525345
+            ]
+        }
+    },
+    "01337": {
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -36.31,
+            "distance": 3.38,
+            "det_conf": [
+                0.4912756383419037,
+                0.4268270432949066,
+                0.647699236869812,
+                0.6514427661895752,
+                0.17816095054149628
+            ]
+        }
+    },
+    "01504": {
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -52.03,
+            "distance": 4.19,
+            "det_conf": [
+                0.07821257412433624,
+                0.020829999819397926,
+                0.55107182264328,
+                0.5876349806785583,
+                0.02895985171198845
+            ]
+        }
+    },
+    "01922": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 80.13,
+            "distance": 1.9,
+            "det_conf": [
+                0.883874237537384,
+                0.87301105260849,
+                0.8043587803840637,
+                0.8734589219093323,
+                0.8434069156646729
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 47.38,
+            "distance": 1.16,
+            "det_conf": [
+                0.8718253970146179,
+                0.6193284392356873,
+                0.381160706281662,
+                0.8225191831588745,
+                0.03444073349237442
+            ]
+        }
+    },
+    "01964": {
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 50.88,
+            "distance": 1.92,
+            "det_conf": [
+                0.5630508065223694,
+                0.07611732184886932,
+                0.05259034037590027,
+                0.04383328557014465,
+                0.02505561336874962
+            ]
+        }
+    },
+    "02005": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 9.27,
+            "distance": 6.0,
+            "det_conf": [
+                0.6805270314216614,
+                0.6143710613250732,
+                0.48574206233024597,
+                0.24343547224998474,
+                0.24209600687026978
+            ]
+        }
+    },
+    "02089": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 66.03,
+            "distance": 1.26,
+            "det_conf": [
+                0.8662547469139099,
+                0.8346203565597534,
+                0.9131534099578857,
+                0.827123761177063,
+                0.8795684576034546
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 66.09,
+            "distance": 1.26,
+            "det_conf": [
+                0.9134150147438049,
+                0.8801844716072083,
+                0.9089105129241943,
+                0.8565986156463623,
+                0.8688135147094727
+            ]
+        }
+    },
+    "02381": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 30.02,
+            "distance": 1.76,
+            "det_conf": [
+                0.6015844345092773,
+                0.4702182114124298,
+                0.43131494522094727,
+                0.562995970249176,
+                0.595019519329071
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 55.24,
+            "distance": 1.23,
+            "det_conf": [
+                0.6049432754516602,
+                0.47101444005966187,
+                0.5409049391746521,
+                0.5501798987388611,
+                0.32010969519615173
+            ]
+        }
+    },
+    "02507": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 51.14,
+            "distance": 1.33,
+            "det_conf": [
+                0.7218142747879028,
+                0.6702322959899902,
+                0.6690990328788757,
+                0.674727737903595,
+                0.3310452997684479
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 55.55,
+            "distance": 1.13,
+            "det_conf": [
+                0.6848224997520447,
+                0.700842022895813,
+                0.7227052450180054,
+                0.6282375454902649,
+                0.5600045919418335
+            ]
+        }
+    },
+    "02549": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 54.01,
+            "distance": 1.16,
+            "det_conf": [
+                0.7246139645576477,
+                0.7062311768531799,
+                0.7165927290916443,
+                0.7277692556381226,
+                0.6895943880081177
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 56.37,
+            "distance": 1.15,
+            "det_conf": [
+                0.33689919114112854,
+                0.5915801525115967,
+                0.6252363324165344,
+                0.711152970790863,
+                0.5903741717338562
+            ]
+        }
+    },
+    "02590": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 56.06,
+            "distance": 1.19,
+            "det_conf": [
+                0.5228016972541809,
+                0.5075991153717041,
+                0.09269288927316666,
+                0.4789041578769684,
+                0.030827578157186508
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 61.41,
+            "distance": 1.16,
+            "det_conf": [
+                0.5043386220932007,
+                0.1270754486322403,
+                0.38199785351753235,
+                0.356214702129364,
+                0.5008593201637268
+            ]
+        }
+    },
+    "02757": {
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 52.88,
+            "distance": 1.01,
+            "det_conf": [
+                0.4418945610523224,
+                0.4467674791812897,
+                0.18745410442352295,
+                0.31329768896102905,
+                0.5009639263153076
+            ]
+        }
+    },
+    "02799": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 56.47,
+            "distance": 1.31,
+            "det_conf": [
+                0.7450241446495056,
+                0.5087214112281799,
+                0.6171067357063293,
+                0.549526572227478,
+                0.26866060495376587
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 74.52,
+            "distance": 2.38,
+            "det_conf": [
+                0.6117499470710754,
+                0.48306816816329956,
+                0.547252357006073,
+                0.45580920577049255,
+                0.4986245334148407
+            ]
+        }
+    },
+    "02841": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 40.96,
+            "distance": 1.0,
+            "det_conf": [
+                0.785503089427948,
+                0.7179315090179443,
+                0.8976202011108398,
+                0.8291116952896118,
+                0.5900532603263855
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 51.38,
+            "distance": 1.01,
+            "det_conf": [
+                0.8786528706550598,
+                0.8100160360336304,
+                0.7435572743415833,
+                0.8952258229255676,
+                0.7300697565078735
+            ]
+        }
+    },
+    "02883": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 47.9,
+            "distance": 2.48,
+            "det_conf": [
+                0.7571744322776794,
+                0.535348117351532,
+                0.752185583114624,
+                0.7720280289649963,
+                0.608012855052948
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 48.04,
+            "distance": 2.48,
+            "det_conf": [
+                0.7050867676734924,
+                0.6824570894241333,
+                0.6532933712005615,
+                0.7840012311935425,
+                0.5439057350158691
+            ]
+        }
+    },
+    "02925": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 55.88,
+            "distance": 1.01,
+            "det_conf": [
+                0.8238554000854492,
+                0.7986828684806824,
+                0.7593446373939514,
+                0.7109501957893372,
+                0.7510170936584473
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 45.4,
+            "distance": 1.43,
+            "det_conf": [
+                0.7133393287658691,
+                0.8314475417137146,
+                0.00608677277341485,
+                0.7732954025268555,
+                0.6428382992744446
+            ]
+        }
+    },
+    "03008": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 56.81,
+            "distance": 2.26,
+            "det_conf": [
+                0.5539168119430542,
+                0.5422682762145996,
+                0.618337869644165,
+                0.7272672057151794,
+                0.171156108379364
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 28.87,
+            "distance": 4.17,
+            "det_conf": [
+                0.6202082633972168,
+                0.4117756485939026,
+                0.1976073980331421,
+                0.7444223165512085,
+                0.7298575043678284
+            ]
+        }
+    },
+    "03134": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 57.18,
+            "distance": 1.14,
+            "det_conf": [
+                0.799431324005127,
+                0.8024212718009949,
+                0.7454317808151245,
+                0.8273004293441772,
+                0.80300372838974
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 22.03,
+            "distance": 1.83,
+            "det_conf": [
+                0.8043660521507263,
+                0.8093105554580688,
+                0.7607821822166443,
+                0.7580997943878174,
+                0.3804584741592407
+            ]
+        }
+    },
+    "03342": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 46.47,
+            "distance": 1.27,
+            "det_conf": [
+                0.06205575913190842,
+                0.4465414583683014,
+                0.62517249584198,
+                0.5831084251403809,
+                0.47324177622795105
+            ]
+        }
+    },
+    "03384": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 47.07,
+            "distance": 1.13,
+            "det_conf": [
+                0.7034950256347656,
+                0.7031199932098389,
+                0.6557058691978455,
+                0.10131865739822388,
+                0.20893628895282745
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 48.18,
+            "distance": 1.16,
+            "det_conf": [
+                0.6589807868003845,
+                0.721839964389801,
+                0.07731331884860992,
+                0.2823673188686371,
+                0.5691255331039429
+            ]
+        }
+    },
+    "03760": {
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 70.61,
+            "distance": 4.89,
+            "det_conf": [
+                0.20082449913024902,
+                0.5886203050613403,
+                0.0939784049987793,
+                0.6069815158843994,
+                0.05388456583023071
+            ]
+        }
+    },
+    "03886": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 72.1,
+            "distance": 1.71,
+            "det_conf": [
+                0.6411869525909424,
+                0.5569392442703247,
+                0.6431221961975098,
+                0.5211329460144043,
+                0.28578054904937744
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 71.72,
+            "distance": 1.64,
+            "det_conf": [
+                0.6208139061927795,
+                0.6037561297416687,
+                0.614199161529541,
+                0.3763011693954468,
+                0.5574268698692322
+            ]
+        }
+    },
+    "04178": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -10.92,
+            "distance": 2.86,
+            "det_conf": [
+                0.7246295213699341,
+                0.6556887626647949,
+                0.45653337240219116,
+                0.3299389183521271,
+                0.2764885127544403
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 67.88,
+            "distance": 1.22,
+            "det_conf": [
+                0.6743664145469666,
+                0.6742790937423706,
+                0.6710282564163208,
+                0.6446658372879028,
+                0.663437008857727
+            ]
+        }
+    },
+    "04220": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 28.11,
+            "distance": 1.81,
+            "det_conf": [
+                0.5669077634811401,
+                0.565078854560852,
+                0.29949328303337097,
+                0.4864068329334259,
+                0.03070254810154438
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 27.64,
+            "distance": 1.82,
+            "det_conf": [
+                0.5216156244277954,
+                0.5841481685638428,
+                0.5290128588676453,
+                0.48055514693260193,
+                0.40398168563842773
+            ]
+        }
+    },
+    "04680": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -10.41,
+            "distance": 2.5,
+            "det_conf": [
+                0.5184789896011353,
+                0.3292253315448761,
+                0.10763141512870789,
+                0.502081036567688,
+                0.40512964129447937
+            ]
+        }
+    },
+    "05181": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -62.64,
+            "distance": 3.84,
+            "det_conf": [
+                0.8709502816200256,
+                0.8127161860466003,
+                0.8291745781898499,
+                0.7522619962692261,
+                0.7994477152824402
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -68.38,
+            "distance": 3.84,
+            "det_conf": [
+                0.7767338156700134,
+                0.7747304439544678,
+                0.861728310585022,
+                0.6901922225952148,
+                0.7647122144699097
+            ]
+        }
+    },
+    "05265": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 66.89,
+            "distance": 1.04,
+            "det_conf": [
+                0.8809012770652771,
+                0.8860925436019897,
+                0.8874732255935669,
+                0.8719848990440369,
+                0.7446305155754089
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": 74.29,
+            "distance": 1.05,
+            "det_conf": [
+                0.8405768275260925,
+                0.881781816482544,
+                0.7965539693832397,
+                0.5920524001121521,
+                0.8558251261711121
+            ]
+        }
+    },
+    "05307": {
+        "A light-gray upholstered armchair with wooden legs, located on the left side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -6.96,
+            "distance": 1.95,
+            "det_conf": [
+                0.59310382604599,
+                0.5810719728469849,
+                0.644986629486084,
+                0.37357601523399353,
+                0.5628128051757812
+            ]
+        },
+        "A light-gray upholstered armchair with wooden legs, located on the right side of the arched window (when facing the window from inside the living room). It has a blue pillow on it. Approximate size: 0.8m width x 0.8m depth x 0.9m height.": {
+            "direction": -9.53,
+            "distance": 2.03,
+            "det_conf": [
+                0.5695875287055969,
+                0.557808518409729,
+                0.5426616668701172,
+                0.5167952179908752,
+                0.45487546920776367
+            ]
+        }
+    }
+}

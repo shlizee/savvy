@@ -1,0 +1,204 @@
+{
+    "event": "Speech topic: \"contrasting proposal with reality of many stops\"",
+    "start_time": "1:29",
+    "end_time": "1:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing glasses, a dark sweater over a light-colored collared shirt, and blue jeans. They are sitting on a beige couch to the left of the coffee table (from the camera's initial POV). Approximate adult male size.",
+        "is_static": true,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:15": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:47": {
+                "distance": "1.2",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A large, low, rectangular wooden coffee table made of medium-toned wood. On top, there is a colorful patterned textile/runner, several books, coasters (red, yellow, grey), and a smartphone. Approximate dimensions: 1.5m long x 0.8m wide x 0.4m high.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "20"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "2:47": {
+                "distance": "0.7",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace with a surround made of stacked, light-grey, rectangular stones and a dark firebox. It has a thick wooden mantelpiece made of medium-toned wood. A large landscape painting with a prominent blue sky hangs above the mantel.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "2:15": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "2:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "2:47": {
+                "distance": "3.0",
+                "direction": "75"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the fireplace, when the speech topic: \"contrasting proposal with reality of many stops\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_361",
+    "video_id": "loc3_script3_seq2_rec1"
+}

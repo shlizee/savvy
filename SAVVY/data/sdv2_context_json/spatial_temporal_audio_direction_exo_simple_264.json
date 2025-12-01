@@ -1,0 +1,172 @@
+{
+    "event": "Speaker suggests wiping down the stovetop.",
+    "start_time": "1:03",
+    "end_time": "1:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person with a blurred face, wearing a grey polo shirt, dark shorts, and dark sneakers. Has dark, curly hair and is wearing headphones around their neck. Appears to be an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "75"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "2:11": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:17": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:37": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "2:46": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "3:13": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:20": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "3:27": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:37": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "3:42": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round prep sink on kitchen island",
+        "description": "A small, circular, dark-colored (likely black or dark grey composite/stone) prep sink embedded in the granite countertop of the kitchen island. It has a single, gooseneck-style stainless steel tap.",
+        "key_frames": {
+            "0:08": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:19": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:29": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "0:47": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:16": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:27": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "2:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:32": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "3:40": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, stainless steel, side-by-side or French door refrigerator with an ice/water dispenser on the left door. It is built into the wooden cabinetry.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:36": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:38": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "3:42": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel refrigerator, when the speech topic: \"suggesting wiping down stovetop\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_264",
+    "video_id": "loc2_script3_seq5_rec2"
+}

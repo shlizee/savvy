@@ -1,0 +1,149 @@
+{
+    "event": "The speech topic: \"suggesting getting a plate for serving\" is mentioned.",
+    "start_time": "0:56",
+    "end_time": "0:59",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The sounding object is the person speaking (Michael), an adult male, appearing to be in his 30s or 40s, with short, dark hair, wearing glasses. He is dressed in a turquoise/light blue short-sleeved polo shirt and khaki shorts. He is of average build and height. He is the person actively cooking at the stove, and his mouth is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:33": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:46": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:25": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:42": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "2:50": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:59": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, glass-ceramic electric cooktop. It is rectangular, estimated to be approximately 70cm wide and 50cm deep. It is built into a light-colored (beige/grey speckled) granite countertop that forms part of a kitchen island. The cooktop surface shows markings for at least four circular heating zones (burners) and has a panel of touch-sensitive controls integrated into the glass surface towards the front.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:46": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:25": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:42": {
+                "distance": "0.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Island/Counter",
+        "description": "The camera is generally facing the kitchen island where the cooktop is located and where Michael is cooking. The background includes wooden cabinets and a view to an outdoor pool area through large windows.",
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": 0.4,
+    "question": "When the speech topic: \"suggesting getting a plate for serving\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_197",
+    "video_id": "loc2_script3_seq34_rec2"
+}

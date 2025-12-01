@@ -1,0 +1,126 @@
+{
+    "event": "Distance calculation between an ottoman bench and a Keurig coffee machine during coffee brewing.",
+    "start_time": "1:56",
+    "end_time": "2:47",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A black Keurig K-Mini (or similar compact model) single-serve coffee maker. It is rectangular with rounded edges, approximately 30cm tall, 13cm wide, and 28cm deep. It has a silver-colored handle on top for the K-Cup pod compartment and a drip tray at the bottom. Positioned on a white kitchen countertop under white upper cabinets.",
+        "is_static": true,
+        "key_frames": {
+            "0:23": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "1:27": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:47": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.4",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White rounded-rectangle ottoman bench",
+        "description": "A white upholstered ottoman bench with a rounded-rectangular top. The top surface features diamond-patterned tufting. It has dark-colored wooden legs. For most of its visible duration, it is partially covered by a blue protective moving blanket. Approximate dimensions: 1.1 meters long, 0.45 meters wide, 0.45 meters high.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:01": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "90"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "90"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "100"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Keurig Coffee Machine (same as sounding_object)",
+        "description": "A black Keurig K-Mini (or similar compact model) single-serve coffee maker. Positioned on a white kitchen countertop. This is the same as the sounding object, used here to fulfill the schema requirement for a facing object relative to the reference object (ottoman).",
+        "is_static": true,
+        "key_frames": {
+            "0:23": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:47": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 14.3,
+    "question": "When the water dripping sound is happening, what is the distance between the white rounded-rectangle ottoman bench and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_25",
+    "video_id": "loc1_script2_seq3_rec1"
+}

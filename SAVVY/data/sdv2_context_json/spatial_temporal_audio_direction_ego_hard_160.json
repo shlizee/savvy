@@ -1,0 +1,87 @@
+{
+    "event": "A person reiterates their positive assessment of the day.",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise/light blue short-sleeved polo shirt, greyish-khaki shorts, and white sneakers. He has short, dark hair, a blurred face, and is wearing wired earbuds with the wire running down his shirt. He is holding a smartphone in his right hand.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:11": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:16": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:24": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:33": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:42": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:50": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "1:00": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "1:10": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "1:19": {
+                "distance": "2.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, from whose perspective the scene is viewed.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"reiterating the positive assessment of the day\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_160",
+    "video_id": "loc2_script3_seq2_rec1"
+}

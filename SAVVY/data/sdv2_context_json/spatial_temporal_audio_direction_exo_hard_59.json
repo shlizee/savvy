@@ -1,0 +1,140 @@
+{
+    "event": "Identify the location of a splashing sound relative to a hypothetical robot standing by the countertop oven and facing the countertop drip coffee maker.",
+    "start_time": "0:08",
+    "end_time": "0:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The splashing sound originates from liquid (likely coffee or tea) being spilled from a white ceramic mug with a colorful pattern (possibly hearts or dots). The liquid splashes onto the surface of a wooden dining table. The sounding event is the splash itself.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "0.6",
+                "direction": "25"
+            },
+            "0:08": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:10": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:19": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:24": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0.3",
+                "direction": "-15"
+            },
+            "0:36": {
+                "distance": "0.3",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "0:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.6",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop Oven",
+        "description": "A silver/stainless steel Cuisinart countertop oven, rectangular in shape, located on the kitchen counter.",
+        "key_frames": {
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:59": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "1:02": {
+                "distance": "0.4",
+                "direction": "-50"
+            },
+            "1:04": {
+                "distance": "0.3",
+                "direction": "-60"
+            },
+            "1:09": {
+                "distance": "0.4",
+                "direction": "-45"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:59": {
+                "distance": "1.6",
+                "direction": "-75"
+            },
+            "2:06": {
+                "distance": "2.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop Drip Coffee Maker",
+        "description": "A black standard drip coffee maker, located on the kitchen counter to the left of the countertop oven (when viewed from the front of the counter).",
+        "key_frames": {
+            "0:12": {
+                "distance": "2.8",
+                "direction": "-45"
+            },
+            "0:59": {
+                "distance": "0.9",
+                "direction": "-65"
+            },
+            "1:02": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "1:04": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "1:09": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:14": {
+                "distance": "0.5",
+                "direction": "-85"
+            },
+            "1:22": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:59": {
+                "distance": "1.9",
+                "direction": "-85"
+            },
+            "2:06": {
+                "distance": "2.3",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the countertop oven and facing the countertop drip coffee maker, when the splashing sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_59",
+    "video_id": "loc1_script2_seq6_rec2"
+}

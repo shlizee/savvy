@@ -1,0 +1,90 @@
+{
+    "event": "Sarcastically commenting on weather availability",
+    "start_time": "2:00",
+    "end_time": "2:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short brown hair, wearing a light blue short-sleeved polo shirt and khaki cargo shorts. He is also wearing glasses and has wired earbuds in, with the wire running down his shirt. Approximate height appears average, medium build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:41": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "1:09": {
+                "distance": "3.5",
+                "direction": "-35"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:47": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "2:04": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "2:08": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "2:12": {
+                "distance": "1.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The viewpoint of the camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "forward_view",
+        "description": "The general direction the camera is pointing.",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"sarcastically commenting on weather availability\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_79",
+    "video_id": "loc2_script2_seq1_rec1"
+}

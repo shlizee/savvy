@@ -1,0 +1,124 @@
+{
+    "event": "Speech topic: \"praising the house size and functioning ac\"",
+    "start_time": "0:42",
+    "end_time": "0:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing glasses, a grey short-sleeved collared shirt, and black shorts. He also has white headphones around his neck. He is the one speaking about the house size and AC.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:42": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:19": {
+                "distance": "2.0",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A rectangular wooden coffee table, covered with a light blue and white patterned tablecloth. Various items like bowls of snacks (e.g., watermelon), drinks, and plates are on it. It is located in the center of the living room area.",
+        "key_frames": {
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.2",
+                "direction": "-40"
+            },
+            "0:16": {
+                "distance": "0.2",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "0.2",
+                "direction": "-40"
+            },
+            "0:42": {
+                "distance": "0.2",
+                "direction": "-40"
+            },
+            "0:48": {
+                "distance": "0.2",
+                "direction": "-40"
+            },
+            "1:00": {
+                "distance": "0.2",
+                "direction": "-40"
+            },
+            "1:19": {
+                "distance": "0.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door with multiple rectangular glass panels, a decorative black metal grate over the glass, and a wooden frame. It has a silver-colored handle. It is located at the end of the entrance hallway.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "5.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the black front door with glass panels, when the speech topic: \"praising the house size and functioning ac\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_198",
+    "video_id": "loc2_script3_seq2_rec2"
+}

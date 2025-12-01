@@ -1,0 +1,196 @@
+{
+    "event": "Identifying the relative position of the other person when the camera wearer states that the content of a pot was boiled water.",
+    "start_time": "2:47",
+    "end_time": "2:51",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person in the scene, a man wearing a light green/teal short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. He also has a watch on his left wrist.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "2.2",
+                "direction": "-80"
+            },
+            "1:29": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "1:31": {
+                "distance": "1.6",
+                "direction": "-95"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "2:13": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "2:17": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "2:33": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "2:39": {
+                "distance": "1.8",
+                "direction": "-100"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-100"
+            },
+            "2:56": {
+                "distance": "1.8",
+                "direction": "-110"
+            },
+            "3:01": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "3:08": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating content was boiled water\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_328",
+    "video_id": "loc3_script3_seq5_rec2"
+}

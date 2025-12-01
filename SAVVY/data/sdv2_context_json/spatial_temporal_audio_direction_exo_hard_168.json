@@ -1,0 +1,160 @@
+{
+    "event": "Speaker says 'Uh, a few more minutes', indicating something is not ready.",
+    "start_time": "0:50",
+    "end_time": "0:52",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man (P1) wearing a turquoise/light blue polo shirt, khaki shorts, and glasses. He is seated at the kitchen island. His face is blurred. He wears a gold-colored watch on his left wrist. Approximate height while seated is 0.8-0.9m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.6",
+                "direction": "25"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "65"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "1:55": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "3:05": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "3:40": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "4:13": {
+                "distance": "1.0",
+                "direction": "75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, smooth, rectangular electric cooktop integrated into the wooden kitchen island. It has visible circular heating zones. Approximate size 0.8m x 0.5m.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "1:55": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "3:05": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "3:40": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "4:13": {
+                "distance": "0.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "Stainless steel double-basin sink with a gooseneck tap. It is set into a light-colored granite/stone countertop, part of the main kitchen counter structure with wooden cabinets.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:55": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "3:05": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "3:40": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "4:13": {
+                "distance": "2.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the double-basin rectangular sink and tap, when the speech topic: \"indicating something is not ready\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_168",
+    "video_id": "loc2_script2_seq5_rec1"
+}

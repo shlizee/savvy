@@ -1,0 +1,130 @@
+{
+    "event": "The TV is narrating the goal of reaching dragons during the movie Shrek 2.",
+    "start_time": "03:46",
+    "end_time": "03:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches, mounted on a light-colored wooden media console with three cabinet doors. The console is positioned against a light gray wall.",
+        "is_static": true,
+        "key_frames": {
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:16": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:21": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:33": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:42": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "02:06": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "02:51": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "03:10": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "03:46": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "03:48": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "04:17": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two round nested coffee tables. The larger, outer table has a light beige/cream speckled top (possibly laminate or stone-like material) and thin, dark metal legs. It's approximately 0.8-1.0 meter in diameter. The smaller, inner table has a dark brown wooden top and similar dark metal legs, fitting partially underneath the larger one. It's approximately 0.5-0.6 meter in diameter. Various items like remotes, a potted plant, and snacks are on the tables.",
+        "is_static": true,
+        "key_frames": {
+            "00:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:59": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "03:48": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "04:18": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV (Sounding Object)",
+        "description": "The same TV described as the sounding object. This is the object faced if standing by the reference coffee tables.",
+        "is_static": true,
+        "key_frames": {
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "03:46": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "03:48": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": 2.0,
+    "question": "When the speech topic: \"(tv) narrating the goal of reaching dragons\" is mentioned, what is the distance between a set of nested coffee tables and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_56",
+    "video_id": "loc1_script2_seq7_rec1"
+}

@@ -1,0 +1,108 @@
+{
+    "event": "Explaining reason for suggesting different utensil (moving food)",
+    "start_time": "0:01:34",
+    "end_time": "0:01:45",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise short-sleeved polo shirt, khaki shorts, white sneakers with grey accents, glasses, and a black head-mounted device with a wire. He has short, dark hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:05": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:00:11": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:00:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:00:26": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:00:33": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:00:40": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:00:53": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:01:09": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:01:19": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:01:34": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "0:01:38": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "0:01:43": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "0:02:04": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:02:09": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:02:17": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:02:24": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:02:36": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:02:41": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, providing an egocentric point of view. The camera has a wide, fisheye-like field of view.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_view_center",
+        "description": "The central point of the camera's field of view. During the specified event (0:01:34-0:01:45), this is primarily directed towards a utensil drawer located to the right of the kitchen sink and to the right of the camera wearer's body.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining reason for suggesting different utensil (moving food)\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_199",
+    "video_id": "loc2_script3_seq32_rec2"
+}

@@ -1,0 +1,92 @@
+{
+    "event": "Speech topic: 'describing commitment location as having people'",
+    "start_time": "0:50",
+    "end_time": "0:55",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark brown hair, wearing glasses, a black short-sleeved V-neck top, and light blue jeans. She is barefoot. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:13": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:54": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:59": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:09": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:27": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white recessed fireplace with a dark wood mantelpiece. The fireplace surround is white, and the firebox opening is black. It is decorated with a string of carrot-shaped lights and small bunny figures on the mantel, suggesting an Easter theme. It is located on a light gray wall.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:54": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair with a cushioned back and seat, and wooden legs. It is positioned in a room nook next to a large arched window. To its left (when facing the window) is a colorful, abstract circular wall painting. There is a small side table next to it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "0:54": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "1:01": {
+                "distance": "2.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing the light-gray armchair closer to the wall painting, when the speech topic: \"describing commitment location as having people\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_73",
+    "video_id": "loc1_script2_seq8_rec1"
+}

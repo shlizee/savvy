@@ -1,0 +1,178 @@
+{
+    "event": "Distance between the TV and the knocking door when the knocking sound is happening.",
+    "start_time": "0:01",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A wooden arched front door, dark brown/reddish in color. It has a small arched glass window in its upper half and a black handle. It appears to be a standard exterior door, approximately 0.9 meters wide and 2 meters tall. It is the main entrance to the house.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": ">5.0",
+                "direction": "70"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "0:45": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:15": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:30": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:45": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:55": {
+                "distance": "4.5",
+                "direction": "50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A black flat-screen television, appearing to be around 40-50 inches diagonally. It is placed on a low, light-brown wooden media console or TV stand. It is located to the left of a white fireplace.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "0:43": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "1:10": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "1:25": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "1:43": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "1:54": {
+                "distance": "3.0",
+                "direction": "-35"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Door",
+        "description": "A wooden arched front door, dark brown/reddish in color. It has a small arched glass window in its upper half and a black handle. It appears to be a standard exterior door, approximately 0.9 meters wide and 2 meters tall. It is the main entrance to the house.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": ">5.0",
+                "direction": "70"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "0:45": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:15": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:30": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:45": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "1:55": {
+                "distance": "4.5",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": 4.5,
+    "question": "When the knocking door sound is happening, what is the distance between the tv and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_4",
+    "video_id": "loc1_script2_seq1_rec1"
+}

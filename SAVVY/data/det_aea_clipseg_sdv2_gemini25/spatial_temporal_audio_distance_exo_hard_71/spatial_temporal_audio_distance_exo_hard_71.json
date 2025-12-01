@@ -1,0 +1,116 @@
+{
+    "event": "A creak and thud sound occurs.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A purple balloon. It is spherical and appears to be made of latex or a similar elastic material. Its approximate diameter is around 20-30 cm.",
+        "is_static": false,
+        "key_frames": {
+            "0:07": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.1",
+                "direction": "-15"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:04": {
+                "distance": "1.3",
+                "direction": "-30"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:09": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "-55"
+            },
+            "1:11": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:13": {
+                "distance": "1.1",
+                "direction": "-40"
+            },
+            "1:16": {
+                "distance": "1.2",
+                "direction": "-35"
+            },
+            "1:19": {
+                "distance": "1.3",
+                "direction": "-30"
+            },
+            "1:22": {
+                "distance": "1.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair",
+        "description": "A light-gray upholstered armchair with a blue pillow on it. It is located near a large arched window.",
+        "key_frames": {
+            "1:01": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:02": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "1:03": {
+                "distance": "0.7",
+                "direction": "50"
+            },
+            "1:04": {
+                "distance": "0.6",
+                "direction": "60"
+            },
+            "1:05": {
+                "distance": "0.5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wall painting",
+        "description": "A framed picture hanging on the wall.",
+        "key_frames": {
+            "1:01": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "2.3",
+                "direction": "5"
+            },
+            "1:03": {
+                "distance": "2.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.3,
+    "question": "When the creak and thud sound is happening, what is the distance between the light-gray armchair further from the wall painting and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_71",
+    "video_id": "loc1_script2_seq8_rec1"
+}

@@ -1,0 +1,160 @@
+{
+    "event": "Speaker accepting snack offer (popcorn), relative to a robot standing by the round sink and facing the stainless steel double wall oven.",
+    "start_time": "0:16",
+    "end_time": "0:19",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male, blurred face, wearing a white short-sleeved t-shirt and light blue shorts. He is sitting on a wooden chair at a small, semi-circular wooden drop-leaf table. He has short dark hair and is wearing glasses and an in-ear headphone in his right ear connected by a white wire.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round Sink with Tap",
+        "description": "A round, undermount stainless steel sink, likely a prep sink, with a single-hole faucet with a gooseneck spout and a single lever handle. It is set into a granite countertop on a kitchen island.",
+        "key_frames": {
+            "0:12": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:28": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:31": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:54": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:01": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "1:27": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "A stainless steel double wall oven, built into light-brown wooden kitchen cabinetry. It has two oven doors, one above the other, each with a black glass window and a horizontal stainless steel handle. There appears to be a control panel above the top oven.",
+        "key_frames": {
+            "0:12": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:17": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:28": {
+                "distance": "2.2",
+                "direction": "-85"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:54": {
+                "distance": "2.2",
+                "direction": "-70"
+            },
+            "1:01": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:27": {
+                "distance": "2.2",
+                "direction": "-75"
+            },
+            "1:31": {
+                "distance": "2.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel double wall oven, when the speech topic: \"accepting snack offer (popcorn)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_146",
+    "video_id": "loc2_script2_seq4_rec2"
+}

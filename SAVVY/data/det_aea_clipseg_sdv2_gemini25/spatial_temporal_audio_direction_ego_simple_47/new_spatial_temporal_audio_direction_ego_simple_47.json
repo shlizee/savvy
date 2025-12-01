@@ -1,0 +1,228 @@
+{
+    "event": "The TV is narrating the prince's bravery and appearance.",
+    "start_time": "03:52",
+    "end_time": "04:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television mounted on a light-colored wooden media console. The console has three cabinet doors.",
+        "is_static": true,
+        "key_frames": {
+            "00:08": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:16": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "00:20": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "00:41": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "00:47": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "01:15": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "01:33": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "01:42": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "01:50": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "02:02": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "02:06": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "02:27": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "02:31": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "02:36": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "02:41": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "02:51": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "03:00": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "03:10": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "03:13": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "03:31": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "03:39": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "03:45": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "03:51": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "03:55": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "04:00": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "04:05": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "04:10": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "04:15": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "04:20": {
+                "distance": "3.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A person with curly brown hair, wearing glasses, a light teal short-sleeved collared shirt, and dark shorts. They are also wearing wired earbuds.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:11": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:13": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:37": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "01:10": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "01:34": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "01:39": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:10": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:17": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:22": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:29": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:33": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:46": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:58": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "03:08": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "03:31": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "04:21": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the prince's bravery and appearance\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_47",
+    "video_id": "loc1_script2_seq7_rec1"
+}

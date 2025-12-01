@@ -1,0 +1,172 @@
+{
+    "event": "Asking Maddie about playing Connect Four",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person with a blurred face, wearing a green polo shirt, a watch on his left wrist, and an earbud in his left ear. He is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:01": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A light-colored wooden rectangular dining table. The Connect Four game is being set up on it. Its center point is considered its location.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:01": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sounding Object (Male Person)",
+        "description": "The male person who is speaking. This is the object being 'faced' if one were 'standing by' the reference object (table).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:01": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.5,
+    "question": "When the speech topic: \"asking maddie about playing connect four\" is mentioned, what is the distance between the rectangular dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_275",
+    "video_id": "loc3_script2_seq5_rec1"
+}

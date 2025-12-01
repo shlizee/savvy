@@ -1,0 +1,160 @@
+{
+    "event": "A person is commenting on the quantity of milk options.",
+    "start_time": "0:17",
+    "end_time": "0:22",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a yellow knitted sleeveless top/vest over a white t-shirt, and light blue jeans. Approximately 1.6-1.7m tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:38": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:49": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray or off-white fabric three-seater couch, with a black and white patterned throw blanket (possibly depicting pandas) draped over the back/seat. It has visible wooden legs. Approximately 2-2.5m wide.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:49": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:50": {
+                "distance": "3.0",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A black, sleek, four-legged animal sculpture, resembling a stylized panther or dog. It's about 0.5-0.7m long and 0.3-0.4m high. Positioned on the floor near the large windows.",
+        "key_frames": {
+            "0:00": {
+                "distance": "5.0",
+                "direction": "40"
+            },
+            "0:03": {
+                "distance": "5.0",
+                "direction": "40"
+            },
+            "0:35": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:38": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:49": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "0:53": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "1:20": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "1:50": {
+                "distance": "4.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the black decorative animal sculpture, when the speech topic: \"commenting on the quantity of milk options\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_317",
+    "video_id": "loc3_script2_seq4_rec1"
+}

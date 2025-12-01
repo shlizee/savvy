@@ -1,0 +1,156 @@
+{
+    "event": "Determine speaker's location (left, right, or back) relative to a robot standing by the wooden dining table and facing the stainless steel double wall oven, when the speech topic 'accepting snack offer' occurs.",
+    "start_time": "0:04",
+    "end_time": "0:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man with curly reddish-brown hair, wearing glasses, a light teal short-sleeved polo shirt with a pocket emblem, and dark shorts. He also has wired earphones around his neck/ears. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.3",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.9",
+                "direction": "-25"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:33": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:55": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:53": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "3:15": {
+                "distance": "1.2",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wooden dining table",
+        "description": "Large rectangular wooden dining table with a light-colored wood top and dark legs/frame. It has a white patterned table runner down its center. It can seat at least six people.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "3:25": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "Stainless steel double wall oven, built into white kitchen cabinetry. It is located to the left of a large stainless steel refrigerator.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "0:05": {
+                "distance": "3.8",
+                "direction": "-75"
+            },
+            "0:14": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:38": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "1:13": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:23": {
+                "distance": "4.0",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wooden dining table and facing the stainless steel double wall oven, when the speech topic: \"accepting snack offer\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_33",
+    "video_id": "loc1_script2_seq4_rec1"
+}

@@ -1,0 +1,160 @@
+{
+    "event": "A person is speaking about pleasant weather and blue skies.",
+    "start_time": "02:25",
+    "end_time": "02:30",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with curly, light-brown/blondish hair, wearing a dark navy or black long-sleeved sweater over a light-blue collared shirt, and blue jeans. They are sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:03": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:05": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "00:08": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "00:11": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "00:25": {
+                "distance": "1.0",
+                "direction": "-55"
+            },
+            "00:45": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "01:15": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "01:45": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:15": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:25": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:30": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "02:45": {
+                "distance": "1.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A large, light-gray fabric upholstered three-seater couch with wooden legs. It has a red and white chevron patterned throw blanket draped over its left side (from viewer's perspective) and a pillow with a repeating dog pattern on it.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "00:03": {
+                "distance": "1.5",
+                "direction": "-35"
+            },
+            "00:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "00:08": {
+                "distance": "0.5",
+                "direction": "-65"
+            },
+            "00:11": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "00:25": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "00:45": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "01:15": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "01:45": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "02:15": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "02:25": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "02:30": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "02:45": {
+                "distance": "0.8",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A flat-screen television mounted on the wall above a stone-faced fireplace. The fireplace has a wooden mantel. To the right of the TV and fireplace are built-in white bookshelves filled with books and other items.",
+        "key_frames": {
+            "00:00": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "00:02": {
+                "distance": "3.8",
+                "direction": "5"
+            },
+            "00:04": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "02:20": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "02:30": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "02:45": {
+                "distance": "3.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the tv by the fireplace, when the speech topic: \"commenting on pleasant weather and blue skies\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_366",
+    "video_id": "loc3_script3_seq2_rec1"
+}

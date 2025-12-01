@@ -1,0 +1,108 @@
+{
+    "event": "The speech topic 'expressing belief cleaning is finished' comes up.",
+    "start_time": "1:54",
+    "end_time": "1:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene: a male with curly brown hair, wearing glasses, a light teal/green short-sleeved collared shirt, and dark shorts.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:58": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:01": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:26": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:43": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:54": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "1:57": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:01": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:08": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "2:13": {
+                "distance": "3.5",
+                "direction": "-100"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the user, representing their viewpoint and the origin for egocentric measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_forward_view",
+        "description": "The direction the camera is pointing (0 degrees). Not a specific physical object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing belief cleaning is finished\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_38",
+    "video_id": "loc1_script2_seq6_rec2"
+}

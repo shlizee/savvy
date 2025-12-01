@@ -1,0 +1,122 @@
+{
+    "event": "A woman comments that a video being shown teaches how to become a tycoon.",
+    "start_time": "0:24",
+    "end_time": "0:27",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long, dark curly hair. She is wearing a yellow knitted short-sleeve top/vest over a white short-sleeve t-shirt, and blue jeans.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:24": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "black round ottoman",
+        "description": "A black, round, upholstered ottoman, likely made of leather or faux leather. It is of medium size, typical for a living room.",
+        "is_static": true,
+        "key_frames": {
+            "0:02": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "0:24": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "rectangular wooden coffee table",
+        "description": "A low, rectangular coffee table made of light-colored wood. Various items are on its surface, including a colorful cloth or puzzle, a book, and coasters.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the rectangular wooden coffee table, when the speech topic: \"commenting video teaches becoming tycoon\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_332",
+    "video_id": "loc3_script2_seq7_rec1"
+}

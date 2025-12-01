@@ -1,0 +1,182 @@
+{
+    "event": "Speaker suggests wiping down the stovetop.",
+    "start_time": "01:02",
+    "end_time": "01:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person wearing a grey short-sleeved polo shirt, dark shorts, and glasses, with dark curly hair. Appears to be an adult male. Height approximately 1.7-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:31": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "01:02": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "01:12": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "01:27": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "01:31": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "02:11": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "02:17": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "02:22": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "02:37": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "02:46": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "03:05": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "03:13": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "03:25": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "03:37": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "03:42": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:47": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dishwasher",
+        "description": "A built-in stainless steel dishwasher, standard kitchen appliance size, located under the counter, to the right of the main kitchen sink (when facing the sink).",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:18": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:29": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "3:08": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "3:13": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "3:26": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "3:36": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double Wall Oven",
+        "description": "A built-in stainless steel double wall oven, standard kitchen appliance size, located in the kitchen cabinetry, to the left of the main kitchen sink (when facing the sink).",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:23": {
+                "distance": "1.8",
+                "direction": "-90"
+            },
+            "1:18": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "2:11": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "3:31": {
+                "distance": "2.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"suggesting wiping down stovetop\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_265",
+    "video_id": "loc2_script3_seq5_rec2"
+}

@@ -1,0 +1,144 @@
+{
+    "event": "Identify the relative direction of a knocking door sound from a specific viewpoint (standing by a light-gray armchair further from a wall painting and facing a white recessed fireplace).",
+    "start_time": "0:01",
+    "end_time": "0:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden arched front door with a small rectangular window covered by metal bars. It has a black doorknob on the right side (from inside) and a white security sensor on the top left of the door frame. The knocking sound originates from this door.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "0:07": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "3.2",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "3.3",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "3.3",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "3.3",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "3.3",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting (closer to the front door)",
+        "description": "A light-gray upholstered armchair with a blue rectangular pillow with a white pattern. This is one of two similar armchairs placed near a large arched window. It is the one positioned closer to the front door, and thus further from the framed wall painting located near the white interior door.",
+        "key_frames": {
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:11": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:16": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "1:15": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white recessed fireplace with a dark wooden mantel. A round mirror with a colorful tiled frame is mounted above the mantel. Easter-themed decorations, including a garland of carrots and bunnies, are on the mantel.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:42": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:45": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:55": {
+                "distance": "2.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing the white recessed fireplace, when the knocking door sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_1",
+    "video_id": "loc1_script2_seq1_rec1"
+}

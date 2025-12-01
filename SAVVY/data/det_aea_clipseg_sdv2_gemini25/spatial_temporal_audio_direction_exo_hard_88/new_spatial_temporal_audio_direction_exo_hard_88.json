@@ -1,0 +1,132 @@
+{
+    "event": "Determine the relative direction of a creak and thud sound from a virtual robot's perspective.",
+    "start_time": "0:07",
+    "end_time": "0:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A large, light gray fabric L-shaped sectional sofa. It has several throw pillows, including yellow and patterned ones. The sound (creak and thud) originates from the main seating section when a person sits down on it.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:20": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "1:27": {
+                "distance": "3.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair with a blue rectangular throw pillow. It is one of two similar armchairs and is positioned closer to a wall adorned with a colorful, circular mosaic-style painting, near a large arched window and the front entrance area of the house.",
+        "key_frames": {
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:01": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "1:02": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "1:03": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-65"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-55"
+            },
+            "1:27": {
+                "distance": "2.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Set of nested coffee tables",
+        "description": "A set of two circular nested coffee tables. The larger table has a light-colored top (possibly stone or light wood) and the smaller, lower table also has a light top. Both have dark metal frames. Various items like snacks (a bag of pistachios, a bag of pretzels), remotes, and a small bowl are on them, placed in the center of the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:27": {
+                "distance": "2.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the light-gray armchair closer to the wall painting and facing a set of nested coffee tables, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_88",
+    "video_id": "loc1_script2_seq8_rec1"
+}

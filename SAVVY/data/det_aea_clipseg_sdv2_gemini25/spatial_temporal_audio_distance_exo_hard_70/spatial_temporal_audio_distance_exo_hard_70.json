@@ -1,0 +1,128 @@
+{
+    "event": "A creak and thud sound occurs.",
+    "start_time": "1:07",
+    "end_time": "1:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A purple balloon. It is spherical and appears to be made of a thin, flexible material like latex or rubber. Its approximate diameter is around 20-30 cm.",
+        "is_static": false,
+        "key_frames": {
+            "1:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:09": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:22": {
+                "distance": "1.3",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two circular nested coffee tables. The larger table has a lighter-colored top and the smaller, lower table has a darker top. Both have thin metal legs. The larger table is approximately 60-70cm in diameter and the smaller one is about 40-50cm in diameter.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "0.5",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:57": {
+                "distance": "0.7",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A white fireplace with a dark mantelpiece. There are some decorations on the mantelpiece, including a string of carrot-shaped lights.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "0:15": {
+                "distance": "2.6",
+                "direction": "40"
+            },
+            "0:25": {
+                "distance": "2.7",
+                "direction": "30"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "0:45": {
+                "distance": "2.6",
+                "direction": "40"
+            },
+            "0:55": {
+                "distance": "2.7",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": "1.8",
+    "question": "When the creak and thud sound is happening, what is the distance between a set of nested coffee tables and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_70",
+    "video_id": "loc1_script2_seq8_rec1"
+}

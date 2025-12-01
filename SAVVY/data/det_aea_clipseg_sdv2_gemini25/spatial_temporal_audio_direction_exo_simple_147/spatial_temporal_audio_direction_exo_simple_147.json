@@ -1,0 +1,120 @@
+{
+    "event": "Speaker accepts an offer for popcorn.",
+    "start_time": "0:17",
+    "end_time": "0:18",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male, appearing to be of East Asian descent, wearing a white short-sleeved t-shirt and light blue shorts. Initially wears glasses with dark frames, which he removes around 1:36. He has short, dark hair. He is seated at a wooden drop-leaf table. He has a white wired earbud in his right ear, with the wire going down his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "1.7",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:04": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.6",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Island Sink",
+        "description": "A double-basin sink, likely stainless steel, embedded in a light-colored (beige/cream with grey/brown speckles) granite countertop of the kitchen island. It has a tall, arcing metallic tap. The basins themselves are rectangular with rounded corners. The island has wooden cabinetry underneath.",
+        "key_frames": {
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:31": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "1:20": {
+                "distance": "0.9",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Refrigerator",
+        "description": "Large, stainless steel, French door style refrigerator (double doors on top, freezer drawer below) with an ice/water dispenser on the left door. The 'SAMSUNG' logo is visible on the top right door. It is situated against a wall with wooden cabinetry surrounding it.",
+        "key_frames": {
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:21": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:29": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel refrigerator, when the speech topic: \"accepting snack offer (popcorn)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_147",
+    "video_id": "loc2_script2_seq4_rec2"
+}

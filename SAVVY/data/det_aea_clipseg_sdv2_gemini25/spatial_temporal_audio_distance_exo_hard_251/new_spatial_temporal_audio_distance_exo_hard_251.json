@@ -1,0 +1,128 @@
+{
+    "event": "A person admits not knowing how an item works.",
+    "start_time": "01:13",
+    "end_time": "01:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is a woman with long dark curly hair, wearing a yellow knitted vest over a white t-shirt, light blue jeans, and socks. At the time of speech, she is standing in the kitchen area.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "00:07": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:13": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "00:33": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "00:57": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "01:06": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "01:13": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "01:20": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:33": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "01:58": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "02:08": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "02:23": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "02:50": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "03:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch with wooden legs, located in the living room. It has a colorful llama-shaped pillow and an orange/yellow pillow on it.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "00:01": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:04": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "00:06": {
+                "distance": "4.5",
+                "direction": "100"
+            },
+            "00:18": {
+                "distance": "4.0",
+                "direction": "150"
+            },
+            "00:20": {
+                "distance": "4.0",
+                "direction": "160"
+            },
+            "00:26": {
+                "distance": "4.2",
+                "direction": "165"
+            },
+            "00:31": {
+                "distance": "4.5",
+                "direction": "170"
+            },
+            "00:36": {
+                "distance": "4.5",
+                "direction": "170"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 4.0,
+    "question": "When the speech topic: \"admitting not knowing how item works\" is mentioned, what is the distance between the light-gray three-seater couch and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_251",
+    "video_id": "loc3_script2_seq3_rec1"
+}

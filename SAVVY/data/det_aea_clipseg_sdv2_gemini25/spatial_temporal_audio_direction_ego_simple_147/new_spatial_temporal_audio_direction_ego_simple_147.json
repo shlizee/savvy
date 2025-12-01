@@ -1,0 +1,140 @@
+{
+    "event": "The speech topic 'indicating task completion and readiness to leave' comes up.",
+    "start_time": "0:40",
+    "end_time": "0:53",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male, wearing a white t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He is initially sitting on a couch and later walks towards the front door.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:21": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:46": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "1:07": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:09": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "1:13": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "6.5",
+                "direction": "-5"
+            },
+            "1:18": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A male, wearing a white t-shirt and light blue shorts. He has short dark hair and is wearing glasses. During the event, he is sitting on a couch.",
+        "key_frames": {
+            "0:40": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"indicating task completion and readiness to leave\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_147",
+    "video_id": "loc2_script2_seq8_rec1"
+}

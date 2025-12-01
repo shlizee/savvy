@@ -1,0 +1,156 @@
+{
+    "event": "The other person (sounding object) verbally greets 'Thomas'.",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with short, light-colored hair, wearing a light blue short-sleeved t-shirt and khaki shorts. He appears to be of average height and build. This is the person who says 'Hi Thomas'.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "9m",
+                "direction": "-40"
+            },
+            "0:02": {
+                "distance": "9m",
+                "direction": "-40"
+            },
+            "0:04": {
+                "distance": "9m",
+                "direction": "-40"
+            },
+            "0:08": {
+                "distance": "9m",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "8m",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "7.5m",
+                "direction": "-50"
+            },
+            "0:14": {
+                "distance": "7m",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "7m",
+                "direction": "-20"
+            },
+            "0:15.6": {
+                "distance": "7m",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "7m",
+                "direction": "-15"
+            },
+            "0:18": {
+                "distance": "6.5m",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "6m",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "6m",
+                "direction": "-25"
+            },
+            "0:30": {
+                "distance": "6m",
+                "direction": "-30"
+            },
+            "0:34": {
+                "distance": "6m",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "6m",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera (wearer)",
+        "description": "The camera being worn by the person, providing a first-person perspective from a seated position on a couch in a living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0m",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's Direct Line of Sight (Forward)",
+        "description": "The point in space directly in front of the camera lens, representing the 0-degree direction for the egocentric perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"greeting thomas\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_158",
+    "video_id": "loc2_script3_seq1_rec2"
+}

@@ -1,0 +1,188 @@
+{
+    "event": "The camera wearer and another person are discussing what TV show to watch, seeking mutually enjoyable suggestions.",
+    "start_time": "1:00",
+    "end_time": "1:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and glasses. She is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:14": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:19": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:23": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:42": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:08": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "1:36": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "1:46": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "2:19": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "2:25": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "2:46": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "2:59": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "3:09": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "3:13": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "3:21": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "3:52": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "4:00": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "4:17": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "4:24": {
+                "distance": "1.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, sitting likely on the same couch or an adjacent seat.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Television",
+        "description": "A large flat-screen TV on a wooden console in the living room.",
+        "key_frames": {
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "4:20": {
+                "distance": "2.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"seeking mutually enjoyable show suggestions\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_35",
+    "video_id": "loc1_script2_seq7_rec2"
+}

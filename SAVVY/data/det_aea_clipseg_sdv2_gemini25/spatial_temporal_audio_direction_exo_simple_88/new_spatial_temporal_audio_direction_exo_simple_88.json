@@ -1,0 +1,104 @@
+{
+    "event": "A man in a blue shirt (speaker) asks the camera person (listener) 'how you been?', inquiring about their status.",
+    "start_time": "1:32",
+    "end_time": "1:33",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, approximately 5'10\"-6'0\", medium build, short brown hair, light skin. Wearing a light blue short-sleeved polo shirt, beige/khaki cargo shorts, and white athletic shoes with dark laces. He has wired earbuds/headphones, with the wire running from his ears down his shirt. He is holding a black smartphone in his right hand for most of the interaction.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "4.5",
+                "direction": "-45"
+            },
+            "1:09": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "1:13": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "2:12": {
+                "distance": "1.5",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wall-mounted TV",
+        "description": "Large black flat-screen television, approximately 55-65 inches, mounted on the wall above a low wooden entertainment console. The console has multiple shelves with various items like books, picture frames, and decorative objects. A colorful pennant banner is draped across the console below the TV.",
+        "key_frames": {
+            "0:16": {
+                "distance": "3.2",
+                "direction": "-45"
+            },
+            "0:53": {
+                "distance": "3.2",
+                "direction": "-45"
+            },
+            "1:11": {
+                "distance": "3.2",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "3.2",
+                "direction": "-45"
+            },
+            "1:57": {
+                "distance": "3.2",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace",
+        "description": "A fireplace built into the wall, with a white mantel and surround. It has a black metal mesh screen covering the opening. Flanked by tall windows with white plantation shutters.",
+        "key_frames": {
+            "0:18": {
+                "distance": "4.0",
+                "direction": "35"
+            },
+            "0:58": {
+                "distance": "4.0",
+                "direction": "35"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "35"
+            },
+            "1:57": {
+                "distance": "4.0",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"inquiring about listener's status\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_88",
+    "video_id": "loc2_script2_seq1_rec1"
+}

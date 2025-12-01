@@ -1,0 +1,136 @@
+{
+    "event": "Determine the relative location of a creak and thud sound (door closing) from a robot's perspective.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden arched front door with a small, rectangular, barred window in its upper half. Standard residential door size, approximately 0.9m wide and 2m tall. It is the main entrance door of the house.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.8",
+                "direction": "-40"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "-100"
+            },
+            "0:40": {
+                "distance": "3.2",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-55"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two oval-shaped nested coffee tables. The larger table has a light beige/cream stone-like top and a dark metal frame. The smaller table, also with a similar top and frame, fits partially underneath. Approximate dimensions of larger table: 1m (length) x 0.6m (width) x 0.4m (height).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-160"
+            },
+            "0:32": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.2",
+                "direction": "5"
+            },
+            "1:35": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "0.2",
+                "direction": "10"
+            },
+            "1:55": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair with a cushioned seat and back, and dark wooden legs. It has a blue patterned decorative pillow. Approximate dimensions: 0.8m (width) x 0.8m (depth) x 0.9m (height). This is the armchair located to the right of the large arched window (when viewed from the room's center) and is closer to a small framed picture on the wall adjacent to a white interior door.",
+        "key_frames": {
+            "0:04": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:40": {
+                "distance": "3.6",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "12"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "12"
+            },
+            "1:15": {
+                "distance": "3.6",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "1:38": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "1:55": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the light-gray armchair closer to the wall painting, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_4",
+    "video_id": "loc1_script2_seq1_rec1"
+}

@@ -1,0 +1,116 @@
+{
+    "event": "The other person offers the first turn in a game to the camera wearer.",
+    "start_time": "1:38",
+    "end_time": "1:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a light blue/turquoise short-sleeved polo shirt, khaki shorts, and white sneakers with white socks. They are also wearing glasses and a gold-colored watch on their left wrist. They have short brown hair and are sitting on a high bar stool with a dark metal frame and a brown cushioned seat. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-35"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:38": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:40": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:55": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "2:10": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "2:25": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "2:55": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "3:10": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "3:25": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "3:40": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "3:55": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "4:10": {
+                "distance": "1.2",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, from whose perspective the video is shot.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general direction of gaze",
+        "description": "The camera is generally facing towards the kitchen counter where a Scrabble game is being set up and played.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering first turn to listener\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_134",
+    "video_id": "loc2_script2_seq5_rec1"
+}

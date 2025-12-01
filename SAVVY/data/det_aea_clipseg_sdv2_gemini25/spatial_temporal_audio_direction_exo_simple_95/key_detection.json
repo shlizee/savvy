@@ -1,0 +1,809 @@
+{
+    "00110": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 4.92,
+            "distance": 3.41,
+            "det_conf": [
+                0.6236346364021301,
+                0.5265629887580872,
+                0.6917824745178223,
+                0.6731530427932739,
+                0.029642565175890923
+            ]
+        }
+    },
+    "00120": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 21.67,
+            "distance": 2.05,
+            "det_conf": [
+                0.4486983120441437,
+                0.3564179837703705,
+                0.4664665162563324,
+                0.5105736255645752,
+                0.5315774083137512
+            ]
+        }
+    },
+    "00240": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": 10.83,
+            "distance": 3.5,
+            "det_conf": [
+                0.6771697402000427,
+                0.6736379861831665,
+                0.3946705758571625,
+                3.780346014536917e-05,
+                5.808523201267235e-05
+            ]
+        }
+    },
+    "00300": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 17.17,
+            "distance": 2.39,
+            "det_conf": [
+                0.8293790817260742,
+                0.7181743383407593,
+                0.9004131555557251,
+                0.8791157603263855,
+                0.9050310850143433
+            ]
+        }
+    },
+    "00310": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 42.72,
+            "distance": 2.01,
+            "det_conf": [
+                0.8979896306991577,
+                0.8790867328643799,
+                0.8787227272987366,
+                0.8434591889381409,
+                0.8719074726104736
+            ]
+        }
+    },
+    "00320": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 75.84,
+            "distance": 1.9,
+            "det_conf": [
+                0.8293849229812622,
+                0.8710101246833801,
+                0.4190712571144104,
+                0.8545323014259338,
+                0.8227150440216064
+            ]
+        }
+    },
+    "00330": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 67.33,
+            "distance": 1.0,
+            "det_conf": [
+                0.8331676125526428,
+                0.6957409977912903,
+                0.711508572101593,
+                0.8483076095581055,
+                0.852847158908844
+            ]
+        },
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -47.49,
+            "distance": 1.72,
+            "det_conf": [
+                0.7132375836372375,
+                0.7181678414344788,
+                0.7143351435661316,
+                0.602623462677002,
+                0.30126649141311646
+            ]
+        }
+    },
+    "00340": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 28.42,
+            "distance": 1.0,
+            "det_conf": [
+                0.8908507823944092,
+                0.8819961547851562,
+                0.8820890784263611,
+                0.876829981803894,
+                0.602364718914032
+            ]
+        }
+    },
+    "00380": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": -35.05,
+            "distance": 3.02,
+            "det_conf": [
+                0.7073249816894531,
+                0.7024604678153992,
+                0.7047196626663208,
+                0.04115743190050125,
+                0.005755510646849871
+            ]
+        }
+    },
+    "00400": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -49.11,
+            "distance": 1.37,
+            "det_conf": [
+                0.8013215065002441,
+                0.4672875702381134,
+                0.7480279803276062,
+                0.7103411555290222,
+                0.6962679028511047
+            ]
+        }
+    },
+    "00420": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": -22.73,
+            "distance": 1.07,
+            "det_conf": [
+                0.5371973514556885,
+                0.43262001872062683,
+                0.366557240486145,
+                0.6216363906860352,
+                0.6226145625114441
+            ]
+        },
+        "A small, round or oval dining table with two chairs, located near large sliding glass doors that lead to an outdoor pool area. The table appears light-colored, and the chairs may have light upholstery.": {
+            "direction": -47.72,
+            "distance": 1.34,
+            "det_conf": [
+                0.532394528388977,
+                0.4973282217979431,
+                0.5583401322364807,
+                0.5496901273727417,
+                0.5811128616333008
+            ]
+        }
+    },
+    "00520": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 6.17,
+            "distance": 2.0,
+            "det_conf": [
+                0.5799040794372559,
+                0.6578444838523865,
+                0.34759536385536194,
+                0.6524706482887268,
+                0.7532366514205933
+            ]
+        }
+    },
+    "00530": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 8.66,
+            "distance": 2.01,
+            "det_conf": [
+                0.6606919169425964,
+                0.7440989017486572,
+                0.7669044137001038,
+                0.7443372011184692,
+                0.7510809302330017
+            ]
+        }
+    },
+    "00540": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 5.98,
+            "distance": 2.03,
+            "det_conf": [
+                0.6533980965614319,
+                0.7123992443084717,
+                0.7061334252357483,
+                0.736824095249176,
+                0.13116200268268585
+            ]
+        }
+    },
+    "00550": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 8.8,
+            "distance": 2.03,
+            "det_conf": [
+                0.7533460855484009,
+                0.730441153049469,
+                0.681908369064331,
+                0.7316350340843201,
+                0.7012761831283569
+            ]
+        }
+    },
+    "00560": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 22.94,
+            "distance": 2.72,
+            "det_conf": [
+                0.38247397541999817,
+                0.5607730746269226,
+                0.5737330317497253,
+                0.4899566173553467,
+                7.4237264925614e-05
+            ]
+        }
+    },
+    "00680": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": 29.01,
+            "distance": 4.2,
+            "det_conf": [
+                0.6391661167144775,
+                0.3460157811641693,
+                0.4163135290145874,
+                0.004920782521367073,
+                0.12134352326393127
+            ]
+        }
+    },
+    "00690": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 22.78,
+            "distance": 2.0,
+            "det_conf": [
+                0.7186807990074158,
+                0.7368422746658325,
+                0.7638114094734192,
+                0.25749269127845764,
+                0.6942248940467834
+            ]
+        }
+    },
+    "00700": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 20.08,
+            "distance": 2.0,
+            "det_conf": [
+                0.7671808004379272,
+                0.6863730549812317,
+                0.7093245983123779,
+                0.7725003957748413,
+                0.3401760458946228
+            ]
+        }
+    },
+    "00710": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 33.84,
+            "distance": 2.0,
+            "det_conf": [
+                0.7880472540855408,
+                0.8250085115432739,
+                0.8015261888504028,
+                0.8199968338012695,
+                0.8053097724914551
+            ]
+        }
+    },
+    "00720": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 10.33,
+            "distance": 2.0,
+            "det_conf": [
+                0.7961006164550781,
+                0.9005011916160583,
+                0.9153674840927124,
+                0.8800504207611084,
+                0.7727133631706238
+            ]
+        }
+    },
+    "00900": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": 5.22,
+            "distance": 4.71,
+            "det_conf": [
+                0.5313998460769653,
+                0.28256163001060486,
+                0.7350741028785706,
+                0.6865060329437256,
+                0.007274210918694735
+            ]
+        },
+        "A small, round or oval dining table with two chairs, located near large sliding glass doors that lead to an outdoor pool area. The table appears light-colored, and the chairs may have light upholstery.": {
+            "direction": -12.69,
+            "distance": 3.8,
+            "det_conf": [
+                0.8023723363876343,
+                0.843273401260376,
+                0.7611373662948608,
+                0.46224093437194824,
+                0.8075406551361084
+            ]
+        }
+    },
+    "00905": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -15.96,
+            "distance": 5.03,
+            "det_conf": [
+                0.6986792683601379,
+                0.3135618567466736,
+                0.6418196558952332,
+                0.354745477437973,
+                0.1364874243736267
+            ]
+        },
+        "A small, round or oval dining table with two chairs, located near large sliding glass doors that lead to an outdoor pool area. The table appears light-colored, and the chairs may have light upholstery.": {
+            "direction": 5.91,
+            "distance": 4.21,
+            "det_conf": [
+                0.6487001776695251,
+                0.8631742000579834,
+                0.8595978021621704,
+                0.8579257726669312,
+                0.8451217412948608
+            ]
+        }
+    },
+    "00910": {
+        "A small, round or oval dining table with two chairs, located near large sliding glass doors that lead to an outdoor pool area. The table appears light-colored, and the chairs may have light upholstery.": {
+            "direction": -25.49,
+            "distance": 4.01,
+            "det_conf": [
+                0.8151111602783203,
+                0.7501780986785889,
+                0.7468007206916809,
+                0.5511696338653564,
+                0.33117449283599854
+            ]
+        }
+    },
+    "00915": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -10.47,
+            "distance": 4.16,
+            "det_conf": [
+                0.6883956789970398,
+                0.6949185729026794,
+                0.7724367380142212,
+                0.5377858877182007,
+                0.8223286867141724
+            ]
+        },
+        "A small, round or oval dining table with two chairs, located near large sliding glass doors that lead to an outdoor pool area. The table appears light-colored, and the chairs may have light upholstery.": {
+            "direction": -21.64,
+            "distance": 3.19,
+            "det_conf": [
+                0.4491065442562103,
+                0.5438355207443237,
+                0.32766497135162354,
+                0.3340717852115631,
+                0.43477433919906616
+            ]
+        }
+    },
+    "00920": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -54.56,
+            "distance": 3.27,
+            "det_conf": [
+                0.5856418609619141,
+                0.2584308683872223,
+                0.5174351334571838,
+                0.14191967248916626,
+                0.07952763140201569
+            ]
+        },
+        "A small, round or oval dining table with two chairs, located near large sliding glass doors that lead to an outdoor pool area. The table appears light-colored, and the chairs may have light upholstery.": {
+            "direction": -52.03,
+            "distance": 2.73,
+            "det_conf": [
+                0.7158326506614685,
+                0.6933950185775757,
+                0.6599573493003845,
+                0.6031454801559448,
+                0.7105311751365662
+            ]
+        }
+    },
+    "00935": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -64.13,
+            "distance": 2.52,
+            "det_conf": [
+                0.12463784962892532,
+                0.2436809092760086,
+                0.5164524912834167,
+                0.2938380241394043,
+                0.019915200769901276
+            ]
+        }
+    },
+    "00945": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": 60.83,
+            "distance": 2.17,
+            "det_conf": [
+                0.6228972673416138,
+                0.7108937501907349,
+                0.7082728743553162,
+                0.7236706018447876,
+                0.617466926574707
+            ]
+        }
+    },
+    "00950": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -59.08,
+            "distance": 2.27,
+            "det_conf": [
+                0.41335558891296387,
+                0.25268179178237915,
+                0.60518878698349,
+                0.2850835919380188,
+                0.3776540756225586
+            ]
+        }
+    },
+    "00955": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -68.77,
+            "distance": 3.33,
+            "det_conf": [
+                0.8128629326820374,
+                0.860925018787384,
+                0.8714557886123657,
+                0.48257550597190857,
+                0.8686586618423462
+            ]
+        }
+    },
+    "00960": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -24.61,
+            "distance": 5.56,
+            "det_conf": [
+                0.7412506937980652,
+                0.7153338193893433,
+                0.5529346466064453,
+                0.10452204942703247,
+                0.2907494306564331
+            ]
+        }
+    },
+    "00965": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": 58.47,
+            "distance": 2.21,
+            "det_conf": [
+                0.5253995060920715,
+                0.7194381356239319,
+                0.3607398271560669,
+                0.7126255631446838,
+                0.5444815754890442
+            ]
+        }
+    },
+    "00970": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -57.54,
+            "distance": 2.91,
+            "det_conf": [
+                0.7323665022850037,
+                0.8022684454917908,
+                0.724929928779602,
+                0.6945915222167969,
+                0.7880621552467346
+            ]
+        }
+    },
+    "00975": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -65.16,
+            "distance": 2.43,
+            "det_conf": [
+                0.8287277817726135,
+                0.8403199315071106,
+                0.8243674039840698,
+                0.8269665241241455,
+                0.7775786519050598
+            ]
+        }
+    },
+    "00980": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -51.68,
+            "distance": 2.23,
+            "det_conf": [
+                0.8697959780693054,
+                0.1623353362083435,
+                0.8956261873245239,
+                0.39851459860801697,
+                0.868663489818573
+            ]
+        }
+    },
+    "01240": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": 53.26,
+            "distance": 2.59,
+            "det_conf": [
+                0.544638991355896,
+                0.20221956074237823,
+                0.664490818977356,
+                0.7194060683250427,
+                0.513190507888794
+            ]
+        }
+    },
+    "01245": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": 43.87,
+            "distance": 2.59,
+            "det_conf": [
+                0.8193457126617432,
+                0.8454650044441223,
+                0.7482814788818359,
+                0.7378739714622498,
+                0.7357410192489624
+            ]
+        }
+    },
+    "01250": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": 32.34,
+            "distance": 2.65,
+            "det_conf": [
+                0.5094912052154541,
+                0.5010236501693726,
+                0.35552114248275757,
+                0.7680540680885315,
+                0.6463198065757751
+            ]
+        }
+    },
+    "01255": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -13.74,
+            "distance": 2.45,
+            "det_conf": [
+                0.6366416215896606,
+                0.5601742267608643,
+                0.4676665663719177,
+                0.28471270203590393,
+                0.004111756570637226
+            ]
+        }
+    },
+    "01260": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -35.32,
+            "distance": 2.11,
+            "det_conf": [
+                0.48232942819595337,
+                0.809527575969696,
+                0.024591714143753052,
+                0.004679380916059017,
+                0.1398715376853943
+            ]
+        }
+    },
+    "01265": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -22.05,
+            "distance": 2.48,
+            "det_conf": [
+                0.840444028377533,
+                0.8482066988945007,
+                0.8482066988945007,
+                0.44687438011169434,
+                0.5318652391433716
+            ]
+        }
+    },
+    "01270": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -35.31,
+            "distance": 2.34,
+            "det_conf": [
+                0.9033344984054565,
+                0.9023360013961792,
+                0.8859876990318298,
+                0.9106742143630981,
+                0.9105908870697021
+            ]
+        }
+    },
+    "01275": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -65.79,
+            "distance": 1.96,
+            "det_conf": [
+                0.7808806300163269,
+                0.7304031252861023,
+                0.8123034834861755,
+                0.8119919896125793,
+                0.7541072964668274
+            ]
+        }
+    },
+    "01440": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 42.73,
+            "distance": 1.44,
+            "det_conf": [
+                0.6854950189590454,
+                0.5082383751869202,
+                0.4647718071937561,
+                0.019433826208114624,
+                0.04615411162376404
+            ]
+        }
+    },
+    "01460": {
+        "A black, flat electric cooktop, likely ceramic glass, with multiple burners, built into a kitchen island with a granite countertop.": {
+            "direction": -54.17,
+            "distance": 3.58,
+            "det_conf": [
+                0.24986179172992706,
+                0.6050247550010681,
+                0.4074491858482361,
+                0.32030975818634033,
+                0.16444316506385803
+            ]
+        }
+    },
+    "01560": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 6.39,
+            "distance": 1.33,
+            "det_conf": [
+                0.6502686142921448,
+                0.5199567079544067,
+                0.4870658218860626,
+                0.5124056935310364,
+                0.517416775226593
+            ]
+        }
+    },
+    "01570": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 8.88,
+            "distance": 1.67,
+            "det_conf": [
+                0.5714502334594727,
+                0.5076903700828552,
+                0.537519097328186,
+                0.1089412048459053,
+                0.26002252101898193
+            ]
+        }
+    },
+    "01580": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 22.93,
+            "distance": 1.59,
+            "det_conf": [
+                0.3350007236003876,
+                0.28880149126052856,
+                0.2123791128396988,
+                0.536131739616394,
+                0.32930663228034973
+            ]
+        }
+    },
+    "01600": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 26.06,
+            "distance": 2.0,
+            "det_conf": [
+                0.67118901014328,
+                0.6019175052642822,
+                0.515306293964386,
+                0.6073710322380066,
+                0.5408636927604675
+            ]
+        }
+    },
+    "02300": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 2.89,
+            "distance": 2.01,
+            "det_conf": [
+                0.592060387134552,
+                0.5532900094985962,
+                0.5693923234939575,
+                0.11912839859724045,
+                0.40567147731781006
+            ]
+        }
+    },
+    "02310": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 7.53,
+            "distance": 1.91,
+            "det_conf": [
+                0.4279929995536804,
+                0.5636695623397827,
+                0.3645700514316559,
+                0.35913679003715515,
+                0.4503014385700226
+            ]
+        }
+    },
+    "02320": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 25.23,
+            "distance": 2.01,
+            "det_conf": [
+                0.5703280568122864,
+                0.7397591471672058,
+                0.7245844602584839,
+                0.6964045763015747,
+                0.6776494979858398
+            ]
+        }
+    },
+    "02330": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 22.3,
+            "distance": 2.0,
+            "det_conf": [
+                0.6770086288452148,
+                0.6577757000923157,
+                0.6360991597175598,
+                0.6543290019035339,
+                0.6294422149658203
+            ]
+        }
+    },
+    "02340": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 42.29,
+            "distance": 1.68,
+            "det_conf": [
+                0.6631853580474854,
+                0.14815464615821838,
+                0.584926426410675,
+                0.4436767101287842,
+                0.6303503513336182
+            ]
+        }
+    },
+    "02600": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 5.85,
+            "distance": 2.03,
+            "det_conf": [
+                0.658641517162323,
+                0.5180955529212952,
+                0.6745461225509644,
+                0.543868362903595,
+                0.6276740431785583
+            ]
+        }
+    },
+    "02610": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 14.26,
+            "distance": 2.12,
+            "det_conf": [
+                0.5539830327033997,
+                0.5211871266365051,
+                0.47740769386291504,
+                0.42965859174728394,
+                0.5583056807518005
+            ]
+        }
+    },
+    "02630": {
+        "A man wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He appears to be of average build.": {
+            "direction": 34.93,
+            "distance": 2.02,
+            "det_conf": [
+                0.6867625713348389,
+                0.7234215140342712,
+                0.6031002402305603,
+                0.7401785850524902,
+                0.6965904235839844
+            ]
+        }
+    }
+}

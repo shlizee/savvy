@@ -1,0 +1,84 @@
+{
+    "event": "The speech topic is 'deciding to skip cooking brussels sprouts'.",
+    "start_time": "02:30",
+    "end_time": "02:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short brown hair, wearing glasses, a light blue/teal short-sleeved polo shirt, and khaki shorts. He is of average to large build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:06": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "00:39": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "01:06": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "02:02": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "02:08": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "02:12": {
+                "distance": "0.6",
+                "direction": "45"
+            },
+            "02:30": {
+                "distance": "0.6",
+                "direction": "70"
+            },
+            "02:35": {
+                "distance": "0.7",
+                "direction": "75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose hands are occasionally visible.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male with short brown hair, wearing glasses, a light blue/teal short-sleeved polo shirt, and khaki shorts.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0.6",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"deciding to skip cooking brussels sprouts\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_141",
+    "video_id": "loc2_script3_seq31_rec2"
+}

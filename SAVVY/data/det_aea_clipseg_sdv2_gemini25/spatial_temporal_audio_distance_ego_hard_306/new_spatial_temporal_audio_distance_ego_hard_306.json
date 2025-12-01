@@ -1,0 +1,91 @@
+{
+    "event": "The speech topic: \"listing available natural resources (fish, fruit)\" comes up.",
+    "start_time": "2:37",
+    "end_time": "2:42",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male, appearing to be middle-aged, with short, dark hair (balding on top). He is wearing a light green short-sleeved polo shirt and blue jeans. He is also wearing a watch on his left wrist. He is of average build and is seated on a couch to the right of the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.6",
+                "direction": "50"
+            },
+            "0:30": {
+                "distance": "1.7",
+                "direction": "55"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "1:00": {
+                "distance": "1.6",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "1:30": {
+                "distance": "1.6",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "2:00": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "2:15": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "2:30": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "2:37": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "2:40": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "2:48": {
+                "distance": "1.7",
+                "direction": "50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, who is seated on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:52": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not explicitly defined, but generally the camera is facing towards the sounding object (the other person) or the coffee table in front.",
+        "key_frames": {}
+    },
+    "prediction": 1.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"listing available natural resources (fish, fruit)\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_306",
+    "video_id": "loc3_script3_seq2_rec2"
+}

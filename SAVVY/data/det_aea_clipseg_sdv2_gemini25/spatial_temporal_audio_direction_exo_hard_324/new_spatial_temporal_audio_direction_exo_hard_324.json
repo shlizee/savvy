@@ -1,0 +1,109 @@
+{
+    "event": "Speaker talks about having strategic plans ('plots, plans, ploys').",
+    "start_time": "01:31",
+    "end_time": "01:33",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:15": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:45": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:15": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:31": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "01:45": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "02:08": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "00:15": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "00:30": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "00:45": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "01:00": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "01:15": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "01:31": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "01:45": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "02:00": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "02:08": {
+                "distance": "2.8",
+                "direction": "-65"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.",
+        "is_static": true,
+        "key_frames": {}
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the light-gray two-seater couch, when the speech topic: \"acknowledging having strategic plans\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_324",
+    "video_id": "loc3_script2_seq5_rec1"
+}

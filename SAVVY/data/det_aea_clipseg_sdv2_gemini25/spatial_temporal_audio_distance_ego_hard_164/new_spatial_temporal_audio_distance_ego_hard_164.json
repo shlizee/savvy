@@ -1,0 +1,184 @@
+{
+    "event": "Speech topic: \"observing parts of meat not contacting pan\"",
+    "start_time": "1:21",
+    "end_time": "1:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a light blue/turquoise short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has dark hair and is cooking at a stovetop.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "2.2",
+                "direction": "-90"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:56": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:21": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "1:34": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:43": {
+                "distance": "0.9",
+                "direction": "5"
+            },
+            "1:47": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:51": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:07": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The perspective of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person cooking",
+        "description": "Adult male wearing a light blue/turquoise short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has dark hair and is cooking at a stovetop.",
+        "key_frames": {
+            "0:03": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "2.2",
+                "direction": "-90"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:56": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:21": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "1:34": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:43": {
+                "distance": "0.9",
+                "direction": "5"
+            },
+            "1:47": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:51": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:07": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "0.8",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"observing parts of meat not contacting pan\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_164",
+    "video_id": "loc2_script3_seq33_rec2"
+}

@@ -1,0 +1,152 @@
+{
+    "event": "The other person offers watermelon to the camera wearer.",
+    "start_time": "0:01:52",
+    "end_time": "0:02:00",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Woman with long dark brown hair, wearing glasses, a black short-sleeved crop top, and light blue denim shorts. She is sitting at a wooden dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:00:02": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:00:06": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:00:08": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:00:11": {
+                "distance": "3.2",
+                "direction": "-60"
+            },
+            "0:00:13": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:00:20": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "0:00:26": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:00:28": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:00:37": {
+                "distance": "2.8",
+                "direction": "-60"
+            },
+            "0:00:43": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:00:48": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:01:02": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:01:10": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:01:15": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "0:01:23": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:01:33": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:01:52": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:01:57": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:02:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:02:10": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:02:25": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:02:32": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:02:42": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:02:50": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:03:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:03:08": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:03:15": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:03:25": {
+                "distance": "1.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera's view",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering watermelon\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_29",
+    "video_id": "loc1_script2_seq4_rec2"
+}

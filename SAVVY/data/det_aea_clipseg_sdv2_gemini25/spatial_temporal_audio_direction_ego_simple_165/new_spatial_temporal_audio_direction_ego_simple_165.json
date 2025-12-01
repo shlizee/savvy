@@ -1,0 +1,132 @@
+{
+    "event": "The other person (man in blue shirt) expresses willingness to cook kebabs.",
+    "start_time": "01:11",
+    "end_time": "01:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short brown hair and is wearing wired earbuds that go over his ears. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:02": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:07": {
+                "distance": "2.2",
+                "direction": "70"
+            },
+            "00:11": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:15": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "00:25": {
+                "distance": "2.1",
+                "direction": "30"
+            },
+            "00:35": {
+                "distance": "2.1",
+                "direction": "25"
+            },
+            "00:48": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "01:01": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "01:12": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "01:19": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera being worn/held by the first person, providing an egocentric view. Its position is the origin (0,0) and its facing direction is 0 degrees by definition for this egocentric task.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Forward direction of the camera",
+        "description": "The direction the camera is pointing, which is the reference for 'left', 'right', or 'back'.",
+        "key_frames": {
+            "00:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:12": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing willingness to cook the mentioned items\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_165",
+    "video_id": "loc2_script3_seq2_rec1"
+}

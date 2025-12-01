@@ -1,0 +1,137 @@
+{
+    "event": "Speech topic: explaining endeavor owns ufc",
+    "start_time": "1:12",
+    "end_time": "1:17",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer, a male, whose hands, arms, lap, green t-shirt, blue jeans, and a gold-colored watch are partially visible. He is the one speaking about Endeavor and UFC.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera held by the wearer, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:39": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A female with long dark hair, wearing a yellow knitted top over a white short-sleeved shirt, and light blue jeans. She is initially at a table, then moves to sit on the couch next to the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "40"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "1:38": {
+                "distance": "0.6",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"explaining endeavor owns ufc\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_256",
+    "video_id": "loc3_script2_seq7_rec1"
+}

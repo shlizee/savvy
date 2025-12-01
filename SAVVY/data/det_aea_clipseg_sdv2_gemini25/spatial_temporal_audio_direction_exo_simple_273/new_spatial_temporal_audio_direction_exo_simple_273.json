@@ -1,0 +1,184 @@
+{
+    "event": "Determine the speaker's location (left, right, or back) relative to a robot standing by the dishwasher and facing the double wall oven, when the speech topic 'expressing belief task is complete' comes up.",
+    "start_time": "03:14",
+    "end_time": "03:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved polo shirt, dark (navy or black) shorts, dark-rimmed glasses, and has dark, curly hair. He is wearing a headset with a microphone. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:31": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:17": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "2:11": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:18": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "2:25": {
+                "distance": "0.7",
+                "direction": "-35"
+            },
+            "2:37": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:46": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:13": {
+                "distance": "1.0",
+                "direction": "-35"
+            },
+            "3:14": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "3:18": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:37": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:40": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "3:42": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "3:47": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "Standard under-counter dishwasher with a stainless steel front panel, located to the left of the main kitchen sink (when facing the sink).",
+        "key_frames": {
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:18": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:16": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:20": {
+                "distance": "0.6",
+                "direction": "-35"
+            },
+            "2:46": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "3:08": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "3:13": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "3:26": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "3:36": {
+                "distance": "0.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "Two ovens stacked vertically, built into the kitchen cabinetry, with stainless steel fronts. Located on the wall to the left of the main sink area, and further left from the dishwasher.",
+        "key_frames": {
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "1:17": {
+                "distance": "2.0",
+                "direction": "-85"
+            },
+            "2:11": {
+                "distance": "2.2",
+                "direction": "-80"
+            },
+            "2:37": {
+                "distance": "2.2",
+                "direction": "-80"
+            },
+            "3:06": {
+                "distance": "2.2",
+                "direction": "-80"
+            },
+            "3:17": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "3:25": {
+                "distance": "2.2",
+                "direction": "-80"
+            },
+            "3:32": {
+                "distance": "2.2",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"expressing belief task is complete\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_273",
+    "video_id": "loc2_script3_seq5_rec2"
+}

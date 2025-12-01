@@ -1,0 +1,156 @@
+{
+    "event": "A creak and thud sound produced by the front door closing.",
+    "start_time": "1:31",
+    "end_time": "1:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown, wooden, arched-top front door. It has a black doorknob/handle. Appears to be a single panel door. Approximate height 2-2.2 meters, width 0.8-0.9 meters.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:30": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:45": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "1:15": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "1:21": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "0.2",
+                "direction": "5"
+            },
+            "1:28": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair",
+        "description": "A modern light-gray upholstered armchair with wooden legs, cushioned seat and back. This is the armchair positioned closer to the fireplace and the prominent wall painting above the fireplace. Approximate dimensions: 0.8m width x 0.8m depth x 0.9m height.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:21": {
+                "distance": "3.8",
+                "direction": "-135"
+            },
+            "1:25": {
+                "distance": "3.8",
+                "direction": "-135"
+            },
+            "1:31": {
+                "distance": "3.8",
+                "direction": "-135"
+            },
+            "1:35": {
+                "distance": "3.8",
+                "direction": "-135"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door",
+        "description": "A dark brown, wooden, arched-top front door. It has a black doorknob/handle. Appears to be a single panel door. Approximate height 2-2.2 meters, width 0.8-0.9 meters. (This is the same as the sounding object, representing the other end of the distance measurement from the reference armchair).",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:30": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:45": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "1:15": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "1:21": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "0.2",
+                "direction": "5"
+            },
+            "1:28": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.8,
+    "question": "When the creak and thud sound is happening, what is the distance between the light-gray armchair closer to the wall painting and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_77",
+    "video_id": "loc1_script2_seq8_rec2"
+}

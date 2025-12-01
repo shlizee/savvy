@@ -1,0 +1,140 @@
+{
+    "event": "The speech topic: \"predicting endeavor stock will increase\" comes up.",
+    "start_time": "0:01:12",
+    "end_time": "0:01:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. He is sitting on a couch to the left of the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:00:07": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:00:09": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:00:13": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:00:17": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:00:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:00:45": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:00": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:12": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:20": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:35": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man in green shirt",
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. He is sitting on a couch to the left of the camera wearer.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:00:07": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:00:09": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:00:13": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:00:17": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:00:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:00:45": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:00": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:12": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:20": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:01:35": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"predicting endeavor stock will increase\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_283",
+    "video_id": "loc3_script2_seq7_rec2"
+}

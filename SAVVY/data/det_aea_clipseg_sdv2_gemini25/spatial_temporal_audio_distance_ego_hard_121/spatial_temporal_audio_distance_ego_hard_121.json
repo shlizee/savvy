@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic: \"greeting thomas\" comes up.",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, wearing a light blue/teal short-sleeved t-shirt and khaki shorts. He has short brown hair and is wearing glasses. He is carrying two small, colorful gift bags. Approximately 1.7-1.8m tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "5.1",
+                "direction": "-15"
+            },
+            "0:14": {
+                "distance": "4.4",
+                "direction": "-18"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:16": {
+                "distance": "3.7",
+                "direction": "-20"
+            },
+            "0:18": {
+                "distance": "3.1",
+                "direction": "-25"
+            },
+            "0:19": {
+                "distance": "2.7",
+                "direction": "-28"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "4.8",
+                "direction": "-15"
+            },
+            "0:29": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:31": {
+                "distance": "2.3",
+                "direction": "-26"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view. It is located on a couch in a living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person (Thomas's greeter)",
+        "description": "Adult male, medium build, wearing a light blue/teal short-sleeved t-shirt and khaki shorts. Short brown hair, glasses. Carrying two small gift bags. This is the same as the sounding object.",
+        "key_frames": {
+            "0:01": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "5.1",
+                "direction": "-15"
+            },
+            "0:14": {
+                "distance": "4.4",
+                "direction": "-18"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:16": {
+                "distance": "3.7",
+                "direction": "-20"
+            },
+            "0:18": {
+                "distance": "3.1",
+                "direction": "-25"
+            },
+            "0:19": {
+                "distance": "2.7",
+                "direction": "-28"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "4.8",
+                "direction": "-15"
+            },
+            "0:29": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:31": {
+                "distance": "2.3",
+                "direction": "-26"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": 4.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"greeting thomas\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_121",
+    "video_id": "loc2_script3_seq1_rec2"
+}

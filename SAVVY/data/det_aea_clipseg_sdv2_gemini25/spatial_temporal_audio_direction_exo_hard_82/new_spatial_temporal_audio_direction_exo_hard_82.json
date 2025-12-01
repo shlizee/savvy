@@ -1,0 +1,160 @@
+{
+    "event": "The TV is narrating the prince's destined kiss action.",
+    "start_time": "4:05",
+    "end_time": "4:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A large, flat-screen television, black, mounted on a light-colored wooden console table. The screen is approximately 50-60 inches diagonally. It is the source of the narration.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "1:35": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "2:06": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "3:00": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "3:30": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "4:05": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "4:07": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "4:11": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "4:25": {
+                "distance": "2.2",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two nested circular coffee tables. The larger, top table has a light-colored wooden surface and a dark metal frame. The smaller table is mostly obscured underneath. The larger table is approximately 0.8 meters in diameter.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "2:06": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "4:05": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "4:11": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "4:27": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Dark Wooden Front Door",
+        "description": "A dark brown wooden front door, standard residential size, with some paneling. It is visible at the end of a hallway, through an arched doorway from the living room.",
+        "key_frames": {
+            "0:05": {
+                "distance": "5.5",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "1:35": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "2:06": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "3:00": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "4:05": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "4:11": {
+                "distance": "5.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "B",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the dark wooden front door, when the speech topic: \"(tv) narrating the prince's destined kiss action\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_82",
+    "video_id": "loc1_script2_seq7_rec2"
+}

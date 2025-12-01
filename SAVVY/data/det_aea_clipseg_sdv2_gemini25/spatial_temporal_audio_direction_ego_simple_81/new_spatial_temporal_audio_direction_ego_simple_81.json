@@ -1,0 +1,200 @@
+{
+    "event": "Other person expressing liking for the door",
+    "start_time": "0:13",
+    "end_time": "0:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A young adult male, wearing a light-colored (white or light beige) short-sleeved t-shirt and light blue shorts ending above the knee. He is barefoot. He has short dark hair and appears to be of average height and build. At the time of the event, he is walking from the entryway into the hallway.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:32": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:45": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:56": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:03": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, providing an egocentric view. Its position is the origin (0,0) in this frame of reference.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The guest who expresses liking for the door. This is the same individual as the sounding_object.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:32": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:45": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:56": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:03": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing liking for the door\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_81",
+    "video_id": "loc2_script2_seq1_rec2"
+}

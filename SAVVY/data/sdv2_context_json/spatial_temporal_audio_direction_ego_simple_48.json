@@ -1,0 +1,124 @@
+{
+    "event": "The TV is narrating the prince's destined kiss action in the Shrek 2 movie intro.",
+    "start_time": "3:25",
+    "end_time": "4:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Large, black, flat-screen television, approximately 55-65 inches, mounted on a light-colored wooden media console. It is displaying the Shrek 2 movie intro.",
+        "is_static": true,
+        "key_frames": {
+            "0:19": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:42": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:42": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:06": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:51": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "3:25": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "4:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person holding the camera, whose perspective the video is from. Their actions involve walking, picking up a remote, pointing it at the TV, and later checking a phone.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male with curly brown hair, wearing glasses, a light teal/blue short-sleeved collared shirt, and dark shorts. He is mostly seated on a couch in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "2:11": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "2:29": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "3:25": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "4:08": {
+                "distance": "2.0",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the prince's destined kiss action\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_48",
+    "video_id": "loc1_script2_seq7_rec1"
+}

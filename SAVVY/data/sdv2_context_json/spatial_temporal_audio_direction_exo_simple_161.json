@@ -1,0 +1,208 @@
+{
+    "event": "Person 1 (man in blue shirt) asks Person 2 (camera holder) if they want to go first in the Scrabble game.",
+    "start_time": "1:38",
+    "end_time": "1:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with short, dark hair, balding on top, wearing glasses, a light blue/turquoise polo shirt, and khaki shorts. He is seated on a dark metal barstool with a brown cushion at the kitchen island. Approximate height while seated is around 1.2-1.5 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "2:56": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "3:30": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "3:45": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap (Island Prep Sink)",
+        "description": "A round, stainless steel undermount sink, approximately 0.4 meters in diameter, embedded in the light-colored granite countertop of the kitchen island. It has a single, tall, gooseneck-style chrome tap.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "0:50": {
+                "distance": "1.1",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "2:30": {
+                "distance": "1.1",
+                "direction": "-20"
+            },
+            "3:00": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "-25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A built-in stainless steel double wall oven, approximately 0.76 meters wide and 1.3 meters tall. It is located in the main kitchen cabinetry wall, which is made of light brown wood. The oven has two compartments stacked vertically, each with a black glass door, stainless steel trim, and a horizontal stainless steel handle.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "3.2",
+                "direction": "-55"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "3.1",
+                "direction": "-52"
+            },
+            "1:00": {
+                "distance": "3.2",
+                "direction": "-55"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "3.1",
+                "direction": "-52"
+            },
+            "1:38": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "2:30": {
+                "distance": "3.1",
+                "direction": "-52"
+            },
+            "3:00": {
+                "distance": "3.2",
+                "direction": "-55"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel double wall oven, when the speech topic: \"offering to take first turn\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_161",
+    "video_id": "loc2_script2_seq5_rec1"
+}

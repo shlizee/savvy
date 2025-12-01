@@ -1,0 +1,90 @@
+{
+    "event": "Calculating the distance between the black round ottoman and the frying pan (sounding object) while eggs are being scraped from it.",
+    "start_time": "0:55",
+    "end_time": "1:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A black, non-stick frying pan with a long black handle, approximately 20-25 cm in diameter. This is the pan from which eggs are scraped.",
+        "is_static": false,
+        "key_frames": {
+            "0:28": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black round ottoman",
+        "description": "A black, round, fabric-covered ottoman, approximately 0.5-0.7 meters in diameter, located in the living room area.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:28": {
+                "distance": "4.5",
+                "direction": "-100"
+            },
+            "0:41": {
+                "distance": "4.5",
+                "direction": "-100"
+            },
+            "1:29": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "2:10": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "3:05": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stovetop/Counter",
+        "description": "The kitchen stovetop area where the camera person is scraping eggs from the pan into a container.",
+        "is_static": true,
+        "key_frames": {
+            "0:55": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.5,
+    "question": "When the scraping sound is happening, what is the distance between the black round ottoman and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_333",
+    "video_id": "loc3_script3_seq5_rec2"
+}

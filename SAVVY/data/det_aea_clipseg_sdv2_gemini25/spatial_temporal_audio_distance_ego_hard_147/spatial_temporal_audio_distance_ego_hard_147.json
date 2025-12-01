@@ -1,0 +1,87 @@
+{
+    "event": "The speech topic: \"instructing bending kebabs to fit pan and confirming success\" comes up.",
+    "start_time": "02:11",
+    "end_time": "02:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with dark, curly hair, wearing glasses, a grey short-sleeved collared shirt, and dark blue or black shorts. He appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "00:01.0": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "00:02.5": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "00:05.0": {
+                "distance": "0.8",
+                "direction": "75"
+            },
+            "00:28.0": {
+                "distance": "0.9",
+                "direction": "80"
+            },
+            "00:41.0": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "00:43.5": {
+                "distance": "0.6",
+                "direction": "70"
+            },
+            "00:48.0": {
+                "distance": "0.8",
+                "direction": "75"
+            },
+            "01:11.0": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "01:14.0": {
+                "distance": "0.7",
+                "direction": "65"
+            },
+            "02:11.8": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "02:15.5": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "02:19.5": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "02:41.0": {
+                "distance": "0.8",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person (P1), providing an egocentric view. P1 is in the kitchen, primarily interacting with the stove and counter.",
+        "key_frames": {
+            "00:00.0": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:15.0": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing bending kebabs to fit pan and confirming success\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_147",
+    "video_id": "loc2_script3_seq32_rec1"
+}

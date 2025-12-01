@@ -1,0 +1,108 @@
+{
+    "event": "The speech topic: \"choosing the arizona drink\" comes up.",
+    "start_time": "0:35",
+    "end_time": "0:38",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing glasses, a light blue/green short-sleeved button-up shirt, dark shorts, and dark socks. He has headphones around his neck and a small device clipped to his shirt. At the time of speaking, he is holding a phone and then receives a can of Arizona drink.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "1:38": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A modern light-gray upholstered armchair. It is one of two identical armchairs placed by a large arched window. The 'wall painting' is a framed picture on the wall to the left of the arched window (next to a white interior door). The armchair 'further' from this wall painting is the one on the right side of the arched window when viewed from inside the room.",
+        "key_frames": {
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:17": {
+                "distance": "3.2",
+                "direction": "-60"
+            },
+            "0:37": {
+                "distance": "2.8",
+                "direction": "-75"
+            },
+            "0:50": {
+                "distance": "2.8",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "2.8",
+                "direction": "-75"
+            },
+            "1:38": {
+                "distance": "2.8",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Dark wooden front door",
+        "description": "A dark brown wooden front door with an arched top. It has a small, narrow rectangular window with a curved top, and a dark metal handle/lockset. A wreath is hanging on it. It is located to the right of the arched window.",
+        "key_frames": {
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "3.8",
+                "direction": "-75"
+            },
+            "0:37": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-85"
+            },
+            "1:38": {
+                "distance": "3.5",
+                "direction": "-85"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing the dark wooden front door, when the speech topic: \"choosing the arizona drink\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_4",
+    "video_id": "loc1_script2_seq1_rec1"
+}

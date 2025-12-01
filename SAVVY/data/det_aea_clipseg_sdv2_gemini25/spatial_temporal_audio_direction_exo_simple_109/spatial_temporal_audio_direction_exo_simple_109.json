@@ -1,0 +1,88 @@
+{
+    "event": "Speaker specifies painting origin as 'the Amazon'",
+    "start_time": "1:02",
+    "end_time": "1:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man wearing a turquoise blue polo shirt, khaki shorts, glasses, and has a wired earphone. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:14": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:26": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:44": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, black, flat-screen TV mounted on the wall as part of a wooden entertainment shelving unit.",
+        "key_frames": {
+            "0:08": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "1:16": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:39": {
+                "distance": "3.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace with a white mantelpiece and a black metal screen covering the opening.",
+        "key_frames": {
+            "1:16": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "4.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"specifying painting origin as the amazon\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_109",
+    "video_id": "loc2_script2_seq2_rec1"
+}

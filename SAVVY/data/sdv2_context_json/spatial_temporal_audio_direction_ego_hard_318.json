@@ -1,0 +1,115 @@
+{
+    "event": "The speech topic 'naming related tech destinations' (e.g., San Jose, Mountain View, Palo Alto) comes up in the conversation.",
+    "start_time": "01:15",
+    "end_time": "01:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with short, curly, light brown or blondish hair, wearing glasses. They are dressed in a dark (e.g., navy or black) V-neck or quarter-zip sweater layered over a light blue collared shirt, paired with blue jeans. Initially, they wear light-colored socks; later (e.g., around 02:30), light-colored sneakers become visible. They are seated on a light beige or cream-colored couch. Their approximate height while seated is around 1 meter.",
+        "is_static": false,
+        "key_frames": {
+            "00:02": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "00:03": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "00:08": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "00:15": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "00:30": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "00:45": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "01:00": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "01:15": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "01:30": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "01:38": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "01:45": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "02:00": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "02:15": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "02:30": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "02:45": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "02:48": {
+                "distance": "1.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera, representing the wearer. This is the origin (0,0) for egocentric perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A (Egocentric View)",
+        "description": "The facing direction is the camera's line of sight, defined as 0 degrees. This is the reference for 'where you are facing'.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"naming related tech destinations\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_318",
+    "video_id": "loc3_script3_seq2_rec1"
+}

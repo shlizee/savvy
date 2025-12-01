@@ -1,0 +1,104 @@
+{
+    "event": "Distance between camera wearer and another person when the speech topic 'instructing closing the door' comes up.",
+    "start_time": "01:26",
+    "end_time": "01:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person, wearing a white t-shirt, blue shorts, and glasses. This person is being instructed to close the door, or is the subject of the instruction about closing the door.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "00:15": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "00:30": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "00:45": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "01:00": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "01:05": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "01:08": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "01:12": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "01:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "01:18": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:26": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:28": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their viewpoint.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:26": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person, wearing a white t-shirt, blue shorts, and glasses. This person is being instructed regarding the door.",
+        "key_frames": {
+            "01:26": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing closing the door\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_108",
+    "video_id": "loc2_script2_seq8_rec1"
+}

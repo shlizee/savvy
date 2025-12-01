@@ -1,0 +1,132 @@
+{
+    "event": "Woman in yellow vest instructs to press a button on the French press.",
+    "start_time": "02:27",
+    "end_time": "02:29",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a woman with long, dark curly hair, wearing glasses, a white short-sleeved t-shirt, a yellow knitted sleeveless vest, and light blue jeans. She is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "00:04": {
+                "distance": "2.3",
+                "direction": "50"
+            },
+            "00:07": {
+                "distance": "3.5",
+                "direction": "80"
+            },
+            "00:09": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "00:12": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "00:20": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "00:34": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "00:45": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "00:58": {
+                "distance": "0.6",
+                "direction": "-85"
+            },
+            "01:08": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "01:21": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "01:33": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "01:45": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "01:59": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "02:09": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "02:28": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "02:39": {
+                "distance": "0.4",
+                "direction": "-45"
+            },
+            "02:51": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "03:00": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "03:07": {
+                "distance": "0.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White Rabbit Sculpture",
+        "description": "A white ceramic sculpture of a rabbit, approximately 20-30 cm tall, sitting upright. It is located on the wooden coffee table in the living room. Assuming 'black' in the prompt was an error, as this is the most prominent animal sculpture.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "00:03": {
+                "distance": "1.2",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace",
+        "description": "A stone-faced fireplace with a wooden mantelpiece. It is located on the main wall of the living room, directly in front of the coffee table.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "2.1",
+                "direction": "3"
+            },
+            "00:03": {
+                "distance": "2.2",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the black decorative animal sculpture and facing the fireplace, when the speech topic: \"instructing to press specific button\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_298",
+    "video_id": "loc3_script2_seq3_rec1"
+}

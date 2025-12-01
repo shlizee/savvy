@@ -1,0 +1,144 @@
+{
+    "event": "The camera wearer identifies the next sequence and suggests stopping the current recording.",
+    "start_time": "0:31",
+    "end_time": "0:34",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appearing to be in his late 30s to 50s. He has short, light brown/dark blond hair, possibly with a receding hairline, and wears glasses with dark frames. He is dressed in a light blue short-sleeved t-shirt, khaki shorts (ending above the knee), and white sneakers with white socks. His build is average, and his approximate height is 1.75-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "7.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:19": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:23": {
+                "distance": "3.8",
+                "direction": "25"
+            },
+            "0:28": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:34": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person viewpoint of the video recording, representing the person holding the camera and speaking the lines that define the event.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male, appearing to be in his late 30s to 50s. He has short, light brown/dark blond hair, possibly with a receding hairline, and wears glasses with dark frames. He is dressed in a light blue short-sleeved t-shirt, khaki shorts (ending above the knee), and white sneakers with white socks. His build is average, and his approximate height is 1.75-1.8 meters.",
+        "key_frames": {
+            "0:01": {
+                "distance": "7.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:19": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:23": {
+                "distance": "3.8",
+                "direction": "25"
+            },
+            "0:28": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:34": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 2.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"identifying next sequence and suggesting stopping recording\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_125",
+    "video_id": "loc2_script3_seq1_rec2"
+}

@@ -1,0 +1,128 @@
+{
+    "event": "The other person is describing train stop locations as random.",
+    "start_time": "0:58",
+    "end_time": "1:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly, light-colored hair (face is blurred/obscured). They are wearing a dark long-sleeved sweater or jacket over a light-colored collared shirt, and blue jeans with white socks. They are sitting on a light-colored couch. Appears to be an adult male, medium build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "0:40": {
+                "distance": "1.6",
+                "direction": "-35"
+            },
+            "0:58": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "1:05": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "1:15": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:50": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "2:00": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "2:15": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "2:30": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "2:45": {
+                "distance": "1.7",
+                "direction": "-35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "Camera worn by a person. The view is from the perspective of this person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing stop locations as random\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_316",
+    "video_id": "loc3_script3_seq2_rec1"
+}

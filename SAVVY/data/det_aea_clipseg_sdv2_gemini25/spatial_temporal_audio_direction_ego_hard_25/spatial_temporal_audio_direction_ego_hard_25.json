@@ -1,0 +1,160 @@
+{
+    "event": "The other person thanks the camera wearer for pouring the correct amount of creamer into their coffee.",
+    "start_time": "01:03",
+    "end_time": "01:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly brown hair, wearing glasses, a light blue/teal short-sleeved collared shirt, and dark shorts. They have headphones around their neck. Appears to be an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:44": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:56": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "01:02": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "01:03": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "01:04": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "01:05": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "01:06": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "01:07": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "01:08": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "01:21": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:33": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:40": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:50": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:56": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:02": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:22": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:43": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "02:53": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "03:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "03:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "03:20": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "03:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"thanking for the correct amount of creamer\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_25",
+    "video_id": "loc1_script2_seq4_rec1"
+}

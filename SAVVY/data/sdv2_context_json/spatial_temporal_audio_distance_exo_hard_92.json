@@ -1,0 +1,109 @@
+{
+    "event": "The speech topic: \"agreeing to conduct the requested tour\" is mentioned.",
+    "start_time": "0:05",
+    "end_time": "0:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is a man with short dark hair, wearing a light blue short-sleeved polo shirt, khaki shorts, glasses with dark frames, and wired earbuds (white wire visible). He is holding a black smartphone in his right hand. At the time of the event, he is seated on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:14": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:37": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:17": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the point of view from which other objects are observed. It is likely held by a person seated on the couch or nearby.",
+        "key_frames": {
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door with multiple rectangular glass panels (appears to be 6 or 8) and a silver door handle. It is located at the end of a hallway, visible from the living room.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:14": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "7.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": 6.17,
+    "question": "When the speech topic: \"agreeing to conduct the requested tour\" is mentioned, what is the distance between the black front door with glass panels and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_92",
+    "video_id": "loc2_script2_seq2_rec1"
+}

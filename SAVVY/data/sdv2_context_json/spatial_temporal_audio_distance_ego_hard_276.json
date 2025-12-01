@@ -1,0 +1,136 @@
+{
+    "event": "The man in the green shirt is introducing the content of a YouTube video he is about to show on his phone to the camera wearer. He states it's a video about the stock market.",
+    "start_time": "0:15",
+    "end_time": "0:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male wearing a light green/teal polo shirt, blue jeans, and glasses. He has short dark hair and is wearing a watch on his left wrist. He is of average build and is sitting on a couch next to the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "0:16": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn or held by the user, representing their first-person viewpoint. All distances and directions of other objects are measured from this point.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man in green shirt",
+        "description": "An adult male wearing a light green/teal polo shirt, blue jeans, and glasses. He has short dark hair and is wearing a watch on his left wrist. He is of average build and is sitting on a couch next to the camera wearer. This is the same as the sounding object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "0:16": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"introducing video presentation content\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_276",
+    "video_id": "loc3_script2_seq7_rec2"
+}

@@ -1,0 +1,140 @@
+{
+    "event": "The other person presents a spoon and creamer to the camera wearer, and the speech topic of this presentation comes up.",
+    "start_time": "1:05",
+    "end_time": "1:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved polo shirt, khaki shorts, and glasses. He has dark hair and a dark beard. He is also wearing a wired earbud in his right ear, connected by a black wire that goes over his right shoulder.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:26": {
+                "distance": "4.0",
+                "direction": "50"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:43": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "25"
+            },
+            "1:04": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "1:08": {
+                "distance": "0.5",
+                "direction": "2"
+            },
+            "1:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:22": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:39": {
+                "distance": "0.8",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer's hands are sometimes visible holding a phone or a coffee mug.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male, wearing a light blue/teal short-sleeved polo shirt, khaki shorts, and glasses. He has dark hair and a dark beard. He is also wearing a wired earbud in his right ear.",
+        "key_frames": {
+            "1:05": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:07": {
+                "distance": "0.6",
+                "direction": "2"
+            },
+            "1:08": {
+                "distance": "0.5",
+                "direction": "2"
+            },
+            "1:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"presenting the spoon/creamer\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_110",
+    "video_id": "loc2_script2_seq4_rec1"
+}

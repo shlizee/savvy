@@ -1,0 +1,199 @@
+{
+    "event": "The speech topic: \"speculating and confirming mugs are by coffee\" comes up.",
+    "start_time": "0:24",
+    "end_time": "0:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Young adult female with long dark curly hair (tied back), wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She is also wearing a lavalier microphone clipped to her jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "15"
+            },
+            "0:16": {
+                "distance": "6.0",
+                "direction": "30"
+            },
+            "0:19": {
+                "distance": "5.0",
+                "direction": "45"
+            },
+            "0:21": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:24": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:26": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "2.7",
+                "direction": "5"
+            },
+            "0:40": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "2.9",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "3.7",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.7",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.9",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "2.7",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "2.6",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "2.7",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:53": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "2:58": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "3:03": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "3:08": {
+                "distance": "1.3",
+                "direction": "0"
+            },
+            "3:13": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. Its position is the origin (0,0).",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Same as sounding_object. The camera is generally facing this person during the interaction.",
+        "key_frames": {
+            "0:24": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "2.9",
+                "direction": "3"
+            },
+            "0:26": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "2.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.9,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"speculating and confirming mugs are by coffee\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_9",
+    "video_id": "loc1_script2_seq3_rec1"
+}

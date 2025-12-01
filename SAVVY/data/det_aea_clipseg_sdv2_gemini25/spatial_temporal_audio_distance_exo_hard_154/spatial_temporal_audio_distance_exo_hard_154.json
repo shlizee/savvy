@@ -1,0 +1,114 @@
+{
+    "event": "Distance between the wall-mounted TV and the front door when the door makes a creak and thud sound.",
+    "start_time": "01:22",
+    "end_time": "01:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The front door of the house. It is a dark brown wooden door with a large, rectangular, frosted glass panel inset with decorative black wrought iron scrollwork. It has a metallic door handle and a deadbolt. Approximate dimensions: 0.9 meters wide, 2 meters high.",
+        "is_static": true,
+        "key_frames": {
+            "01:16": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:18": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:22": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "0.1",
+                "direction": "10"
+            },
+            "01:28": {
+                "distance": "0.1",
+                "direction": "5"
+            },
+            "01:31": {
+                "distance": "0.1",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, black, flat-screen television (appears to be 55-65 inches diagonally) mounted on the wall in the living room. It is centered above a wooden entertainment console which has shelving units on either side.",
+        "is_static": true,
+        "key_frames": {
+            "00:02": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "01:08": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door",
+        "description": "The front door of the house. It is a dark brown wooden door with a large, rectangular, frosted glass panel inset with decorative black wrought iron scrollwork. It has a metallic door handle and a deadbolt. Approximate dimensions: 0.9 meters wide, 2 meters high. (Same as sounding object as it's the target for distance from the TV).",
+        "is_static": true,
+        "key_frames": {
+            "01:16": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "01:18": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:22": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "0.1",
+                "direction": "10"
+            },
+            "01:28": {
+                "distance": "0.1",
+                "direction": "5"
+            },
+            "01:31": {
+                "distance": "0.1",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": 3.9,
+    "question": "When the creak and thud sound is happening, what is the distance between the wall-mounted tv and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_154",
+    "video_id": "loc2_script2_seq8_rec2"
+}

@@ -1,0 +1,176 @@
+{
+    "event": "The speaker acknowledges and confirms getting their shoes ready.",
+    "start_time": "0:01:01",
+    "end_time": "0:01:20",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing glasses, a light green/blue short-sleeved collared shirt, and dark shorts. He is also wearing wired earphones around his neck. He is the person who speaks about getting his shoes.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:00:05": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:00:17": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:00:24": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:00:32": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:00:43": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:00:52": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:00:59": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:01:01": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "0:01:05": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:01:10": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:01:15": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:01:20": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:01:25": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:01:30": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A white recessed fireplace with a mantelpiece. Decorative items (small carrot-shaped items, a small doll) are on the mantel. A large potted plant is to its left (camera's left). A round mirror hangs above the mantel.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:07": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:14": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:22": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:26": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:38": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:48": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:57": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:01:09": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:01:12": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:01:20": {
+                "distance": "4.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "The TV is not directly visible. It is assumed to be located on or near the wall with the fireplace, as this is the wall the main sofa (where the camera operator is seated) faces. The robot is standing by the fireplace and facing this assumed TV location (i.e., facing the fireplace wall).",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:07": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:14": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:22": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:26": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:38": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:48": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:00:57": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:01:09": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:01:12": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:01:20": {
+                "distance": "4.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing the tv, when the speech topic: \"acknowledging and confirming getting shoes ready\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_79",
+    "video_id": "loc1_script2_seq8_rec2"
+}

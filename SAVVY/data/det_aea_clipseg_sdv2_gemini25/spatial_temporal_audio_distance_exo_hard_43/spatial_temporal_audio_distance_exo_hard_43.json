@@ -1,0 +1,86 @@
+{
+    "event": "Distance between the kitchen hob and the sounding object (mug) when a splashing sound occurs.",
+    "start_time": "0:09",
+    "end_time": "0:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A white ceramic mug with a colorful (red, yellow, blue dots/shapes) pattern, cylindrical, standard coffee mug size (approx. 10-12 cm height, 8 cm diameter). At 0:09, it is held by the man at the dining table and is the source of the liquid spill, making it the sounding object.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:09": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:19": {
+                "distance": "1.6",
+                "direction": "5"
+            },
+            "0:50": {
+                "distance": "1.7",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Hob",
+        "description": "A stainless steel gas kitchen hob with multiple burners (likely 4 or 5), built into a white/light-colored solid surface countertop. It is located on the main kitchen counter along the wall.",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "2.9",
+                "direction": "-60"
+            },
+            "0:12": {
+                "distance": "2.9",
+                "direction": "-60"
+            },
+            "0:59": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:01": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Island",
+        "description": "A kitchen island with a light-colored countertop, located in the space between the main kitchen counter (with the hob) and the dining area.",
+        "is_static": true,
+        "key_frames": {
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:01": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "1:21": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.7,
+    "question": "When the splashing sound is happening, what is the distance between the kitchen hob and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_43",
+    "video_id": "loc1_script2_seq6_rec2"
+}

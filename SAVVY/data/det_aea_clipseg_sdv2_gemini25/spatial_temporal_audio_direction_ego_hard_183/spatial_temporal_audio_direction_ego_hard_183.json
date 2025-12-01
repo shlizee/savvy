@@ -1,0 +1,172 @@
+{
+    "event": "Clarifying previous statement about not using time codes with david",
+    "start_time": "0:36",
+    "end_time": "0:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a teal short-sleeved polo shirt, khaki shorts, and glasses. He has short brown hair and a fair complexion. Approximate height appears to be around 5'10\" - 6'0\".",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:09": {
+                "distance": "5.5",
+                "direction": "-40"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "0:45": {
+                "distance": "0.9",
+                "direction": "75"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "1:16": {
+                "distance": "0.8",
+                "direction": "65"
+            },
+            "1:32": {
+                "distance": "0.5",
+                "direction": "80"
+            },
+            "2:02": {
+                "distance": "0.6",
+                "direction": "70"
+            },
+            "2:07": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "2:12": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "2:35": {
+                "distance": "0.8",
+                "direction": "85"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "kitchen counter and stove",
+        "description": "The camera wearer is primarily facing the kitchen counter area, which includes a black induction stovetop, granite countertops, and wooden cabinetry. Large glass doors leading to a pool area are visible beyond the counter.",
+        "key_frames": {
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"clarifying previous statement about not using time codes with david\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_183",
+    "video_id": "loc2_script3_seq31_rec2"
+}

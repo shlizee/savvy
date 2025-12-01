@@ -1,0 +1,162 @@
+{
+    "event": "Identifying the location of the speaker when the speech topic 'asking about the supermarket experience' comes up, relative to a robot standing by the gray reclining lounge chair with ottoman and facing the rectangular wooden coffee table.",
+    "start_time": "0:10",
+    "end_time": "0:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a person with curly dark hair, wearing a dark long-sleeved top or sweater, blue jeans, and white socks. At the time of speaking, they are sitting on a light-colored couch to the camera's right.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "2:47": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Gray reclining lounge chair with ottoman",
+        "description": "A dark gray or black leather-like reclining lounge chair with a matching ottoman. It is located in the far left of the scene (from the camera's initial wide view), near a large set of windows and behind/beside a dining area.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "2:30": {
+                "distance": "5.0",
+                "direction": "-60"
+            },
+            "2:47": {
+                "distance": "5.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A large, rectangular wooden coffee table with a light-to-medium brown finish. It is positioned centrally in the living room area, between two couches, and has various items on it, including books, coasters, and a colorful cloth runner.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "2:47": {
+                "distance": "1.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the gray reclining lounge chair with ottoman and facing the rectangular wooden coffee table, when the speech topic: \"asking about the supermarket experience\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_361",
+    "video_id": "loc3_script3_seq2_rec1"
+}

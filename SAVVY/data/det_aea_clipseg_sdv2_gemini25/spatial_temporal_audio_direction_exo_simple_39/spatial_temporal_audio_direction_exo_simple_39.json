@@ -1,0 +1,146 @@
+{
+    "event": "Speaker states intention to attempt eating the mango.",
+    "start_time": "02:49",
+    "end_time": "02:49",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing glasses, a light blue/teal short-sleeved collared shirt, and dark shorts. He has headphones around his neck/ears. He is seated at the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.2",
+                "direction": "-25"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:28": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "0:56": {
+                "distance": "1.7",
+                "direction": "-35"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:34": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "1:56": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:40": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:49": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "2:53": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "3:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden dining table",
+        "description": "Large rectangular wooden dining table with a light-colored, possibly white or cream, runner down the center. It has several white modern chairs around it. Various items are on the table: mugs, bowls, food containers, flowers. The robot is standing by this table.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:49": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen hob",
+        "description": "A stainless steel gas hob with multiple burners, located on the kitchen counter against a wall with light blue/teal tiles. It's to the left of a large stainless steel refrigerator and below a stainless steel range hood. The robot is facing this object.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "0:06": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "0:38": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "1:13": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "1:23": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "2:49": {
+                "distance": "3.8",
+                "direction": "-85"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wooden dining table and facing the kitchen hob, when the speech topic: \"stating intention to attempt eating the mango\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_39",
+    "video_id": "loc1_script2_seq4_rec1"
+}

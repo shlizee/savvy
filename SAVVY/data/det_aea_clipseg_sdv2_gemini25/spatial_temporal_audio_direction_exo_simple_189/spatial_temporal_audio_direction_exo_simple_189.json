@@ -1,0 +1,152 @@
+{
+    "event": "A person reports their arrival via Uber.",
+    "start_time": "0:33",
+    "end_time": "0:39",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue short-sleeved polo shirt, khaki-colored cargo shorts, and white athletic shoes with dark laces. He has short brown hair and is wearing wired earbuds connected to a device he holds. He is initially standing and then sits on a light beige fabric couch for the duration of the relevant speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:33": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A dark brown or black wooden front door with multiple rectangular glass panels (appears to be a 3x3 grid of panels in the upper section). It is located at the end of a hallway with light-colored tiled flooring and white walls. The hallway is visible from the living room.",
+        "key_frames": {
+            "0:03": {
+                "distance": "6.0",
+                "direction": "170"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "0:40": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "5.8",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "5.7",
+                "direction": "5"
+            },
+            "1:20": {
+                "distance": "5.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A rectangular wooden coffee table, its surface covered by a blue and white patterned tablecloth with a repeating design (possibly stars or dots). On the table are several items including: a yellow bowl with red contents (watermelon), an orange bowl with yellow contents (chips), a can of drink (La Croix), a smartphone, and a fork. Purple balloons are on the floor near it.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the black front door with glass panels and facing the rectangle wooden coffee table, when the speech topic: \"reporting arrival via uber\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_189",
+    "video_id": "loc2_script3_seq2_rec1"
+}

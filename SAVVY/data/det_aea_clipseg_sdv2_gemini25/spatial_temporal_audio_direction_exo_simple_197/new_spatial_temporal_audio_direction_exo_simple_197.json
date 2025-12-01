@@ -1,0 +1,108 @@
+{
+    "event": "Speaker's location relative to a robot (by coffee table, facing fireplace) when 'proposing a brief chat' comes up.",
+    "start_time": "0:05",
+    "end_time": "0:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person A, the camera holder. An adult, whose voice sounds male. At the start of the video (0:00), their hands are visible holding a smartphone and a black power bank. From 0:13 onwards, when seated, a teal/light blue short-sleeved shirt and a watch on the left wrist are visible. They are the one who says 'chat'.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A low, rectangular wooden coffee table. It is covered with a light blue and white patterned tablecloth. Various items are on it, including colorful bowls (red, yellow contents), and what appears to be a can of drink. It is positioned in front of a large beige sofa.",
+        "key_frames": {
+            "0:06": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace built into a white wall, featuring a black metal screen or grate. It is located between two tall, arched windows that are covered with white plantation shutters. Two white armchairs are positioned in front of and to the sides of the fireplace area.",
+        "key_frames": {
+            "0:06": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "3.8",
+                "direction": "-40"
+            },
+            "0:13": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:10": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "4.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"proposing a brief chat\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_197",
+    "video_id": "loc2_script3_seq2_rec2"
+}

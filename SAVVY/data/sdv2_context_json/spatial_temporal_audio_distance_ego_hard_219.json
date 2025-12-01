@@ -1,0 +1,264 @@
+{
+    "event": "inquiring about coffee filters",
+    "start_time": "1:02",
+    "end_time": "1:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair. She is wearing a yellow knitted vest over a white short-sleeved t-shirt, light blue jeans, and colorful patterned socks. She is also wearing glasses. Appears to be of average height.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:18": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:33": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:40": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "0:47": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:03": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:16": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:24": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "0.9",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:58": {
+                "distance": "0.4",
+                "direction": "-60"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "2:15": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:28": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "-35"
+            },
+            "2:52": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, providing a first-person perspective. Its location is the origin (0,0) in egocentric mode.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A woman with long, dark, curly hair. She is wearing a yellow knitted vest over a white short-sleeved t-shirt, light blue jeans, and colorful patterned socks. She is also wearing glasses. Appears to be of average height.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:18": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:33": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:40": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "0:47": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:03": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:16": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:24": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "0.9",
+                "direction": "-70"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:58": {
+                "distance": "0.4",
+                "direction": "-60"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "2:15": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:28": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "-35"
+            },
+            "2:52": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "prediction": "1.2",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"inquiring about coffee filters\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_219",
+    "video_id": "loc3_script2_seq3_rec1"
+}

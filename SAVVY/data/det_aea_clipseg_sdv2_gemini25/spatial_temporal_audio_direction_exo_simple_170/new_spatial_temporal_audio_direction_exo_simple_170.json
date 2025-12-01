@@ -1,0 +1,184 @@
+{
+    "event": "Speaker's location relative to a robot when the speech topic 'praising the game' occurs.",
+    "start_time": "04:14",
+    "end_time": "04:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man in a light blue/turquoise polo shirt and khaki shorts, wearing glasses and a watch on his left wrist. He is sitting on a high stool with a dark frame and brown seat at the wooden kitchen island. He is actively participating in the Scrabble game. Approximate height while seated ~1.3m, width ~0.5m.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.8",
+                "direction": "60"
+            },
+            "00:05": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "00:15": {
+                "distance": "1.6",
+                "direction": "-10"
+            },
+            "00:30": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "00:45": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "01:00": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "01:30": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "02:00": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "02:30": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "03:00": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "03:30": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "04:00": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "04:14": {
+                "distance": "1.6",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "Small, round, stainless steel sink with a single, curved tap. It is embedded in the dark wooden countertop of the kitchen island. Diameter approximately 0.4m.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "00:05": {
+                "distance": "2.2",
+                "direction": "50"
+            },
+            "00:15": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "00:30": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "00:45": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "01:00": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "01:30": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "02:00": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "02:30": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "03:00": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "03:30": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "04:00": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "04:14": {
+                "distance": "2.3",
+                "direction": "35"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "Built-in stainless steel dishwasher, located under the main kitchen counter among wooden cabinets. It has a visible handle on its front panel. Standard dishwasher size, approximately 0.6m wide and 0.85m high.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "00:05": {
+                "distance": "3.2",
+                "direction": "-40"
+            },
+            "00:15": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "00:30": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "00:45": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "01:00": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "01:30": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "02:00": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "02:30": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "03:00": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "03:30": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "04:00": {
+                "distance": "3.3",
+                "direction": "-55"
+            },
+            "04:14": {
+                "distance": "3.3",
+                "direction": "-55"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the built-in stainless steel dishwasher, when the speech topic: \"praising the game\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_170",
+    "video_id": "loc2_script2_seq5_rec1"
+}

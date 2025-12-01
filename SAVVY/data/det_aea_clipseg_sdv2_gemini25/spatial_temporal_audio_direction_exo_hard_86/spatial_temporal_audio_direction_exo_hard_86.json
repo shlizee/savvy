@@ -1,0 +1,146 @@
+{
+    "event": "Determine the speaker's location relative to a robot (at coffee tables, facing china cabinet) when the speech topic 'reminding listener not to forget items' occurs.",
+    "start_time": "01:03",
+    "end_time": "01:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing glasses, a black short-sleeved V-neck top, light blue jeans, and barefoot. She is the person speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "01:03": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "01:05": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "01:10": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "01:20": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "01:27": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two circular nested coffee tables. The tops appear to be light-colored stone or faux marble, and the frames are dark metal. The larger table is lower, and the smaller table is higher and partially overlaps the larger one. They are located in the center of the living room area, in front of a couch.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "01:05": {
+                "distance": "2.0",
+                "direction": "-100"
+            },
+            "01:15": {
+                "distance": "2.0",
+                "direction": "-100"
+            },
+            "01:27": {
+                "distance": "2.0",
+                "direction": "-100"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "A tall, dark brown wooden china cabinet. It has glass doors on the upper section displaying items, and solid wood doors/drawers on the lower section. It is positioned against a light-colored wall, to the left of an arched doorway.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:58": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "01:00": {
+                "distance": "3.0",
+                "direction": "-120"
+            },
+            "01:05": {
+                "distance": "3.0",
+                "direction": "-130"
+            },
+            "01:15": {
+                "distance": "3.0",
+                "direction": "-130"
+            },
+            "01:27": {
+                "distance": "3.0",
+                "direction": "-130"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the wooden china cabinet, when the speech topic: \"reminding listener not to forget items\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_86",
+    "video_id": "loc1_script2_seq8_rec1"
+}

@@ -1,0 +1,188 @@
+{
+    "event": "The speech topic: \"explaining reason for video presentation style\" comes up.",
+    "start_time": "0:44",
+    "end_time": "0:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person visible on a smartphone screen, held by the camera wearer. The person on the screen is male, wearing a pink shirt, and is presenting information. The smartphone itself is dark-colored.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:34": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The point of view of the recording, representing the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman",
+        "description": "A woman with long, dark, curly hair, wearing a yellow knitted short-sleeve top over a white t-shirt, and light blue jeans. She is also holding a smartphone.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:06": {
+                "distance": "2.8",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:12": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:44": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:37": {
+                "distance": "1.1",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "1.2",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"explaining reason for video presentation style\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_247",
+    "video_id": "loc3_script2_seq7_rec1"
+}

@@ -1,0 +1,156 @@
+{
+    "event": "Woman admits not knowing how the French press works.",
+    "start_time": "01:13",
+    "end_time": "01:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark curly brown hair, wearing a white short-sleeved t-shirt, a yellow cable-knit sweater vest, light blue jeans, and light-colored socks with a pattern (e.g., rainbow stripes on toes visible at 0:47). She is also wearing dark-rimmed glasses.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:21": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "0:58": {
+                "distance": "0.9",
+                "direction": "-75"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "1:13": {
+                "distance": "0.65",
+                "direction": "-80"
+            },
+            "1:19": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "1:27": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "1:44": {
+                "distance": "0.4",
+                "direction": "-70"
+            },
+            "1:59": {
+                "distance": "0.4",
+                "direction": "-60"
+            },
+            "2:08": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "2:23": {
+                "distance": "0.3",
+                "direction": "-20"
+            },
+            "2:36": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:49": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "3:02": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "3:07": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera (worn by a man)",
+        "description": "First-person perspective from a camera worn by a man. The man's arms are visible, often holding items or interacting with the environment. He wears a gold-colored watch on his left wrist. He is wearing a green t-shirt (visible when looking down, e.g., at the stove around 0:47) and blue jeans.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "French Press",
+        "description": "A cylindrical glass and metal French press coffee maker. It is silver/chrome colored with a black handle and lid knob. The body is transparent glass.",
+        "key_frames": {
+            "1:06": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "1:13": {
+                "distance": "0.65",
+                "direction": "-80"
+            },
+            "1:19": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "1:27": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "1:44": {
+                "distance": "0.4",
+                "direction": "-70"
+            },
+            "1:59": {
+                "distance": "0.4",
+                "direction": "-60"
+            },
+            "2:10": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:23": {
+                "distance": "0.3",
+                "direction": "-20"
+            },
+            "2:48": {
+                "distance": "0.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": 0.65,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"admitting not knowing how item works\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_220",
+    "video_id": "loc3_script2_seq3_rec1"
+}

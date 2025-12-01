@@ -1,0 +1,187 @@
+{
+    "event": "The speech topic 'agreeing to get creamer' comes up, and the camera wearer agrees to have creamer.",
+    "start_time": "0:08",
+    "end_time": "0:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light teal/green short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair. Approximate height appears to be average, perhaps 1.7-1.8 meters when standing. He is initially seated at a wooden dining table, then moves around the kitchen area.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:26": {
+                "distance": "4.0",
+                "direction": "35"
+            },
+            "0:33": {
+                "distance": "3.8",
+                "direction": "30"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:21": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:36": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:39": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the first-person perspective of the wearer. The wearer is initially seated at a wooden dining table.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Same as Sounding Object. Adult male, wearing a light teal/green short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair. He is the person the camera wearer is interacting with.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:26": {
+                "distance": "4.0",
+                "direction": "35"
+            },
+            "0:33": {
+                "distance": "3.8",
+                "direction": "30"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:21": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:36": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:39": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"agreeing to get creamer\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_75",
+    "video_id": "loc2_script2_seq4_rec1"
+}

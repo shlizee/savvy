@@ -1,0 +1,124 @@
+{
+    "event": "creak and thud sound",
+    "start_time": "1:07",
+    "end_time": "1:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A medium-sized, inflatable purple balloon, spherical or slightly ovoid. Appears to be made of rubber or latex. Approximately 20-30 cm in diameter. The sound occurs when it is kicked by the host.",
+        "is_static": false,
+        "key_frames": {
+            "1:03": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "1:05": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "1:07": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:16": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "0.8",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A large, black, flat-screen television, positioned on a wooden media console against a wall, to the left of a fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-55"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "1:27": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A modern light-gray upholstered armchair with a cushioned seat and back, and a blue decorative pillow. It is one of two similar armchairs placed near a large arched window. A colorful wall painting is on the wall to the left of the window (when facing the window). This specific armchair is the one on the right side of the window, thus further from the painting.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:27": {
+                "distance": "4.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the tv and facing the light-gray armchair further from the wall painting, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_77",
+    "video_id": "loc1_script2_seq8_rec1"
+}

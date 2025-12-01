@@ -1,0 +1,160 @@
+{
+    "event": "A person suggests setting up the Connect Four game.",
+    "start_time": "0:01",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short dark hair (face blurred), wearing a green short-sleeved polo shirt, a watch on his left wrist, and an earbud in his left ear. He is sitting at a wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:47": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:01": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:08": {
+                "distance": "1.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch, located in the living room area. It has a dark throw blanket with white text \"NOBODY\" draped over its back.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:02": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:39": {
+                "distance": "3.0",
+                "direction": "-65"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "2:08": {
+                "distance": "3.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. The top oven has a microwave-style door, and the bottom is a conventional oven.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:39": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "2:08": {
+                "distance": "3.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the stainless steel double wall oven, when the speech topic: \"suggesting setting up connect four\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_330",
+    "video_id": "loc3_script2_seq5_rec1"
+}

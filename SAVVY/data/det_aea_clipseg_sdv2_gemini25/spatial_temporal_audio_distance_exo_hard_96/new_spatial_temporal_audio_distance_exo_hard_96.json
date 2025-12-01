@@ -1,0 +1,91 @@
+{
+    "event": "Distance between the two-seater dining table and the speech sound source when the speech topic: \"naming the bathroom location\" is mentioned.",
+    "start_time": "01:22",
+    "end_time": "01:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person holding the camera, from whose perspective the video is shot and who is speaking. In this egocentric view, the speech sound source is at the camera's location.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A small, round, light-brown wooden two-seater dining table with a central pedestal base, accompanied by two wooden chairs. It is located in the kitchen/dining area, near large sliding glass doors that overlook a pool. Approximate diameter of the table is 0.8-1.0 meter.",
+        "key_frames": {
+            "00:25": {
+                "distance": "5.0",
+                "direction": "30"
+            },
+            "00:30": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "00:46": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:47": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "00:48": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "01:08": {
+                "distance": "6.0",
+                "direction": "-170"
+            },
+            "01:11": {
+                "distance": "5.0",
+                "direction": "-160"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 9.0,
+    "question": "When the speech topic: \"naming the bathroom location\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_96",
+    "video_id": "loc2_script2_seq2_rec1"
+}

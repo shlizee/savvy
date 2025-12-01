@@ -1,0 +1,108 @@
+{
+    "event": "Camera wearer asks about the taste of the food, specifically responding to the other person's comment on the potatoes.",
+    "start_time": "03:38",
+    "end_time": "03:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is an adult male wearing a light green/teal short-sleeved polo shirt and blue jeans. He has short dark hair and is initially wearing glasses and earbuds/headphones, which he removes later. He is of medium build and is seated at the dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:21": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "1:55": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "2:17": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:55": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "03:39": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "4:15": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "4:36": {
+                "distance": "1.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the first-person view of the wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:39": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera Wearer's Own Plate (Conceptual Neutral Forward)",
+        "description": "This represents the camera wearer's neutral forward direction while seated at the table, assumed to be looking at their own plate. At the moment of the speech event (03:39), the camera is actually turned left to face the 'sounding_object' (other person). This conceptual facing object defines the reference 'forward' for determining left/right/back.",
+        "key_frames": {
+            "03:39": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking about food taste\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_315",
+    "video_id": "loc3_script3_seq4_rec1"
+}

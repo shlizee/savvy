@@ -1,0 +1,156 @@
+{
+    "event": "Distance between electric cooktop and speech sound source when commenting on item fitting.",
+    "start_time": "0:01:12",
+    "end_time": "0:01:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing a grey short-sleeved polo shirt, dark shorts, and glasses. He has headphones around his neck. This is the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:00:02": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:00:16": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:00:31": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:00:45": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:00:49": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:01:12": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:01:17": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:02:11": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:02:17": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:02:37": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:02:46": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:03:06": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:03:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:03:26": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:03:37": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:03:42": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, flat, rectangular electric glass-ceramic cooktop, built into a light-colored granite countertop. It has visible circular heating zones. Approximate size 60cm x 50cm.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:08": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:00:14": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:00:19": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:00:21": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:00:33": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:00:47": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:01:12": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:01:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:01:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:01:36": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:01:47": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:02:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:02:32": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:02:43": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:03:31": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:03:46": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 1.0,
+    "question": "When the speech topic: \"commenting on item fitting\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_220",
+    "video_id": "loc2_script3_seq5_rec2"
+}

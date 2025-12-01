@@ -1,0 +1,132 @@
+{
+    "event": "The camera wearer requests drinks, and the other person responds confirming he will grab La Croix.",
+    "start_time": "0:39",
+    "end_time": "0:43",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has short dark hair and a beard. Approximate height 1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "2.2",
+                "direction": "-50"
+            },
+            "0:21": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:03": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "1:45": {
+                "distance": "3.0",
+                "direction": "-150"
+            },
+            "2:03": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "4:10": {
+                "distance": "1.0",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the egocentric viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Food on kitchen counter",
+        "description": "A plate of cooked food (meat and vegetables), a loaf of bread, a pan, and some spice jars on a granite kitchen counter with a stovetop. This is what the camera is facing during the event, defining the 0-degree direction.",
+        "key_frames": {
+            "0:12": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.7",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"requesting grabbing la croix drinks\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_241",
+    "video_id": "loc2_script3_seq4_rec2"
+}

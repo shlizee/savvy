@@ -1,0 +1,134 @@
+{
+    "event": "Inquiring about the availability of a water filter.",
+    "start_time": "0:56",
+    "end_time": "1:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly light brown hair, wearing a light teal/blue short-sleeved button-up shirt, dark navy shorts, and black shoes. He has headphones around his neck with the earpieces near his ears, and a small black rectangular device (possibly a microphone or recorder) clipped to his left shirt pocket. He is holding a small, light-colored rectangular object (possibly a phone or a small notepad) in his left hand.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:56": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:07": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:18": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:31": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:50": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:59": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:05": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:10": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:15": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:20": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:25": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:40": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:45": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:50": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "2:57": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:10": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The first-person view of the camera wearer.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inquiring about availability of a water filter\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_20",
+    "video_id": "loc1_script2_seq3_rec2"
+}

@@ -1,0 +1,280 @@
+{
+    "event": "The other person asks what activity will be done on the couch.",
+    "start_time": "0:05",
+    "end_time": "0:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, appearing to be female, with long, dark, curly hair. She is wearing a yellow knitted short-sleeve top over a white short-sleeve shirt, and light blue jeans. Average adult build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:04": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:05": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "0:06": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:09": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "85"
+            },
+            "0:40": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "0:41": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "1:36": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:38": {
+                "distance": "1.8",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person view camera, representing the wearer's perspective and line of sight.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person",
+        "description": "The person the camera wearer is primarily interacting with and looking at during the event. A person, appearing to be female, with long, dark, curly hair. She is wearing a yellow knitted short-sleeve top over a white short-sleeve shirt, and light blue jeans.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:04": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:05": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "0:06": {
+                "distance": "4.5",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:09": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "85"
+            },
+            "0:40": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "0:41": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "80"
+            },
+            "1:36": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:38": {
+                "distance": "1.8",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking about couch activity\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_271",
+    "video_id": "loc3_script2_seq7_rec1"
+}

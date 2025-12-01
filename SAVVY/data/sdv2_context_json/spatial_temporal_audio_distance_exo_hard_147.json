@@ -1,0 +1,23 @@
+{
+    "event": "Two individuals are in a living room. One (on the couch) suggests concluding the visit, and the other (camera person) agrees.",
+    "start_time": "0:53",
+    "end_time": "1:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, appearing male, with short dark hair, wearing glasses, a white short-sleeved t-shirt, and light blue shorts. Approximately 1.7-1.8m tall when standing. During the event, they are seated on a light-colored fabric couch and are the one initiating the suggestion to conclude the visit.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "question": "When the speech topic: \"agreeing to conclude the visit\" is mentioned, what is the distance between the fireplace with a black metal screen and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_147",
+    "video_id": "loc2_script2_seq8_rec1"
+}

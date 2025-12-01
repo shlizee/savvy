@@ -1,0 +1,184 @@
+{
+    "event": "The other person (woman) explains her limited guitar skill, attributing it to primarily focusing on playing to accompany her own singing.",
+    "start_time": "1:36",
+    "end_time": "1:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, wavy hair. She is wearing a yellow, short-sleeved, knitted top over a white t-shirt, and light blue jeans (rolled up at the ankles). She is also wearing light-colored socks with a pattern. She is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "6.0",
+                "direction": "-45"
+            },
+            "0:49": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:04": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:36": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:41": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective camera worn by the individual asking the questions. The camera wearer's hands (wearing a gold watch) and arms (wearing a green t-shirt, later blue jeans visible on legs) are sometimes visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:51": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person (Woman)",
+        "description": "A woman with long, dark, wavy hair. She is wearing a yellow, short-sleeved, knitted top over a white t-shirt, and light blue jeans (rolled up at the ankles). She is also wearing light-colored socks with a pattern. She is of average build.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "6.0",
+                "direction": "-45"
+            },
+            "0:49": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:04": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:10": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:36": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:41": {
+                "distance": "1.8",
+                "direction": "35"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining limited guitar skill due to focusing on self-accompaniment\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_250",
+    "video_id": "loc3_script2_seq1_rec2"
+}

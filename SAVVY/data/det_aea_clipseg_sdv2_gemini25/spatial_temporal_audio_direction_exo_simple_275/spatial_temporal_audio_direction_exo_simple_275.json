@@ -1,0 +1,204 @@
+{
+    "event": "Speaker's location relative to a hypothetical robot when the speech topic 'welcoming guest inside' comes up.",
+    "start_time": "0:00",
+    "end_time": "0:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. His face is blurred. He has dark, short hair. He is the host welcoming the guest.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:29": {
+                "distance": "4.0",
+                "direction": "-65"
+            },
+            "0:32": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "0:36": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "0:43": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:11": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:20": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:51": {
+                "distance": "1.2",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch. When first clearly seen (0:09), it has a red and white chevron patterned throw blanket draped over its left armrest (camera's left). This is the couch the host later sits on.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:22": {
+                "distance": "1.2",
+                "direction": "-65"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:29": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:49": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "black round ottoman",
+        "description": "A black, round, leather-like ottoman. It is located in front of the stone fireplace, to the right of the main coffee table (from initial living room view at 0:09).",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:46": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:06": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:49": {
+                "distance": "2.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the black round ottoman, when the speech topic: \"welcoming guest inside\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_275",
+    "video_id": "loc3_script2_seq1_rec1"
+}

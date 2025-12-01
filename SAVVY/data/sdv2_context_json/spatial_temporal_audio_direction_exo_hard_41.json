@@ -1,0 +1,352 @@
+{
+    "event": "Determine the relative position of the speaker when the speech topic 'acknowledging the watermelon' comes up.",
+    "start_time": "0:01:55",
+    "end_time": "0:02:20",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A male person with curly brown hair, wearing glasses, a light blue short-sleeved collared shirt, and dark shorts. He is also wearing wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:00:03": {
+                "distance": "1.3",
+                "direction": "5"
+            },
+            "0:00:05": {
+                "distance": "1.8",
+                "direction": "20"
+            },
+            "0:00:11": {
+                "distance": "1.6",
+                "direction": "15"
+            },
+            "0:00:13": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:00:27": {
+                "distance": "2.5",
+                "direction": "25"
+            },
+            "0:00:30": {
+                "distance": "2.2",
+                "direction": "30"
+            },
+            "0:00:36": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:00:44": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:00:45": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:00:51": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "0:00:55": {
+                "distance": "2.3",
+                "direction": "25"
+            },
+            "0:00:58": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:01:02": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:01:21": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:01:30": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:01:33": {
+                "distance": "2.1",
+                "direction": "10"
+            },
+            "0:01:40": {
+                "distance": "1.9",
+                "direction": "5"
+            },
+            "0:01:46": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:01:51": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:01:56": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "0:02:02": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:02:09": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "0:02:15": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:02:22": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "0:02:26": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:02:30": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "0:02:37": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:02:43": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "0:02:51": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:02:55": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "0:03:00": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:03:08": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "0:03:15": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:03:21": {
+                "distance": "1.9",
+                "direction": "10"
+            },
+            "0:03:25": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:03:30": {
+                "distance": "1.9",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "wooden dining table",
+        "description": "A long, rectangular wooden dining table with a light wood top and darker legs. It has a white patterned table runner down the center. Various items are on the table including mugs, bowls, food containers, and a vase of flowers.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:00:02": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "0:00:04": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:00:11": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:00:26": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:00:29": {
+                "distance": "0.9",
+                "direction": "5"
+            },
+            "0:00:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:00:46": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:00:50": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:00:55": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "0:01:00": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:01:06": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:01:21": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "0:01:30": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:01:33": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:01:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01:46": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "0:01:50": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:01:56": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:01": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:02:07": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:02:12": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:02:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:22": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "0:02:28": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:02:33": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:02:39": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:02:45": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:02:50": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:02:56": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:03:02": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:03:08": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:03:13": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:03:19": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:03:25": {
+                "distance": "0.4",
+                "direction": "-5"
+            },
+            "0:03:30": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "countertop drip coffee maker",
+        "description": "A black countertop drip coffee maker, likely Keurig brand, located on the white kitchen countertop to the left of the stove.",
+        "key_frames": {
+            "0:00:06": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:00:08": {
+                "distance": "2.8",
+                "direction": "-55"
+            },
+            "0:00:38": {
+                "distance": "2.9",
+                "direction": "-65"
+            },
+            "0:00:40": {
+                "distance": "2.7",
+                "direction": "-60"
+            },
+            "0:00:42": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:01:12": {
+                "distance": "3.2",
+                "direction": "-70"
+            },
+            "0:01:23": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:01:29": {
+                "distance": "3.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the wooden dining table and facing the countertop drip coffee maker, when the speech topic: \"acknowledging the watermelon\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_41",
+    "video_id": "loc1_script2_seq4_rec1"
+}

@@ -1,0 +1,132 @@
+{
+    "event": "Identify the location of a ticking sound relative to a virtual robot standing by the light-colored refrigerator and facing the light-gray three-seater couch.",
+    "start_time": "0:50",
+    "end_time": "0:53",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The gas stove burner. It is a stainless steel gas stovetop with multiple black burners and grates, built into a white countertop with wooden cabinetry. The ticking sound is the igniter for one of the burners.",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:33": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "0:52": {
+                "distance": "0.3",
+                "direction": "-90"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "1:45": {
+                "distance": "0.4",
+                "direction": "-45"
+            },
+            "2:08": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "2:30": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "2:51": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored Refrigerator",
+        "description": "A tall, light-colored (appears to be stainless steel) side-by-side refrigerator with an ice/water dispenser on the left door. It is located on the left wall of the kitchen when entering from the living room.",
+        "key_frames": {
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:16": {
+                "distance": "1.2",
+                "direction": "-100"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-110"
+            },
+            "0:59": {
+                "distance": "1.8",
+                "direction": "-100"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-110"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-100"
+            },
+            "2:30": {
+                "distance": "2.1",
+                "direction": "-95"
+            },
+            "3:00": {
+                "distance": "2.2",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch, located in the living room. It has some colorful pillows on it.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "170"
+            },
+            "0:15": {
+                "distance": "5.0",
+                "direction": "180"
+            },
+            "0:30": {
+                "distance": "5.5",
+                "direction": "180"
+            },
+            "0:45": {
+                "distance": "5.2",
+                "direction": "175"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "180"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-colored refrigerator and facing the light-gray three-seater couch, when the ticking sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_295",
+    "video_id": "loc3_script2_seq3_rec1"
+}

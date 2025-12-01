@@ -1,0 +1,176 @@
+{
+    "event": "Speech topic: describing seattle weather as pretty",
+    "start_time": "01:09",
+    "end_time": "01:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing glasses, a light teal/blue short-sleeved button-up shirt, dark shorts, and black socks. He has headphones around his neck and is holding a can of drink and a smartphone.",
+        "is_static": false,
+        "key_frames": {
+            "00:08": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:11": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "00:16": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:29": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:39": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:55": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "01:09": {
+                "distance": "2.3",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "2.3",
+                "direction": "5"
+            },
+            "01:11": {
+                "distance": "2.3",
+                "direction": "10"
+            },
+            "01:20": {
+                "distance": "2.4",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "01:38": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "01:45": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "01:51": {
+                "distance": "1.7",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their point of view.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general direction of view",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "00:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "01:50": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing seattle weather as pretty\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_6",
+    "video_id": "loc1_script2_seq1_rec1"
+}

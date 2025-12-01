@@ -1,0 +1,116 @@
+{
+    "event": "Relative position of the other person when the camera wearer states the intention to retrieve eggs.",
+    "start_time": "0:06",
+    "end_time": "0:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene. An adult male with curly dark brown/black hair, wearing black-rimmed glasses, a dark navy or black V-neck/crew-neck sweater over a light blue collared shirt, and medium-blue jeans. Average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "0:06": {
+                "distance": "2.2",
+                "direction": "75"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:13": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:55": {
+                "distance": "2.2",
+                "direction": "70"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "2:25": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "2:40": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "2:56": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "3:30": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "3:38": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "3:45": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "4:15": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "4:30": {
+                "distance": "1.0",
+                "direction": "25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person viewpoint of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's Forward View",
+        "description": "The direction the camera is pointing. All directions for other objects are relative to this.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating intention to retrieve eggs\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_319",
+    "video_id": "loc3_script3_seq4_rec2"
+}

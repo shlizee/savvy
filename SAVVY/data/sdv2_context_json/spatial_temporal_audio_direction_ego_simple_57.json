@@ -1,0 +1,160 @@
+{
+    "event": "The other person compliments the camera wearer's encyclopedic knowledge.",
+    "start_time": "2:29",
+    "end_time": "2:36",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark brown hair, wearing a black short-sleeved crop top, light blue high-waisted jeans, and black-rimmed smart glasses with a visible wire. She is barefoot. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:43": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:12": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:32": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "2:19": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "2:25": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "2:35": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "2:50": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:10": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:30": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "4:00": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "4:25": {
+                "distance": "1.8",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by the listener, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:29": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "Large flat-screen television, black, on a light-colored wooden media console. This represents the general forward-facing direction of the camera wearer while seated on the couch.",
+        "key_frames": {
+            "0:18": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"complimenting listener's encyclopedic knowledge\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_57",
+    "video_id": "loc1_script2_seq7_rec2"
+}

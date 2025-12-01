@@ -1,0 +1,128 @@
+{
+    "event": "Speech topic 'reaffirming food is almost cooked'",
+    "start_time": "2:52",
+    "end_time": "2:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person wearing a grey t-shirt and dark shorts. He has dark, curly hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:25": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:31": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:41": {
+                "distance": "1.8",
+                "direction": "60"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "1:34": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:48": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "2:52": {
+                "distance": "1.0",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:52": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera Gaze",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:52": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"reaffirming food is almost cooked\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_223",
+    "video_id": "loc2_script3_seq34_rec1"
+}

@@ -1,0 +1,124 @@
+{
+    "event": "A male speaker indicates a need for a few more minutes.",
+    "start_time": "0:50",
+    "end_time": "0:52",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue polo shirt, khaki shorts, white sneakers, and glasses. He has short brown hair. He is seated at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:51": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "3:08": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "4:13": {
+                "distance": "1.0",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "Black, flat, rectangular electric cooktop, likely glass-ceramic, embedded in the wooden kitchen island. Approximately 0.8m x 0.5m.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:08": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "Large, two-door stainless steel refrigerator with an ice/water dispenser on the left door. Standard kitchen height (approx 1.8m). Located against the far wall.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "0:51": {
+                "distance": "3.2",
+                "direction": "-75"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "2:05": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "3:08": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "4:13": {
+                "distance": "3.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the stainless steel refrigerator, when the speech topic: \"indicating need for a few more minutes\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_160",
+    "video_id": "loc2_script2_seq5_rec1"
+}

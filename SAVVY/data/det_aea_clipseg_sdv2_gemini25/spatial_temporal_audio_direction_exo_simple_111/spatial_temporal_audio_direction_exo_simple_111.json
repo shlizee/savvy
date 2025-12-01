@@ -1,0 +1,176 @@
+{
+    "event": "Speaker points out the location of the guest room.",
+    "start_time": "1:30",
+    "end_time": "1:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a turquoise polo shirt, khaki-colored shorts, white sneakers, and glasses. He is holding a black smartphone with a wired earphone connected to it. Approximate height 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "2.3",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:57": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:18": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:36": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A built-in fireplace with a white or light-colored surround/mantel and a black metal screen covering the opening. Located in the living room.",
+        "key_frames": {
+            "0:08": {
+                "distance": "4.5",
+                "direction": "40"
+            },
+            "0:40": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "1:12": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "1:16": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "1:39": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "1:41": {
+                "distance": "2.5",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door",
+        "description": "A black front door with multiple rectangular glass panels, set within a white frame. It appears to be the main entrance to the house.",
+        "key_frames": {
+            "0:00": {
+                "distance": "7.0",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "7.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "6.0",
+                "direction": "-5"
+            },
+            "0:14": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "5.0",
+                "direction": "-70"
+            },
+            "1:14": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "6.0",
+                "direction": "-45"
+            },
+            "1:37": {
+                "distance": "6.0",
+                "direction": "-5"
+            },
+            "1:44": {
+                "distance": "7.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the fireplace with a black metal screen and facing the black front door with glass panels, when the speech topic: \"pointing out the location of the guest room\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_111",
+    "video_id": "loc2_script2_seq2_rec1"
+}

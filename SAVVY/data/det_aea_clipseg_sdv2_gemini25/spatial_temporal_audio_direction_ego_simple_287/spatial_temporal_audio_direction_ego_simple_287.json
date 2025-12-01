@@ -1,0 +1,160 @@
+{
+    "event": "The other person explains that the company Endeavor owns UFC.",
+    "start_time": "1:12",
+    "end_time": "1:17",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. He is initially standing/moving, then sits on a couch to the camera wearer's left for the majority of the relevant interaction, holding and looking at a smartphone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:01": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:37": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:28": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "-65"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the primary person, representing their viewpoint. This is the origin point for egocentric measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_forward_direction",
+        "description": "The direction the camera is pointing, which serves as the 0-degree reference for the sounding object's direction.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining endeavor owns ufc\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_287",
+    "video_id": "loc3_script2_seq7_rec2"
+}

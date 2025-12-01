@@ -1,0 +1,172 @@
+{
+    "event": "The other person is speaking about assessing meat doneness (slightly pink) as acceptable.",
+    "start_time": "3:22",
+    "end_time": "3:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the video, with a blurred face, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. They have dark, curly hair and are wearing a headset or earbuds. Approximate height appears to be average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:19": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:34": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:01": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "3:23": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "3:45": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "4:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from. Hands are visible at times, wearing a gold watch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera forward direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "3:23": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"assessing meat doneness (slightly pink) as acceptable\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_225",
+    "video_id": "loc2_script3_seq4_rec1"
+}

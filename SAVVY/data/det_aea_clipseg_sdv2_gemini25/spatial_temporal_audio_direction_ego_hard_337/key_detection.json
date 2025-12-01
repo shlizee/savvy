@@ -1,0 +1,67 @@
+{
+    "00000": {
+        "The camera wearer. The speech is coming from the camera's location.": {
+            "direction": -16.46,
+            "distance": 3.86,
+            "det_conf": [
+                0.6887270212173462,
+                0.5644961595535278,
+                0.05623524636030197,
+                0.00031204320839606225,
+                0.00031873438274487853
+            ]
+        }
+    },
+    "00890": {
+        "The camera wearer. The speech is coming from the camera's location.": {
+            "direction": 33.92,
+            "distance": 1.0,
+            "det_conf": [
+                0.5758057832717896,
+                0.29452821612358093,
+                0.5755323767662048,
+                0.49464190006256104,
+                0.3251033127307892
+            ]
+        }
+    },
+    "01200": {
+        "The camera wearer. The speech is coming from the camera's location.": {
+            "direction": 41.56,
+            "distance": 1.19,
+            "det_conf": [
+                0.6401559710502625,
+                0.5469866991043091,
+                0.10949184000492096,
+                0.34911707043647766,
+                0.07906156778335571
+            ]
+        }
+    },
+    "01510": {
+        "The camera wearer. The speech is coming from the camera's location.": {
+            "direction": -40.5,
+            "distance": 1.32,
+            "det_conf": [
+                0.5470826625823975,
+                0.1800822615623474,
+                0.03388800099492073,
+                0.00034804470487870276,
+                0.00031627193675376475
+            ]
+        }
+    },
+    "02400": {
+        "The camera wearer. The speech is coming from the camera's location.": {
+            "direction": -7.34,
+            "distance": 3.82,
+            "det_conf": [
+                0.31447577476501465,
+                0.3951018452644348,
+                0.587693989276886,
+                0.0027130066882818937,
+                0.0023702653124928474
+            ]
+        }
+    }
+}

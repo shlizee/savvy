@@ -1,0 +1,92 @@
+{
+    "event": "Identify the location of the water dripping sound source relative to the camera wearer's facing direction.",
+    "start_time": "1:57",
+    "end_time": "2:17",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Keurig K-Mini (or similar model) single-serve coffee maker. It is black, made of plastic, with a somewhat cylindrical/rectangular body. Approximate dimensions: 30-35cm tall, 12-15cm wide, 25-30cm deep. It is located on the kitchen countertop, to the right of the kitchen sink (from the perspective of someone facing the sink). During the event, it is actively brewing coffee, producing gurgling and dripping sounds.",
+        "is_static": true,
+        "key_frames": {
+            "0:23": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "0:41": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "0:46": {
+                "distance": "0.5",
+                "direction": "-50"
+            },
+            "1:06": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "1:26": {
+                "distance": "0.6",
+                "direction": "-35"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "1:52": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "1:57": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "2:05": {
+                "distance": "0.5",
+                "direction": "-35"
+            },
+            "2:15": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:40": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "3:01": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "3:12": {
+                "distance": "0.6",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera's forward direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the water dripping sound comes up, relative to where you are facing, where is the sound source: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_15",
+    "video_id": "loc1_script2_seq3_rec1"
+}

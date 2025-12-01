@@ -1,0 +1,136 @@
+{
+    "event": "A scraping sound comes up, and the robot is by the piano facing the rectangular wooden coffee table.",
+    "start_time": "0:17",
+    "end_time": "0:18",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A metallic cooking pan (likely stainless steel or non-stick coated aluminum), circular with a long handle, approximately 10-12 inches in diameter. Its color is dark/grey. It is being scraped with a utensil or scrubbing tool by a person standing at the kitchen island sink during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "2.8",
+                "direction": "30"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:33": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Piano",
+        "description": "A standard black upright piano, made of wood, located against the wall in the living room area, to the left of the dining table from the initial camera perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-70"
+            },
+            "0:07": {
+                "distance": "4.0",
+                "direction": "-80"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-110"
+            },
+            "1:30": {
+                "distance": "6.0",
+                "direction": "-60"
+            },
+            "2:13": {
+                "distance": "5.5",
+                "direction": "-45"
+            },
+            "2:40": {
+                "distance": "5.0",
+                "direction": "-40"
+            },
+            "3:05": {
+                "distance": "5.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular coffee table, appears to be made of light-colored wood with a simple design. Located in the living room area, in front of a sofa that has a 'NOBODY' throw on it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "-40"
+            },
+            "2:13": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "2:40": {
+                "distance": "4.0",
+                "direction": "-25"
+            },
+            "3:05": {
+                "distance": "4.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the piano and facing the rectangular wooden coffee table, when the scraping sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_396",
+    "video_id": "loc3_script3_seq5_rec2"
+}

@@ -1,0 +1,128 @@
+{
+    "event": "A man predicts that Endeavor stock will increase.",
+    "start_time": "1:26",
+    "end_time": "1:30",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark, receding hair and is wearing glasses. He is sitting on a couch and holding a black smartphone in his hands, which he occasionally looks at. Approximate height while sitting is around 1 meter.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "0:38": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:28": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular wooden coffee table with a light to medium brown finish. It has a simple design with four straight legs. On its surface, there is a colorful patterned cloth or placemat, a white ceramic llama figurine, a book, and some coasters. Approximate dimensions: 1.2m (length) x 0.6m (width) x 0.4m (height).",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A small, black, four-legged animal sculpture, resembling a stylized dog or pig. It appears to be made of a smooth, matte material (possibly ceramic or resin). It is standing on the wooden floor near a large window. Approximate dimensions: 0.3m (length) x 0.15m (width) x 0.2m (height).",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:28": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:37": {
+                "distance": "3.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the black decorative animal sculpture, when the speech topic: \"predicting endeavor stock will increase\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_351",
+    "video_id": "loc3_script2_seq7_rec2"
+}

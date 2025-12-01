@@ -1,0 +1,136 @@
+{
+    "event": "The speaker is describing their experience on a train that was making many early stops before eventually going direct to downtown.",
+    "start_time": "1:48",
+    "end_time": "1:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark hair, wearing a dark jacket or sweater over a light-colored collared shirt, and blue jeans. He is sitting on the light-gray three-seater couch. His face is blurred in the video. He is actively gesturing while speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:48": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:57": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:15": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:47": {
+                "distance": "1.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A modern-style light-gray fabric three-seater couch. It has wooden legs. A red and white chevron patterned throw blanket is draped over its left arm (from the camera's perspective). A pillow with a repeating dark dog pattern on a light background is also on the couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.3",
+                "direction": "-30"
+            },
+            "0:30": {
+                "distance": "1.3",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "1.3",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "1.3",
+                "direction": "-30"
+            },
+            "1:50": {
+                "distance": "1.3",
+                "direction": "-30"
+            },
+            "2:20": {
+                "distance": "1.3",
+                "direction": "-30"
+            },
+            "2:45": {
+                "distance": "1.3",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "gray reclining lounge chair with ottoman",
+        "description": "A modern gray fabric reclining lounge chair accompanied by a matching ottoman. The chair is positioned near large windows, to the right of a stone fireplace (from the camera's perspective).",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:50": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "2:20": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "2:45": {
+                "distance": "3.0",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the gray reclining lounge chair with ottoman, when the speech topic: \"describing own train making early stops\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_362",
+    "video_id": "loc3_script3_seq2_rec1"
+}

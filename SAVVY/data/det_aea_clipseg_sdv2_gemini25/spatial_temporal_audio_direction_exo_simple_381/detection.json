@@ -1,0 +1,973 @@
+{
+    "00043": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": 40.95,
+            "distance": 1.25,
+            "det_conf": [
+                0.31928014755249023,
+                0.29965338110923767,
+                0.15666495263576508,
+                0.5803397297859192,
+                0.4808424413204193
+            ]
+        }
+    },
+    "00087": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 31.84,
+            "distance": 1.0,
+            "det_conf": [
+                0.8444204926490784,
+                0.8325420022010803,
+                0.8302878141403198,
+                0.6193093657493591,
+                0.836365282535553
+            ]
+        }
+    },
+    "00131": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 60.86,
+            "distance": 1.0,
+            "det_conf": [
+                0.8215621709823608,
+                0.7890127301216125,
+                0.7819725871086121,
+                0.8149277567863464,
+                0.6684314608573914
+            ]
+        }
+    },
+    "00175": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 15.31,
+            "distance": 1.62,
+            "det_conf": [
+                0.8566845655441284,
+                0.597328782081604,
+                0.6338959336280823,
+                0.8471261262893677,
+                0.7708060145378113
+            ]
+        }
+    },
+    "00219": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -61.88,
+            "distance": 1.22,
+            "det_conf": [
+                0.44389697909355164,
+                0.6057349443435669,
+                0.462626576423645,
+                0.5394410490989685,
+                0.627061665058136
+            ]
+        },
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 33.63,
+            "distance": 1.91,
+            "det_conf": [
+                0.8698445558547974,
+                0.869186282157898,
+                0.8749982118606567,
+                0.8832094669342041,
+                0.35741928219795227
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": -28.08,
+            "distance": 2.43,
+            "det_conf": [
+                0.546725869178772,
+                0.5180795788764954,
+                0.44344010949134827,
+                0.47674646973609924,
+                0.4257664382457733
+            ]
+        }
+    },
+    "00263": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": 20.19,
+            "distance": 1.29,
+            "det_conf": [
+                0.7628953456878662,
+                0.7427728176116943,
+                0.7626521587371826,
+                0.7619242668151855,
+                0.6459771394729614
+            ]
+        },
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 57.77,
+            "distance": 2.55,
+            "det_conf": [
+                0.35418373346328735,
+                0.50505131483078,
+                0.22487607598304749,
+                0.29559001326560974,
+                0.47345075011253357
+            ]
+        }
+    },
+    "00394": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": 73.52,
+            "distance": 1.0,
+            "det_conf": [
+                0.527291476726532,
+                0.5286221504211426,
+                0.5335688591003418,
+                0.5377882122993469,
+                0.4607609808444977
+            ]
+        }
+    },
+    "00570": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": -65.23,
+            "distance": 2.44,
+            "det_conf": [
+                0.5712300539016724,
+                0.5757374167442322,
+                0.57291579246521,
+                0.6039247512817383,
+                0.5057226419448853
+            ]
+        }
+    },
+    "00657": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": -41.02,
+            "distance": 2.46,
+            "det_conf": [
+                0.5494346022605896,
+                0.37635713815689087,
+                0.34168899059295654,
+                0.3018152713775635,
+                0.33931779861450195
+            ]
+        }
+    },
+    "00701": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": -41.46,
+            "distance": 2.25,
+            "det_conf": [
+                0.517681360244751,
+                0.5357138514518738,
+                0.3168626129627228,
+                0.3801437020301819,
+                0.20537513494491577
+            ]
+        }
+    },
+    "00745": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": -28.81,
+            "distance": 2.97,
+            "det_conf": [
+                0.024487728253006935,
+                0.5251970291137695,
+                0.7351479530334473,
+                0.6426899433135986,
+                0.000568934774491936
+            ]
+        }
+    },
+    "00789": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 16.17,
+            "distance": 3.26,
+            "det_conf": [
+                0.38952329754829407,
+                0.7265192866325378,
+                0.5675331950187683,
+                0.6284115314483643,
+                0.5453363656997681
+            ]
+        }
+    },
+    "00833": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 17.16,
+            "distance": 3.7,
+            "det_conf": [
+                0.7480772733688354,
+                0.7842596769332886,
+                0.7675061225891113,
+                0.5461170673370361,
+                0.6443372964859009
+            ]
+        }
+    },
+    "00964": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 24.96,
+            "distance": 3.36,
+            "det_conf": [
+                0.07307703047990799,
+                0.5018947720527649,
+                0.5355356335639954,
+                0.02997211180627346,
+                0.015217606909573078
+            ]
+        }
+    },
+    "01008": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 11.97,
+            "distance": 2.82,
+            "det_conf": [
+                0.1058676615357399,
+                0.40158581733703613,
+                0.09534741193056107,
+                0.6967424154281616,
+                0.7784305810928345
+            ]
+        }
+    },
+    "01052": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": 50.3,
+            "distance": 3.41,
+            "det_conf": [
+                0.4027906656265259,
+                0.8371798992156982,
+                0.8738017678260803,
+                0.9003276824951172,
+                0.7222763299942017
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 48.02,
+            "distance": 2.52,
+            "det_conf": [
+                0.7242844700813293,
+                0.6884762644767761,
+                0.317944198846817,
+                0.23385536670684814,
+                0.28189903497695923
+            ]
+        }
+    },
+    "01096": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -64.6,
+            "distance": 2.06,
+            "det_conf": [
+                0.8813919425010681,
+                0.9062909483909607,
+                0.9439147114753723,
+                0.8666633367538452,
+                0.9530234932899475
+            ]
+        },
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 20.12,
+            "distance": 1.44,
+            "det_conf": [
+                0.7637138962745667,
+                0.7490320205688477,
+                0.6987815499305725,
+                0.21988064050674438,
+                0.8059550523757935
+            ]
+        }
+    },
+    "01140": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 25.86,
+            "distance": 1.2,
+            "det_conf": [
+                0.7161001563072205,
+                0.6676639318466187,
+                0.2740634083747864,
+                0.7123273611068726,
+                0.6765192747116089
+            ]
+        }
+    },
+    "01183": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -35.84,
+            "distance": 2.01,
+            "det_conf": [
+                0.7362149357795715,
+                0.7147527933120728,
+                0.7730345129966736,
+                0.7632288932800293,
+                0.7724722623825073
+            ]
+        },
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 56.12,
+            "distance": 1.03,
+            "det_conf": [
+                0.6856881976127625,
+                0.7331167459487915,
+                0.5634047985076904,
+                0.6085657477378845,
+                0.7213590741157532
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 60.42,
+            "distance": 1.0,
+            "det_conf": [
+                0.4333469569683075,
+                0.5181359052658081,
+                0.49829208850860596,
+                0.43684476613998413,
+                0.492484450340271
+            ]
+        }
+    },
+    "01227": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -16.3,
+            "distance": 1.12,
+            "det_conf": [
+                0.4733065962791443,
+                0.5315468311309814,
+                0.8123077750205994,
+                0.7869783639907837,
+                0.4395679831504822
+            ]
+        }
+    },
+    "01271": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -71.27,
+            "distance": 1.06,
+            "det_conf": [
+                0.8022828698158264,
+                0.7887449860572815,
+                0.8561617732048035,
+                0.8264811635017395,
+                0.7035479545593262
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 56.03,
+            "distance": 1.0,
+            "det_conf": [
+                0.5821630954742432,
+                0.5872877240180969,
+                0.5823794603347778,
+                0.2419051229953766,
+                0.34237489104270935
+            ]
+        }
+    },
+    "01315": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -44.76,
+            "distance": 1.03,
+            "det_conf": [
+                0.7920661568641663,
+                0.7693954706192017,
+                0.803881824016571,
+                0.8079813718795776,
+                0.6688783168792725
+            ]
+        }
+    },
+    "01359": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -25.74,
+            "distance": 1.06,
+            "det_conf": [
+                0.8285387754440308,
+                0.8405868411064148,
+                0.7879117727279663,
+                0.3486747741699219,
+                0.7881625294685364
+            ]
+        }
+    },
+    "01403": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 13.8,
+            "distance": 1.0,
+            "det_conf": [
+                0.8371117115020752,
+                0.4842849671840668,
+                0.7987644076347351,
+                0.7730257511138916,
+                0.7704882025718689
+            ]
+        }
+    },
+    "01447": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 30.94,
+            "distance": 1.01,
+            "det_conf": [
+                0.8062320351600647,
+                0.8187692761421204,
+                0.5175009965896606,
+                0.7654368877410889,
+                0.08132483810186386
+            ]
+        }
+    },
+    "01490": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 11.45,
+            "distance": 1.04,
+            "det_conf": [
+                0.6830539107322693,
+                0.7109420299530029,
+                0.1053185909986496,
+                0.4318007230758667,
+                0.3779640793800354
+            ]
+        }
+    },
+    "01534": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 0.52,
+            "distance": 1.0,
+            "det_conf": [
+                0.2768706679344177,
+                0.3955306112766266,
+                0.7600223422050476,
+                0.7438682317733765,
+                0.6984999179840088
+            ]
+        }
+    },
+    "01578": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 41.38,
+            "distance": 1.0,
+            "det_conf": [
+                0.7101966142654419,
+                0.6462041735649109,
+                0.20289437472820282,
+                0.717132568359375,
+                0.7215757369995117
+            ]
+        }
+    },
+    "01666": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": 0.37,
+            "distance": 1.98,
+            "det_conf": [
+                0.46999332308769226,
+                0.43709057569503784,
+                0.4520195722579956,
+                0.2760355472564697,
+                0.526158332824707
+            ]
+        },
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 64.28,
+            "distance": 1.26,
+            "det_conf": [
+                0.6405467391014099,
+                0.2941168248653412,
+                0.6183586716651917,
+                0.17761892080307007,
+                0.4865376055240631
+            ]
+        }
+    },
+    "01797": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -37.94,
+            "distance": 1.0,
+            "det_conf": [
+                0.6369265913963318,
+                0.6276671290397644,
+                0.6172195076942444,
+                0.6882154941558838,
+                0.568078339099884
+            ]
+        }
+    },
+    "01841": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -44.66,
+            "distance": 1.36,
+            "det_conf": [
+                0.586493968963623,
+                0.5553999543190002,
+                0.5708775520324707,
+                0.505199670791626,
+                0.540647566318512
+            ]
+        }
+    },
+    "01929": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": 61.86,
+            "distance": 4.23,
+            "det_conf": [
+                0.48972299695014954,
+                0.4611217975616455,
+                0.6176549196243286,
+                0.47014176845550537,
+                0.7068096995353699
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": -3.22,
+            "distance": 2.13,
+            "det_conf": [
+                0.4185796082019806,
+                0.2735249400138855,
+                0.5073609948158264,
+                0.11046836525201797,
+                0.5633462071418762
+            ]
+        }
+    },
+    "01973": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": -28.39,
+            "distance": 2.6,
+            "det_conf": [
+                0.5731028318405151,
+                0.4400951564311981,
+                0.5327069163322449,
+                0.3784732520580292,
+                0.16999220848083496
+            ]
+        }
+    },
+    "02060": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 28.45,
+            "distance": 4.62,
+            "det_conf": [
+                0.6658512949943542,
+                0.6046885251998901,
+                0.642491340637207,
+                0.2814948856830597,
+                6.461327575379983e-05
+            ]
+        }
+    },
+    "02104": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 0.6,
+            "distance": 4.15,
+            "det_conf": [
+                0.5235600471496582,
+                0.11200296133756638,
+                0.258292555809021,
+                0.2637062668800354,
+                0.23722027242183685
+            ]
+        }
+    },
+    "02280": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": -4.18,
+            "distance": 2.52,
+            "det_conf": [
+                0.6094825863838196,
+                0.3810316026210785,
+                0.5630233883857727,
+                0.19428637623786926,
+                0.09883441030979156
+            ]
+        }
+    },
+    "02411": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 70.27,
+            "distance": 4.88,
+            "det_conf": [
+                0.6379672884941101,
+                0.5815358757972717,
+                0.6864039301872253,
+                0.6855232119560242,
+                0.3827195465564728
+            ]
+        }
+    },
+    "02455": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -5.42,
+            "distance": 4.18,
+            "det_conf": [
+                0.0049198768101632595,
+                0.19952577352523804,
+                0.49351638555526733,
+                0.5392792820930481,
+                0.24587740004062653
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 60.48,
+            "distance": 5.42,
+            "det_conf": [
+                0.15727804601192474,
+                0.24293303489685059,
+                0.43246740102767944,
+                0.4543690085411072,
+                0.66839599609375
+            ]
+        }
+    },
+    "02499": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 53.86,
+            "distance": 4.75,
+            "det_conf": [
+                0.5200858116149902,
+                0.6349614858627319,
+                0.6237822771072388,
+                0.5083456635475159,
+                0.00043974461732432246
+            ]
+        }
+    },
+    "02543": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -44.9,
+            "distance": 4.62,
+            "det_conf": [
+                0.5810054540634155,
+                0.7290259003639221,
+                0.616594672203064,
+                0.11305296421051025,
+                0.21828536689281464
+            ]
+        }
+    },
+    "02718": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -24.14,
+            "distance": 3.0,
+            "det_conf": [
+                0.3611733317375183,
+                0.4879878759384155,
+                0.5374526381492615,
+                0.5173738598823547,
+                0.4781893491744995
+            ]
+        }
+    },
+    "02850": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -74.73,
+            "distance": 3.79,
+            "det_conf": [
+                0.5540549755096436,
+                0.6213493943214417,
+                0.43892720341682434,
+                0.2507779002189636,
+                0.09925121068954468
+            ]
+        }
+    },
+    "02937": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": 59.65,
+            "distance": 1.11,
+            "det_conf": [
+                0.6483415961265564,
+                0.6278674602508545,
+                0.6121891140937805,
+                0.578170120716095,
+                0.6722938418388367
+            ]
+        }
+    },
+    "02981": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 12.08,
+            "distance": 3.87,
+            "det_conf": [
+                0.6905579566955566,
+                0.6914921998977661,
+                0.6817296743392944,
+                0.31652697920799255,
+                0.53391432762146
+            ]
+        }
+    },
+    "03244": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -12.29,
+            "distance": 6.04,
+            "det_conf": [
+                0.35903891921043396,
+                0.19238291680812836,
+                0.5622453689575195,
+                0.19314692914485931,
+                0.34576159715652466
+            ]
+        }
+    },
+    "03288": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -25.21,
+            "distance": 6.13,
+            "det_conf": [
+                0.6630220413208008,
+                0.5353896617889404,
+                0.5013362765312195,
+                0.6153314709663391,
+                0.38409411907196045
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 71.75,
+            "distance": 2.42,
+            "det_conf": [
+                0.34146809577941895,
+                0.5648629665374756,
+                0.585148274898529,
+                0.5318034291267395,
+                0.5682641267776489
+            ]
+        }
+    },
+    "03332": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -41.45,
+            "distance": 2.74,
+            "det_conf": [
+                0.580325186252594,
+                0.49286091327667236,
+                0.34360697865486145,
+                0.6219765543937683,
+                0.5995276570320129
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 45.6,
+            "distance": 2.97,
+            "det_conf": [
+                0.4486016035079956,
+                0.1808844953775406,
+                0.5182012319564819,
+                0.5249788165092468,
+                0.3893224596977234
+            ]
+        }
+    },
+    "03376": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -44.35,
+            "distance": 5.68,
+            "det_conf": [
+                0.5582748651504517,
+                0.4348423480987549,
+                0.512810468673706,
+                0.42891886830329895,
+                0.4588126838207245
+            ]
+        },
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 51.22,
+            "distance": 2.13,
+            "det_conf": [
+                0.2669643461704254,
+                0.3494325280189514,
+                0.3194858431816101,
+                0.20637348294258118,
+                0.5385502576828003
+            ]
+        }
+    },
+    "03420": {
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -48.15,
+            "distance": 4.99,
+            "det_conf": [
+                0.6029137372970581,
+                0.4209515452384949,
+                0.5601778030395508,
+                0.1292066127061844,
+                0.3167667090892792
+            ]
+        }
+    },
+    "03508": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -55.01,
+            "distance": 3.12,
+            "det_conf": [
+                0.8397700786590576,
+                0.8400205373764038,
+                0.7847960591316223,
+                0.7736654877662659,
+                0.5221633911132812
+            ]
+        },
+        "Built-in stainless steel gas stovetop with multiple burners, set into a white countertop with dark wood base cabinets. Approximately 0.8 meters wide.": {
+            "direction": -38.7,
+            "distance": 5.66,
+            "det_conf": [
+                0.5353635549545288,
+                0.3347051441669464,
+                0.45471397042274475,
+                0.3653866648674011,
+                0.11444969475269318
+            ]
+        }
+    },
+    "03551": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -53.84,
+            "distance": 1.04,
+            "det_conf": [
+                0.5244202613830566,
+                0.5425237417221069,
+                0.45983806252479553,
+                0.5130703449249268,
+                0.386003702878952
+            ]
+        }
+    },
+    "03595": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 10.37,
+            "distance": 4.76,
+            "det_conf": [
+                0.5698683261871338,
+                0.5428590178489685,
+                0.574888288974762,
+                0.16468048095703125,
+                0.04082369804382324
+            ]
+        }
+    },
+    "03639": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 25.82,
+            "distance": 4.92,
+            "det_conf": [
+                0.03517555445432663,
+                0.5076583027839661,
+                0.5654754042625427,
+                0.025780389085412025,
+                0.14005771279335022
+            ]
+        }
+    },
+    "03946": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 29.82,
+            "distance": 6.03,
+            "det_conf": [
+                0.1858290284872055,
+                0.5223370790481567,
+                0.5069032907485962,
+                0.1828911155462265,
+                0.002593316836282611
+            ]
+        }
+    },
+    "03990": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 1.43,
+            "distance": 4.47,
+            "det_conf": [
+                0.5153687000274658,
+                0.48358580470085144,
+                0.005904479417949915,
+                0.3489398956298828,
+                0.014701209962368011
+            ]
+        }
+    },
+    "04209": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -43.83,
+            "distance": 2.02,
+            "det_conf": [
+                0.33101925253868103,
+                0.5589339137077332,
+                0.5878190994262695,
+                0.5614535212516785,
+                0.5930768847465515
+            ]
+        }
+    },
+    "04472": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 25.23,
+            "distance": 4.21,
+            "det_conf": [
+                1.8656710381037556e-05,
+                4.798846930498257e-05,
+                4.737051131087355e-05,
+                0.3098796308040619,
+                0.6583539843559265
+            ]
+        }
+    },
+    "04911": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": 32.19,
+            "distance": 1.97,
+            "det_conf": [
+                0.40967464447021484,
+                0.4987475872039795,
+                0.5090305209159851,
+                0.4748179614543915,
+                0.3348430395126343
+            ]
+        }
+    },
+    "04998": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 48.88,
+            "distance": 3.33,
+            "det_conf": [
+                0.8020082116127014,
+                0.4910038411617279,
+                0.2152661383152008,
+                0.7627947330474854,
+                0.6783424615859985
+            ]
+        }
+    },
+    "05086": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -31.3,
+            "distance": 2.11,
+            "det_conf": [
+                0.5318809747695923,
+                0.3532041311264038,
+                0.5392019152641296,
+                0.13520315289497375,
+                0.07700877636671066
+            ]
+        }
+    },
+    "05130": {
+        "A black, round, upholstered ottoman, approximately 0.8 meters in diameter and 0.4 meters high. Located in the living room area.": {
+            "direction": 59.88,
+            "distance": 1.27,
+            "det_conf": [
+                0.7093835473060608,
+                0.7064636945724487,
+                0.6583234071731567,
+                0.3630806505680084,
+                0.059276919811964035
+            ]
+        }
+    },
+    "05262": {
+        "Person with curly dark hair, wearing glasses with dark frames, a black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be an adult male.": {
+            "direction": -1.11,
+            "distance": 1.0,
+            "det_conf": [
+                0.5379594564437866,
+                0.4934329092502594,
+                0.4609276354312897,
+                0.42501139640808105,
+                0.5144491791725159
+            ]
+        }
+    }
+}

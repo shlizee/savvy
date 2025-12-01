@@ -1,0 +1,91 @@
+{
+    "event": "Distance between the camera wearer and the sounding object (boiling sound) when the sound comes up.",
+    "start_time": "0:50",
+    "end_time": "1:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A medium-sized, shiny blue metal kettle with a black handle and a silver spout. It appears to be a traditional stovetop kettle.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "1.6",
+                "direction": "-35"
+            },
+            "0:11": {
+                "distance": "1.3",
+                "direction": "-25"
+            },
+            "0:33": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:46": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:27": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:31": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:37": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "1:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:09": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:22": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "2:58": {
+                "distance": "0.6",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A for egocentric mode.",
+        "key_frames": {}
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the background boiling sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_226",
+    "video_id": "loc3_script2_seq3_rec2"
+}

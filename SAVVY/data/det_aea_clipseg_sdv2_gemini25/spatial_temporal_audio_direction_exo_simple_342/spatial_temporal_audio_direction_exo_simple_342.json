@@ -1,0 +1,150 @@
+{
+    "event": "Determine the speaker's location (left, right, or back) relative to a robot standing by the light-gray two-seater couch and facing the piano, when the speech topic 'mentioning starting with tradeking account' comes up.",
+    "start_time": "01:23",
+    "end_time": "01:25",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male person, medium build, with dark, short hair, and some facial hair (stubble/short beard). He is wearing a green short-sleeved t-shirt and blue denim jeans. He wears a gold-colored wristwatch on his left wrist. During the event, he is seated on a large L-shaped couch and holding a smartphone which is recording the video.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:24": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray, modern-style two-seater couch. It has fabric upholstery, a rectangular shape with two seat cushions and two back cushions, and stands on four light-colored wooden legs angled outwards. It is positioned near a set of large glass sliding doors/windows, to the right of a stone-faced fireplace (when viewed from the main L-shaped couch where the camera is eventually positioned).",
+        "is_static": true,
+        "key_frames": {
+            "00:03": {
+                "distance": "5.5",
+                "direction": "60"
+            },
+            "00:07": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "00:09": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "00:15": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "00:30": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "00:45": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "01:00": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "01:15": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "01:24": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "01:38": {
+                "distance": "3.8",
+                "direction": "65"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Piano",
+        "description": "A black upright piano. It has a classic design with visible keys, a fallboard (key cover), and a music rack. It is positioned against a white wall, between a stone-faced fireplace and the main L-shaped couch (when viewed from the main L-shaped couch where the camera is eventually positioned).",
+        "is_static": true,
+        "key_frames": {
+            "00:03": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "00:07": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "00:09": {
+                "distance": "2.5",
+                "direction": "50"
+            },
+            "00:15": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "00:30": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "00:45": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "01:00": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "01:15": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "01:24": {
+                "distance": "2.8",
+                "direction": "45"
+            },
+            "01:38": {
+                "distance": "2.8",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray two-seater couch and facing the piano, when the speech topic: \"mentioning starting with tradeking account\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_342",
+    "video_id": "loc3_script2_seq7_rec1"
+}

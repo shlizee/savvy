@@ -1,0 +1,76 @@
+{
+    "event": "A person (guest) is speaking about enjoying the weather, while the robot is positioned by a pool-view window and facing a two-seater dining table.",
+    "start_time": "1:45",
+    "end_time": "1:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, short dark hair, wearing a light-colored (white or very light pink) t-shirt and light blue shorts. Barefoot. Wearing glasses during the event. He is sitting on a sofa.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "3.2",
+                "direction": "-5"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:10": {
+                "distance": "1.3",
+                "direction": "30"
+            },
+            "1:45": {
+                "distance": "1.3",
+                "direction": "30"
+            },
+            "1:57": {
+                "distance": "1.3",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Pool Window",
+        "description": "Large sliding glass doors in the kitchen/dining area, offering a view of an outdoor pool. Consists of multiple glass panes.",
+        "key_frames": {
+            "0:47": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:49": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A dining table, possibly an extension of a kitchen island or a high counter-height table, with two stools. It has a wooden or stone-patterned top and is located in the kitchen/dining area, near the pool window.",
+        "key_frames": {
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the two-seater dining table, when the speech topic: \"encouraging enjoyment of the weather\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_110",
+    "video_id": "loc2_script2_seq1_rec2"
+}

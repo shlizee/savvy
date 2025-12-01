@@ -1,0 +1,104 @@
+{
+    "event": "The speech topic 'connecting the show choice to the listener' comes up.",
+    "start_time": "0:12",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved crop top, light blue jeans with a black belt, and glasses. She is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "2.1",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "2.1",
+                "direction": "-80"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:39": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "2:19": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "2:31": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "3:09": {
+                "distance": "2.1",
+                "direction": "-70"
+            },
+            "3:13": {
+                "distance": "2.1",
+                "direction": "-70"
+            },
+            "4:24": {
+                "distance": "2.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by a person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "direction_camera_is_facing",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"connecting the show choice to the listener\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_61",
+    "video_id": "loc1_script2_seq7_rec2"
+}

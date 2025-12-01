@@ -1,0 +1,118 @@
+{
+    "event": "A speaker suggests cleaning up.",
+    "start_time": "0:02",
+    "end_time": "0:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a turquoise/green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:28": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:38": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "2:55": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "3:07": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "black round ottoman",
+        "description": "A black, round ottoman, likely fabric or leather covered. Approximate diameter 0.6-0.8m. Located in the living room area, near a couch.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "0:10": {
+                "distance": "3.7",
+                "direction": "-80"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-85"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "-110"
+            },
+            "2:30": {
+                "distance": "4.5",
+                "direction": "-90"
+            },
+            "3:00": {
+                "distance": "5.0",
+                "direction": "-110"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "fireplace",
+        "description": "A fireplace with a white/light grey stone or brick surround and a mantelpiece. There is a large painting of a coastal scene above it. Located in the living room area.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "5.0",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "2:12": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "2:39": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "4.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the fireplace, when the speech topic: \"suggesting cleaning up\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_386",
+    "video_id": "loc3_script3_seq5_rec2"
+}

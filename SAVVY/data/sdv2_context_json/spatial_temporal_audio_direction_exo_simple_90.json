@@ -1,0 +1,84 @@
+{
+    "event": "A thud sound occurs, and the task is to determine its direction (left, right, or back) relative to a hypothetical robot standing by a round sink with a tap and facing a stainless steel refrigerator.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The sounding object is the front door of the house. It is a large, dark brown wooden door with ornate black wrought iron scrollwork over textured glass panels. It has a matching sidelight panel on its right (from the outside) with similar ironwork and glass. The thud is produced when this door closes.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.2",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, undermount stainless steel sink with a single-hole, gooseneck-style chrome faucet. It is set into a light-colored (beige/cream with speckles) granite countertop on a kitchen island. This is where the robot is standing.",
+        "key_frames": {
+            "0:44": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:04": {
+                "distance": "2.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, stainless steel, double-door (French door style) refrigerator with an ice/water dispenser on the left door. It appears to be a Samsung brand. This is what the robot is facing.",
+        "key_frames": {
+            "0:46": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel refrigerator, when the thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_90",
+    "video_id": "loc2_script2_seq1_rec2"
+}

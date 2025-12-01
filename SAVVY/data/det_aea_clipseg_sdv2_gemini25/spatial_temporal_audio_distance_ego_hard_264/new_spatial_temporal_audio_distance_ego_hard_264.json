@@ -1,0 +1,120 @@
+{
+    "event": "Two people are agreeing and joking about the required attire (a pink shirt) to become a tycoon, while watching a video on a phone.",
+    "start_time": "0:26",
+    "end_time": "0:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male, wearing a light green short-sleeved polo shirt and blue jeans. He has short, dark hair and is wearing glasses. He is initially seen at a table, then moves to sit on a couch to the left of the camera wearer. Approximate height when standing might be 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:17": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:26": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:42": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn or held by the first person, providing an egocentric view. The camera wearer is sitting on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Same as the sounding object. The camera wearer is generally facing towards or slightly towards the other person while they interact on the couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:14": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:17": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:26": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:42": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-50"
+            }
+        }
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"agreeing and joking about required attire\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_264",
+    "video_id": "loc3_script2_seq7_rec2"
+}

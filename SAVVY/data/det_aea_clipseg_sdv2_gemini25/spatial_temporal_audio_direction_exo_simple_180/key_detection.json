@@ -1,0 +1,3575 @@
+{
+    "00000": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -13.0,
+            "distance": 1.02,
+            "det_conf": [
+                0.8864415287971497,
+                0.9020615816116333,
+                0.8650552034378052,
+                0.8838426470756531,
+                0.9404350519180298
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 70.0,
+            "distance": 2.27,
+            "det_conf": [
+                0.7340599894523621,
+                0.6561771631240845,
+                0.7330189347267151,
+                0.7218791246414185,
+                0.4495922327041626
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 69.88,
+            "distance": 2.27,
+            "det_conf": [
+                0.722337007522583,
+                0.7109369039535522,
+                0.7289102077484131,
+                0.7253376245498657,
+                0.6428337097167969
+            ]
+        }
+    },
+    "00010": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -12.41,
+            "distance": 1.0,
+            "det_conf": [
+                0.8896231651306152,
+                0.9107000231742859,
+                0.9100150465965271,
+                0.9038834571838379,
+                0.8992918729782104
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 61.67,
+            "distance": 2.37,
+            "det_conf": [
+                0.5916606783866882,
+                0.5680611729621887,
+                0.6019725799560547,
+                0.5156212449073792,
+                0.5806475281715393
+            ]
+        }
+    },
+    "00020": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -8.99,
+            "distance": 1.01,
+            "det_conf": [
+                0.9369857907295227,
+                0.9101421236991882,
+                0.9059237837791443,
+                0.8518171906471252,
+                0.6997236609458923
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 57.0,
+            "distance": 2.79,
+            "det_conf": [
+                0.841191828250885,
+                0.8385128378868103,
+                0.7783045172691345,
+                0.8146446943283081,
+                0.8240086436271667
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 69.15,
+            "distance": 2.38,
+            "det_conf": [
+                0.6832967400550842,
+                0.653744101524353,
+                0.747527539730072,
+                0.6530050039291382,
+                0.761077344417572
+            ]
+        }
+    },
+    "00025": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -20.9,
+            "distance": 1.01,
+            "det_conf": [
+                0.9437919855117798,
+                0.910062849521637,
+                0.8757835030555725,
+                0.9036974906921387,
+                0.8323485851287842
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 66.01,
+            "distance": 2.25,
+            "det_conf": [
+                0.901561975479126,
+                0.9150605201721191,
+                0.8977107405662537,
+                0.9127368330955505,
+                0.9047770500183105
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 65.93,
+            "distance": 2.25,
+            "det_conf": [
+                0.8899027705192566,
+                0.9049707055091858,
+                0.9276579022407532,
+                0.9248711466789246,
+                0.8605636358261108
+            ]
+        }
+    },
+    "00030": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -34.0,
+            "distance": 1.0,
+            "det_conf": [
+                0.863450288772583,
+                0.6818915009498596,
+                0.8876651525497437,
+                0.8190724849700928,
+                0.8732938766479492
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -1.97,
+            "distance": 3.67,
+            "det_conf": [
+                0.831525981426239,
+                0.9368100762367249,
+                0.8597933053970337,
+                0.8247404098510742,
+                0.775524914264679
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 40.69,
+            "distance": 3.04,
+            "det_conf": [
+                0.8452519178390503,
+                0.7609427571296692,
+                0.8295923471450806,
+                0.7596181035041809,
+                0.8281490206718445
+            ]
+        }
+    },
+    "00035": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -63.77,
+            "distance": 1.0,
+            "det_conf": [
+                0.9050725698471069,
+                0.8673999309539795,
+                0.7634731531143188,
+                0.8641822934150696,
+                0.8265622854232788
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 65.52,
+            "distance": 3.04,
+            "det_conf": [
+                0.9172609448432922,
+                0.8962348103523254,
+                0.8904275894165039,
+                0.8384870290756226,
+                0.9005531072616577
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 66.03,
+            "distance": 3.05,
+            "det_conf": [
+                0.7380878925323486,
+                0.8458437323570251,
+                0.6772311925888062,
+                0.8117302656173706,
+                0.46507737040519714
+            ]
+        }
+    },
+    "00040": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -52.91,
+            "distance": 1.0,
+            "det_conf": [
+                0.8260246515274048,
+                0.8547924160957336,
+                0.6580833792686462,
+                0.8552027940750122,
+                0.5822978019714355
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 36.88,
+            "distance": 5.01,
+            "det_conf": [
+                0.8855273127555847,
+                0.7806950211524963,
+                0.9417732357978821,
+                0.9342240691184998,
+                0.8872674703598022
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 54.42,
+            "distance": 4.48,
+            "det_conf": [
+                0.9083948731422424,
+                0.880383312702179,
+                0.8811914920806885,
+                0.9133517742156982,
+                0.8707188367843628
+            ]
+        }
+    },
+    "00045": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -63.52,
+            "distance": 1.0,
+            "det_conf": [
+                0.7312653064727783,
+                0.6586793065071106,
+                0.5413281321525574,
+                0.7686622738838196,
+                0.8493303060531616
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 45.29,
+            "distance": 4.64,
+            "det_conf": [
+                0.933269739151001,
+                0.9401247501373291,
+                0.9106389880180359,
+                0.9292879700660706,
+                0.9000683426856995
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 43.96,
+            "distance": 4.68,
+            "det_conf": [
+                0.9112268090248108,
+                0.9160274267196655,
+                0.8851652145385742,
+                0.9119600653648376,
+                0.9201879501342773
+            ]
+        }
+    },
+    "00050": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -66.18,
+            "distance": 1.0,
+            "det_conf": [
+                0.8533570170402527,
+                0.7576677203178406,
+                0.8461869359016418,
+                0.8541473746299744,
+                0.817440927028656
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 25.84,
+            "distance": 5.2,
+            "det_conf": [
+                0.9348077774047852,
+                0.9161662459373474,
+                0.903298020362854,
+                0.8592619895935059,
+                0.8326804637908936
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 29.0,
+            "distance": 5.08,
+            "det_conf": [
+                0.7876561880111694,
+                0.8425862789154053,
+                0.7647175192832947,
+                0.6605782508850098,
+                0.39266055822372437
+            ]
+        }
+    },
+    "00055": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -65.69,
+            "distance": 1.0,
+            "det_conf": [
+                0.7572323679924011,
+                0.7079346179962158,
+                0.697353184223175,
+                0.7246941924095154,
+                0.6778292059898376
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 29.57,
+            "distance": 5.34,
+            "det_conf": [
+                0.8416309356689453,
+                0.26422369480133057,
+                0.847805380821228,
+                0.5735554695129395,
+                0.6251810193061829
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 29.85,
+            "distance": 5.36,
+            "det_conf": [
+                0.9206320643424988,
+                0.9279372096061707,
+                0.9279372096061707,
+                0.9232885241508484,
+                0.9298412203788757
+            ]
+        }
+    },
+    "00060": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -38.41,
+            "distance": 1.26,
+            "det_conf": [
+                0.3124709129333496,
+                0.698902428150177,
+                0.33819687366485596,
+                0.6024145483970642,
+                0.3483113944530487
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 22.92,
+            "distance": 5.51,
+            "det_conf": [
+                0.8508368134498596,
+                0.8124803900718689,
+                0.7530637979507446,
+                0.8479030728340149,
+                0.7889459133148193
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 34.32,
+            "distance": 5.26,
+            "det_conf": [
+                0.9100888967514038,
+                0.7930355668067932,
+                0.8798365592956543,
+                0.9091202616691589,
+                0.8161568641662598
+            ]
+        }
+    },
+    "00140": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 3.96,
+            "distance": 4.92,
+            "det_conf": [
+                0.28174954652786255,
+                0.3586655557155609,
+                0.647736668586731,
+                0.30723434686660767,
+                0.19601906836032867
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 4.17,
+            "distance": 5.0,
+            "det_conf": [
+                0.8410692811012268,
+                0.9133630990982056,
+                0.6213396191596985,
+                0.8991363048553467,
+                0.8984678387641907
+            ]
+        }
+    },
+    "00150": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -25.42,
+            "distance": 4.0,
+            "det_conf": [
+                0.19906984269618988,
+                0.6703134179115295,
+                0.3144342005252838,
+                0.5852999687194824,
+                0.23031693696975708
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -8.14,
+            "distance": 4.0,
+            "det_conf": [
+                0.8190986514091492,
+                0.8160350918769836,
+                0.7852340340614319,
+                0.8328168988227844,
+                0.8750146627426147
+            ]
+        }
+    },
+    "00160": {
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -19.39,
+            "distance": 4.61,
+            "det_conf": [
+                0.6456745862960815,
+                0.7895517945289612,
+                0.8631229400634766,
+                0.6913895010948181,
+                0.34003692865371704
+            ]
+        }
+    },
+    "00170": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -30.67,
+            "distance": 1.0,
+            "det_conf": [
+                0.8577123880386353,
+                0.8383437991142273,
+                0.6423876285552979,
+                0.7487942576408386,
+                0.5846986174583435
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 72.84,
+            "distance": 2.37,
+            "det_conf": [
+                0.9108838438987732,
+                0.8910545706748962,
+                0.6677308678627014,
+                0.8752092123031616,
+                0.8739808201789856
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 71.54,
+            "distance": 2.41,
+            "det_conf": [
+                0.8849090933799744,
+                0.7685111165046692,
+                0.8606559634208679,
+                0.8211156725883484,
+                0.8466293811798096
+            ]
+        }
+    },
+    "00180": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -4.95,
+            "distance": 1.0,
+            "det_conf": [
+                0.878156840801239,
+                0.8531637787818909,
+                0.7808772921562195,
+                0.6503621935844421,
+                0.3931068778038025
+            ]
+        }
+    },
+    "00185": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -10.32,
+            "distance": 1.0,
+            "det_conf": [
+                0.8635810017585754,
+                0.8650012016296387,
+                0.8626918792724609,
+                0.807126522064209,
+                0.7801337242126465
+            ]
+        }
+    },
+    "00190": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -11.94,
+            "distance": 1.0,
+            "det_conf": [
+                0.9242433309555054,
+                0.8992272019386292,
+                0.8295326828956604,
+                0.8877415060997009,
+                0.8550535440444946
+            ]
+        }
+    },
+    "00195": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -64.66,
+            "distance": 1.0,
+            "det_conf": [
+                0.9025004506111145,
+                0.8639711737632751,
+                0.8917779326438904,
+                0.7619895935058594,
+                0.8912481665611267
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 57.6,
+            "distance": 2.02,
+            "det_conf": [
+                0.9684582352638245,
+                0.9474994540214539,
+                0.9370905756950378,
+                0.9380728006362915,
+                0.9574875831604004
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 57.34,
+            "distance": 2.02,
+            "det_conf": [
+                0.8569202423095703,
+                0.8596320152282715,
+                0.7145899534225464,
+                0.8659777045249939,
+                0.8695204257965088
+            ]
+        }
+    },
+    "00200": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 25.42,
+            "distance": 3.99,
+            "det_conf": [
+                0.5914642810821533,
+                0.8436919450759888,
+                0.742222785949707,
+                0.7388618588447571,
+                0.7589293122291565
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 23.55,
+            "distance": 4.03,
+            "det_conf": [
+                0.8886083960533142,
+                0.8530067801475525,
+                0.9148083925247192,
+                0.8390686511993408,
+                0.8415557146072388
+            ]
+        }
+    },
+    "00205": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 5.16,
+            "distance": 4.4,
+            "det_conf": [
+                0.45355674624443054,
+                0.8292394876480103,
+                0.7792546153068542,
+                0.7719050049781799,
+                0.784766674041748
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 17.52,
+            "distance": 4.27,
+            "det_conf": [
+                0.8776894211769104,
+                0.8398610949516296,
+                0.7246706485748291,
+                0.7361698150634766,
+                0.7576335668563843
+            ]
+        }
+    },
+    "00210": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 8.81,
+            "distance": 4.55,
+            "det_conf": [
+                0.8318948745727539,
+                0.8307827115058899,
+                0.7635996341705322,
+                0.7456470727920532,
+                0.8029082417488098
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 10.86,
+            "distance": 4.51,
+            "det_conf": [
+                0.8394153118133545,
+                0.83211749792099,
+                0.7017729878425598,
+                0.8467379212379456,
+                0.8299065232276917
+            ]
+        }
+    },
+    "00215": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -3.98,
+            "distance": 4.8,
+            "det_conf": [
+                0.8023434281349182,
+                0.7959880828857422,
+                0.7951058149337769,
+                0.4867019057273865,
+                0.32755035161972046
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 4.13,
+            "distance": 4.96,
+            "det_conf": [
+                0.9179059267044067,
+                0.876695990562439,
+                0.912773847579956,
+                0.8820464015007019,
+                0.9186296463012695
+            ]
+        }
+    },
+    "00220": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 6.96,
+            "distance": 4.91,
+            "det_conf": [
+                0.520953893661499,
+                0.5078433752059937,
+                0.8265615105628967,
+                0.8404366374015808,
+                0.25193727016448975
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -1.46,
+            "distance": 5.01,
+            "det_conf": [
+                0.8400550484657288,
+                0.8857045769691467,
+                0.6642427444458008,
+                0.8440319895744324,
+                0.7982634902000427
+            ]
+        }
+    },
+    "00280": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 18.37,
+            "distance": 5.25,
+            "det_conf": [
+                0.8037722110748291,
+                0.8215156197547913,
+                0.7831186056137085,
+                0.49508410692214966,
+                0.8161788582801819
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 7.01,
+            "distance": 5.33,
+            "det_conf": [
+                0.893694281578064,
+                0.9093945026397705,
+                0.8995212912559509,
+                0.8752086758613586,
+                0.5475939512252808
+            ]
+        }
+    },
+    "00290": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 15.14,
+            "distance": 5.29,
+            "det_conf": [
+                0.6587570309638977,
+                0.48375099897384644,
+                0.27558767795562744,
+                0.621746838092804,
+                0.5979087948799133
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 11.05,
+            "distance": 5.38,
+            "det_conf": [
+                0.8077223896980286,
+                0.8276964426040649,
+                0.796055793762207,
+                0.8340885043144226,
+                0.8473241925239563
+            ]
+        }
+    },
+    "00300": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 20.15,
+            "distance": 5.27,
+            "det_conf": [
+                0.5430588722229004,
+                0.6860628724098206,
+                0.4982159733772278,
+                0.6215662360191345,
+                0.6234950423240662
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 14.7,
+            "distance": 5.29,
+            "det_conf": [
+                0.9501216411590576,
+                0.9403813481330872,
+                0.9424806833267212,
+                0.9435281753540039,
+                0.8768328428268433
+            ]
+        }
+    },
+    "00310": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 28.06,
+            "distance": 4.95,
+            "det_conf": [
+                0.8354780077934265,
+                0.816599428653717,
+                0.8505165576934814,
+                0.6684847474098206,
+                0.7379541397094727
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 15.46,
+            "distance": 5.19,
+            "det_conf": [
+                0.9447333812713623,
+                0.7387405037879944,
+                0.873120903968811,
+                0.9232978820800781,
+                0.8700140714645386
+            ]
+        }
+    },
+    "00320": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 8.69,
+            "distance": 5.1,
+            "det_conf": [
+                0.6314069628715515,
+                0.5063209533691406,
+                0.7191872596740723,
+                0.6769415140151978,
+                0.6843913197517395
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 4.87,
+            "distance": 5.02,
+            "det_conf": [
+                0.854907751083374,
+                0.8544590473175049,
+                0.9134490489959717,
+                0.8146405816078186,
+                0.9122267961502075
+            ]
+        }
+    },
+    "00380": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -2.15,
+            "distance": 4.25,
+            "det_conf": [
+                0.7127455472946167,
+                0.6603450775146484,
+                0.762692391872406,
+                0.7422752976417542,
+                0.5487122535705566
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 3.07,
+            "distance": 4.13,
+            "det_conf": [
+                0.8466208577156067,
+                0.8406775593757629,
+                0.8197466731071472,
+                0.5195674896240234,
+                0.6480006575584412
+            ]
+        }
+    },
+    "00385": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 8.77,
+            "distance": 4.25,
+            "det_conf": [
+                0.853819727897644,
+                0.847059428691864,
+                0.7909641861915588,
+                0.8077430129051208,
+                0.6738148331642151
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 14.01,
+            "distance": 4.2,
+            "det_conf": [
+                0.8004623055458069,
+                0.8195853233337402,
+                0.803157389163971,
+                0.8249408602714539,
+                0.6189597249031067
+            ]
+        }
+    },
+    "00390": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 4.09,
+            "distance": 4.38,
+            "det_conf": [
+                0.7606903314590454,
+                0.7218291759490967,
+                0.8466402292251587,
+                0.841167688369751,
+                0.3583294749259949
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 8.76,
+            "distance": 4.32,
+            "det_conf": [
+                0.7517484426498413,
+                0.7501157522201538,
+                0.8169825673103333,
+                0.7189323306083679,
+                0.8237717151641846
+            ]
+        }
+    },
+    "00395": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -5.09,
+            "distance": 4.49,
+            "det_conf": [
+                0.7000940442085266,
+                0.7465265393257141,
+                0.23778171837329865,
+                0.37358802556991577,
+                0.40419578552246094
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -9.34,
+            "distance": 4.51,
+            "det_conf": [
+                0.4646860957145691,
+                0.39977535605430603,
+                0.8017364144325256,
+                0.1865808665752411,
+                0.7101134061813354
+            ]
+        }
+    },
+    "00400": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 16.67,
+            "distance": 4.05,
+            "det_conf": [
+                0.8760766386985779,
+                0.8780328035354614,
+                0.9166795611381531,
+                0.8775357007980347,
+                0.18868334591388702
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 25.58,
+            "distance": 3.88,
+            "det_conf": [
+                0.8689242005348206,
+                0.8640825748443604,
+                0.795624852180481,
+                0.8272490501403809,
+                0.8191908001899719
+            ]
+        }
+    },
+    "00405": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 23.58,
+            "distance": 4.11,
+            "det_conf": [
+                0.7617076635360718,
+                0.7699694633483887,
+                0.6909835338592529,
+                0.3695845901966095,
+                0.34009918570518494
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 26.18,
+            "distance": 4.11,
+            "det_conf": [
+                0.8033085465431213,
+                0.8043922781944275,
+                0.763006865978241,
+                0.7097964882850647,
+                0.4268465042114258
+            ]
+        }
+    },
+    "00410": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 22.82,
+            "distance": 3.87,
+            "det_conf": [
+                0.9048938751220703,
+                0.9051186442375183,
+                0.8941428661346436,
+                0.8808643817901611,
+                0.7874391078948975
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 14.04,
+            "distance": 4.01,
+            "det_conf": [
+                0.9073606133460999,
+                0.9071627855300903,
+                0.90885329246521,
+                0.8846875429153442,
+                0.8213367462158203
+            ]
+        }
+    },
+    "00415": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 37.54,
+            "distance": 4.39,
+            "det_conf": [
+                0.9632888436317444,
+                0.9613466262817383,
+                0.9142293334007263,
+                0.9641180634498596,
+                0.8791875243186951
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 36.93,
+            "distance": 4.4,
+            "det_conf": [
+                0.9641101956367493,
+                0.942093014717102,
+                0.9471186399459839,
+                0.9597230553627014,
+                0.7103886008262634
+            ]
+        }
+    },
+    "00420": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 26.43,
+            "distance": 4.57,
+            "det_conf": [
+                0.946557343006134,
+                0.9498734474182129,
+                0.9470168352127075,
+                0.8740015029907227,
+                0.8653375506401062
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 31.64,
+            "distance": 4.51,
+            "det_conf": [
+                0.922500729560852,
+                0.8915402889251709,
+                0.8588576912879944,
+                0.9177966117858887,
+                0.9249193668365479
+            ]
+        }
+    },
+    "00500": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -64.27,
+            "distance": 1.0,
+            "det_conf": [
+                0.9538440108299255,
+                0.954708993434906,
+                0.8989350199699402,
+                0.9318801164627075,
+                0.9176501631736755
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 63.02,
+            "distance": 2.89,
+            "det_conf": [
+                0.7687253952026367,
+                0.8925936222076416,
+                0.9284687042236328,
+                0.8306553363800049,
+                0.9281477928161621
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 63.91,
+            "distance": 2.86,
+            "det_conf": [
+                0.8625383377075195,
+                0.7439496517181396,
+                0.6694964170455933,
+                0.8746366500854492,
+                0.6114795804023743
+            ]
+        }
+    },
+    "00510": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -70.21,
+            "distance": 1.0,
+            "det_conf": [
+                0.7771296501159668,
+                0.7651270627975464,
+                0.7812115550041199,
+                0.7262302041053772,
+                0.5650337934494019
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 2.18,
+            "distance": 4.68,
+            "det_conf": [
+                0.9379650354385376,
+                0.9271172881126404,
+                0.9555214643478394,
+                0.9255238175392151,
+                0.3531646430492401
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 51.72,
+            "distance": 3.81,
+            "det_conf": [
+                0.9283899068832397,
+                0.8910627365112305,
+                0.8624317646026611,
+                0.8799287676811218,
+                0.9175674319267273
+            ]
+        }
+    },
+    "00520": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 49.31,
+            "distance": 3.89,
+            "det_conf": [
+                0.9592061638832092,
+                0.9312141537666321,
+                0.9466786980628967,
+                0.9640570878982544,
+                0.9664788246154785
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 48.66,
+            "distance": 3.87,
+            "det_conf": [
+                0.8926529884338379,
+                0.9585424065589905,
+                0.9527496099472046,
+                0.9414203763008118,
+                0.958293080329895
+            ]
+        }
+    },
+    "00530": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -20.68,
+            "distance": 1.0,
+            "det_conf": [
+                0.8568255305290222,
+                0.7378551959991455,
+                0.8133249878883362,
+                0.8329744935035706,
+                0.755720317363739
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -7.87,
+            "distance": 4.35,
+            "det_conf": [
+                0.8317944407463074,
+                0.8272265791893005,
+                0.8593183159828186,
+                0.7898528575897217,
+                0.7870853543281555
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -4.62,
+            "distance": 4.4,
+            "det_conf": [
+                0.7752091288566589,
+                0.559943437576294,
+                0.7770272493362427,
+                0.7659096121788025,
+                0.7553387880325317
+            ]
+        }
+    },
+    "00540": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -16.97,
+            "distance": 1.0,
+            "det_conf": [
+                0.9262959957122803,
+                0.8753161430358887,
+                0.8787713646888733,
+                0.8330205082893372,
+                0.9472497701644897
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -10.59,
+            "distance": 4.33,
+            "det_conf": [
+                0.8021736145019531,
+                0.7758059501647949,
+                0.8267433643341064,
+                0.7101095914840698,
+                0.8330162167549133
+            ]
+        }
+    },
+    "00700": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -13.99,
+            "distance": 1.0,
+            "det_conf": [
+                0.9409010410308838,
+                0.8812249898910522,
+                0.8685237765312195,
+                0.9282840490341187,
+                0.8784694075584412
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -11.47,
+            "distance": 4.24,
+            "det_conf": [
+                0.5907326340675354,
+                0.6226984262466431,
+                0.09330417215824127,
+                0.8325666785240173,
+                0.8274424076080322
+            ]
+        }
+    },
+    "00705": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -20.62,
+            "distance": 1.0,
+            "det_conf": [
+                0.91254061460495,
+                0.8649981021881104,
+                0.7707734704017639,
+                0.645256519317627,
+                0.9085432291030884
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 75.61,
+            "distance": 2.5,
+            "det_conf": [
+                0.7515271902084351,
+                0.8750792741775513,
+                0.8585822582244873,
+                0.37132757902145386,
+                0.8384028077125549
+            ]
+        }
+    },
+    "00710": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -53.53,
+            "distance": 1.0,
+            "det_conf": [
+                0.9267154932022095,
+                0.9330387711524963,
+                0.8981429934501648,
+                0.9135807156562805,
+                0.9492294192314148
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 67.18,
+            "distance": 2.83,
+            "det_conf": [
+                0.8478018045425415,
+                0.9017586708068848,
+                0.8752620816230774,
+                0.8821506500244141,
+                0.3470759093761444
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 61.91,
+            "distance": 3.11,
+            "det_conf": [
+                0.7977854609489441,
+                0.7958176732063293,
+                0.6977261304855347,
+                0.7852247953414917,
+                0.7620019316673279
+            ]
+        }
+    },
+    "00715": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -71.42,
+            "distance": 1.35,
+            "det_conf": [
+                0.7105320692062378,
+                0.7567737102508545,
+                0.7243590354919434,
+                0.700957715511322,
+                0.11057787388563156
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 57.28,
+            "distance": 3.28,
+            "det_conf": [
+                0.9274669289588928,
+                0.9669744968414307,
+                0.9735186696052551,
+                0.9765800833702087,
+                0.9675489664077759
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 56.72,
+            "distance": 3.26,
+            "det_conf": [
+                0.8952625393867493,
+                0.8947466611862183,
+                0.9339376091957092,
+                0.8179860711097717,
+                0.829144299030304
+            ]
+        }
+    },
+    "00720": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 45.05,
+            "distance": 4.06,
+            "det_conf": [
+                0.9420710802078247,
+                0.9129326939582825,
+                0.9354290962219238,
+                0.7084393501281738,
+                0.9155774116516113
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 43.72,
+            "distance": 4.08,
+            "det_conf": [
+                0.9409366250038147,
+                0.9473108649253845,
+                0.9271047711372375,
+                0.9458800554275513,
+                0.9389228224754333
+            ]
+        }
+    },
+    "00725": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 15.83,
+            "distance": 4.68,
+            "det_conf": [
+                0.8983473777770996,
+                0.8265016078948975,
+                0.9155542254447937,
+                0.6875872015953064,
+                0.3918507397174835
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 44.56,
+            "distance": 4.19,
+            "det_conf": [
+                0.9356343746185303,
+                0.9528751969337463,
+                0.9081677794456482,
+                0.9478223919868469,
+                0.9578525424003601
+            ]
+        }
+    },
+    "00730": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 33.46,
+            "distance": 4.64,
+            "det_conf": [
+                0.929035484790802,
+                0.9622359871864319,
+                0.89521723985672,
+                0.8802012801170349,
+                0.8497385382652283
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 34.95,
+            "distance": 4.58,
+            "det_conf": [
+                0.9355152249336243,
+                0.9628096222877502,
+                0.9401583671569824,
+                0.9502565264701843,
+                0.9652378559112549
+            ]
+        }
+    },
+    "00735": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 38.6,
+            "distance": 4.51,
+            "det_conf": [
+                0.9309789538383484,
+                0.9327762722969055,
+                0.9214117527008057,
+                0.9231404662132263,
+                0.9068639874458313
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 35.63,
+            "distance": 4.57,
+            "det_conf": [
+                0.8937429785728455,
+                0.9360730051994324,
+                0.9416899681091309,
+                0.8860907554626465,
+                0.919543981552124
+            ]
+        }
+    },
+    "00740": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 19.94,
+            "distance": 5.08,
+            "det_conf": [
+                0.956388533115387,
+                0.9629723429679871,
+                0.9558387398719788,
+                0.9531747698783875,
+                0.949225127696991
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 18.22,
+            "distance": 5.29,
+            "det_conf": [
+                0.9276893734931946,
+                0.8974338173866272,
+                0.9240956902503967,
+                0.9251552820205688,
+                0.8573561906814575
+            ]
+        }
+    },
+    "00780": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -32.69,
+            "distance": 5.67,
+            "det_conf": [
+                0.7444848418235779,
+                0.7638322114944458,
+                0.3804081380367279,
+                0.10877158492803574,
+                0.34398746490478516
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -10.64,
+            "distance": 5.99,
+            "det_conf": [
+                0.8146345615386963,
+                0.9238075613975525,
+                0.9386180639266968,
+                0.63927161693573,
+                0.9381417036056519
+            ]
+        }
+    },
+    "00785": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -9.75,
+            "distance": 6.0,
+            "det_conf": [
+                0.7449419498443604,
+                0.7511748671531677,
+                0.7347422242164612,
+                0.7684457302093506,
+                0.7699618339538574
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -9.83,
+            "distance": 6.0,
+            "det_conf": [
+                0.8921399116516113,
+                0.8879274725914001,
+                0.9007627367973328,
+                0.8032647371292114,
+                0.8394117951393127
+            ]
+        }
+    },
+    "00790": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -3.8,
+            "distance": 5.88,
+            "det_conf": [
+                0.7668649554252625,
+                0.8320134878158569,
+                0.7284086346626282,
+                0.529988706111908,
+                0.4152495861053467
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -9.63,
+            "distance": 6.0,
+            "det_conf": [
+                0.9006789922714233,
+                0.923376739025116,
+                0.7910342216491699,
+                0.9270191192626953,
+                0.9185317754745483
+            ]
+        }
+    },
+    "00795": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 8.12,
+            "distance": 5.96,
+            "det_conf": [
+                0.7408686280250549,
+                0.6735628247261047,
+                0.6643118262290955,
+                0.4360845685005188,
+                0.5376773476600647
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -5.04,
+            "distance": 6.0,
+            "det_conf": [
+                0.8854859471321106,
+                0.8949626088142395,
+                0.8572118282318115,
+                0.872371256351471,
+                0.8111768960952759
+            ]
+        }
+    },
+    "00800": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 37.52,
+            "distance": 4.75,
+            "det_conf": [
+                0.9549675583839417,
+                0.893264651298523,
+                0.6779391765594482,
+                0.9358319044113159,
+                0.16483673453330994
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 45.19,
+            "distance": 4.43,
+            "det_conf": [
+                0.943122923374176,
+                0.9333868622779846,
+                0.9275422096252441,
+                0.9184824824333191,
+                0.9246518611907959
+            ]
+        }
+    },
+    "00805": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -35.31,
+            "distance": 1.0,
+            "det_conf": [
+                0.8236541152000427,
+                0.9060781002044678,
+                0.8687931299209595,
+                0.8257017731666565,
+                0.7329316139221191
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 73.26,
+            "distance": 2.29,
+            "det_conf": [
+                0.916857898235321,
+                0.9022588133811951,
+                0.8770869970321655,
+                0.8983829021453857,
+                0.9062277674674988
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 70.27,
+            "distance": 2.44,
+            "det_conf": [
+                0.8211264610290527,
+                0.8262546062469482,
+                0.7453577518463135,
+                0.811133861541748,
+                0.44367286562919617
+            ]
+        }
+    },
+    "00810": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -20.73,
+            "distance": 1.0,
+            "det_conf": [
+                0.8762101531028748,
+                0.8942244052886963,
+                0.7856354713439941,
+                0.8612834811210632,
+                0.8642733693122864
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 78.8,
+            "distance": 2.51,
+            "det_conf": [
+                0.8581966757774353,
+                0.7792226672172546,
+                0.847719132900238,
+                0.8220701813697815,
+                0.8419135212898254
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 77.08,
+            "distance": 2.5,
+            "det_conf": [
+                0.49947091937065125,
+                0.6081399917602539,
+                0.5737289190292358,
+                0.5946831703186035,
+                0.4870677590370178
+            ]
+        }
+    },
+    "00815": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -27.41,
+            "distance": 1.0,
+            "det_conf": [
+                0.8722778558731079,
+                0.838706374168396,
+                0.8530219197273254,
+                0.7637382745742798,
+                0.867840588092804
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 72.22,
+            "distance": 2.85,
+            "det_conf": [
+                0.9018412232398987,
+                0.8738820552825928,
+                0.8915876746177673,
+                0.9009909629821777,
+                0.6983153820037842
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 76.09,
+            "distance": 2.71,
+            "det_conf": [
+                0.7716342210769653,
+                0.7843446731567383,
+                0.7005941271781921,
+                0.7798177003860474,
+                0.7206140160560608
+            ]
+        }
+    },
+    "00820": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -44.42,
+            "distance": 1.0,
+            "det_conf": [
+                0.8204493522644043,
+                0.8059225082397461,
+                0.8444260954856873,
+                0.7997718453407288,
+                0.7902058362960815
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -1.74,
+            "distance": 4.53,
+            "det_conf": [
+                0.9187387228012085,
+                0.7744864225387573,
+                0.8776088953018188,
+                0.7033453583717346,
+                0.9507103562355042
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 64.9,
+            "distance": 2.91,
+            "det_conf": [
+                0.8307821750640869,
+                0.7493619918823242,
+                0.8408312201499939,
+                0.7440371513366699,
+                0.8479167819023132
+            ]
+        }
+    },
+    "00880": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -55.89,
+            "distance": 1.0,
+            "det_conf": [
+                0.816163957118988,
+                0.8998830318450928,
+                0.9215574264526367,
+                0.9234539866447449,
+                0.9542772769927979
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 57.57,
+            "distance": 3.31,
+            "det_conf": [
+                0.9276243448257446,
+                0.8709440231323242,
+                0.9273495078086853,
+                0.9195518493652344,
+                0.9217919111251831
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 58.49,
+            "distance": 3.28,
+            "det_conf": [
+                0.9284220337867737,
+                0.8876104950904846,
+                0.9268546104431152,
+                0.9216436743736267,
+                0.9193458557128906
+            ]
+        }
+    },
+    "00890": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -57.19,
+            "distance": 1.0,
+            "det_conf": [
+                0.9458484649658203,
+                0.9063299298286438,
+                0.8887378573417664,
+                0.9350723624229431,
+                0.8707296848297119
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 54.41,
+            "distance": 3.63,
+            "det_conf": [
+                0.9287405014038086,
+                0.9535204768180847,
+                0.934791624546051,
+                0.9643285274505615,
+                0.952029287815094
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 54.32,
+            "distance": 3.63,
+            "det_conf": [
+                0.9116415977478027,
+                0.9197004437446594,
+                0.9355707764625549,
+                0.9351576566696167,
+                0.897491991519928
+            ]
+        }
+    },
+    "00900": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -56.15,
+            "distance": 1.0,
+            "det_conf": [
+                0.9733226895332336,
+                0.8896471858024597,
+                0.974271833896637,
+                0.9378696084022522,
+                0.9466541409492493
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 60.9,
+            "distance": 3.29,
+            "det_conf": [
+                0.9495445489883423,
+                0.9480096101760864,
+                0.8133418560028076,
+                0.9013869762420654,
+                0.92665034532547
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 64.48,
+            "distance": 3.2,
+            "det_conf": [
+                0.8131410479545593,
+                0.8021222352981567,
+                0.7556453943252563,
+                0.7923813462257385,
+                0.8366397023200989
+            ]
+        }
+    },
+    "00910": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -29.16,
+            "distance": 1.0,
+            "det_conf": [
+                0.8537060618400574,
+                0.8403058052062988,
+                0.8335903286933899,
+                0.8393570184707642,
+                0.8019013404846191
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 76.66,
+            "distance": 2.32,
+            "det_conf": [
+                0.8380847573280334,
+                0.8060560822486877,
+                0.832176685333252,
+                0.8324860334396362,
+                0.7977757453918457
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 74.52,
+            "distance": 2.34,
+            "det_conf": [
+                0.3969564735889435,
+                0.36404114961624146,
+                0.6735324859619141,
+                0.23344120383262634,
+                0.26812493801116943
+            ]
+        }
+    },
+    "00920": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -64.36,
+            "distance": 1.0,
+            "det_conf": [
+                0.8186132311820984,
+                0.8167092800140381,
+                0.8167194724082947,
+                0.8462162017822266,
+                0.5389502048492432
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 62.5,
+            "distance": 3.58,
+            "det_conf": [
+                0.9173696637153625,
+                0.9420967102050781,
+                0.8668550848960876,
+                0.935401201248169,
+                0.6217817664146423
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 67.76,
+            "distance": 3.43,
+            "det_conf": [
+                0.7613614201545715,
+                0.7839695811271667,
+                0.6215529441833496,
+                0.4969344437122345,
+                0.6055679321289062
+            ]
+        }
+    },
+    "00980": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -73.11,
+            "distance": 1.01,
+            "det_conf": [
+                0.8564046621322632,
+                0.828248918056488,
+                0.8122482895851135,
+                0.8357929587364197,
+                0.8795928359031677
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 43.68,
+            "distance": 3.58,
+            "det_conf": [
+                0.9241580963134766,
+                0.9128146767616272,
+                0.9568951725959778,
+                0.4271380603313446,
+                0.49245744943618774
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 53.37,
+            "distance": 3.26,
+            "det_conf": [
+                0.9148812294006348,
+                0.9147940874099731,
+                0.6684889793395996,
+                0.911780059337616,
+                0.8132752180099487
+            ]
+        }
+    },
+    "00985": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -48.62,
+            "distance": 1.0,
+            "det_conf": [
+                0.8718940615653992,
+                0.9186068773269653,
+                0.8234825134277344,
+                0.929468035697937,
+                0.8250254392623901
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 55.88,
+            "distance": 2.64,
+            "det_conf": [
+                0.8205554485321045,
+                0.7523766160011292,
+                0.8170773386955261,
+                0.5716162919998169,
+                0.8826490044593811
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 55.91,
+            "distance": 2.64,
+            "det_conf": [
+                0.7659274339675903,
+                0.8515089154243469,
+                0.8475348949432373,
+                0.426579087972641,
+                0.8513684272766113
+            ]
+        }
+    },
+    "00990": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -45.09,
+            "distance": 1.0,
+            "det_conf": [
+                0.8025724291801453,
+                0.7707577347755432,
+                0.9485763907432556,
+                0.7550627589225769,
+                0.9493935704231262
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 57.52,
+            "distance": 2.51,
+            "det_conf": [
+                0.7348884344100952,
+                0.7745486497879028,
+                0.7181341052055359,
+                0.8437301516532898,
+                0.8148895502090454
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 57.6,
+            "distance": 2.51,
+            "det_conf": [
+                0.8629404902458191,
+                0.872384786605835,
+                0.8836017847061157,
+                0.8370619416236877,
+                0.8418589234352112
+            ]
+        }
+    },
+    "00995": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -49.91,
+            "distance": 1.0,
+            "det_conf": [
+                0.9173735976219177,
+                0.9045457243919373,
+                0.8925600647926331,
+                0.905726432800293,
+                0.8037553429603577
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 58.37,
+            "distance": 2.28,
+            "det_conf": [
+                0.8083966374397278,
+                0.7938562631607056,
+                0.7940368056297302,
+                0.804931104183197,
+                0.816567063331604
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 57.97,
+            "distance": 2.29,
+            "det_conf": [
+                0.8482120037078857,
+                0.784385085105896,
+                0.8201683163642883,
+                0.8009706139564514,
+                0.22189290821552277
+            ]
+        }
+    },
+    "01000": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -48.49,
+            "distance": 1.0,
+            "det_conf": [
+                0.8838567137718201,
+                0.9143429398536682,
+                0.9267119765281677,
+                0.9243890643119812,
+                0.914812445640564
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 60.21,
+            "distance": 2.28,
+            "det_conf": [
+                0.8809053301811218,
+                0.8703485131263733,
+                0.8836440443992615,
+                0.8693339228630066,
+                0.8721879720687866
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 59.92,
+            "distance": 2.29,
+            "det_conf": [
+                0.8138434290885925,
+                0.7723588943481445,
+                0.755094051361084,
+                0.5625593066215515,
+                0.5785275101661682
+            ]
+        }
+    },
+    "01005": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -49.83,
+            "distance": 1.0,
+            "det_conf": [
+                0.93235182762146,
+                0.9116899967193604,
+                0.9147723317146301,
+                0.8615869879722595,
+                0.9235085844993591
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 62.93,
+            "distance": 2.31,
+            "det_conf": [
+                0.8189800381660461,
+                0.8312067985534668,
+                0.8521181344985962,
+                0.7006248235702515,
+                0.8000592589378357
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 62.62,
+            "distance": 2.32,
+            "det_conf": [
+                0.7049033045768738,
+                0.7105863094329834,
+                0.7098371386528015,
+                0.6758227348327637,
+                0.23152509331703186
+            ]
+        }
+    },
+    "01010": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -53.5,
+            "distance": 1.0,
+            "det_conf": [
+                0.9314048290252686,
+                0.9202864766120911,
+                0.9218859672546387,
+                0.9109070897102356,
+                0.8604752421379089
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -1.71,
+            "distance": 4.24,
+            "det_conf": [
+                0.713204026222229,
+                0.29304367303848267,
+                0.8472346067428589,
+                0.10254179686307907,
+                0.8918052911758423
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 62.1,
+            "distance": 2.29,
+            "det_conf": [
+                0.9075577259063721,
+                0.9003262519836426,
+                0.8472891449928284,
+                0.7147972583770752,
+                0.8873469233512878
+            ]
+        }
+    },
+    "01015": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -49.77,
+            "distance": 1.0,
+            "det_conf": [
+                0.922882616519928,
+                0.9315015077590942,
+                0.9365845918655396,
+                0.8385535478591919,
+                0.799372136592865
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 56.74,
+            "distance": 2.15,
+            "det_conf": [
+                0.6633750200271606,
+                0.73869788646698,
+                0.6167356967926025,
+                0.26076966524124146,
+                0.7106265425682068
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 56.54,
+            "distance": 2.16,
+            "det_conf": [
+                0.816085696220398,
+                0.8844953775405884,
+                0.8840579986572266,
+                0.8851775527000427,
+                0.42487019300460815
+            ]
+        }
+    },
+    "01020": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -57.63,
+            "distance": 1.0,
+            "det_conf": [
+                0.9241645932197571,
+                0.968424916267395,
+                0.9706849455833435,
+                0.9400802850723267,
+                0.9280612468719482
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 53.95,
+            "distance": 2.61,
+            "det_conf": [
+                0.9234299063682556,
+                0.9331691861152649,
+                0.8105875253677368,
+                0.8500405550003052,
+                0.9191747903823853
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 53.99,
+            "distance": 2.6,
+            "det_conf": [
+                0.9035384058952332,
+                0.9104322195053101,
+                0.8652781844139099,
+                0.8608415126800537,
+                0.902207612991333
+            ]
+        }
+    },
+    "01080": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -5.04,
+            "distance": 4.04,
+            "det_conf": [
+                0.6090258955955505,
+                0.3375261723995209,
+                0.4503338038921356,
+                0.2813981771469116,
+                0.3154996335506439
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -8.5,
+            "distance": 4.05,
+            "det_conf": [
+                0.8825297951698303,
+                0.8544342517852783,
+                0.7568703889846802,
+                0.7598546743392944,
+                0.6030905842781067
+            ]
+        }
+    },
+    "01090": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -36.4,
+            "distance": 1.0,
+            "det_conf": [
+                0.9192631244659424,
+                0.9112845063209534,
+                0.8954046964645386,
+                0.8044864535331726,
+                0.7004249691963196
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 74.82,
+            "distance": 3.01,
+            "det_conf": [
+                0.8342583775520325,
+                0.8487029671669006,
+                0.8483878374099731,
+                0.8311999440193176,
+                0.6980046033859253
+            ]
+        }
+    },
+    "01100": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -22.07,
+            "distance": 1.0,
+            "det_conf": [
+                0.8153411149978638,
+                0.842377781867981,
+                0.7858391404151917,
+                0.7623761892318726,
+                0.7955631613731384
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -5.52,
+            "distance": 4.56,
+            "det_conf": [
+                0.6886752247810364,
+                0.8299217224121094,
+                0.851469099521637,
+                0.8585901856422424,
+                0.6386690139770508
+            ]
+        }
+    },
+    "01110": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -7.69,
+            "distance": 1.0,
+            "det_conf": [
+                0.8685472011566162,
+                0.9138597249984741,
+                0.9512995481491089,
+                0.8050484657287598,
+                0.7325835824012756
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -0.98,
+            "distance": 4.58,
+            "det_conf": [
+                0.5869175791740417,
+                0.5454779863357544,
+                0.553152322769165,
+                0.2651861608028412,
+                0.10206842422485352
+            ]
+        }
+    },
+    "01120": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -22.25,
+            "distance": 1.0,
+            "det_conf": [
+                0.9401906132698059,
+                0.9197523593902588,
+                0.9625908732414246,
+                0.9493867754936218,
+                0.9388526678085327
+            ]
+        }
+    },
+    "01180": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -49.85,
+            "distance": 1.0,
+            "det_conf": [
+                0.8335592150688171,
+                0.46703386306762695,
+                0.09698323160409927,
+                0.6111264228820801,
+                0.8588377237319946
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 71.23,
+            "distance": 2.6,
+            "det_conf": [
+                0.8333461284637451,
+                0.8348889946937561,
+                0.8059782385826111,
+                0.7907168865203857,
+                0.8712720274925232
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 58.95,
+            "distance": 3.15,
+            "det_conf": [
+                0.4086231291294098,
+                0.6695371270179749,
+                0.7365853190422058,
+                0.17977537214756012,
+                0.5648583769798279
+            ]
+        }
+    },
+    "01185": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -43.03,
+            "distance": 1.0,
+            "det_conf": [
+                0.8440631628036499,
+                0.8659818172454834,
+                0.7050774693489075,
+                0.8816872835159302,
+                0.7729967832565308
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 68.83,
+            "distance": 2.37,
+            "det_conf": [
+                0.8859589099884033,
+                0.8776255249977112,
+                0.8842936754226685,
+                0.8836942315101624,
+                0.8741224408149719
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 68.99,
+            "distance": 2.36,
+            "det_conf": [
+                0.6677762866020203,
+                0.5611485242843628,
+                0.6143258213996887,
+                0.5474056005477905,
+                0.6537284851074219
+            ]
+        }
+    },
+    "01190": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -53.43,
+            "distance": 1.0,
+            "det_conf": [
+                0.8010569214820862,
+                0.7863266468048096,
+                0.7908587455749512,
+                0.7955262064933777,
+                0.8202162981033325
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 68.33,
+            "distance": 2.42,
+            "det_conf": [
+                0.803620457649231,
+                0.7985950708389282,
+                0.778429388999939,
+                0.7307964563369751,
+                0.8060653805732727
+            ]
+        }
+    },
+    "01195": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -41.08,
+            "distance": 1.0,
+            "det_conf": [
+                0.7120504975318909,
+                0.7449981570243835,
+                0.7205429077148438,
+                0.44307586550712585,
+                0.6507135629653931
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 68.01,
+            "distance": 2.58,
+            "det_conf": [
+                0.83774733543396,
+                0.7878119945526123,
+                0.837668240070343,
+                0.546097457408905,
+                0.8148046731948853
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 64.59,
+            "distance": 2.73,
+            "det_conf": [
+                0.43170469999313354,
+                0.47392740845680237,
+                0.535262405872345,
+                0.6394935846328735,
+                0.40643391013145447
+            ]
+        }
+    },
+    "01200": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -54.37,
+            "distance": 1.0,
+            "det_conf": [
+                0.7453184127807617,
+                0.7124178409576416,
+                0.652191162109375,
+                0.6125916242599487,
+                0.7817619442939758
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 69.22,
+            "distance": 2.54,
+            "det_conf": [
+                0.8982751369476318,
+                0.8328312635421753,
+                0.890003502368927,
+                0.8394387364387512,
+                0.8231069445610046
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 67.35,
+            "distance": 2.55,
+            "det_conf": [
+                0.34542325139045715,
+                0.3049096465110779,
+                0.3911125361919403,
+                0.5125919580459595,
+                0.06549094617366791
+            ]
+        }
+    },
+    "01205": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -37.42,
+            "distance": 1.02,
+            "det_conf": [
+                0.8677731156349182,
+                0.20435592532157898,
+                0.7744365334510803,
+                0.3947400152683258,
+                0.518933117389679
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 70.34,
+            "distance": 2.49,
+            "det_conf": [
+                0.8508520126342773,
+                0.872673749923706,
+                0.8723645806312561,
+                0.8140354752540588,
+                0.8733081817626953
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 52.11,
+            "distance": 3.38,
+            "det_conf": [
+                0.08778826147317886,
+                0.5212210416793823,
+                0.5455551147460938,
+                0.07331350445747375,
+                0.575188398361206
+            ]
+        }
+    },
+    "01210": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -52.45,
+            "distance": 1.0,
+            "det_conf": [
+                0.7889159321784973,
+                0.771873950958252,
+                0.7790390849113464,
+                0.8028123378753662,
+                0.8375905156135559
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 70.59,
+            "distance": 2.62,
+            "det_conf": [
+                0.891572892665863,
+                0.8332837820053101,
+                0.8872923254966736,
+                0.866450846195221,
+                0.8617393970489502
+            ]
+        }
+    },
+    "01215": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -34.31,
+            "distance": 1.0,
+            "det_conf": [
+                0.6509230732917786,
+                0.5320124626159668,
+                0.5022618770599365,
+                0.7776426672935486,
+                0.6199750304222107
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 70.25,
+            "distance": 2.69,
+            "det_conf": [
+                0.8919636607170105,
+                0.849895179271698,
+                0.8338348865509033,
+                0.9079685807228088,
+                0.911687970161438
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 70.0,
+            "distance": 2.7,
+            "det_conf": [
+                0.4620017409324646,
+                0.5890244245529175,
+                0.6309037804603577,
+                0.6582639813423157,
+                0.6717641949653625
+            ]
+        }
+    },
+    "01220": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -52.72,
+            "distance": 1.01,
+            "det_conf": [
+                0.9034131169319153,
+                0.8908120393753052,
+                0.8854153156280518,
+                0.8498838543891907,
+                0.8837538957595825
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 66.33,
+            "distance": 2.69,
+            "det_conf": [
+                0.8918681740760803,
+                0.8887466788291931,
+                0.9003153443336487,
+                0.7199224829673767,
+                0.9066343307495117
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 66.25,
+            "distance": 2.69,
+            "det_conf": [
+                0.9016268253326416,
+                0.8618982434272766,
+                0.8796564340591431,
+                0.8975704312324524,
+                0.873190701007843
+            ]
+        }
+    },
+    "01280": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -50.75,
+            "distance": 1.02,
+            "det_conf": [
+                0.7890009880065918,
+                0.6071739196777344,
+                0.8112378120422363,
+                0.7327914237976074,
+                0.5924667716026306
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 52.52,
+            "distance": 3.03,
+            "det_conf": [
+                0.9248298406600952,
+                0.928240954875946,
+                0.8676837682723999,
+                0.7990217208862305,
+                0.9347401857376099
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 52.34,
+            "distance": 3.03,
+            "det_conf": [
+                0.8471786379814148,
+                0.8521299362182617,
+                0.8313217163085938,
+                0.14565932750701904,
+                0.8481103181838989
+            ]
+        }
+    },
+    "01290": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -69.41,
+            "distance": 1.0,
+            "det_conf": [
+                0.8946232199668884,
+                0.8675422668457031,
+                0.905230700969696,
+                0.9097228646278381,
+                0.5050761699676514
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 45.52,
+            "distance": 2.68,
+            "det_conf": [
+                0.946381151676178,
+                0.943676233291626,
+                0.9409555196762085,
+                0.8687037229537964,
+                0.9305011034011841
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 45.63,
+            "distance": 2.67,
+            "det_conf": [
+                0.9322733879089355,
+                0.9321730732917786,
+                0.9343615174293518,
+                0.934378981590271,
+                0.922453761100769
+            ]
+        }
+    },
+    "01300": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -60.25,
+            "distance": 1.0,
+            "det_conf": [
+                0.7738596200942993,
+                0.7308748364448547,
+                0.7481985688209534,
+                0.7807028293609619,
+                0.804894208908081
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 43.12,
+            "distance": 3.67,
+            "det_conf": [
+                0.9194894433021545,
+                0.923503577709198,
+                0.9360878467559814,
+                0.9094621539115906,
+                0.9202713966369629
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 41.97,
+            "distance": 3.7,
+            "det_conf": [
+                0.8881301879882812,
+                0.8909536004066467,
+                0.8433129787445068,
+                0.8979383111000061,
+                0.8786193132400513
+            ]
+        }
+    },
+    "01310": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -63.78,
+            "distance": 1.0,
+            "det_conf": [
+                0.7129595279693604,
+                0.6565167903900146,
+                0.7206242680549622,
+                0.7411651611328125,
+                0.7393662333488464
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 3.05,
+            "distance": 4.75,
+            "det_conf": [
+                0.9326889514923096,
+                0.9324437379837036,
+                0.7764394879341125,
+                0.9301813840866089,
+                0.9410021901130676
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 8.47,
+            "distance": 4.63,
+            "det_conf": [
+                0.9073053598403931,
+                0.8600692749023438,
+                0.910771369934082,
+                0.7709546089172363,
+                0.7659075856208801
+            ]
+        }
+    },
+    "01320": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -29.06,
+            "distance": 1.0,
+            "det_conf": [
+                0.6243640780448914,
+                0.6448089480400085,
+                0.6253469586372375,
+                0.6953303217887878,
+                0.7431650161743164
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 31.75,
+            "distance": 4.32,
+            "det_conf": [
+                0.922549307346344,
+                0.9263822436332703,
+                0.9256309270858765,
+                0.9266296625137329,
+                0.8064114451408386
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 23.1,
+            "distance": 4.46,
+            "det_conf": [
+                0.8960156440734863,
+                0.9057592749595642,
+                0.8337141275405884,
+                0.9070048928260803,
+                0.9046730399131775
+            ]
+        }
+    },
+    "01340": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -48.56,
+            "distance": 1.0,
+            "det_conf": [
+                0.757636547088623,
+                0.74078369140625,
+                0.5225469470024109,
+                0.8042938709259033,
+                0.7733498215675354
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 20.04,
+            "distance": 4.47,
+            "det_conf": [
+                0.9573454260826111,
+                0.9376124143600464,
+                0.9313092827796936,
+                0.9546783566474915,
+                0.9514912962913513
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 20.88,
+            "distance": 4.45,
+            "det_conf": [
+                0.8964155912399292,
+                0.8989031314849854,
+                0.8940451145172119,
+                0.890738844871521,
+                0.8842319846153259
+            ]
+        }
+    },
+    "01345": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 44.33,
+            "distance": 3.91,
+            "det_conf": [
+                0.9556397795677185,
+                0.940274715423584,
+                0.920983612537384,
+                0.9592016935348511,
+                0.9408939480781555
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 44.06,
+            "distance": 3.93,
+            "det_conf": [
+                0.9323663115501404,
+                0.9577751159667969,
+                0.9391477108001709,
+                0.8352553248405457,
+                0.9424565434455872
+            ]
+        }
+    },
+    "01350": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 42.74,
+            "distance": 4.09,
+            "det_conf": [
+                0.9619803428649902,
+                0.9361152052879333,
+                0.9557394981384277,
+                0.9078487753868103,
+                0.8244338631629944
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 42.56,
+            "distance": 4.09,
+            "det_conf": [
+                0.9438971281051636,
+                0.9442477226257324,
+                0.946827232837677,
+                0.9386600852012634,
+                0.8801403641700745
+            ]
+        }
+    },
+    "01355": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 49.22,
+            "distance": 3.74,
+            "det_conf": [
+                0.9605759382247925,
+                0.9604254961013794,
+                0.9632591605186462,
+                0.9392894506454468,
+                0.9569852352142334
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 45.5,
+            "distance": 3.8,
+            "det_conf": [
+                0.9562647938728333,
+                0.8586352467536926,
+                0.948870062828064,
+                0.9650750756263733,
+                0.9569326043128967
+            ]
+        }
+    },
+    "01360": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 51.52,
+            "distance": 3.45,
+            "det_conf": [
+                0.9366491436958313,
+                0.9237116575241089,
+                0.9176610708236694,
+                0.9184678792953491,
+                0.9307133555412292
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 31.24,
+            "distance": 3.88,
+            "det_conf": [
+                0.8682073354721069,
+                0.8986377120018005,
+                0.8253612518310547,
+                0.8386450409889221,
+                0.5252466797828674
+            ]
+        }
+    },
+    "01365": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -3.54,
+            "distance": 4.08,
+            "det_conf": [
+                0.948183536529541,
+                0.9571585059165955,
+                0.9267867207527161,
+                0.9371362924575806,
+                0.26130643486976624
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 50.39,
+            "distance": 3.39,
+            "det_conf": [
+                0.9590417742729187,
+                0.9358502626419067,
+                0.9383664131164551,
+                0.9489884376525879,
+                0.8995864987373352
+            ]
+        }
+    },
+    "01370": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 42.67,
+            "distance": 3.5,
+            "det_conf": [
+                0.898124635219574,
+                0.8062189817428589,
+                0.8218693137168884,
+                0.8656484484672546,
+                0.9083036780357361
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 45.86,
+            "distance": 3.47,
+            "det_conf": [
+                0.9515284299850464,
+                0.9498041868209839,
+                0.9607980847358704,
+                0.9354416728019714,
+                0.9499385356903076
+            ]
+        }
+    },
+    "01375": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -10.96,
+            "distance": 4.37,
+            "det_conf": [
+                0.8826992511749268,
+                0.8503978252410889,
+                0.8828675150871277,
+                0.3217184245586395,
+                0.8605460524559021
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 32.1,
+            "distance": 4.1,
+            "det_conf": [
+                0.9346457123756409,
+                0.6813337802886963,
+                0.9526578783988953,
+                0.8717820048332214,
+                0.9540807604789734
+            ]
+        }
+    },
+    "01380": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 28.04,
+            "distance": 4.19,
+            "det_conf": [
+                0.8521420359611511,
+                0.7493050694465637,
+                0.506820559501648,
+                0.2866746187210083,
+                0.7622344493865967
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 27.43,
+            "distance": 4.34,
+            "det_conf": [
+                0.9461137652397156,
+                0.9626253247261047,
+                0.9347304701805115,
+                0.7894048094749451,
+                0.9134535789489746
+            ]
+        }
+    },
+    "01385": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -1.75,
+            "distance": 4.38,
+            "det_conf": [
+                0.8399972319602966,
+                0.8430840373039246,
+                0.8594712018966675,
+                0.6584258079528809,
+                0.4335920214653015
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 29.93,
+            "distance": 4.33,
+            "det_conf": [
+                0.941015899181366,
+                0.9354409575462341,
+                0.9111651182174683,
+                0.8677091598510742,
+                0.9516981244087219
+            ]
+        }
+    },
+    "01390": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 14.66,
+            "distance": 4.37,
+            "det_conf": [
+                0.7837206721305847,
+                0.7405681610107422,
+                0.7529231905937195,
+                0.5086156129837036,
+                0.3654693067073822
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 25.38,
+            "distance": 4.16,
+            "det_conf": [
+                0.8542944192886353,
+                0.7835540771484375,
+                0.8123730421066284,
+                0.7651897072792053,
+                0.869454026222229
+            ]
+        }
+    },
+    "01395": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 14.85,
+            "distance": 4.08,
+            "det_conf": [
+                0.7960723638534546,
+                0.6557453274726868,
+                0.44657671451568604,
+                0.6856809258460999,
+                0.7070109248161316
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 12.86,
+            "distance": 4.2,
+            "det_conf": [
+                0.9345927238464355,
+                0.9296371936798096,
+                0.8597050309181213,
+                0.9423375725746155,
+                0.5981392860412598
+            ]
+        }
+    },
+    "01400": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -23.48,
+            "distance": 4.0,
+            "det_conf": [
+                0.5744219422340393,
+                0.30543988943099976,
+                0.4919234812259674,
+                0.35934731364250183,
+                0.17645519971847534
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -13.52,
+            "distance": 4.0,
+            "det_conf": [
+                0.8785345554351807,
+                0.880125105381012,
+                0.9251742959022522,
+                0.8035359382629395,
+                0.8644884824752808
+            ]
+        }
+    },
+    "01405": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -31.05,
+            "distance": 3.21,
+            "det_conf": [
+                0.4984897971153259,
+                0.3141951262950897,
+                0.6414297223091125,
+                0.41921254992485046,
+                0.6426655650138855
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -30.92,
+            "distance": 3.16,
+            "det_conf": [
+                0.9409281611442566,
+                0.9450294971466064,
+                0.9315550923347473,
+                0.9408440589904785,
+                0.9129766225814819
+            ]
+        }
+    },
+    "01410": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -58.61,
+            "distance": 2.64,
+            "det_conf": [
+                0.7590826153755188,
+                0.7724164128303528,
+                0.6418635249137878,
+                0.5995460152626038,
+                0.6698666214942932
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -64.67,
+            "distance": 2.57,
+            "det_conf": [
+                0.9517068862915039,
+                0.9415403008460999,
+                0.9543395042419434,
+                0.9561501145362854,
+                0.9460652470588684
+            ]
+        }
+    },
+    "01415": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -60.29,
+            "distance": 2.52,
+            "det_conf": [
+                0.7467017769813538,
+                0.7635254263877869,
+                0.7395581007003784,
+                0.8308823108673096,
+                0.823813259601593
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 68.82,
+            "distance": 2.09,
+            "det_conf": [
+                0.9499826431274414,
+                0.9490061402320862,
+                0.9453564286231995,
+                0.24925513565540314,
+                0.9397646188735962
+            ]
+        }
+    },
+    "01420": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -59.11,
+            "distance": 2.42,
+            "det_conf": [
+                0.6706581115722656,
+                0.8333778977394104,
+                0.8049426078796387,
+                0.7609935998916626,
+                0.6335963606834412
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 73.2,
+            "distance": 2.0,
+            "det_conf": [
+                0.9228485822677612,
+                0.9412002563476562,
+                0.9186429977416992,
+                0.9267948269844055,
+                0.880181074142456
+            ]
+        }
+    },
+    "01430": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -49.03,
+            "distance": 2.34,
+            "det_conf": [
+                0.8153932094573975,
+                0.7678121328353882,
+                0.8082514405250549,
+                0.7593817710876465,
+                0.5397759079933167
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -69.3,
+            "distance": 2.0,
+            "det_conf": [
+                0.9664266109466553,
+                0.968472421169281,
+                0.9577239155769348,
+                0.9624106287956238,
+                0.9678105115890503
+            ]
+        }
+    },
+    "01440": {
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": -42.57,
+            "distance": 1.81,
+            "det_conf": [
+                0.15341733396053314,
+                0.6810504198074341,
+                0.24726147949695587,
+                0.6571494936943054,
+                0.12436160445213318
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -50.86,
+            "distance": 1.82,
+            "det_conf": [
+                0.9205608367919922,
+                0.9186255931854248,
+                0.8997313380241394,
+                0.8154694437980652,
+                0.6776571869850159
+            ]
+        }
+    },
+    "01450": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -81.93,
+            "distance": 1.96,
+            "det_conf": [
+                0.8516256213188171,
+                0.7642439007759094,
+                0.4974691867828369,
+                0.7598394751548767,
+                0.6546777486801147
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 74.76,
+            "distance": 2.28,
+            "det_conf": [
+                0.8630796074867249,
+                0.8666325807571411,
+                0.8820239901542664,
+                0.8355266451835632,
+                0.8851368427276611
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 76.76,
+            "distance": 2.14,
+            "det_conf": [
+                0.8659149408340454,
+                0.8327828049659729,
+                0.7528079748153687,
+                0.8346672654151917,
+                0.623223602771759
+            ]
+        }
+    },
+    "01460": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -65.65,
+            "distance": 1.94,
+            "det_conf": [
+                0.9623563289642334,
+                0.9512495994567871,
+                0.9691199064254761,
+                0.9449642300605774,
+                0.9670925140380859
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -6.93,
+            "distance": 1.92,
+            "det_conf": [
+                0.03281918168067932,
+                0.26898348331451416,
+                0.5849625468254089,
+                0.62857586145401,
+                0.7024168968200684
+            ]
+        }
+    },
+    "01470": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -53.2,
+            "distance": 2.0,
+            "det_conf": [
+                0.9317929744720459,
+                0.938405454158783,
+                0.9128824472427368,
+                0.9370697140693665,
+                0.9315481781959534
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -18.58,
+            "distance": 2.36,
+            "det_conf": [
+                0.5441365242004395,
+                0.5460934638977051,
+                0.04335978627204895,
+                0.5163151025772095,
+                0.35930779576301575
+            ]
+        }
+    },
+    "01480": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -34.16,
+            "distance": 2.01,
+            "det_conf": [
+                0.8542117476463318,
+                0.8440865278244019,
+                0.811232328414917,
+                0.6568721532821655,
+                0.5306019186973572
+            ]
+        }
+    },
+    "01490": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -49.72,
+            "distance": 1.97,
+            "det_conf": [
+                0.8986713290214539,
+                0.9115232229232788,
+                0.9217035174369812,
+                0.7955062389373779,
+                0.9153045415878296
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 25.24,
+            "distance": 4.95,
+            "det_conf": [
+                0.6262073516845703,
+                0.6225067377090454,
+                0.5059208869934082,
+                0.36536914110183716,
+                0.43703851103782654
+            ]
+        }
+    },
+    "01500": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -47.73,
+            "distance": 2.01,
+            "det_conf": [
+                0.9068598747253418,
+                0.9394854307174683,
+                0.941178560256958,
+                0.9246761798858643,
+                0.9281641244888306
+            ]
+        }
+    },
+    "01520": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -72.8,
+            "distance": 1.0,
+            "det_conf": [
+                0.8754467964172363,
+                0.8356896638870239,
+                0.8355148434638977,
+                0.8503511548042297,
+                0.8161807656288147
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 60.64,
+            "distance": 3.07,
+            "det_conf": [
+                0.7501784563064575,
+                0.8663824796676636,
+                0.8674184679985046,
+                0.7467476725578308,
+                0.28142035007476807
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 49.68,
+            "distance": 3.42,
+            "det_conf": [
+                0.7089205384254456,
+                0.7527475357055664,
+                0.6759446263313293,
+                0.7577952146530151,
+                0.7642676830291748
+            ]
+        }
+    },
+    "01530": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -78.45,
+            "distance": 1.0,
+            "det_conf": [
+                0.6377221345901489,
+                0.6115803122520447,
+                0.658399760723114,
+                0.6067085862159729,
+                0.6608117818832397
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 79.56,
+            "distance": 2.0,
+            "det_conf": [
+                0.7247374653816223,
+                0.6930923461914062,
+                0.6797868609428406,
+                0.6773573160171509,
+                0.658790111541748
+            ]
+        }
+    },
+    "01540": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -74.22,
+            "distance": 1.0,
+            "det_conf": [
+                0.7111603617668152,
+                0.8064782619476318,
+                0.8078619241714478,
+                0.7653815746307373,
+                0.8185176253318787
+            ]
+        }
+    },
+    "01660": {
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 32.85,
+            "distance": 1.19,
+            "det_conf": [
+                0.6275705099105835,
+                0.6126163601875305,
+                0.6566189527511597,
+                0.49719834327697754,
+                0.47741448879241943
+            ]
+        }
+    },
+    "01680": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -64.13,
+            "distance": 1.0,
+            "det_conf": [
+                0.8881281018257141,
+                0.9006508588790894,
+                0.9087716937065125,
+                0.8963627219200134,
+                0.6743086576461792
+            ]
+        }
+    },
+    "01690": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -60.94,
+            "distance": 1.0,
+            "det_conf": [
+                0.8172536492347717,
+                0.8147928714752197,
+                0.8168441653251648,
+                0.8279126286506653,
+                0.8391250371932983
+            ]
+        }
+    },
+    "01700": {
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": -44.39,
+            "distance": 1.02,
+            "det_conf": [
+                0.5029582977294922,
+                0.3832854628562927,
+                0.18864087760448456,
+                0.4793846309185028,
+                0.23517264425754547
+            ]
+        }
+    },
+    "01740": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": 2.56,
+            "distance": 3.13,
+            "det_conf": [
+                0.6186192631721497,
+                0.6319039463996887,
+                0.4896206557750702,
+                0.27110692858695984,
+                0.5495507717132568
+            ]
+        },
+        "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.": {
+            "direction": 54.11,
+            "distance": 1.58,
+            "det_conf": [
+                0.5748580694198608,
+                0.6065018177032471,
+                0.5923314094543457,
+                0.5946949124336243,
+                0.49905964732170105
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 54.43,
+            "distance": 1.58,
+            "det_conf": [
+                0.792590320110321,
+                0.7227643728256226,
+                0.7628421783447266,
+                0.8507463335990906,
+                0.7112398743629456
+            ]
+        }
+    },
+    "01750": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": 3.67,
+            "distance": 3.86,
+            "det_conf": [
+                0.6396574378013611,
+                0.5052558779716492,
+                0.7024786472320557,
+                0.6355344653129578,
+                0.15210922062397003
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 3.5,
+            "distance": 1.67,
+            "det_conf": [
+                0.6485899090766907,
+                0.6477420926094055,
+                0.641734778881073,
+                0.6672267317771912,
+                0.07123097032308578
+            ]
+        }
+    },
+    "01760": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": -0.71,
+            "distance": 3.83,
+            "det_conf": [
+                0.5878185629844666,
+                0.43863239884376526,
+                0.4782741367816925,
+                0.023889636620879173,
+                0.526247501373291
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 55.25,
+            "distance": 1.48,
+            "det_conf": [
+                0.7040286064147949,
+                0.6857188940048218,
+                0.6026373505592346,
+                0.6934483051300049,
+                0.6827449202537537
+            ]
+        }
+    },
+    "01770": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": 8.95,
+            "distance": 3.67,
+            "det_conf": [
+                0.7201997637748718,
+                0.740745484828949,
+                0.4074709117412567,
+                0.8228094577789307,
+                0.6671879887580872
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 56.57,
+            "distance": 1.13,
+            "det_conf": [
+                0.38507112860679626,
+                0.5628316402435303,
+                0.5796740651130676,
+                0.44879016280174255,
+                0.4473225772380829
+            ]
+        }
+    },
+    "01780": {
+        "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.": {
+            "direction": 10.76,
+            "distance": 3.02,
+            "det_conf": [
+                0.43479135632514954,
+                0.5598450899124146,
+                0.5101333856582642,
+                0.17467351257801056,
+                0.0005702575435861945
+            ]
+        },
+        "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.": {
+            "direction": 57.92,
+            "distance": 1.22,
+            "det_conf": [
+                0.6733905076980591,
+                0.7808897495269775,
+                0.7466440200805664,
+                0.7673216462135315,
+                0.7355747818946838
+            ]
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "event": "Speaker offers creamer while in the kitchen.",
+    "start_time": "0:09",
+    "end_time": "0:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing glasses, a black short-sleeved crop top, and light blue denim shorts. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-35"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:09": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:48": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:59": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:33": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:52": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:31": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:43": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:55": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:15": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "kitchen hob",
+        "description": "A stainless steel gas kitchen hob with multiple burners, built into the white countertop. It is located to the right of the kitchen sink area.",
+        "key_frames": {
+            "0:07": {
+                "distance": "1.2",
+                "direction": "-90"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "0:43": {
+                "distance": "1.2",
+                "direction": "-90"
+            },
+            "0:46": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "1:13": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "1:19": {
+                "distance": "1.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "countertop oven",
+        "description": "A silver and black countertop appliance, likely a toaster oven or microwave, situated on the kitchen counter to the right of the kitchen hob.",
+        "key_frames": {
+            "0:07": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:19": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:46": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "1:13": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "1:19": {
+                "distance": "0.6",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the kitchen hob and facing the countertop oven, when the speech topic: \"offering creamer\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_41",
+    "video_id": "loc1_script2_seq4_rec2"
+}

@@ -1,0 +1,132 @@
+{
+    "event": "A creak and thud sound, likely a door closing.",
+    "start_time": "1:31",
+    "end_time": "1:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden front door, approximately 0.8 meters wide and 2 meters tall. It has a black handle, a small arched window at the top, and a wreath hanging on it. The sound is produced when this door closes.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-25"
+            },
+            "0:25": {
+                "distance": "4.2",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "1:01": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "1:32": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric upholstered three-seater couch, approximately 2 to 2.5 meters wide. It has several decorative pillows (e.g., yellow, patterned).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "170"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "160"
+            },
+            "1:15": {
+                "distance": "3.8",
+                "direction": "165"
+            },
+            "1:20": {
+                "distance": "4.0",
+                "direction": "170"
+            },
+            "1:32": {
+                "distance": "4.0",
+                "direction": "170"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door (Sounding Object)",
+        "description": "This is the same as the sounding object. A dark brown wooden front door.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-25"
+            },
+            "0:25": {
+                "distance": "4.2",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "3.8",
+                "direction": "-15"
+            },
+            "1:01": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "1:32": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.0,
+    "question": "When the creak and thud sound is happening, what is the distance between the light-gray three-seater couch and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_78",
+    "video_id": "loc1_script2_seq8_rec2"
+}

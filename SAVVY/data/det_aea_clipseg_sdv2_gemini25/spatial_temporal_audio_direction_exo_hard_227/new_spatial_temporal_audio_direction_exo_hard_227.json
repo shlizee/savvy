@@ -1,0 +1,144 @@
+{
+    "event": "A speaker expresses concern about using metal utensils while another person is cooking.",
+    "start_time": "01:41",
+    "end_time": "01:46",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is the person holding the camera. Likely male, wearing a dark (black or navy) short-sleeved shirt. A watch is visible on the left wrist. This person is providing a first-person perspective.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black glass-ceramic electric cooktop, built into a kitchen island with a granite countertop. It has touch controls and multiple burners. It is located centrally in the kitchen on an island.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:06": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:26": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:53": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "01:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:19": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "01:44": {
+                "distance": "1.8",
+                "direction": "-100"
+            },
+            "02:01": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "02:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:37": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "02:44": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with Pool View",
+        "description": "Large sliding glass doors/windows making up one wall of the kitchen/dining area, offering a view of an outdoor swimming pool, patio, and greenery. These are located opposite the main kitchen work area containing the island.",
+        "key_frames": {
+            "00:00": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "00:07": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "00:30": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "01:06": {
+                "distance": "5.0",
+                "direction": "5"
+            },
+            "01:44": {
+                "distance": "6.0",
+                "direction": "45"
+            },
+            "01:59": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "02:21": {
+                "distance": "5.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the window with a pool view, when the speech topic: \"expressing concern about using metal utensils\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_227",
+    "video_id": "loc2_script3_seq32_rec2"
+}

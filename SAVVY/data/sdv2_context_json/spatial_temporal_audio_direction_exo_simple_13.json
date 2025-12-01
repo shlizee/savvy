@@ -1,0 +1,164 @@
+{
+    "event": "Identifying the relative direction of a creak and thud sound (barn door closing) from a robot's perspective, where the robot is standing by the TV and facing the wooden china cabinet.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A large, grey, wooden sliding barn door with a diagonal cross-brace pattern, approximately 2 meters wide and 2.5 meters tall. It slides on an exposed black metal track mounted above it. The sound is the creak of the door sliding and the thud as it closes.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:31": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "1:29": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "1:31": {
+                "distance": "3.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A black flat-screen television, approximately 50-55 inch diagonal, positioned on a light-colored wooden media console. The console is below the TV, and this setup is to the right of a white fireplace.",
+        "key_frames": {
+            "0:10": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:43": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "35"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:25": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:41": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:52": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:57": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "A tall, dark brown wooden china cabinet with two glass-paned upper doors and solid lower doors/drawers. It contains multiple shelves displaying white and patterned china. Approximately 1 meter wide and 2 meters tall. It is located to the left of a large sofa and to the right of the barn door.",
+        "key_frames": {
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-35"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:31": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:41": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:46": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:52": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:57": {
+                "distance": "2.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the tv and facing the wooden china cabinet, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_13",
+    "video_id": "loc1_script2_seq1_rec2"
+}

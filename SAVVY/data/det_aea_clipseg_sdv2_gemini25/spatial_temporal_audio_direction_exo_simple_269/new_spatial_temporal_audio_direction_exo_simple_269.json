@@ -1,0 +1,124 @@
+{
+    "event": "A person apologizes for a potentially dangerous incident (dropping a knife).",
+    "start_time": "02:55",
+    "end_time": "02:58",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person wearing a grey short-sleeved polo shirt, dark blue/black shorts, and glasses. They have curly dark hair. Approximate height appears average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "00:02": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:16": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:32": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "00:45": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "00:53": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "02:12": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "02:18": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "02:38": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "02:56": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "03:10": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "03:25": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "03:38": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "03:44": {
+                "distance": "2.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A built-in stainless steel dishwasher, located to the right of a double-basin kitchen sink. Standard under-counter size.",
+        "key_frames": {
+            "01:19": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "02:17": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "02:47": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "03:09": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "03:27": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "03:36": {
+                "distance": "1.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry on the wall opposite the sink/dishwasher area. Standard width for a double oven.",
+        "key_frames": {
+            "00:12": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "00:23": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "01:17": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "02:15": {
+                "distance": "3.2",
+                "direction": "15"
+            },
+            "03:31": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"apologizing for potentially dangerous incident\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_269",
+    "video_id": "loc2_script3_seq5_rec2"
+}

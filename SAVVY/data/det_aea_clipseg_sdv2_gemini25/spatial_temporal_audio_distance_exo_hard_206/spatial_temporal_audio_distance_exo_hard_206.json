@@ -1,0 +1,158 @@
+{
+    "event": "Commenting on meat toughness, specifically when the speaker says 'A little underdone.'",
+    "start_time": "01:48",
+    "end_time": "01:49",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person holding the camera and speaking. The camera is the point of view.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "04:05": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "A standard built-in dishwasher with a stainless steel front panel, located to the left of the kitchen sink, under the granite countertop. Approximately 60cm wide.",
+        "is_static": true,
+        "key_frames": {
+            "00:09": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "00:10": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "00:11": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "00:16": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:17": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "00:31": {
+                "distance": "3.8",
+                "direction": "-75"
+            },
+            "00:37": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "00:59": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "01:10": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "01:48": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "02:05": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "02:30": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "03:15": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "03:45": {
+                "distance": "3.8",
+                "direction": "-85"
+            },
+            "04:00": {
+                "distance": "3.8",
+                "direction": "-85"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Island",
+        "description": "A wooden kitchen island with a granite countertop, located centrally in the kitchen area, between the main counter line and the small dining table.",
+        "is_static": true,
+        "key_frames": {
+            "00:06": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:07": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "00:32": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "00:37": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "01:10": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "01:48": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "02:15": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "03:00": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "03:50": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": 3.8,
+    "question": "When the speech topic: \"commenting on meat toughness\" is mentioned, what is the distance between the built-in stainless steel dishwasher and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_206",
+    "video_id": "loc2_script3_seq4_rec1"
+}

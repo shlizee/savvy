@@ -1,0 +1,100 @@
+{
+    "event": "The other person suggests sitting down.",
+    "start_time": "0:04",
+    "end_time": "0:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with blurred face, wearing a grey short-sleeved collared shirt, black shorts, and black sneakers with white soles. They have dark, curly hair and are holding a black smartphone in their right hand and what appears to be wired earbuds connected to it, with one earbud in their right ear. They are of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.8",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.1",
+                "direction": "12"
+            },
+            "0:40": {
+                "distance": "2.1",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:00": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:10": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "1:20": {
+                "distance": "2.2",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose hands are visible holding a smartphone and a power bank.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting sitting down\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_166",
+    "video_id": "loc2_script3_seq2_rec2"
+}

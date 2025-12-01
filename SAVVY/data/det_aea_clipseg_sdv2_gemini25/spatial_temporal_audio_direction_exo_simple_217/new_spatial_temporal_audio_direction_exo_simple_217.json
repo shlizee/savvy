@@ -1,0 +1,148 @@
+{
+    "event": "Speech topic: clarifying previous statement about not using time codes with david",
+    "start_time": "0:36",
+    "end_time": "0:47",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, short dark hair, wearing glasses, a turquoise/light blue short-sleeved polo shirt, and khaki shorts. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "1:07": {
+                "distance": "1.5",
+                "direction": "35"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "50"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "2:12": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "Black, flat, rectangular glass-ceramic electric cooktop, likely an induction type, with touch controls. Integrated into a light-colored granite kitchen countertop. Approximate size 0.8m x 0.5m.",
+        "key_frames": {
+            "0:17": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:17": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "window with pool view",
+        "description": "Large, multi-panelled glass sliding doors or windows, offering a clear view of an outdoor swimming pool and patio area. The window frames are dark.",
+        "key_frames": {
+            "0:14": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:17": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the window with a pool view, when the speech topic: \"clarifying previous statement about not using time codes with david\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_217",
+    "video_id": "loc2_script3_seq31_rec2"
+}

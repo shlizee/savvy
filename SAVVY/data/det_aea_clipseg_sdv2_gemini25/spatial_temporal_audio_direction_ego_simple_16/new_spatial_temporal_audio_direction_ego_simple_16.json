@@ -1,0 +1,184 @@
+{
+    "event": "Water dripping sound from Keurig coffee machine as it brews coffee.",
+    "start_time": "1:56",
+    "end_time": "2:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Black, single-serve coffee machine, likely a Keurig K-Mini or similar model. It is located on the white kitchen countertop, under white upper cabinets, to the right of the sink area and left of the stove. It has a silver drip tray area. Approximate dimensions: 30cm height x 15cm width x 30cm depth.",
+        "is_static": true,
+        "key_frames": {
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:08": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "2:48": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "3:01": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "3:12": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person viewpoint of the guest.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:10": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Host",
+        "description": "Woman with long dark curly/wavy hair, wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans with a black belt.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:08": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:59": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the water dripping sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_16",
+    "video_id": "loc1_script2_seq3_rec1"
+}

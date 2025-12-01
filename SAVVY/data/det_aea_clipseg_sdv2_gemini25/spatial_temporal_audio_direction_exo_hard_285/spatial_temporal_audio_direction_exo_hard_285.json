@@ -1,0 +1,222 @@
+{
+    "event": "Imagine you are a robot standing by the light-gray three-seater couch and facing the rectangular wooden coffee table, when the speech topic: \"asking about adding water to coffee maker\" comes up, relative to where you are facing, where is the speaker.",
+    "start_time": "0:11",
+    "end_time": "0:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a white t-shirt, a yellow knitted vest, light blue jeans, and glasses. She is also wearing socks.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "1.7",
+                "direction": "50"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "0:08": {
+                "distance": "3.2",
+                "direction": "60"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:14": {
+                "distance": "2.6",
+                "direction": "15"
+            },
+            "0:20": {
+                "distance": "2.8",
+                "direction": "15"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:44": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:57": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:07": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:33": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:44": {
+                "distance": "2.4",
+                "direction": "-10"
+            },
+            "1:58": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:08": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:23": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:35": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "3:07": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A modern, light-gray fabric three-seater couch with wooden legs. It has several pillows on it, including one with a large 'L' and another with a colorful geometric pattern.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:05": {
+                "distance": "1.6",
+                "direction": "65"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "85"
+            },
+            "0:30": {
+                "distance": "3.2",
+                "direction": "80"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:00": {
+                "distance": "3.3",
+                "direction": "80"
+            },
+            "1:30": {
+                "distance": "3.1",
+                "direction": "78"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "2:30": {
+                "distance": "3.4",
+                "direction": "82"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "85"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A light-colored wooden rectangular coffee table. It has a colorful patterned runner, a white rabbit figurine, books, and a small orange and yellow object on it.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "2.8",
+                "direction": "-55"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "2.9",
+                "direction": "-58"
+            },
+            "0:45": {
+                "distance": "2.7",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "-55"
+            },
+            "1:30": {
+                "distance": "2.9",
+                "direction": "-57"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "2:30": {
+                "distance": "3.0",
+                "direction": "-58"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the rectangular wooden coffee table, when the speech topic: \"asking about adding water to coffee maker\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_285",
+    "video_id": "loc3_script2_seq3_rec1"
+}

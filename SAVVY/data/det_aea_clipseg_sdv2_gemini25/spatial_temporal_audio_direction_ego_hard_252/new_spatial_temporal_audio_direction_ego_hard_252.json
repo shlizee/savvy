@@ -1,0 +1,111 @@
+{
+    "event": "Determine the relative position of the other person when the speech topic 'suggesting wiping down stovetop' comes up.",
+    "start_time": "01:03",
+    "end_time": "01:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly brown hair, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He is also wearing glasses and has headphones around his neck.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "00:06": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "00:16": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "00:32": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "00:46": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:49": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "00:59": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "01:12": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "01:54": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:12": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:18": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:25": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:38": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:47": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "03:06": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "03:14": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "03:19": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "03:27": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "03:38": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "03:43": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting wiping down stovetop\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_252",
+    "video_id": "loc2_script3_seq5_rec2"
+}

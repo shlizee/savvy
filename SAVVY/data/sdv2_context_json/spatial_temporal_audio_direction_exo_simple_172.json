@@ -1,0 +1,188 @@
+{
+    "event": "The speech topic: \"suggesting placing words on the board\" comes up.",
+    "start_time": "0:58",
+    "end_time": "1:00",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Person 1), wearing a light-colored (beige/light grey) t-shirt, light blue shorts, and glasses. He has dark hair. He is sitting at the kitchen island on the left side from the camera's perspective.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:16": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:46": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:58": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "1:55": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:50": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "3:05": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "3:30": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "3:50": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "4:10": {
+                "distance": "1.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, flat, rectangular electric cooktop, likely ceramic glass, embedded in the kitchen island countertop. It is located to the right of the sink from the camera's initial point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "Stainless steel double-basin rectangular sink embedded in the kitchen island countertop, with a gooseneck tap. It is located to the left of the cooktop from the camera's initial point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "3:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "4:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the double-basin rectangular sink and tap, when the speech topic: \"suggesting placing words on the board\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_172",
+    "video_id": "loc2_script2_seq5_rec2"
+}

@@ -1,0 +1,192 @@
+{
+    "event": "The speech topic: \"stating need to click piece in\" comes up.",
+    "start_time": "0:47",
+    "end_time": "0:48",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with blurred face, wearing a light green/teal polo shirt and a gold-colored watch on his left wrist. He has short, receding dark hair and is wearing a wired in-ear headphone in his left ear, with the wire running down his shirt. He is sitting at a wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "1.1",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "1.3",
+                "direction": "-8"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:47": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:25": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:55": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "2:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A modern-style fireplace, appearing as a white rectangular structure built into the wall, with a dark, recessed firebox. It is located in the living room area, to the left side of the camera's view.",
+        "key_frames": {
+            "0:02": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "3.6",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:40": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray two-seater couch",
+        "description": "A light-gray fabric two-seater couch with light-colored wooden legs. A dark-colored blanket with the word \"NOBODY\" in large white capital letters is draped over its back. It is located in the living room area, to the left of the fireplace from the camera's perspective.",
+        "key_frames": {
+            "0:02": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "0:10": {
+                "distance": "3.1",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:10": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:40": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:50": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the fireplace and facing the light-gray two-seater couch, when the speech topic: \"stating need to click piece in\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_332",
+    "video_id": "loc3_script2_seq5_rec1"
+}

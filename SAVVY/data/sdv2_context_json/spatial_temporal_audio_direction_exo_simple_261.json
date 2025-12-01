@@ -1,0 +1,116 @@
+{
+    "event": "Speaker compliments Michael on delicious food.",
+    "start_time": "0:03",
+    "end_time": "0:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The primary speaker for the compliment at 0:03 is an adult male (Michael), wearing a grey short-sleeved polo shirt, dark shorts, glasses, and has dark, curly hair. He is also wearing headphones around his neck. He is seated at a dining table at the time of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "~2.2",
+                "direction": "~-10"
+            },
+            "0:03": {
+                "distance": "~2.2",
+                "direction": "~-10"
+            },
+            "0:16": {
+                "distance": "~2.5",
+                "direction": "~-70"
+            },
+            "0:32": {
+                "distance": "~2.0",
+                "direction": "~-80"
+            },
+            "0:49": {
+                "distance": "~2.5",
+                "direction": "~-75"
+            },
+            "1:27": {
+                "distance": "~1.5",
+                "direction": "~-45"
+            },
+            "2:13": {
+                "distance": "~1.5",
+                "direction": "~-60"
+            },
+            "2:38": {
+                "distance": "~1.0",
+                "direction": "~-30"
+            },
+            "3:10": {
+                "distance": "~1.5",
+                "direction": "~-50"
+            },
+            "3:40": {
+                "distance": "~2.0",
+                "direction": "~-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A small, circular, undermount sink, likely stainless steel or dark composite, with a single gooseneck tap. It's installed in a light-colored granite countertop on a kitchen island.",
+        "key_frames": {
+            "0:08": {
+                "distance": "~2.0",
+                "direction": "~-45"
+            },
+            "0:19": {
+                "distance": "~1.5",
+                "direction": "~-40"
+            },
+            "0:27": {
+                "distance": "~1.0",
+                "direction": "~-30"
+            },
+            "1:28": {
+                "distance": "~0.5",
+                "direction": "~0"
+            },
+            "1:35": {
+                "distance": "~1.0",
+                "direction": "~-20"
+            },
+            "3:33": {
+                "distance": "~1.5",
+                "direction": "~-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A built-in double wall oven unit, with stainless steel finish and glass windows on the oven doors. It's installed in wooden kitchen cabinetry on the main kitchen wall.",
+        "key_frames": {
+            "0:08": {
+                "distance": "~3.0",
+                "direction": "~-10"
+            },
+            "0:12": {
+                "distance": "~3.0",
+                "direction": "~-15"
+            },
+            "0:20": {
+                "distance": "~2.5",
+                "direction": "~-20"
+            },
+            "1:17": {
+                "distance": "~3.0",
+                "direction": "~-20"
+            },
+            "2:12": {
+                "distance": "~3.5",
+                "direction": "~-25"
+            },
+            "3:32": {
+                "distance": "~3.0",
+                "direction": "~-20"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the stainless steel double wall oven, when the speech topic: \"complimenting michael on delicious food\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_261",
+    "video_id": "loc2_script3_seq5_rec2"
+}

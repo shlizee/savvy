@@ -1,0 +1,188 @@
+{
+    "event": "The speech topic \"stating the recording duration (1m 45s)\" comes up.",
+    "start_time": "1:46",
+    "end_time": "1:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing glasses, a light blue/green short-sleeved button-up shirt, and dark shorts. He is also wearing wired earbuds and holding a smartphone and a beverage can.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:46": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "1:58": {
+                "distance": "1.0",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:46": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:18": {
+                "distance": "2.2",
+                "direction": "15"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:46": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:58": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating the recording duration (1m 45s)\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_7",
+    "video_id": "loc1_script2_seq1_rec1"
+}

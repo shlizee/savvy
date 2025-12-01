@@ -1,0 +1,99 @@
+{
+    "event": "The speech topic 'describing own train running express past airport' comes up.",
+    "start_time": "01:48",
+    "end_time": "01:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult person with curly, light brown/blondish hair. They are wearing a dark (navy or black) sweater over a light-colored collared shirt, and blue jeans. They are also wearing light-colored socks. The person is sitting on a light beige or cream-colored couch with patterned pillows. Throughout the video, they are mostly seated and engaged in conversation, occasionally gesturing.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "00:02": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "00:06": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "00:08": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "00:15": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "00:30": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "00:45": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "01:00": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "01:15": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "01:30": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "01:48": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "01:57": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "02:15": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "02:30": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "02:45": {
+                "distance": "1.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, representing the wearer's point of view. The wearer is initially standing/walking, holding a phone, then sits down on a chair or couch in the living room.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for egocentric camera view, as the camera's direction is the facing direction.",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing own train running express past airport\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_306",
+    "video_id": "loc3_script3_seq2_rec1"
+}

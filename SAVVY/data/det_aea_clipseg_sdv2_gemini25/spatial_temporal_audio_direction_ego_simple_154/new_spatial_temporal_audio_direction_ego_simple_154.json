@@ -1,0 +1,102 @@
+{
+    "event": "The other person offers to escort the camera wearer (listener) out, concluding the visit.",
+    "start_time": "0:56",
+    "end_time": "1:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person, whose face is blurred. They are wearing a light blue/turquoise short-sleeved polo shirt with a small white logo on the left chest, khaki/light brown cargo shorts, and white sneakers. They have short, possibly balding hair and are wearing a watch on their left wrist. They also have a black wired earphone in their left ear, with the wire running down their shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": -60
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": -45
+            },
+            "1:13": {
+                "distance": "1.2",
+                "direction": -70
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": -60
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": -30
+            },
+            "1:16": {
+                "distance": "2.5",
+                "direction": -10
+            },
+            "1:18": {
+                "distance": "3.0",
+                "direction": 0
+            },
+            "1:23": {
+                "distance": "2.0",
+                "direction": 10
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": 5
+            },
+            "1:27": {
+                "distance": "1.0",
+                "direction": 0
+            },
+            "1:29": {
+                "distance": "1.0",
+                "direction": 0
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": 0
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewer's perspective.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "camera's forward direction",
+        "description": "The general direction the camera is pointing.",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering to escort listener out and concluding visit\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_154",
+    "video_id": "loc2_script2_seq8_rec2"
+}

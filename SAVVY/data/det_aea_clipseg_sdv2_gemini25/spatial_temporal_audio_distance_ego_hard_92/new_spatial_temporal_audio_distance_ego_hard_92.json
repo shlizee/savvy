@@ -1,0 +1,144 @@
+{
+    "event": "The camera wearer suggests the other person try the coffee by offering cream.",
+    "start_time": "0:01",
+    "end_time": "0:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person, with a blurred face, wearing a white t-shirt and light blue shorts, with short dark hair. They are seated at a small wooden table across from the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:37": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person, with a blurred face, wearing a white t-shirt and light blue shorts, with short dark hair. They are seated at a small wooden table across from the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:37": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting trying the coffee\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_92",
+    "video_id": "loc2_script2_seq4_rec2"
+}

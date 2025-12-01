@@ -1,0 +1,3588 @@
+{
+    "00000": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 67.24,
+            "distance": 1.77,
+            "det_conf": [
+                0.8402215242385864,
+                0.8858552575111389,
+                0.8774963617324829,
+                0.7149455547332764,
+                0.7339877486228943
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -12.13,
+            "distance": 2.67,
+            "det_conf": [
+                0.8857486248016357,
+                0.8902705311775208,
+                0.8849887251853943,
+                0.8729638457298279,
+                0.8939071297645569
+            ]
+        }
+    },
+    "00005": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 65.07,
+            "distance": 1.8,
+            "det_conf": [
+                0.9079623818397522,
+                0.8336946368217468,
+                0.8930221199989319,
+                0.9229854941368103,
+                0.28846949338912964
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -13.38,
+            "distance": 2.74,
+            "det_conf": [
+                0.8190359473228455,
+                0.7775466442108154,
+                0.7705801725387573,
+                0.8405978083610535,
+                0.6290284991264343
+            ]
+        }
+    },
+    "00010": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 42.33,
+            "distance": 1.32,
+            "det_conf": [
+                0.516941249370575,
+                0.7769082188606262,
+                0.8462837934494019,
+                0.8145097494125366,
+                0.21673423051834106
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -21.19,
+            "distance": 3.01,
+            "det_conf": [
+                0.868407130241394,
+                0.5612605214118958,
+                0.9097359776496887,
+                0.9035028219223022,
+                0.8561401963233948
+            ]
+        }
+    },
+    "00015": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 52.37,
+            "distance": 2.02,
+            "det_conf": [
+                0.9101076722145081,
+                0.9093263149261475,
+                0.8972071409225464,
+                0.810150682926178,
+                0.8199511766433716
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -33.57,
+            "distance": 3.37,
+            "det_conf": [
+                0.7129266262054443,
+                0.8196331858634949,
+                0.681672990322113,
+                0.6674983501434326,
+                0.8404809236526489
+            ]
+        }
+    },
+    "00020": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 32.92,
+            "distance": 2.55,
+            "det_conf": [
+                0.5683082342147827,
+                0.5031954646110535,
+                0.8919217586517334,
+                0.6619420647621155,
+                0.8808267116546631
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -49.42,
+            "distance": 4.51,
+            "det_conf": [
+                0.7009133696556091,
+                0.6561034321784973,
+                0.638201117515564,
+                0.8122637867927551,
+                0.7931181192398071
+            ]
+        }
+    },
+    "00040": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 19.88,
+            "distance": 3.04,
+            "det_conf": [
+                0.8348620533943176,
+                0.09925644844770432,
+                0.9496067762374878,
+                0.6197106838226318,
+                0.05864441767334938
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -51.67,
+            "distance": 4.7,
+            "det_conf": [
+                0.686085045337677,
+                0.6180843114852905,
+                0.5574011206626892,
+                0.5890211462974548,
+                0.6800363659858704
+            ]
+        }
+    },
+    "00045": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 14.02,
+            "distance": 2.63,
+            "det_conf": [
+                0.9139077067375183,
+                0.9426838755607605,
+                0.949096143245697,
+                0.9485574960708618,
+                0.8460140824317932
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -47.13,
+            "distance": 4.61,
+            "det_conf": [
+                0.7441755533218384,
+                0.7812997698783875,
+                0.7654376029968262,
+                0.718781590461731,
+                0.5371603965759277
+            ]
+        }
+    },
+    "00050": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 17.42,
+            "distance": 2.6,
+            "det_conf": [
+                0.8423445820808411,
+                0.8930089473724365,
+                0.8844496607780457,
+                0.9237433671951294,
+                0.2518709897994995
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -42.91,
+            "distance": 4.36,
+            "det_conf": [
+                0.6176290512084961,
+                0.5903506875038147,
+                0.4622039496898651,
+                0.34419572353363037,
+                0.35749465227127075
+            ]
+        }
+    },
+    "00055": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 35.78,
+            "distance": 2.04,
+            "det_conf": [
+                0.9598305225372314,
+                0.9491553902626038,
+                0.9469533562660217,
+                0.9059127569198608,
+                0.9157025218009949
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -24.06,
+            "distance": 4.18,
+            "det_conf": [
+                0.7015052437782288,
+                0.755128800868988,
+                0.7371097207069397,
+                0.7282944917678833,
+                0.7629901170730591
+            ]
+        }
+    },
+    "00060": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 29.72,
+            "distance": 1.81,
+            "det_conf": [
+                0.9278672933578491,
+                0.9064832925796509,
+                0.8478209376335144,
+                0.815276563167572,
+                0.9388664364814758
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -42.61,
+            "distance": 3.38,
+            "det_conf": [
+                0.6015697717666626,
+                0.32662564516067505,
+                0.5348864793777466,
+                0.7899293899536133,
+                0.7864774465560913
+            ]
+        }
+    },
+    "00065": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 37.09,
+            "distance": 2.01,
+            "det_conf": [
+                0.9312211871147156,
+                0.92026686668396,
+                0.9385702610015869,
+                0.8980222344398499,
+                0.7492523193359375
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -41.66,
+            "distance": 3.03,
+            "det_conf": [
+                0.8435187935829163,
+                0.671797513961792,
+                0.8406732082366943,
+                0.7954666018486023,
+                0.5828113555908203
+            ]
+        }
+    },
+    "00070": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 46.09,
+            "distance": 2.0,
+            "det_conf": [
+                0.8485572934150696,
+                0.8741208910942078,
+                0.5290384888648987,
+                0.7780298590660095,
+                0.7956900000572205
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -31.15,
+            "distance": 2.56,
+            "det_conf": [
+                0.7655646204948425,
+                0.7970796227455139,
+                0.8132204413414001,
+                0.8362898230552673,
+                0.77369225025177
+            ]
+        }
+    },
+    "00075": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 54.48,
+            "distance": 1.93,
+            "det_conf": [
+                0.7546865344047546,
+                0.7188795208930969,
+                0.879358172416687,
+                0.6498482823371887,
+                0.7120276093482971
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -24.88,
+            "distance": 2.36,
+            "det_conf": [
+                0.8153748512268066,
+                0.8025781512260437,
+                0.7902060151100159,
+                0.7556149959564209,
+                0.7903994917869568
+            ]
+        }
+    },
+    "00080": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 55.18,
+            "distance": 1.17,
+            "det_conf": [
+                0.871015727519989,
+                0.862483024597168,
+                0.815678060054779,
+                0.8375112414360046,
+                0.742474377155304
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -21.6,
+            "distance": 1.85,
+            "det_conf": [
+                0.8251802325248718,
+                0.8016248941421509,
+                0.6939865946769714,
+                0.7572875022888184,
+                0.7425240278244019
+            ]
+        }
+    },
+    "00085": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 56.23,
+            "distance": 1.38,
+            "det_conf": [
+                0.8718105554580688,
+                0.9006561636924744,
+                0.8541238903999329,
+                0.5341744422912598,
+                0.6566023230552673
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -34.21,
+            "distance": 1.87,
+            "det_conf": [
+                0.5270524621009827,
+                0.42958924174308777,
+                0.4038892388343811,
+                0.4975685775279999,
+                0.4118793308734894
+            ]
+        }
+    },
+    "00090": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 47.17,
+            "distance": 1.72,
+            "det_conf": [
+                0.8899303674697876,
+                0.8822306394577026,
+                0.8976483941078186,
+                0.8711225390434265,
+                0.8009607195854187
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -11.69,
+            "distance": 3.2,
+            "det_conf": [
+                0.6836245059967041,
+                0.7508366703987122,
+                0.7497090697288513,
+                0.00423106923699379,
+                0.033660996705293655
+            ]
+        }
+    },
+    "00095": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 38.26,
+            "distance": 2.0,
+            "det_conf": [
+                0.8330309391021729,
+                0.8359102606773376,
+                0.8591989874839783,
+                0.7819533348083496,
+                0.8613972067832947
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -51.39,
+            "distance": 3.58,
+            "det_conf": [
+                0.6819266676902771,
+                0.41929829120635986,
+                0.5613421201705933,
+                0.6079189777374268,
+                0.5424683094024658
+            ]
+        }
+    },
+    "00100": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 40.69,
+            "distance": 2.0,
+            "det_conf": [
+                0.9071758389472961,
+                0.9212371706962585,
+                0.7671496868133545,
+                0.8729788064956665,
+                0.8873763084411621
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -55.63,
+            "distance": 3.58,
+            "det_conf": [
+                0.4680625796318054,
+                0.6327248811721802,
+                0.7506482005119324,
+                0.34831634163856506,
+                0.6899750828742981
+            ]
+        }
+    },
+    "00105": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 15.93,
+            "distance": 1.94,
+            "det_conf": [
+                0.8774933218955994,
+                0.82708340883255,
+                0.9197328090667725,
+                0.9173865914344788,
+                0.9157578945159912
+            ]
+        }
+    },
+    "00110": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 17.87,
+            "distance": 1.26,
+            "det_conf": [
+                0.670723021030426,
+                0.6499521136283875,
+                0.1871977299451828,
+                0.6096012592315674,
+                0.2643861174583435
+            ]
+        }
+    },
+    "00115": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 35.56,
+            "distance": 3.69,
+            "det_conf": [
+                0.09051130712032318,
+                0.6344118118286133,
+                0.6849924325942993,
+                0.267129123210907,
+                0.006582449655979872
+            ]
+        }
+    },
+    "00120": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 35.88,
+            "distance": 1.0,
+            "det_conf": [
+                0.47250330448150635,
+                0.6336895823478699,
+                0.6352715492248535,
+                0.6090314984321594,
+                0.5382818579673767
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 3.05,
+            "distance": 4.13,
+            "det_conf": [
+                0.496593713760376,
+                0.42027464509010315,
+                0.5469744205474854,
+                0.28292059898376465,
+                0.22148771584033966
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 1.14,
+            "distance": 4.16,
+            "det_conf": [
+                0.5171810984611511,
+                0.10267750173807144,
+                0.2609105110168457,
+                0.26364782452583313,
+                0.07372671365737915
+            ]
+        }
+    },
+    "00130": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 54.99,
+            "distance": 1.87,
+            "det_conf": [
+                0.6878231763839722,
+                0.703054666519165,
+                0.6880673766136169,
+                0.7512566447257996,
+                0.7005035281181335
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 33.4,
+            "distance": 4.98,
+            "det_conf": [
+                0.9083157181739807,
+                0.8949757814407349,
+                0.9082473516464233,
+                0.919725775718689,
+                0.9033682346343994
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -18.01,
+            "distance": 4.3,
+            "det_conf": [
+                0.809317946434021,
+                0.7945281863212585,
+                0.602162778377533,
+                0.34712228178977966,
+                0.7603945732116699
+            ]
+        }
+    },
+    "00140": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 16.06,
+            "distance": 2.01,
+            "det_conf": [
+                0.8982168436050415,
+                0.8769530057907104,
+                0.8784396052360535,
+                0.8116112947463989,
+                0.8426287770271301
+            ]
+        }
+    },
+    "00145": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 6.27,
+            "distance": 2.16,
+            "det_conf": [
+                0.9169699549674988,
+                0.7801896333694458,
+                0.8685636520385742,
+                0.9404456615447998,
+                0.9141314029693604
+            ]
+        }
+    },
+    "00150": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -4.27,
+            "distance": 2.6,
+            "det_conf": [
+                0.722212553024292,
+                0.9142594933509827,
+                0.8001729249954224,
+                0.9588831663131714,
+                0.8880002498626709
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -6.26,
+            "distance": 4.21,
+            "det_conf": [
+                0.40275266766548157,
+                0.5592616200447083,
+                0.08066590130329132,
+                0.30858737230300903,
+                0.15949927270412445
+            ]
+        }
+    },
+    "00155": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -8.67,
+            "distance": 2.98,
+            "det_conf": [
+                0.9424573183059692,
+                0.9038013815879822,
+                0.9102542996406555,
+                0.9128976464271545,
+                0.5127414464950562
+            ]
+        }
+    },
+    "00160": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 0.91,
+            "distance": 3.0,
+            "det_conf": [
+                0.9247756004333496,
+                0.9381064772605896,
+                0.9121310114860535,
+                0.9364351034164429,
+                0.8567320704460144
+            ]
+        }
+    },
+    "00165": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 4.19,
+            "distance": 3.0,
+            "det_conf": [
+                0.8823785781860352,
+                0.7911332249641418,
+                0.8777917623519897,
+                0.8761785626411438,
+                0.671326756477356
+            ]
+        }
+    },
+    "00170": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -1.21,
+            "distance": 3.01,
+            "det_conf": [
+                0.7788377404212952,
+                0.862549364566803,
+                0.872112512588501,
+                0.9282206892967224,
+                0.6687928438186646
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -63.84,
+            "distance": 3.15,
+            "det_conf": [
+                0.6433237195014954,
+                0.07635069638490677,
+                0.7498235702514648,
+                0.6796419024467468,
+                0.15182457864284515
+            ]
+        }
+    },
+    "00175": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -6.38,
+            "distance": 3.05,
+            "det_conf": [
+                0.8981913924217224,
+                0.8859451413154602,
+                0.880629301071167,
+                0.8732491135597229,
+                0.8427931666374207
+            ]
+        }
+    },
+    "00180": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -11.17,
+            "distance": 3.01,
+            "det_conf": [
+                0.8626685738563538,
+                0.6341356635093689,
+                0.8963287472724915,
+                0.7569233179092407,
+                0.8546101450920105
+            ]
+        }
+    },
+    "00185": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -11.8,
+            "distance": 2.87,
+            "det_conf": [
+                0.899085521697998,
+                0.8984692692756653,
+                0.8954170346260071,
+                0.8719231486320496,
+                0.9199243783950806
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -13.39,
+            "distance": 3.59,
+            "det_conf": [
+                0.18918871879577637,
+                0.15726524591445923,
+                0.5145649909973145,
+                0.431056410074234,
+                0.10171659290790558
+            ]
+        }
+    },
+    "00190": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -6.85,
+            "distance": 3.09,
+            "det_conf": [
+                0.9070827960968018,
+                0.9456839561462402,
+                0.9435380697250366,
+                0.9348776936531067,
+                0.9171251654624939
+            ]
+        }
+    },
+    "00195": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 0.53,
+            "distance": 3.17,
+            "det_conf": [
+                0.9420256018638611,
+                0.9160075187683105,
+                0.9045372605323792,
+                0.9349336624145508,
+                0.7866120338439941
+            ]
+        }
+    },
+    "00200": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -2.71,
+            "distance": 3.01,
+            "det_conf": [
+                0.9088935852050781,
+                0.9350787401199341,
+                0.9232524633407593,
+                0.9408901929855347,
+                0.9157760739326477
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -14.85,
+            "distance": 2.96,
+            "det_conf": [
+                0.3975329101085663,
+                0.5668991804122925,
+                0.5663236379623413,
+                0.28646689653396606,
+                0.07077018171548843
+            ]
+        }
+    },
+    "00205": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -2.04,
+            "distance": 3.01,
+            "det_conf": [
+                0.9024632573127747,
+                0.9091085195541382,
+                0.9119207859039307,
+                0.877161979675293,
+                0.6640796661376953
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -57.03,
+            "distance": 1.85,
+            "det_conf": [
+                0.6386346220970154,
+                0.5546570420265198,
+                0.6879730224609375,
+                0.7275010943412781,
+                0.6745308637619019
+            ]
+        }
+    },
+    "00210": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 5.2,
+            "distance": 3.03,
+            "det_conf": [
+                0.8603479862213135,
+                0.9231106042861938,
+                0.9374101758003235,
+                0.8539115190505981,
+                0.8779006004333496
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -54.46,
+            "distance": 1.63,
+            "det_conf": [
+                0.662188708782196,
+                0.6512234807014465,
+                0.6478708982467651,
+                0.611052393913269,
+                0.6311255693435669
+            ]
+        }
+    },
+    "00215": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 16.41,
+            "distance": 2.74,
+            "det_conf": [
+                0.9106985330581665,
+                0.8659307360649109,
+                0.909700334072113,
+                0.8678852915763855,
+                0.609167218208313
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -50.25,
+            "distance": 1.36,
+            "det_conf": [
+                0.8007636070251465,
+                0.7907490134239197,
+                0.8737652897834778,
+                0.7981371879577637,
+                0.7717326879501343
+            ]
+        }
+    },
+    "00220": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 21.08,
+            "distance": 2.75,
+            "det_conf": [
+                0.8381204009056091,
+                0.9040034413337708,
+                0.72795170545578,
+                0.8325259685516357,
+                0.9164413213729858
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -50.41,
+            "distance": 1.3,
+            "det_conf": [
+                0.7963424324989319,
+                0.8095765709877014,
+                0.7676471471786499,
+                0.7311590909957886,
+                0.7676669359207153
+            ]
+        }
+    },
+    "00230": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 17.38,
+            "distance": 2.36,
+            "det_conf": [
+                0.8577427864074707,
+                0.8593073487281799,
+                0.8958917260169983,
+                0.7521166205406189,
+                0.8401172757148743
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -23.71,
+            "distance": 2.08,
+            "det_conf": [
+                0.4226360023021698,
+                0.43375247716903687,
+                0.29051876068115234,
+                0.552489697933197,
+                0.6182901859283447
+            ]
+        }
+    },
+    "00240": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 21.82,
+            "distance": 1.94,
+            "det_conf": [
+                0.8100624084472656,
+                0.7278643846511841,
+                0.7268496155738831,
+                0.9055893421173096,
+                0.8279541730880737
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -21.68,
+            "distance": 1.45,
+            "det_conf": [
+                0.37612804770469666,
+                0.36636385321617126,
+                0.3767470121383667,
+                0.3417493402957916,
+                0.5070894956588745
+            ]
+        }
+    },
+    "00250": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 11.03,
+            "distance": 2.0,
+            "det_conf": [
+                0.9118142127990723,
+                0.8706036806106567,
+                0.9151959419250488,
+                0.9112743139266968,
+                0.9099408388137817
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 24.28,
+            "distance": 2.22,
+            "det_conf": [
+                0.6210811138153076,
+                0.6155183911323547,
+                0.5478659868240356,
+                0.6026349067687988,
+                0.6383032202720642
+            ]
+        }
+    },
+    "00260": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -3.89,
+            "distance": 1.42,
+            "det_conf": [
+                0.7673694491386414,
+                0.717363178730011,
+                0.7979167103767395,
+                0.5237436890602112,
+                0.5718863010406494
+            ]
+        }
+    },
+    "00300": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -73.82,
+            "distance": 1.0,
+            "det_conf": [
+                0.8439071178436279,
+                0.8354691863059998,
+                0.8300022482872009,
+                0.7725325226783752,
+                0.7807707786560059
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -1.25,
+            "distance": 2.34,
+            "det_conf": [
+                0.5143418312072754,
+                0.49201300740242004,
+                0.528748631477356,
+                0.44667312502861023,
+                0.491120308637619
+            ]
+        }
+    },
+    "00305": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -18.31,
+            "distance": 2.36,
+            "det_conf": [
+                0.4450128972530365,
+                0.2654086947441101,
+                0.3049353361129761,
+                0.7360057830810547,
+                0.6408915519714355
+            ]
+        }
+    },
+    "00310": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -36.08,
+            "distance": 2.05,
+            "det_conf": [
+                0.6349191069602966,
+                0.6795374155044556,
+                0.6170035600662231,
+                0.6359530091285706,
+                0.5800180435180664
+            ]
+        }
+    },
+    "00315": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -54.97,
+            "distance": 1.0,
+            "det_conf": [
+                0.8655957579612732,
+                0.8719450235366821,
+                0.8473678827285767,
+                0.8550597429275513,
+                0.8185243010520935
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 12.07,
+            "distance": 2.14,
+            "det_conf": [
+                0.5578652620315552,
+                0.600413978099823,
+                0.5681400299072266,
+                0.603058934211731,
+                0.5641905665397644
+            ]
+        }
+    },
+    "00320": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 28.93,
+            "distance": 1.16,
+            "det_conf": [
+                0.9230071902275085,
+                0.8919012546539307,
+                0.9027367234230042,
+                0.8704929351806641,
+                0.8050892949104309
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -5.99,
+            "distance": 1.54,
+            "det_conf": [
+                0.5544296503067017,
+                0.4183643162250519,
+                0.5491021871566772,
+                0.40645450353622437,
+                0.417133092880249
+            ]
+        }
+    },
+    "00325": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 59.75,
+            "distance": 1.17,
+            "det_conf": [
+                0.640015721321106,
+                0.609889030456543,
+                0.6179563403129578,
+                0.6404884457588196,
+                0.6159087419509888
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -56.62,
+            "distance": 1.07,
+            "det_conf": [
+                0.7526982426643372,
+                0.801307201385498,
+                0.8378647565841675,
+                0.7686748504638672,
+                0.7274678945541382
+            ]
+        }
+    },
+    "00330": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -11.48,
+            "distance": 1.81,
+            "det_conf": [
+                0.8557828664779663,
+                0.6646382808685303,
+                0.8048080205917358,
+                0.8149462938308716,
+                0.8218393325805664
+            ]
+        }
+    },
+    "00335": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -12.38,
+            "distance": 1.46,
+            "det_conf": [
+                0.8640323877334595,
+                0.8719784617424011,
+                0.8043145537376404,
+                0.8548657894134521,
+                0.8439387083053589
+            ]
+        }
+    },
+    "00340": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 7.62,
+            "distance": 1.51,
+            "det_conf": [
+                0.826808750629425,
+                0.8102959394454956,
+                0.8141648769378662,
+                0.881887674331665,
+                0.8205684423446655
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 10.86,
+            "distance": 1.5,
+            "det_conf": [
+                0.6273061633110046,
+                0.4456459581851959,
+                0.624570369720459,
+                0.607794463634491,
+                0.021856093779206276
+            ]
+        }
+    },
+    "00345": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 4.6,
+            "distance": 1.31,
+            "det_conf": [
+                0.8162089586257935,
+                0.8450329303741455,
+                0.7390416264533997,
+                0.8526648283004761,
+                0.7673083543777466
+            ]
+        }
+    },
+    "00350": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -14.83,
+            "distance": 1.0,
+            "det_conf": [
+                0.7810046672821045,
+                0.7797688245773315,
+                0.7724901437759399,
+                0.7982592582702637,
+                0.78301602602005
+            ]
+        }
+    },
+    "00355": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 61.66,
+            "distance": 1.27,
+            "det_conf": [
+                0.5307618975639343,
+                0.4388315975666046,
+                0.47337520122528076,
+                0.5711344480514526,
+                0.4022713601589203
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -25.76,
+            "distance": 1.27,
+            "det_conf": [
+                0.7032506465911865,
+                0.6856997013092041,
+                0.7264567017555237,
+                0.7324030995368958,
+                0.5956413149833679
+            ]
+        }
+    },
+    "00360": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 21.24,
+            "distance": 1.27,
+            "det_conf": [
+                0.7555813789367676,
+                0.7153568267822266,
+                0.810333788394928,
+                0.7592756748199463,
+                0.8040621280670166
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 11.79,
+            "distance": 1.74,
+            "det_conf": [
+                0.5745826363563538,
+                0.5979786515235901,
+                0.5545432567596436,
+                0.5439217686653137,
+                0.518520712852478
+            ]
+        }
+    },
+    "00365": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -58.46,
+            "distance": 1.0,
+            "det_conf": [
+                0.8324254155158997,
+                0.6753020882606506,
+                0.8571630120277405,
+                0.8427474498748779,
+                0.7717036604881287
+            ]
+        }
+    },
+    "00370": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -47.08,
+            "distance": 2.29,
+            "det_conf": [
+                0.4671333432197571,
+                0.47971290349960327,
+                0.5150273442268372,
+                0.47633662819862366,
+                0.5801281929016113
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -55.31,
+            "distance": 1.93,
+            "det_conf": [
+                0.17919516563415527,
+                0.13951539993286133,
+                0.5696162581443787,
+                0.4735729396343231,
+                0.26085031032562256
+            ]
+        }
+    },
+    "00375": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -14.78,
+            "distance": 1.99,
+            "det_conf": [
+                0.5455263257026672,
+                0.6020764112472534,
+                0.5699836015701294,
+                0.13339810073375702,
+                0.17915748059749603
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -62.46,
+            "distance": 2.45,
+            "det_conf": [
+                0.6881850361824036,
+                0.18682856857776642,
+                0.12759040296077728,
+                0.44500991702079773,
+                0.6524227857589722
+            ]
+        }
+    },
+    "00380": {
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -69.11,
+            "distance": 1.72,
+            "det_conf": [
+                0.7576180696487427,
+                0.7592378854751587,
+                0.7128880620002747,
+                0.7428649067878723,
+                0.6790033578872681
+            ]
+        }
+    },
+    "00385": {
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -60.59,
+            "distance": 3.12,
+            "det_conf": [
+                0.6278817653656006,
+                0.6287798881530762,
+                0.1931757777929306,
+                0.5792908072471619,
+                0.04718829318881035
+            ]
+        }
+    },
+    "00410": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 14.75,
+            "distance": 3.58,
+            "det_conf": [
+                0.5425654053688049,
+                0.5834169983863831,
+                0.45759502053260803,
+                0.42857009172439575,
+                0.35755807161331177
+            ]
+        }
+    },
+    "00420": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 67.0,
+            "distance": 2.22,
+            "det_conf": [
+                0.7166932821273804,
+                0.6766366362571716,
+                0.5985851287841797,
+                0.31771332025527954,
+                0.6193665862083435
+            ]
+        }
+    },
+    "00425": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 62.12,
+            "distance": 2.15,
+            "det_conf": [
+                0.7291520237922668,
+                0.6650232076644897,
+                0.8427844047546387,
+                0.828522264957428,
+                0.8095917105674744
+            ]
+        }
+    },
+    "00430": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 51.45,
+            "distance": 1.2,
+            "det_conf": [
+                0.563744306564331,
+                0.5869201421737671,
+                0.4498084783554077,
+                0.39118894934654236,
+                0.5546833872795105
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 44.69,
+            "distance": 2.68,
+            "det_conf": [
+                0.7611241340637207,
+                0.6556175351142883,
+                0.597016453742981,
+                0.30914896726608276,
+                0.5598018765449524
+            ]
+        }
+    },
+    "00435": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 51.27,
+            "distance": 1.45,
+            "det_conf": [
+                0.3210109770298004,
+                0.7688609957695007,
+                0.732555091381073,
+                0.43644484877586365,
+                0.24806635081768036
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 8.81,
+            "distance": 3.62,
+            "det_conf": [
+                0.7613575458526611,
+                0.7327781319618225,
+                0.6364328861236572,
+                0.553505539894104,
+                0.740102231502533
+            ]
+        }
+    },
+    "00440": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 47.32,
+            "distance": 1.81,
+            "det_conf": [
+                0.775433361530304,
+                0.6969819068908691,
+                0.6815325617790222,
+                0.7281618714332581,
+                0.31021854281425476
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 1.38,
+            "distance": 2.87,
+            "det_conf": [
+                0.7469584941864014,
+                0.7244953513145447,
+                0.7243147492408752,
+                0.6516427993774414,
+                0.4250311255455017
+            ]
+        }
+    },
+    "00445": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 51.45,
+            "distance": 1.04,
+            "det_conf": [
+                0.7040639519691467,
+                0.6612480878829956,
+                0.7575225234031677,
+                0.6190881729125977,
+                0.6565654277801514
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 23.75,
+            "distance": 2.44,
+            "det_conf": [
+                0.7407619953155518,
+                0.7530409693717957,
+                0.6899123787879944,
+                0.5846500396728516,
+                0.6947622895240784
+            ]
+        }
+    },
+    "00640": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 59.09,
+            "distance": 1.1,
+            "det_conf": [
+                0.5264338850975037,
+                0.5153360366821289,
+                0.1414928287267685,
+                0.2355121672153473,
+                0.014248012565076351
+            ]
+        }
+    },
+    "00645": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 65.87,
+            "distance": 1.39,
+            "det_conf": [
+                0.581801176071167,
+                0.31319379806518555,
+                0.5224066972732544,
+                0.5342676639556885,
+                0.17360198497772217
+            ]
+        }
+    },
+    "00650": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 70.64,
+            "distance": 1.64,
+            "det_conf": [
+                0.536266028881073,
+                0.37503838539123535,
+                0.5387942790985107,
+                0.2814171612262726,
+                0.17866279184818268
+            ]
+        }
+    },
+    "00655": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 71.37,
+            "distance": 1.73,
+            "det_conf": [
+                0.5579771399497986,
+                0.5166161060333252,
+                0.4575202763080597,
+                0.253068208694458,
+                0.047474075108766556
+            ]
+        }
+    },
+    "00665": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 21.12,
+            "distance": 1.95,
+            "det_conf": [
+                0.6656029224395752,
+                0.7384726405143738,
+                0.724185049533844,
+                0.706545889377594,
+                0.7771854400634766
+            ]
+        }
+    },
+    "00670": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -17.03,
+            "distance": 2.01,
+            "det_conf": [
+                0.8194757103919983,
+                0.7404529452323914,
+                0.7735997438430786,
+                0.7129467129707336,
+                0.3878834545612335
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 3.8,
+            "distance": 2.69,
+            "det_conf": [
+                0.1939704269170761,
+                0.5699851512908936,
+                0.4381300210952759,
+                0.22207918763160706,
+                0.18867996335029602
+            ]
+        }
+    },
+    "00675": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -41.78,
+            "distance": 2.0,
+            "det_conf": [
+                0.8259389996528625,
+                0.8254021406173706,
+                0.8212373852729797,
+                0.17874683439731598,
+                0.5164690613746643
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 1.16,
+            "distance": 2.08,
+            "det_conf": [
+                0.2435806542634964,
+                0.2657068073749542,
+                0.42679908871650696,
+                0.6187703013420105,
+                0.4351158142089844
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 45.92,
+            "distance": 1.52,
+            "det_conf": [
+                0.5281015038490295,
+                0.49997222423553467,
+                0.06939119100570679,
+                0.3481670618057251,
+                0.09646661579608917
+            ]
+        }
+    },
+    "00680": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -64.1,
+            "distance": 1.71,
+            "det_conf": [
+                0.8462302088737488,
+                0.7099069952964783,
+                0.7669370770454407,
+                0.747837483882904,
+                0.7939363718032837
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 18.37,
+            "distance": 1.76,
+            "det_conf": [
+                0.6423304080963135,
+                0.5926812291145325,
+                0.3602871298789978,
+                0.41992267966270447,
+                0.4371299147605896
+            ]
+        }
+    },
+    "00720": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 43.65,
+            "distance": 1.41,
+            "det_conf": [
+                0.7242342829704285,
+                0.6916027665138245,
+                0.5980476140975952,
+                0.5532773733139038,
+                0.6830372214317322
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -45.4,
+            "distance": 2.29,
+            "det_conf": [
+                0.6491716504096985,
+                0.6211875677108765,
+                0.24923309683799744,
+                0.686079740524292,
+                0.23564326763153076
+            ]
+        }
+    },
+    "00725": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 70.84,
+            "distance": 1.99,
+            "det_conf": [
+                0.7198489308357239,
+                0.7109162211418152,
+                0.6128506064414978,
+                0.6745678186416626,
+                0.29817935824394226
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 12.76,
+            "distance": 2.92,
+            "det_conf": [
+                0.5944827198982239,
+                0.5573810338973999,
+                0.4881635308265686,
+                0.44103696942329407,
+                0.5178111791610718
+            ]
+        }
+    },
+    "00730": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 55.36,
+            "distance": 2.15,
+            "det_conf": [
+                0.5600997805595398,
+                0.4835352897644043,
+                0.46747463941574097,
+                0.5019256472587585,
+                0.419416218996048
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -58.18,
+            "distance": 3.85,
+            "det_conf": [
+                0.41942158341407776,
+                0.6188371777534485,
+                0.08100276440382004,
+                0.3284262418746948,
+                0.573477566242218
+            ]
+        }
+    },
+    "00755": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -42.23,
+            "distance": 2.13,
+            "det_conf": [
+                0.5421264171600342,
+                0.4660413861274719,
+                0.37783265113830566,
+                0.4032706916332245,
+                0.0678538829088211
+            ]
+        }
+    },
+    "00860": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -53.1,
+            "distance": 2.28,
+            "det_conf": [
+                0.6411280632019043,
+                0.7163665890693665,
+                0.6357365846633911,
+                0.7298889756202698,
+                0.349333792924881
+            ]
+        }
+    },
+    "00870": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -19.07,
+            "distance": 1.63,
+            "det_conf": [
+                0.27527037262916565,
+                0.5980574488639832,
+                0.3779347240924835,
+                0.15820768475532532,
+                0.5588697195053101
+            ]
+        }
+    },
+    "00890": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 12.04,
+            "distance": 1.07,
+            "det_conf": [
+                0.22366183996200562,
+                0.33371543884277344,
+                0.37332841753959656,
+                0.14110666513442993,
+                0.6047449707984924
+            ]
+        }
+    },
+    "01100": {
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 30.12,
+            "distance": 1.13,
+            "det_conf": [
+                0.4940689504146576,
+                0.6052612066268921,
+                0.6028632521629333,
+                0.05344652757048607,
+                0.11513356864452362
+            ]
+        }
+    },
+    "01320": {
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 18.3,
+            "distance": 1.0,
+            "det_conf": [
+                0.36593860387802124,
+                0.5671467781066895,
+                0.5665449500083923,
+                0.34741103649139404,
+                0.4035486578941345
+            ]
+        }
+    },
+    "01330": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -17.17,
+            "distance": 3.3,
+            "det_conf": [
+                0.9059959053993225,
+                0.9082877039909363,
+                0.9055345058441162,
+                0.8807101249694824,
+                0.8451960682868958
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -66.99,
+            "distance": 4.0,
+            "det_conf": [
+                0.2971861660480499,
+                0.7279281616210938,
+                0.6440206170082092,
+                0.686416506767273,
+                0.6228463649749756
+            ]
+        }
+    },
+    "01340": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -15.27,
+            "distance": 3.12,
+            "det_conf": [
+                0.23413409292697906,
+                0.6836150288581848,
+                0.7484605312347412,
+                0.7621129751205444,
+                0.6722840666770935
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -66.84,
+            "distance": 4.0,
+            "det_conf": [
+                0.6873276233673096,
+                0.3462658226490021,
+                0.7562755346298218,
+                0.7104736566543579,
+                0.7758827805519104
+            ]
+        }
+    },
+    "01350": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -16.56,
+            "distance": 3.22,
+            "det_conf": [
+                0.907741129398346,
+                0.8734064698219299,
+                0.7404549717903137,
+                0.7350759506225586,
+                0.6289862394332886
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 29.54,
+            "distance": 2.37,
+            "det_conf": [
+                0.20361122488975525,
+                0.3229985535144806,
+                0.4540333151817322,
+                0.36472445726394653,
+                0.6096141934394836
+            ]
+        }
+    },
+    "01360": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -20.27,
+            "distance": 3.04,
+            "det_conf": [
+                0.9203414916992188,
+                0.9111884832382202,
+                0.902513861656189,
+                0.9258126616477966,
+                0.9331498146057129
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -72.67,
+            "distance": 3.07,
+            "det_conf": [
+                0.6406864523887634,
+                0.6047523617744446,
+                0.6991249918937683,
+                0.5904157161712646,
+                0.6708695292472839
+            ]
+        }
+    },
+    "01480": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 34.06,
+            "distance": 1.0,
+            "det_conf": [
+                0.7322824597358704,
+                0.7221059203147888,
+                0.7094886302947998,
+                0.6604899764060974,
+                2.4734956241445616e-05
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 5.68,
+            "distance": 1.33,
+            "det_conf": [
+                0.6055040955543518,
+                0.5800791382789612,
+                0.22298693656921387,
+                0.272670716047287,
+                0.5848933458328247
+            ]
+        }
+    },
+    "01485": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -52.05,
+            "distance": 2.0,
+            "det_conf": [
+                0.9052507877349854,
+                0.8702757358551025,
+                0.9404544234275818,
+                0.7355154752731323,
+                0.9178007245063782
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 49.13,
+            "distance": 1.15,
+            "det_conf": [
+                0.8303186297416687,
+                0.4578736424446106,
+                0.8062896132469177,
+                0.78392493724823,
+                0.4716542065143585
+            ]
+        }
+    },
+    "01490": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -34.96,
+            "distance": 2.01,
+            "det_conf": [
+                0.9599663019180298,
+                0.9594863653182983,
+                0.9352053999900818,
+                0.8502781391143799,
+                0.9449297189712524
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -2.2,
+            "distance": 2.11,
+            "det_conf": [
+                0.7666999101638794,
+                0.5329812169075012,
+                0.5808541178703308,
+                0.6369583606719971,
+                0.6573205590248108
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 62.38,
+            "distance": 1.05,
+            "det_conf": [
+                0.5178383588790894,
+                0.602262556552887,
+                0.5468710660934448,
+                0.3495597541332245,
+                0.6942101716995239
+            ]
+        }
+    },
+    "01495": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -29.1,
+            "distance": 2.09,
+            "det_conf": [
+                0.8899446725845337,
+                0.8638924956321716,
+                0.9134746789932251,
+                0.8893542289733887,
+                0.32456234097480774
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -0.95,
+            "distance": 2.34,
+            "det_conf": [
+                0.7875298857688904,
+                0.667664110660553,
+                0.6723421812057495,
+                0.7542232871055603,
+                0.39091911911964417
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -1.36,
+            "distance": 2.33,
+            "det_conf": [
+                0.588157057762146,
+                0.6921856999397278,
+                0.09076908975839615,
+                0.06185365095734596,
+                0.008715379051864147
+            ]
+        }
+    },
+    "01500": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -26.63,
+            "distance": 2.13,
+            "det_conf": [
+                0.9249818921089172,
+                0.9037222862243652,
+                0.9261260628700256,
+                0.8683416843414307,
+                0.6168650388717651
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -8.44,
+            "distance": 2.48,
+            "det_conf": [
+                0.694923996925354,
+                0.677352786064148,
+                0.48438531160354614,
+                0.607343852519989,
+                0.7181828022003174
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 41.04,
+            "distance": 1.92,
+            "det_conf": [
+                0.3437888026237488,
+                0.6377660036087036,
+                0.18375802040100098,
+                0.667712926864624,
+                0.46280035376548767
+            ]
+        }
+    },
+    "01505": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -23.64,
+            "distance": 2.24,
+            "det_conf": [
+                0.7991554141044617,
+                0.7284776568412781,
+                0.7495743632316589,
+                0.7209905385971069,
+                0.8304685950279236
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -9.51,
+            "distance": 2.62,
+            "det_conf": [
+                0.6360865831375122,
+                0.6757168769836426,
+                0.41847681999206543,
+                0.6585488319396973,
+                0.7742823362350464
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 48.92,
+            "distance": 1.65,
+            "det_conf": [
+                0.8890945315361023,
+                0.8595544099807739,
+                0.8608679175376892,
+                0.861926794052124,
+                0.6869578957557678
+            ]
+        }
+    },
+    "01510": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -20.86,
+            "distance": 2.33,
+            "det_conf": [
+                0.17054535448551178,
+                0.9228898286819458,
+                0.5741283297538757,
+                0.8906622529029846,
+                0.8275439143180847
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 6.73,
+            "distance": 2.45,
+            "det_conf": [
+                0.693769633769989,
+                0.3481675684452057,
+                0.487397164106369,
+                0.2624609172344208,
+                0.3446473479270935
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 47.38,
+            "distance": 1.65,
+            "det_conf": [
+                0.8732752799987793,
+                0.8764258027076721,
+                0.8986411094665527,
+                0.8325471878051758,
+                0.65681391954422
+            ]
+        }
+    },
+    "01515": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -23.15,
+            "distance": 2.14,
+            "det_conf": [
+                0.9209539890289307,
+                0.9191503524780273,
+                0.9117370247840881,
+                0.9131514430046082,
+                0.6316162347793579
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -51.87,
+            "distance": 2.63,
+            "det_conf": [
+                0.6757235527038574,
+                0.23166699707508087,
+                0.5435952544212341,
+                0.32897964119911194,
+                0.5641334652900696
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 45.8,
+            "distance": 1.6,
+            "det_conf": [
+                0.6735453009605408,
+                0.7428942918777466,
+                0.6448290944099426,
+                0.05889081954956055,
+                0.6891880035400391
+            ]
+        }
+    },
+    "01520": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -22.33,
+            "distance": 2.22,
+            "det_conf": [
+                0.9362144470214844,
+                0.9197240471839905,
+                0.5385048985481262,
+                0.9196310639381409,
+                0.8922635912895203
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -28.74,
+            "distance": 3.47,
+            "det_conf": [
+                0.6625590324401855,
+                0.6245033740997314,
+                0.5730409026145935,
+                0.6258751153945923,
+                0.5471947193145752
+            ]
+        }
+    },
+    "01580": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -30.57,
+            "distance": 1.02,
+            "det_conf": [
+                0.9432891607284546,
+                0.9359299540519714,
+                0.8911355137825012,
+                0.8435091972351074,
+                0.4777549207210541
+            ]
+        }
+    },
+    "01590": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -28.19,
+            "distance": 1.04,
+            "det_conf": [
+                0.6033136248588562,
+                0.6845879554748535,
+                0.7353994846343994,
+                0.7899953126907349,
+                0.808220386505127
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 3.61,
+            "distance": 1.54,
+            "det_conf": [
+                0.593641996383667,
+                0.4640315771102905,
+                0.6091829538345337,
+                0.4651528298854828,
+                0.44947531819343567
+            ]
+        }
+    },
+    "01600": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -27.08,
+            "distance": 1.02,
+            "det_conf": [
+                0.8531079292297363,
+                0.8392187356948853,
+                0.8396583795547485,
+                0.7387080788612366,
+                0.8931054472923279
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 7.18,
+            "distance": 1.55,
+            "det_conf": [
+                0.35947731137275696,
+                0.37874412536621094,
+                0.34972718358039856,
+                0.5063667297363281,
+                0.5622435808181763
+            ]
+        }
+    },
+    "01610": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -21.58,
+            "distance": 1.08,
+            "det_conf": [
+                0.8204567432403564,
+                0.8256909251213074,
+                0.8764212131500244,
+                0.8717930316925049,
+                0.6936361193656921
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 31.14,
+            "distance": 1.28,
+            "det_conf": [
+                0.5162761211395264,
+                0.48472079634666443,
+                0.4883781671524048,
+                0.46350720524787903,
+                0.4790586233139038
+            ]
+        }
+    },
+    "01620": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -20.12,
+            "distance": 1.06,
+            "det_conf": [
+                0.7764671444892883,
+                0.6645699143409729,
+                0.7688044309616089,
+                0.7811575531959534,
+                0.681267261505127
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -2.37,
+            "distance": 1.59,
+            "det_conf": [
+                0.4174494743347168,
+                0.5059841275215149,
+                0.28584831953048706,
+                0.33629995584487915,
+                0.1968454122543335
+            ]
+        }
+    },
+    "01780": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -40.04,
+            "distance": 1.05,
+            "det_conf": [
+                0.8547994494438171,
+                0.3741596043109894,
+                0.8502423763275146,
+                0.8819085955619812,
+                0.41886600852012634
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -22.26,
+            "distance": 2.0,
+            "det_conf": [
+                0.6748794317245483,
+                0.6757077574729919,
+                0.6245511174201965,
+                0.5353695750236511,
+                0.3371696472167969
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 49.94,
+            "distance": 1.01,
+            "det_conf": [
+                0.7867953181266785,
+                0.716923177242279,
+                0.7457367777824402,
+                0.005921265576034784,
+                0.38135042786598206
+            ]
+        }
+    },
+    "01785": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -47.19,
+            "distance": 1.02,
+            "det_conf": [
+                0.746013879776001,
+                0.7500861287117004,
+                0.7515042424201965,
+                0.746899425983429,
+                0.7894565463066101
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 44.85,
+            "distance": 1.0,
+            "det_conf": [
+                0.6984092593193054,
+                0.7354331612586975,
+                0.1555023044347763,
+                0.6637753248214722,
+                0.6862507462501526
+            ]
+        }
+    },
+    "01790": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -49.77,
+            "distance": 1.0,
+            "det_conf": [
+                0.8103757500648499,
+                0.7995644211769104,
+                0.7946325540542603,
+                0.7517063021659851,
+                0.6884123682975769
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 46.6,
+            "distance": 1.0,
+            "det_conf": [
+                0.6259174346923828,
+                0.5392998456954956,
+                0.6423622965812683,
+                0.710207462310791,
+                0.7131893038749695
+            ]
+        }
+    },
+    "01795": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -30.15,
+            "distance": 1.01,
+            "det_conf": [
+                0.6797874569892883,
+                0.8112417459487915,
+                0.6947832703590393,
+                0.6852941513061523,
+                0.0029341995250433683
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 8.19,
+            "distance": 1.47,
+            "det_conf": [
+                0.3338525593280792,
+                0.33328408002853394,
+                0.6018868088722229,
+                0.5566644668579102,
+                0.23239965736865997
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 49.5,
+            "distance": 1.0,
+            "det_conf": [
+                0.7604267597198486,
+                0.6911190152168274,
+                0.755433976650238,
+                0.688348114490509,
+                0.6200912594795227
+            ]
+        }
+    },
+    "01800": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -21.57,
+            "distance": 1.07,
+            "det_conf": [
+                0.89906245470047,
+                0.8957834243774414,
+                0.9232760071754456,
+                0.8205100297927856,
+                0.8614454865455627
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 1.49,
+            "distance": 1.71,
+            "det_conf": [
+                0.5182946920394897,
+                0.5612797141075134,
+                0.3847176432609558,
+                0.38592728972435,
+                0.6792591214179993
+            ]
+        }
+    },
+    "01805": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -23.78,
+            "distance": 1.17,
+            "det_conf": [
+                0.8873265981674194,
+                0.8694540858268738,
+                0.8159734010696411,
+                0.8556589484214783,
+                0.8906491994857788
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 1.29,
+            "distance": 1.66,
+            "det_conf": [
+                0.41731739044189453,
+                0.585630476474762,
+                0.6305816173553467,
+                0.6793315410614014,
+                0.5845977663993835
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 60.55,
+            "distance": 1.0,
+            "det_conf": [
+                0.595593273639679,
+                0.5019954442977905,
+                0.5490819811820984,
+                0.5480598211288452,
+                0.5643482804298401
+            ]
+        }
+    },
+    "01810": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -42.9,
+            "distance": 1.07,
+            "det_conf": [
+                0.9198951125144958,
+                0.9086311459541321,
+                0.8345524072647095,
+                0.8781574964523315,
+                0.8548035621643066
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 56.42,
+            "distance": 1.0,
+            "det_conf": [
+                0.7836769223213196,
+                0.8149493932723999,
+                0.7690214514732361,
+                0.8580678105354309,
+                0.8290814757347107
+            ]
+        }
+    },
+    "01815": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -61.84,
+            "distance": 1.11,
+            "det_conf": [
+                0.7631610035896301,
+                0.7836809754371643,
+                0.852514386177063,
+                0.8330508470535278,
+                0.8389518857002258
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -31.76,
+            "distance": 1.64,
+            "det_conf": [
+                0.5242146253585815,
+                0.5128434300422668,
+                0.4765443801879883,
+                0.40787386894226074,
+                0.26106762886047363
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 52.64,
+            "distance": 1.0,
+            "det_conf": [
+                0.793236255645752,
+                0.791828989982605,
+                0.6550662517547607,
+                0.6822940111160278,
+                0.2866758108139038
+            ]
+        }
+    },
+    "01820": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -69.03,
+            "distance": 1.3,
+            "det_conf": [
+                0.5708559155464172,
+                0.6277288794517517,
+                0.3660450279712677,
+                0.3714916408061981,
+                0.006849934812635183
+            ]
+        }
+    },
+    "01850": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -68.1,
+            "distance": 1.17,
+            "det_conf": [
+                0.8155047297477722,
+                0.8021364212036133,
+                0.4528855085372925,
+                0.8050724864006042,
+                0.49252182245254517
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 25.14,
+            "distance": 1.19,
+            "det_conf": [
+                0.2514338195323944,
+                0.4885600209236145,
+                0.486719012260437,
+                0.5476571321487427,
+                0.3297049105167389
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 43.24,
+            "distance": 1.0,
+            "det_conf": [
+                0.5072605013847351,
+                0.49549931287765503,
+                0.6458854079246521,
+                0.13210682570934296,
+                0.4155438542366028
+            ]
+        }
+    },
+    "01860": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -50.48,
+            "distance": 1.0,
+            "det_conf": [
+                0.7805251479148865,
+                0.81987065076828,
+                0.8545966744422913,
+                0.799589216709137,
+                0.7982980012893677
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -23.73,
+            "distance": 1.91,
+            "det_conf": [
+                0.5056841969490051,
+                0.5107231140136719,
+                0.4704391658306122,
+                0.49669861793518066,
+                0.4691992998123169
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 52.17,
+            "distance": 1.05,
+            "det_conf": [
+                0.5278603434562683,
+                0.2548288404941559,
+                0.13956354558467865,
+                0.0587986521422863,
+                0.3323303759098053
+            ]
+        }
+    },
+    "01870": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -47.37,
+            "distance": 1.0,
+            "det_conf": [
+                0.8269627690315247,
+                0.6182248592376709,
+                0.9107099771499634,
+                0.560239315032959,
+                0.8592768907546997
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -13.94,
+            "distance": 1.61,
+            "det_conf": [
+                0.5871174335479736,
+                0.5836122632026672,
+                0.5336837768554688,
+                0.5520192980766296,
+                0.5664728283882141
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 45.2,
+            "distance": 1.07,
+            "det_conf": [
+                0.6617124676704407,
+                0.6347345113754272,
+                0.09986427426338196,
+                0.5891141295433044,
+                0.10261788964271545
+            ]
+        }
+    },
+    "01880": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -53.51,
+            "distance": 1.0,
+            "det_conf": [
+                0.8674218654632568,
+                0.8809253573417664,
+                0.8674249053001404,
+                0.8591994047164917,
+                0.82741379737854
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -12.78,
+            "distance": 1.53,
+            "det_conf": [
+                0.6172513365745544,
+                0.6962690949440002,
+                0.5805460214614868,
+                0.5813934206962585,
+                0.5824471116065979
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 32.23,
+            "distance": 1.06,
+            "det_conf": [
+                0.40392786264419556,
+                0.4079284369945526,
+                0.5376882553100586,
+                0.5517591834068298,
+                0.5485647916793823
+            ]
+        }
+    },
+    "02360": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -49.53,
+            "distance": 1.37,
+            "det_conf": [
+                0.6161314845085144,
+                0.701839804649353,
+                0.7659723162651062,
+                0.8088285326957703,
+                0.8122408390045166
+            ]
+        }
+    },
+    "02370": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -64.53,
+            "distance": 1.21,
+            "det_conf": [
+                0.8736338019371033,
+                0.8171902894973755,
+                0.8658503890037537,
+                0.7311386466026306,
+                0.7372456789016724
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -2.59,
+            "distance": 1.63,
+            "det_conf": [
+                0.5070154070854187,
+                0.5349437594413757,
+                0.5557481050491333,
+                0.29245132207870483,
+                0.22909073531627655
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 41.68,
+            "distance": 1.02,
+            "det_conf": [
+                0.420832097530365,
+                0.6176028251647949,
+                0.2775377631187439,
+                0.4990023076534271,
+                0.33943551778793335
+            ]
+        }
+    },
+    "02380": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -62.48,
+            "distance": 1.14,
+            "det_conf": [
+                0.9065021872520447,
+                0.9084656238555908,
+                0.8965569138526917,
+                0.8889312744140625,
+                0.6626238822937012
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 11.88,
+            "distance": 1.78,
+            "det_conf": [
+                0.5406898856163025,
+                0.565999448299408,
+                0.5237270593643188,
+                0.4129565358161926,
+                0.200089231133461
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 45.05,
+            "distance": 1.0,
+            "det_conf": [
+                0.5198920965194702,
+                0.5254063606262207,
+                0.47686129808425903,
+                0.530900239944458,
+                0.38622939586639404
+            ]
+        }
+    },
+    "02385": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -58.81,
+            "distance": 1.14,
+            "det_conf": [
+                0.8192024230957031,
+                0.8689225912094116,
+                0.8802970051765442,
+                0.8730307221412659,
+                0.8143141865730286
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 11.85,
+            "distance": 1.69,
+            "det_conf": [
+                0.5549207329750061,
+                0.502350926399231,
+                0.4657379686832428,
+                0.47669392824172974,
+                0.5462750792503357
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 55.11,
+            "distance": 1.13,
+            "det_conf": [
+                0.6670237183570862,
+                0.5883267521858215,
+                0.5763787627220154,
+                0.4253219664096832,
+                0.5592024326324463
+            ]
+        }
+    },
+    "02390": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -56.89,
+            "distance": 1.15,
+            "det_conf": [
+                0.5136574506759644,
+                0.7033669948577881,
+                0.829819917678833,
+                0.7982412576675415,
+                0.4003186523914337
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 64.93,
+            "distance": 1.02,
+            "det_conf": [
+                0.5697638392448425,
+                0.5355296730995178,
+                0.5659438967704773,
+                0.4864939749240875,
+                0.48709601163864136
+            ]
+        }
+    },
+    "02395": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -55.88,
+            "distance": 1.16,
+            "det_conf": [
+                0.8196070194244385,
+                0.8178627490997314,
+                0.5472906827926636,
+                0.8245822787284851,
+                0.25871652364730835
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -20.4,
+            "distance": 1.96,
+            "det_conf": [
+                0.3712221682071686,
+                0.5466721057891846,
+                0.38946011662483215,
+                0.5425463318824768,
+                0.2614712715148926
+            ]
+        }
+    },
+    "02400": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -53.99,
+            "distance": 1.16,
+            "det_conf": [
+                0.825547456741333,
+                0.800400972366333,
+                0.6131156086921692,
+                0.7261854410171509,
+                0.7252752780914307
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 25.02,
+            "distance": 1.6,
+            "det_conf": [
+                0.5963796377182007,
+                0.5852298736572266,
+                0.5984421372413635,
+                0.6282019019126892,
+                0.4000608026981354
+            ]
+        }
+    },
+    "02405": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -52.15,
+            "distance": 1.11,
+            "det_conf": [
+                0.8732879161834717,
+                0.8617808818817139,
+                0.8640442490577698,
+                0.8736011981964111,
+                0.877119243144989
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 19.45,
+            "distance": 1.74,
+            "det_conf": [
+                0.45093825459480286,
+                0.5186647176742554,
+                0.4209662675857544,
+                0.5314611792564392,
+                0.4846079349517822
+            ]
+        }
+    },
+    "02410": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -50.97,
+            "distance": 1.16,
+            "det_conf": [
+                0.9175007939338684,
+                0.8547049760818481,
+                0.7134327292442322,
+                0.8265853524208069,
+                0.8513603210449219
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 3.88,
+            "distance": 2.0,
+            "det_conf": [
+                0.3836825489997864,
+                0.4122304320335388,
+                0.3628390431404114,
+                0.4195253849029541,
+                0.555346667766571
+            ]
+        }
+    },
+    "02415": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -50.15,
+            "distance": 1.13,
+            "det_conf": [
+                0.9138728380203247,
+                0.8481922745704651,
+                0.862244725227356,
+                0.8667183518409729,
+                0.614931583404541
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 1.71,
+            "distance": 1.95,
+            "det_conf": [
+                0.4489392638206482,
+                0.432706356048584,
+                0.4816697835922241,
+                0.4593246877193451,
+                0.5390621423721313
+            ]
+        }
+    },
+    "02420": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -50.17,
+            "distance": 1.14,
+            "det_conf": [
+                0.899628758430481,
+                0.8942025303840637,
+                0.8901781439781189,
+                0.9149786233901978,
+                0.9076533913612366
+            ]
+        }
+    },
+    "02540": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -38.77,
+            "distance": 1.03,
+            "det_conf": [
+                0.8022146224975586,
+                0.8035935163497925,
+                0.7876038551330566,
+                0.8097938895225525,
+                0.8271329402923584
+            ]
+        }
+    },
+    "02550": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -12.88,
+            "distance": 1.06,
+            "det_conf": [
+                0.7836117148399353,
+                0.8478918671607971,
+                0.8122243881225586,
+                0.6066017150878906,
+                0.6241344809532166
+            ]
+        }
+    },
+    "02560": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -14.63,
+            "distance": 1.13,
+            "det_conf": [
+                0.7425349950790405,
+                0.8438302278518677,
+                0.8481721878051758,
+                0.8362290263175964,
+                0.885382890701294
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -14.45,
+            "distance": 1.82,
+            "det_conf": [
+                0.25095099210739136,
+                0.07212654501199722,
+                0.0941191017627716,
+                0.5210000872612,
+                0.26828277111053467
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 32.21,
+            "distance": 1.0,
+            "det_conf": [
+                0.6494354605674744,
+                0.5839212536811829,
+                0.25190168619155884,
+                0.5522410869598389,
+                0.30017518997192383
+            ]
+        }
+    },
+    "02570": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -26.3,
+            "distance": 1.09,
+            "det_conf": [
+                0.7779554724693298,
+                0.865500271320343,
+                0.7164598107337952,
+                0.853661835193634,
+                0.8667716383934021
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 33.1,
+            "distance": 1.02,
+            "det_conf": [
+                0.60500568151474,
+                0.4750959575176239,
+                0.5804164409637451,
+                0.5380076766014099,
+                0.5798320770263672
+            ]
+        }
+    },
+    "02580": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -47.67,
+            "distance": 1.01,
+            "det_conf": [
+                0.6029348969459534,
+                0.3824446499347687,
+                0.792430579662323,
+                0.6730678677558899,
+                0.6947313547134399
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 36.87,
+            "distance": 1.09,
+            "det_conf": [
+                0.5218022465705872,
+                0.4810698926448822,
+                0.5455484390258789,
+                0.6087717413902283,
+                0.6262868642807007
+            ]
+        }
+    },
+    "02820": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -55.22,
+            "distance": 1.02,
+            "det_conf": [
+                0.8694415092468262,
+                0.845397412776947,
+                0.8240854144096375,
+                0.7977356314659119,
+                0.7760654091835022
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 42.99,
+            "distance": 1.16,
+            "det_conf": [
+                0.40139085054397583,
+                0.5255283713340759,
+                0.3239070773124695,
+                0.47515958547592163,
+                0.3411734700202942
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 44.14,
+            "distance": 1.0,
+            "det_conf": [
+                0.5471506714820862,
+                0.49009448289871216,
+                0.547286331653595,
+                0.028796900063753128,
+                0.1997481882572174
+            ]
+        }
+    },
+    "02830": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -54.83,
+            "distance": 1.01,
+            "det_conf": [
+                0.8305259943008423,
+                0.857177197933197,
+                0.8719779849052429,
+                0.8774360418319702,
+                0.8132920265197754
+            ]
+        }
+    },
+    "02840": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -52.83,
+            "distance": 1.01,
+            "det_conf": [
+                0.626789391040802,
+                0.7076799273490906,
+                0.35399389266967773,
+                0.7241011261940002,
+                0.706080436706543
+            ]
+        }
+    },
+    "02850": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -56.75,
+            "distance": 1.02,
+            "det_conf": [
+                0.8500191569328308,
+                0.8400214314460754,
+                0.8372639417648315,
+                0.8343895673751831,
+                0.48183491826057434
+            ]
+        }
+    },
+    "02860": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -60.0,
+            "distance": 1.05,
+            "det_conf": [
+                0.809726357460022,
+                0.6610522866249084,
+                0.8037766814231873,
+                0.7424675822257996,
+                0.4905388057231903
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 39.93,
+            "distance": 1.0,
+            "det_conf": [
+                0.78867506980896,
+                0.7676374912261963,
+                0.6849133968353271,
+                0.47291526198387146,
+                0.8110487461090088
+            ]
+        }
+    },
+    "02985": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -31.2,
+            "distance": 1.0,
+            "det_conf": [
+                0.5651038885116577,
+                0.2642766833305359,
+                0.2989742159843445,
+                0.49701574444770813,
+                0.3528536856174469
+            ]
+        }
+    },
+    "02990": {
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 38.28,
+            "distance": 1.04,
+            "det_conf": [
+                0.3886633813381195,
+                0.5050348043441772,
+                0.48330244421958923,
+                0.5114381313323975,
+                0.5181105136871338
+            ]
+        }
+    },
+    "02995": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -28.27,
+            "distance": 1.0,
+            "det_conf": [
+                0.4574359655380249,
+                0.06581319123506546,
+                0.5268905162811279,
+                0.02827025204896927,
+                0.6036615967750549
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": -26.98,
+            "distance": 1.29,
+            "det_conf": [
+                0.06055678054690361,
+                0.009714841842651367,
+                0.008541746065020561,
+                0.00933588296175003,
+                0.5513018369674683
+            ]
+        }
+    },
+    "03000": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -33.65,
+            "distance": 1.04,
+            "det_conf": [
+                0.3345229923725128,
+                0.7290838956832886,
+                0.7588421106338501,
+                0.721007764339447,
+                0.7360643744468689
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 49.44,
+            "distance": 1.0,
+            "det_conf": [
+                0.2904778718948364,
+                0.30376702547073364,
+                0.20196986198425293,
+                0.575301468372345,
+                0.573970377445221
+            ]
+        }
+    },
+    "03005": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -34.45,
+            "distance": 1.01,
+            "det_conf": [
+                0.6473772525787354,
+                0.39767491817474365,
+                0.6091518998146057,
+                0.6022394895553589,
+                0.48863887786865234
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 37.02,
+            "distance": 1.0,
+            "det_conf": [
+                0.7908382415771484,
+                0.7872307300567627,
+                0.7909393906593323,
+                0.7276778817176819,
+                0.34197965264320374
+            ]
+        }
+    },
+    "03010": {
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 29.49,
+            "distance": 1.02,
+            "det_conf": [
+                0.7948459386825562,
+                0.8328654766082764,
+                0.34057384729385376,
+                0.34057384729385376,
+                0.7789997458457947
+            ]
+        }
+    },
+    "03015": {
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 30.37,
+            "distance": 1.0,
+            "det_conf": [
+                0.8039550185203552,
+                0.7760831117630005,
+                0.792719304561615,
+                0.7146120071411133,
+                0.7054322361946106
+            ]
+        }
+    },
+    "03020": {
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 30.25,
+            "distance": 1.0,
+            "det_conf": [
+                0.8321940898895264,
+                0.7661828994750977,
+                0.8103447556495667,
+                0.7495787143707275,
+                0.7208715081214905
+            ]
+        }
+    },
+    "03080": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -51.71,
+            "distance": 1.01,
+            "det_conf": [
+                0.7525171637535095,
+                0.7468660473823547,
+                0.7678865790367126,
+                0.6997969746589661,
+                0.7134585976600647
+            ]
+        }
+    },
+    "03090": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -56.89,
+            "distance": 1.01,
+            "det_conf": [
+                0.7849767208099365,
+                0.7809504866600037,
+                0.7760239839553833,
+                0.74947190284729,
+                0.8014664649963379
+            ]
+        }
+    },
+    "03100": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -55.96,
+            "distance": 1.0,
+            "det_conf": [
+                0.8067396283149719,
+                0.793730616569519,
+                0.7631546258926392,
+                0.7831626534461975,
+                0.806714653968811
+            ]
+        }
+    },
+    "03110": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -63.8,
+            "distance": 1.0,
+            "det_conf": [
+                0.7648603320121765,
+                0.735328733921051,
+                0.7784780263900757,
+                0.7376227974891663,
+                0.7526528239250183
+            ]
+        }
+    },
+    "03120": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -56.71,
+            "distance": 1.0,
+            "det_conf": [
+                0.7131004333496094,
+                0.8096004128456116,
+                0.811983048915863,
+                0.8117426633834839,
+                0.032007116824388504
+            ]
+        }
+    },
+    "03380": {
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 50.04,
+            "distance": 1.0,
+            "det_conf": [
+                0.23890842497348785,
+                0.7364336252212524,
+                0.6957107782363892,
+                0.6543717384338379,
+                0.4370313882827759
+            ]
+        }
+    },
+    "03390": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -62.17,
+            "distance": 1.0,
+            "det_conf": [
+                0.6921393871307373,
+                0.8324810862541199,
+                0.8262221813201904,
+                0.8489957451820374,
+                0.7764451503753662
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 54.92,
+            "distance": 1.0,
+            "det_conf": [
+                0.6516744494438171,
+                0.4131878614425659,
+                0.8284006118774414,
+                0.625053882598877,
+                0.21257342398166656
+            ]
+        }
+    },
+    "03400": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -50.23,
+            "distance": 1.0,
+            "det_conf": [
+                0.8752371668815613,
+                0.8809929490089417,
+                0.8621025681495667,
+                0.7924802303314209,
+                0.8397105932235718
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 26.66,
+            "distance": 1.53,
+            "det_conf": [
+                0.5771479606628418,
+                0.46397408843040466,
+                0.5363348722457886,
+                0.5945278406143188,
+                0.5193946361541748
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 67.98,
+            "distance": 1.0,
+            "det_conf": [
+                0.5645192265510559,
+                0.5546356439590454,
+                0.5541936755180359,
+                0.16299180686473846,
+                0.16412773728370667
+            ]
+        }
+    },
+    "03410": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -33.62,
+            "distance": 1.02,
+            "det_conf": [
+                0.9003846049308777,
+                0.8980134725570679,
+                0.9098904132843018,
+                0.8590542674064636,
+                0.8702722191810608
+            ]
+        },
+        "A fireplace constructed from stacked light-colored stones, featuring a dark firebox opening and a wooden mantelpiece. A large painting is hung above the mantel. It is located in the living room area.": {
+            "direction": 70.57,
+            "distance": 1.0,
+            "det_conf": [
+                0.7455324530601501,
+                0.6282699108123779,
+                0.7654153108596802,
+                0.7797822952270508,
+                0.7700492143630981
+            ]
+        }
+    },
+    "03420": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -27.87,
+            "distance": 1.1,
+            "det_conf": [
+                0.9353965520858765,
+                0.9422702193260193,
+                0.9281496405601501,
+                0.9402879476547241,
+                0.7770059704780579
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": 3.6,
+            "distance": 1.7,
+            "det_conf": [
+                0.4758617579936981,
+                0.5901261568069458,
+                0.598820686340332,
+                0.6132375597953796,
+                0.6187443733215332
+            ]
+        }
+    },
+    "03580": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -40.96,
+            "distance": 1.03,
+            "det_conf": [
+                0.8730981945991516,
+                0.687975287437439,
+                0.8343003392219543,
+                0.8146035075187683,
+                0.854066789150238
+            ]
+        }
+    },
+    "03585": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": -13.1,
+            "distance": 1.04,
+            "det_conf": [
+                0.8302052617073059,
+                0.9057868719100952,
+                0.8224842548370361,
+                0.35072049498558044,
+                0.8360326886177063
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -6.41,
+            "distance": 1.71,
+            "det_conf": [
+                0.5464621782302856,
+                0.38050714135169983,
+                0.45867103338241577,
+                0.5189836025238037,
+                0.4669759273529053
+            ]
+        }
+    },
+    "03590": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 0.82,
+            "distance": 1.02,
+            "det_conf": [
+                0.841471791267395,
+                0.8227749466896057,
+                0.6496808528900146,
+                0.24652288854122162,
+                0.8107807040214539
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -67.28,
+            "distance": 2.32,
+            "det_conf": [
+                0.804407000541687,
+                0.7101261019706726,
+                0.7898420691490173,
+                0.8608151078224182,
+                0.29588764905929565
+            ]
+        }
+    },
+    "03595": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 14.31,
+            "distance": 1.1,
+            "det_conf": [
+                0.03053717501461506,
+                0.021179448813199997,
+                0.26419830322265625,
+                0.4790550172328949,
+                0.609079897403717
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -58.42,
+            "distance": 3.15,
+            "det_conf": [
+                0.77206951379776,
+                0.7599385976791382,
+                0.8153129816055298,
+                0.6078769564628601,
+                0.6637177467346191
+            ]
+        }
+    },
+    "03600": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 23.46,
+            "distance": 1.01,
+            "det_conf": [
+                0.6963189840316772,
+                0.6886011362075806,
+                0.7589357495307922,
+                0.7306387424468994,
+                0.6163635849952698
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -45.76,
+            "distance": 3.83,
+            "det_conf": [
+                0.7868193984031677,
+                0.723827064037323,
+                0.7882183790206909,
+                0.7667196989059448,
+                0.6462723612785339
+            ]
+        }
+    },
+    "03605": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 26.24,
+            "distance": 1.16,
+            "det_conf": [
+                0.6707322597503662,
+                0.7266314029693604,
+                0.6778272986412048,
+                0.6066305637359619,
+                0.2607325613498688
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -38.0,
+            "distance": 3.9,
+            "det_conf": [
+                0.8626255989074707,
+                0.7904167175292969,
+                0.8391821980476379,
+                0.7301529049873352,
+                0.8330371379852295
+            ]
+        }
+    },
+    "03610": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 28.84,
+            "distance": 1.0,
+            "det_conf": [
+                0.6834017634391785,
+                0.48960235714912415,
+                0.5459675192832947,
+                0.7211389541625977,
+                0.7451846599578857
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -36.93,
+            "distance": 4.33,
+            "det_conf": [
+                0.5746427178382874,
+                0.5688924193382263,
+                0.3377116322517395,
+                0.4686196744441986,
+                0.17382755875587463
+            ]
+        }
+    },
+    "03615": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 21.78,
+            "distance": 1.23,
+            "det_conf": [
+                0.4862946569919586,
+                0.3140818178653717,
+                0.6562186479568481,
+                0.6132130026817322,
+                0.34134817123413086
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -49.92,
+            "distance": 3.67,
+            "det_conf": [
+                0.8094080686569214,
+                0.8777113556861877,
+                0.8553637862205505,
+                0.8614887595176697,
+                0.8414483666419983
+            ]
+        }
+    },
+    "03620": {
+        "A woman with long dark curly hair, wearing glasses, a white short-sleeved shirt, a yellow knitted vest, light blue jeans, and light-colored patterned socks. She is of average height and build.": {
+            "direction": 42.77,
+            "distance": 1.56,
+            "det_conf": [
+                0.4606153070926666,
+                0.37659159302711487,
+                0.3557118773460388,
+                0.11989688873291016,
+                0.5660385489463806
+            ]
+        },
+        "A tall, light-colored (appears stainless steel) double-door refrigerator with an ice/water dispenser on the left door. It is located in the kitchen.": {
+            "direction": -58.1,
+            "distance": 3.04,
+            "det_conf": [
+                0.8359834551811218,
+                0.8921107053756714,
+                0.8646823167800903,
+                0.8221873044967651,
+                0.7058535814285278
+            ]
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "event": "A creak and thud sound occurs, identified as a person kicking a balloon.",
+    "start_time": "01:07",
+    "end_time": "01:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A medium-sized, inflatable purple balloon, likely made of latex or similar flexible material. Roughly spherical, about 30-40 cm in diameter. It is kicked by a person.",
+        "is_static": false,
+        "key_frames": {
+            "01:01": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "01:04": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "01:07": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "01:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:12": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "01:20": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "01:23": {
+                "distance": "0.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white, recessed fireplace built into the wall. It has a wooden mantelpiece, possibly painted or stained brown. There are decorative items (carrots, bunnies) on the mantel. The fireplace opening is dark.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "00:15": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "00:30": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "00:45": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "00:58": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "01:00": {
+                "distance": "4.0",
+                "direction": "90"
+            },
+            "01:27": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "01:29": {
+                "distance": "4.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large, black, flat-screen television. It is mounted on or sitting on a low, wooden media console or cabinet. The screen is dark.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "00:15": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "00:30": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "00:45": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "00:58": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "01:00": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "01:27": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "01:29": {
+                "distance": "4.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing the tv, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_76",
+    "video_id": "loc1_script2_seq8_rec1"
+}

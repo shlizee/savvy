@@ -1,0 +1,134 @@
+{
+    "event": "Distance between the piano and the sounding object (pan) when a scraping sound is happening.",
+    "start_time": "0:02:13",
+    "end_time": "0:02:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A black, circular frying pan, approximately 25-30 cm in diameter, likely made of metal (e.g., cast iron or non-stick coated aluminum/steel) with a single long handle. During the event, it is in the kitchen sink being scraped.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:55": {
+                "distance": "0.4",
+                "direction": "10"
+            },
+            "0:01:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:01:08": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "0:02:11": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:02:13": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:18": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Piano",
+        "description": "A dark-colored (likely black or very dark brown) upright piano, located in the living room area. Standard size for an upright piano.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:00:06": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:00:12": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "0:00:20": {
+                "distance": "4.0",
+                "direction": "-90"
+            },
+            "0:00:40": {
+                "distance": "4.8",
+                "direction": "-80"
+            },
+            "0:01:00": {
+                "distance": "5.0",
+                "direction": "-75"
+            },
+            "0:01:30": {
+                "distance": "5.0",
+                "direction": "-75"
+            },
+            "0:02:14": {
+                "distance": "5.0",
+                "direction": "-70"
+            },
+            "0:02:41": {
+                "distance": "4.5",
+                "direction": "-45"
+            },
+            "0:03:05": {
+                "distance": "5.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Pan",
+        "description": "A black, circular frying pan. During the event, it is in the kitchen sink. This is the object one would face if standing by the Piano (Reference Object) and looking towards the source of the sound.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:55": {
+                "distance": "0.4",
+                "direction": "10"
+            },
+            "0:01:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:01:08": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "0:02:11": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:02:13": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:18": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 5.0,
+    "question": "When the scraping sound is happening, what is the distance between the piano and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_330",
+    "video_id": "loc3_script3_seq5_rec2"
+}

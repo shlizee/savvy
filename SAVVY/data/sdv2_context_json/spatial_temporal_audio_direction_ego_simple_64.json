@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic is '(tv) narrating the prince's destined kiss action'.",
+    "start_time": "4:05",
+    "end_time": "4:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, flat-screen television, black in color, mounted on a light-colored wooden media console. It is displaying the movie 'Shrek 2'.",
+        "is_static": true,
+        "key_frames": {
+            "0:18": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "4:08": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person wearing the camera, whose perspective the video is from. They are sitting on a couch in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A woman with long dark hair, wearing a black short-sleeved crop top, light blue jeans, and glasses (initially, then smart glasses later).",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "2",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "1",
+                "direction": "-40"
+            },
+            "0:15": {
+                "distance": "1",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "1",
+                "direction": "-50"
+            },
+            "0:46": {
+                "distance": "1",
+                "direction": "-55"
+            },
+            "1:12": {
+                "distance": "1",
+                "direction": "-50"
+            },
+            "1:43": {
+                "distance": "1",
+                "direction": "-60"
+            },
+            "2:20": {
+                "distance": "1",
+                "direction": "-55"
+            },
+            "3:10": {
+                "distance": "1",
+                "direction": "-50"
+            },
+            "4:08": {
+                "distance": "1",
+                "direction": "-55"
+            },
+            "4:25": {
+                "distance": "0.8",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating the prince's destined kiss action\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_64",
+    "video_id": "loc1_script2_seq7_rec2"
+}

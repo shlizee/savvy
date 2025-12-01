@@ -1,0 +1,124 @@
+{
+    "event": "The speech topic 'assuming person is no longer coming through' comes up, specifically when the other person says 'Guess she's not coming.'",
+    "start_time": "0:48",
+    "end_time": "0:49",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, approximately 30s-40s, wearing a turquoise/light blue short-sleeve collared polo shirt, light-colored (khaki or light grey) shorts reaching the knee, and white athletic shoes with grey accents. He has short, dark brown or black hair, a receding hairline, and wears dark-framed glasses. He appears to be of average height and medium to slightly heavy build.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "1:06": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:34": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "1:42": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "2:07": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:29": {
+                "distance": "0.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the first-person perspective of the wearer. This is the origin (0,0) for distance and direction calculations.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Pool Area",
+        "description": "At the time of the event (0:48-0:49), the camera is directly facing an outdoor pool area, viewed through a set of large, multi-panel sliding glass doors. The pool is rectangular with blue water. Around the pool is a light-colored paved patio. Several cushioned outdoor chairs and a small table are visible on the patio. Beyond the pool, a white boundary wall, some trees, and parts of neighboring houses can be seen under a clear blue sky.",
+        "key_frames": {
+            "0:13": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "2:22": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"assuming person is no longer coming through\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_212",
+    "video_id": "loc2_script3_seq33_rec2"
+}

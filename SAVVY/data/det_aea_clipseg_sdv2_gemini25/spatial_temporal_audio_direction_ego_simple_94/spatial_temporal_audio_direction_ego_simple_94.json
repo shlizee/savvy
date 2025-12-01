@@ -1,0 +1,244 @@
+{
+    "event": "The camera wearer expresses appreciation for the paintings, and the other person (host) responds.",
+    "start_time": "0:58",
+    "end_time": "1:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt, khaki cargo shorts, white sneakers with dark laces, glasses, and wired earbuds. He has short dark hair and a blurred face. Approximate height around 1.75-1.85 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:19": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:37": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "1:04": {
+                "distance": "1.3",
+                "direction": "-80"
+            },
+            "1:11": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:21": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:28": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:37": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person (host)",
+        "description": "Adult male, wearing a light blue/teal polo shirt, khaki cargo shorts, white sneakers with dark laces, glasses, and wired earbuds. He has short dark hair and a blurred face. Approximate height around 1.75-1.85 meters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:19": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:37": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "1:04": {
+                "distance": "1.3",
+                "direction": "-80"
+            },
+            "1:11": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:21": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:28": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:37": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing appreciation for the paintings\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_94",
+    "video_id": "loc2_script2_seq2_rec1"
+}

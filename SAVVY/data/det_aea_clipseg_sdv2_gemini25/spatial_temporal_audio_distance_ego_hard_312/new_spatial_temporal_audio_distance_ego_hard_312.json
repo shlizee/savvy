@@ -1,0 +1,152 @@
+{
+    "event": "The other person suggests taking a bite of food.",
+    "start_time": "3:32",
+    "end_time": "3:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short dark hair, wearing a light green short-sleeved polo shirt, blue jeans, and glasses. He is also wearing wired earbuds. Approximate height 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:24": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:21": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:54": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "2:07": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:16": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:20": {
+                "distance": "1.3",
+                "direction": "-10"
+            },
+            "2:54": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "3:32": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "3:40": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "4:08": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "4:15": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "4:36": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with short dark hair, wearing a light green short-sleeved polo shirt, blue jeans, and glasses. He is also wearing wired earbuds. Approximate height 1.75-1.85m.",
+        "key_frames": {
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:24": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:21": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "1:54": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "2:07": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "2:16": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:20": {
+                "distance": "1.3",
+                "direction": "-10"
+            },
+            "2:54": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "3:32": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "3:40": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "4:08": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "4:15": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "4:36": {
+                "distance": "1.2",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "1.2",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting taking a bite of food\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_312",
+    "video_id": "loc3_script3_seq4_rec1"
+}

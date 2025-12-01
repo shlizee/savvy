@@ -1,0 +1,148 @@
+{
+    "event": "The TV is narrating the fairy godmother's solution and the princess's imprisonment awaiting rescue.",
+    "start_time": "3:22",
+    "end_time": "3:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches diagonally. It is mounted on a light-colored wooden media console with cabinet doors. The TV is the source of the narration.",
+        "is_static": true,
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "2:06": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "2:32": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "3:25": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "4:15": {
+                "distance": "3.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A person with curly brown hair, wearing a light teal/mint green short-sleeved collared shirt, dark shorts, glasses, and wired earbuds. They are mostly seated on a grey couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "75"
+            },
+            "0:45": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "1:11": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "1:35": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "2:11": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "2:20": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "2:29": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "3:08": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "3:22": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "3:30": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "4:00": {
+                "distance": "1.6",
+                "direction": "75"
+            },
+            "4:22": {
+                "distance": "1.6",
+                "direction": "75"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"(tv) narrating fairy godmother's solution and princess's imprisonment awaiting rescue\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_44",
+    "video_id": "loc1_script2_seq7_rec1"
+}

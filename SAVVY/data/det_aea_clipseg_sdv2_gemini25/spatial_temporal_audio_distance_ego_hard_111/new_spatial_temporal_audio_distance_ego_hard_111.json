@@ -1,0 +1,116 @@
+{
+    "event": "The speech topic: \"suggesting departure\" comes up.",
+    "start_time": "0:43",
+    "end_time": "0:46",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt, khaki shorts, white sneakers, and glasses. He has short brown hair and is of average to slightly heavy build. He is initially sitting on a couch and later stands and walks.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:28": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:57": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:14": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "1:27": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:29": {
+                "distance": "3.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The other person in the scene, who is the sounding object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "1.2",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting departure\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_111",
+    "video_id": "loc2_script2_seq8_rec2"
+}

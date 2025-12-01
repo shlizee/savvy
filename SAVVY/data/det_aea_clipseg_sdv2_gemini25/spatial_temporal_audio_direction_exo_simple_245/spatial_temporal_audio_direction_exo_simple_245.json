@@ -1,0 +1,104 @@
+{
+    "event": "A person suggests getting a plate for serving food being cooked.",
+    "start_time": "0:56",
+    "end_time": "0:59",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with short dark hair, wearing glasses, a light blue short-sleeved polo shirt, khaki shorts, and a dark lanyard. He is actively cooking at the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:34": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:48": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "1.2",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, smooth, rectangular electric cooktop surface integrated into a light-colored granite countertop on a kitchen island. It has visible circular heating zones and touch controls. Approximately 0.8m wide and 0.5m deep.",
+        "key_frames": {
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "1.2",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass window/door that provides a view of an outdoor pool area. The pool has blue water, and outdoor/patio furniture is visible. The window has a dark frame.",
+        "key_frames": {
+            "0:59": {
+                "distance": "4.5",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "80"
+            },
+            "1:01": {
+                "distance": "4.0",
+                "direction": "80"
+            },
+            "1:32": {
+                "distance": "4.0",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the window with a pool view, when the speech topic: \"suggesting getting a plate for serving\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_245",
+    "video_id": "loc2_script3_seq34_rec2"
+}

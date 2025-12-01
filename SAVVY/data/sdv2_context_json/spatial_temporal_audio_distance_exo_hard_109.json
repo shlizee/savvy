@@ -1,0 +1,119 @@
+{
+    "event": "A man indicates that coffee is prepared and available.",
+    "start_time": "0:06",
+    "end_time": "0:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with short brown hair, wearing a teal short-sleeved polo shirt and light-colored (khaki or beige) cargo shorts. He is also wearing white sneakers. He is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "3.6",
+                "direction": "-12"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:23": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:41": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:43": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.9",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A stainless steel double-basin rectangular sink with a gooseneck tap, set into a light-colored granite countertop. The sink is located on the main kitchen counter against the back wall.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.8",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "3.9",
+                "direction": "-22"
+            },
+            "0:07": {
+                "distance": "4.0",
+                "direction": "-25"
+            },
+            "0:12": {
+                "distance": "4.1",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:31": {
+                "distance": "4.5",
+                "direction": "-35"
+            },
+            "0:38": {
+                "distance": "4.2",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 0.55,
+    "question": "When the speech topic: \"indicating prepared coffee availability\" is mentioned, what is the distance between the double-basin rectangular sink and tap and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_109",
+    "video_id": "loc2_script2_seq3_rec2"
+}

@@ -1,0 +1,104 @@
+{
+    "event": "The speech topic: \"stating action is done only once\" is mentioned.",
+    "start_time": "02:59",
+    "end_time": "03:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Female person with long dark curly hair, wearing a yellow knitted vest over a white short-sleeved t-shirt, light blue jeans, and light-colored socks with a pattern. She is the source of the speech.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:07": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "00:11": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:34": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "00:57": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "01:20": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "01:58": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "02:08": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "02:23": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "02:50": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "02:59": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "03:07": {
+                "distance": "1.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "tv by the fireplace",
+        "description": "A black flat-screen television mounted on the wall above a stone-faced fireplace in the living room.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:01": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "00:18": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "00:22": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "00:36": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "02:59": {
+                "distance": "4.0",
+                "direction": "100"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera",
+        "description": "The camera is the point of view, so no facing object is defined in this context for distance calculation between two other objects.",
+        "key_frames": {}
+    },
+    "prediction": 4.0,
+    "question": "When the speech topic: \"stating action is done only once\" is mentioned, what is the distance between the tv by the fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_256",
+    "video_id": "loc3_script2_seq3_rec1"
+}

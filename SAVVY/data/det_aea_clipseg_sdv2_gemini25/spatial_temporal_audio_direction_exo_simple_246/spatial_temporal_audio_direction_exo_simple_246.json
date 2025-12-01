@@ -1,0 +1,130 @@
+{
+    "event": "Speech topic: \"indicating food is nearly done and planning one last flip\"",
+    "start_time": "02:24",
+    "end_time": "02:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, with a blurred face for privacy, wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, and white sneakers. He is also wearing glasses. He appears to be of average to large build. This is Speaker 2 in the video.",
+        "is_static": false,
+        "key_frames": {
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:15": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "00:28": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:03": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:34": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "01:48": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "02:05": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "02:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:28": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:31": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:45": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:59": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, round or oval wooden dining table, light brown in color, accompanied by at least two matching wooden chairs with patterned seat cushions. It is positioned near large glass windows/doors that offer a view of an outdoor pool area. This is where the robot is standing.",
+        "is_static": true,
+        "key_frames": {
+            "00:10": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "00:59": {
+                "distance": "4.0",
+                "direction": "50"
+            },
+            "01:36": {
+                "distance": "4.0",
+                "direction": "50"
+            },
+            "02:30": {
+                "distance": "4.0",
+                "direction": "50"
+            },
+            "02:52": {
+                "distance": "4.0",
+                "direction": "50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A black or dark-colored double-basin rectangular sink, likely made of composite material or coated metal, integrated into a light-colored granite countertop. It is equipped with a modern, tall, gooseneck-style chrome or stainless steel tap. This is what the robot is facing.",
+        "is_static": true,
+        "key_frames": {
+            "00:08": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "00:40": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "01:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:41": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "02:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "02:59": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the double-basin rectangular sink and tap, when the speech topic: \"indicating food is nearly done and planning one last flip\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_246",
+    "video_id": "loc2_script3_seq34_rec2"
+}

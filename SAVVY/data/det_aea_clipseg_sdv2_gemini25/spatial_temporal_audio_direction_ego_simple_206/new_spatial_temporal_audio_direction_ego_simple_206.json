@@ -1,0 +1,88 @@
+{
+    "event": "The speech topic 'assuming person is no longer coming through' comes up.",
+    "start_time": "0:48",
+    "end_time": "0:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person wearing a turquoise/light blue short-sleeved polo shirt, khaki shorts, and white sneakers. He has short dark hair and is wearing glasses. He appears to be of average to large build.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:56": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:01": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "-85"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:43": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:49": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "2:07": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "2:29": {
+                "distance": "1.2",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the person filming.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"assuming person is no longer coming through\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_206",
+    "video_id": "loc2_script3_seq33_rec2"
+}

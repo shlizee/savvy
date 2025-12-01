@@ -1,0 +1,212 @@
+{
+    "event": "The other person states that the audio volume is too low.",
+    "start_time": "3:11",
+    "end_time": "3:12",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A young woman with long, dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and glasses. She is barefoot. Approximate height is 5'5\"-5'8\".",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:25": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:12": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "1:45": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "2:20": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "2:26": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "2:31": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "2:47": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:00": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:08": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:11": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:13": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:21": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:25": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "3:52": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "4:01": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "4:17": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "4:24": {
+                "distance": "1.8",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is initially in the dining area and then moves to the living room, sitting on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:11": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large flat-screen TV on a wooden media console in the living room.",
+        "key_frames": {
+            "0:12": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:11": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating the audio volume is too low\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_70",
+    "video_id": "loc1_script2_seq7_rec2"
+}

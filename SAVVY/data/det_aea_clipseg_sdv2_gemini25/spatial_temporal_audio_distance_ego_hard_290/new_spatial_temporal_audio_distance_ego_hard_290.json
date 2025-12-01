@@ -1,0 +1,87 @@
+{
+    "event": "Camera wearer thanking another person (Michael) for getting groceries.",
+    "start_time": "0:21",
+    "end_time": "0:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male, appearing to be middle-aged, with short, dark hair. He is wearing a light green/teal short-sleeved polo shirt and blue denim jeans. He has a medium build. He is approximately 1.75-1.85 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "50"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "0:39": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:41": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "50"
+            },
+            "1:01": {
+                "distance": "4.0",
+                "direction": "55"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is sitting on a couch in a living room. The person is initially looking at a phone, then picks up and looks at a book titled 'Remodelista'.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 4.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"thanking for getting groceries\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_290",
+    "video_id": "loc3_script3_seq1_rec2"
+}

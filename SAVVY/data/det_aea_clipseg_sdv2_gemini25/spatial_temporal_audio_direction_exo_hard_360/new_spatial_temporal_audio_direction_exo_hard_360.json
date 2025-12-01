@@ -1,0 +1,256 @@
+{
+    "event": "Identifying the location of the speaker when the topic 'asking about the supermarket experience' comes up, relative to a robot standing by the coffee table and facing the window.",
+    "start_time": "0:10",
+    "end_time": "0:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a dark long-sleeved top (sweater) over a light-colored collared shirt, and blue jeans. They are sitting on a beige couch to the left of the coffee table (when viewed from the fireplace towards the window). This person is the one who describes their supermarket experience.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:10": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:20": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:30": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:40": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "1:10": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "1:20": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "1:40": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "1:50": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "2:10": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "2:20": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "2:30": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "2:40": {
+                "distance": "2.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A medium-brown rectangular wooden coffee table located in the center of the living room area, between two couches. It has various items on its surface, including magazines, coasters, and remote controls.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:20": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "2:40": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with balcony view",
+        "description": "A large set of floor-to-ceiling glass windows and sliding doors that form one wall of the living room. They provide a view of an outdoor balcony and trees. Smaller transom windows are located above the main windows.",
+        "key_frames": {
+            "0:00": {
+                "distance": "6.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:10": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:40": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:50": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:10": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:20": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:40": {
+                "distance": "3.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the window with a balcony view, when the speech topic: \"asking about the supermarket experience\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_360",
+    "video_id": "loc3_script3_seq2_rec1"
+}

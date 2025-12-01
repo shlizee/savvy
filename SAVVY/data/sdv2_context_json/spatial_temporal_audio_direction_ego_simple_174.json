@@ -1,0 +1,196 @@
+{
+    "event": "The other person mentions completing the current task with Maddie yesterday.",
+    "start_time": "1:00",
+    "end_time": "1:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A young adult male with curly, medium-length brown hair. He is wearing glasses, a grey short-sleeved polo shirt, dark blue or black shorts, and black sneakers with white soles. He also has a black headphone-like device around his neck/ears, possibly a bone conduction headset or similar. Approximate height 1.7-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:27": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:01": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:08": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:11": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "-25"
+            },
+            "1:36": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "1:49": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:07": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "2:16": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:33": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's Forward View",
+        "description": "The central point of the camera's field of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning completing current task with maddie yesterday\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_174",
+    "video_id": "loc2_script3_seq31_rec1"
+}

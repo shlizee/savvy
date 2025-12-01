@@ -1,0 +1,364 @@
+{
+    "event": "The other person instructs the camera wearer not to move the french press while pressing.",
+    "start_time": "2:45",
+    "end_time": "2:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white t-shirt, a yellow knitted vest, light blue jeans, and colorful socks. She has a tattoo on her left forearm.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:13": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:43": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "1:06": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "1:19": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:27": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:33": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:43": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "1:53": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "1:58": {
+                "distance": "0.6",
+                "direction": "-25"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:08": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "2:12": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "2:23": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "2:29": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "2:39": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "2:46": {
+                "distance": "0.5",
+                "direction": "-25"
+            },
+            "2:50": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "2:56": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "3:00": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer, whose arms and legs are visible. The wearer has a gold watch on the left wrist and a tattoo on the left forearm. They are wearing a green t-shirt and blue jeans.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:53": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:39": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:46": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:56": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera Gaze",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:53": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:23": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:29": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:39": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:46": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "2:56": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "1",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing not to move french press while pressing\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_271",
+    "video_id": "loc3_script2_seq3_rec1"
+}

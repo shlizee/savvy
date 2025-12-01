@@ -1,0 +1,116 @@
+{
+    "event": "Speech topic: agreeing and specifying items for clean up (instructions, stuff)",
+    "start_time": "0:31",
+    "end_time": "0:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/blue polo shirt, khaki shorts, and glasses. He has short brown hair and an average build. He is the person actively cleaning up the Scrabble game during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.2",
+                "direction": "30"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "0:31": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:58": {
+                "distance": "4.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dishwasher",
+        "description": "Built-in stainless steel dishwasher, located in the main kitchen counter cabinetry, to the immediate right of the kitchen sink (from camera's initial POV). Standard dishwasher size, approximately 24 inches wide.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double Wall Oven",
+        "description": "Built-in stainless steel double wall oven, located in the main kitchen counter cabinetry, to the immediate right of the dishwasher (from camera's initial POV). Standard double oven size, approximately 30 inches wide.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:31": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:53": {
+                "distance": "4.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"agreeing and specifying items for clean up (instructions, stuff)\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_171",
+    "video_id": "loc2_script2_seq6_rec1"
+}

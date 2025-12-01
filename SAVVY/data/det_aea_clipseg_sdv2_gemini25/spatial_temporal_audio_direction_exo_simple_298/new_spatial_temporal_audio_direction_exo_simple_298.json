@@ -1,0 +1,168 @@
+{
+    "event": "Determine the direction of the gas stove flame sound relative to a robot standing by the piano and facing the TV by the fireplace.",
+    "start_time": "0:51",
+    "end_time": "1:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A stainless steel gas cooktop with multiple black grates and black control knobs. It is built into a white countertop, which is part of a kitchen with wooden cabinets. The cooktop has at least four burners.",
+        "is_static": true,
+        "key_frames": {
+            "0:11": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:33": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:55": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Piano",
+        "description": "A black upright piano.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "0:36": {
+                "distance": "4.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A black flat-screen TV mounted above a stone fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:28": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:36": {
+                "distance": "4.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the piano and facing the tv by the fireplace, when the flame sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_298",
+    "video_id": "loc3_script2_seq3_rec1"
+}

@@ -1,0 +1,108 @@
+{
+    "event": "The speech topic 'expressing need to finish tasks first' comes up.",
+    "start_time": "1:37",
+    "end_time": "1:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved polo shirt, khaki cargo shorts, and white sneakers with some colored accents. He has short brown hair, is wearing glasses, and has wired earbuds in. His face is blurred in the video. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:41": {
+                "distance": "4.5",
+                "direction": "-45"
+            },
+            "1:09": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:25": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera wearer",
+        "description": "The person wearing the camera, from whose perspective the scene is viewed.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's forward view",
+        "description": "The direction the camera wearer is looking, representing the 0-degree line of sight.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing need to finish tasks first\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_77",
+    "video_id": "loc2_script2_seq1_rec1"
+}

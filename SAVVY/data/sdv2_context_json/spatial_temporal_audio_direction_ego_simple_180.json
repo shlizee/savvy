@@ -1,0 +1,164 @@
+{
+    "event": "The speech topic 'agreeing to start activity' (cooking) comes up.",
+    "start_time": "0:02",
+    "end_time": "0:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise short-sleeved polo shirt and khaki shorts. He has dark, short hair and is wearing glasses. Approximate height 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:08": {
+                "distance": "4.0",
+                "direction": "-90"
+            },
+            "0:10": {
+                "distance": "5.5",
+                "direction": "-100"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:39": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:50": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "2:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "1.8",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_gaze",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"agreeing to start activity\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_180",
+    "video_id": "loc2_script3_seq31_rec2"
+}

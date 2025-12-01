@@ -1,0 +1,129 @@
+{
+    "event": "The person in the teal shirt says 'Well, I'm your guest', identifying themselves as the guest.",
+    "start_time": "1:11",
+    "end_time": "1:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a teal-colored short-sleeve polo shirt and khaki shorts. He has short, dark hair and is of average build. This is the person speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "5.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:23": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:42": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, wooden dining table, likely square or slightly rectangular (approximately 0.7m x 0.7m), with a dark wood finish. The camera person and the sounding object are seated at this table during the event.",
+        "is_static": true,
+        "key_frames": {
+            "0:36": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:41": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:43": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.35",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.35",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.35",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person in teal shirt",
+        "description": "Same as the sounding object. This is the object whose distance from the reference object (table) is being determined. Adult male, wearing a teal-colored short-sleeve polo shirt and khaki shorts.",
+        "key_frames": {
+            "0:42": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.35,
+    "question": "When the speech topic: \"identifying listener as guest\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_117",
+    "video_id": "loc2_script2_seq3_rec2"
+}

@@ -1,0 +1,116 @@
+{
+    "event": "A person volunteers to put away the food (fruit).",
+    "start_time": "0:23",
+    "end_time": "0:25",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark brown hair, wearing glasses, a light green/blue short-sleeved collared shirt, and dark shorts. He has a small black device clipped to his shirt with a wire to an earpiece.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:24": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:58": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:25": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:43": {
+                "distance": "1.2",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen sink with tap",
+        "description": "A white farmhouse-style double basin kitchen sink with a gooseneck stainless steel tap. It is set into a white countertop with a light blue tiled backsplash.",
+        "key_frames": {
+            "0:11": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "1:02": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop oven",
+        "description": "A stainless steel, rectangular countertop oven with multiple control knobs on its right side. It is situated on the white kitchen counter.",
+        "key_frames": {
+            "0:56": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "1:02": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "20"
+            },
+            "1:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the kitchen sink with a tap and facing the countertop oven, when the speech topic: \"volunteering to put away the food\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_48",
+    "video_id": "loc1_script2_seq6_rec2"
+}

@@ -1,0 +1,80 @@
+{
+    "event": "Concluding the person passing through has left",
+    "start_time": "2:25",
+    "end_time": "2:27",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a light blue short-sleeved shirt and khaki shorts. They have short dark hair and are wearing glasses. They appear to be of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:3": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:7": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "1:33": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "1:42": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "2:7": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "2:28": {
+                "distance": "0.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:0": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "pool_view_through_sliding_doors",
+        "description": "The view of the outdoor pool area seen through large sliding glass doors.",
+        "key_frames": {
+            "2:25": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "0.8",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"concluding the person passing through has left\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_166",
+    "video_id": "loc2_script3_seq33_rec2"
+}

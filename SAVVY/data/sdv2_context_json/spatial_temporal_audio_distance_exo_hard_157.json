@@ -1,0 +1,106 @@
+{
+    "event": "A person states their intention to place items down in the hallway.",
+    "start_time": "0:21",
+    "end_time": "0:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Male person, approximately 1.7-1.8m tall, wearing a light blue short-sleeved t-shirt and khaki shorts. He has short brown hair and is wearing glasses. He is the one who enters from the front door area and speaks the phrase 'Okay, I'll put them down here.'",
+        "is_static": false,
+        "key_frames": {
+            "0:12": {
+                "distance": "6.0",
+                "direction": "-5"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:18": {
+                "distance": "4.5",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:27": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "2.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "Black-painted wooden front door, standard height (approximately 2 meters), featuring multiple (appears to be 6 or 8) rectangular glass panels arranged in a grid. It has a metallic door handle and is located at the end of the entrance hallway.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "7.5",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:18": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "7.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Interior Hallway",
+        "description": "The interior hallway of the house that the camera is primarily observing during the event. It leads from the front door area towards the living room, has white walls and a tiled floor. The sounding object (person speaking) is located within this hallway during the specified event.",
+        "is_static": true,
+        "key_frames": {
+            "0:12": {
+                "distance": "4.5",
+                "direction": "-5"
+            },
+            "0:18": {
+                "distance": "4.5",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:27": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "When the speech topic: \"stating intention and placing items down here\" is mentioned, what is the distance between the black front door with glass panels and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_157",
+    "video_id": "loc2_script3_seq1_rec2"
+}

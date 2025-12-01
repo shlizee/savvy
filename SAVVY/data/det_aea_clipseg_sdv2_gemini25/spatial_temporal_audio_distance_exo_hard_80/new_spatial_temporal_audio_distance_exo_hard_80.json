@@ -1,0 +1,79 @@
+{
+    "event": "Distance between the fireplace with a black metal screen and the sounding object (door) when the knocking sound is happening.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark-colored front door, likely metal or wood, featuring a large, ornate wrought-iron scrollwork design over a frosted glass panel. It has a visible handle and a deadbolt lock. Approximate height is 2 meters.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "5.0",
+                "direction": "-135"
+            },
+            "0:43": {
+                "distance": "5.5",
+                "direction": "-140"
+            },
+            "1:09": {
+                "distance": "5.5",
+                "direction": "-140"
+            },
+            "1:56": {
+                "distance": "5.5",
+                "direction": "-140"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A fireplace built into the wall, with a white painted surround/mantel and a black metal screen covering the firebox opening.",
+        "key_frames": {
+            "0:13": {
+                "distance": "5.0",
+                "direction": "30"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:25": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:56": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 6.4,
+    "question": "When the knocking door sound is happening, what is the distance between the fireplace with a black metal screen and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_80",
+    "video_id": "loc2_script2_seq1_rec1"
+}

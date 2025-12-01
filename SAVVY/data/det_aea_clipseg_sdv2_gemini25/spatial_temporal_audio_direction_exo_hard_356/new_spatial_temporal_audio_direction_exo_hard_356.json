@@ -1,0 +1,116 @@
+{
+    "event": "A speaker talks about the state of egg cartons.",
+    "start_time": "0:42",
+    "end_time": "0:44",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Michael) wearing a green short-sleeved collared shirt and blue jeans. He has short dark hair and is of medium build. He is carrying paper grocery bags.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:18": {
+                "distance": "3.2",
+                "direction": "65"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "75"
+            },
+            "0:39": {
+                "distance": "5.0",
+                "direction": "80"
+            },
+            "0:42": {
+                "distance": "5.5",
+                "direction": "85"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric upholstered three-seater couch with light-colored wooden legs. It has several throw pillows on it: one with a pink and white chevron pattern, one orange, and one yellow. A stuffed giraffe toy is also on this couch.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "40"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:42": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:02": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A rectangular wooden coffee table with a light-to-medium brown finish. On its surface are various items including a colorful placemat with food imagery, a white llama figurine, a book titled 'Remodelista', another smaller book, and a stack of red and yellow coasters.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the rectangular wooden coffee table, when the speech topic: \"describing state of egg cartons\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_356",
+    "video_id": "loc3_script3_seq1_rec2"
+}

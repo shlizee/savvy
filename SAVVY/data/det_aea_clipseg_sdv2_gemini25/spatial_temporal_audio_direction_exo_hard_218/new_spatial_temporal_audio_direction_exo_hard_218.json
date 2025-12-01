@@ -1,0 +1,160 @@
+{
+    "event": "Speaker states their belief that the bedrooms are unoccupied.",
+    "start_time": "0:18",
+    "end_time": "0:20",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved polo shirt, dark shorts, black sneakers with white soles, and glasses with a black strap around his neck. He has dark, curly hair. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.6",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "0:19": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "0:42": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:11": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "1:14": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "1:58": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:41": {
+                "distance": "0.8",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, rectangular, flat glass-ceramic electric cooktop with touch controls, integrated into a light-colored granite countertop. It has at least two circular burner outlines visible. Approximate size 0.7m x 0.5m.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:49": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "Small, round wooden dining table with a dark top and a central pedestal base. It has two wooden chairs with X-backs tucked under it. It's located in an area beyond the kitchen counter, near a window. Table diameter approx 0.8m.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:13": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "2:49": {
+                "distance": "3.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the two-seater dining table, when the speech topic: \"stating belief that bedrooms are unoccupied\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_218",
+    "video_id": "loc2_script3_seq32_rec1"
+}

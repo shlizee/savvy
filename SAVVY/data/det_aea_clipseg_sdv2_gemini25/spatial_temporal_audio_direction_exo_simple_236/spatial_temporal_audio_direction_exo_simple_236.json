@@ -1,0 +1,132 @@
+{
+    "event": "A person is speaking about disliking skewers due to uneven cooking.",
+    "start_time": "1:12",
+    "end_time": "1:29",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is an adult male, wearing a light blue/turquoise short-sleeved polo shirt, khaki shorts, and white sneakers. He is also wearing glasses. He appears to be of average to large build and is cooking at the stove during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "1:06": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:34": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:08": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "2:29": {
+                "distance": "1.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large, multi-panel sliding glass doors with dark frames, providing a view of an outdoor pool and patio area. The robot is standing by these doors.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-170"
+            },
+            "0:15": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "3.5",
+                "direction": "175"
+            },
+            "1:03": {
+                "distance": "3.5",
+                "direction": "175"
+            },
+            "1:56": {
+                "distance": "3.0",
+                "direction": "-170"
+            },
+            "2:15": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A double-basin rectangular kitchen sink, appearing to be made of a dark composite material or dark stainless steel, undermounted in a granite countertop on the main counter run. It has a modern, gooseneck-style tap. The robot is facing this sink.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the double-basin rectangular sink and tap, when the speech topic: \"expressing dislike for skewers due to uneven cooking\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_236",
+    "video_id": "loc2_script3_seq33_rec2"
+}

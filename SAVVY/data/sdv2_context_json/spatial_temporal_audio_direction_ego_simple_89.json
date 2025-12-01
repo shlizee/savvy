@@ -1,0 +1,144 @@
+{
+    "event": "The speech topic 'highlighting the pool as the centerpiece (pi\u00e8ce de r\u00e9sistance)' comes up.",
+    "start_time": "0:33",
+    "end_time": "0:36",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is an adult male wearing a turquoise blue short-sleeved polo shirt, khaki cargo shorts, white sneakers with dark laces, and glasses. He has short dark hair and is also wearing wired earbuds, with the wire running down his shirt. He is of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:34": {
+                "distance": "1.8",
+                "direction": "60"
+            },
+            "0:35": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "0:36": {
+                "distance": "1.8",
+                "direction": "65"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:46": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:56": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:11": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:16": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:37": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer's perspective. This is the reference point for directions and distances.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Pool",
+        "description": "An outdoor in-ground swimming pool with blue water, surrounded by a light-colored patio and outdoor furniture. It is visible through large glass sliding doors from the kitchen/dining area. This is what the camera is primarily facing when the specific speech event occurs.",
+        "key_frames": {
+            "0:31": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "4.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"highlighting the pool as the centerpiece (pi\u00e8ce de r\u00e9sistance)\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_89",
+    "video_id": "loc2_script2_seq2_rec1"
+}

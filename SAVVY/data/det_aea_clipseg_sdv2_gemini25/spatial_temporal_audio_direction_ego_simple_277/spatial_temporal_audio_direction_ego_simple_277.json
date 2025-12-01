@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic 'mentioning starting with tradeking account' comes up.",
+    "start_time": "01:23",
+    "end_time": "01:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person visible on a smartphone screen, wearing a pink shirt. The person is speaking as part of a YouTube video about stock market investments. The smartphone is being held by the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "00:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:23": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:06": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:11": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:24": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:34": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the first-person perspective of the wearer.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A person with long, dark, curly hair, wearing a yellow knitted short-sleeve top over a white t-shirt, and light blue jeans. Their face is blurred.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:02": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "00:04": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "00:06": {
+                "distance": "3.2",
+                "direction": "35"
+            },
+            "00:08": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "00:30": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "00:41": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "00:51": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "01:03": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "01:17": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "01:24": {
+                "distance": "1.2",
+                "direction": "50"
+            },
+            "01:36": {
+                "distance": "1.2",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning starting with tradeking account\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_277",
+    "video_id": "loc3_script2_seq7_rec1"
+}

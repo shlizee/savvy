@@ -1,0 +1,704 @@
+{
+    "8": {
+        "is_key_frame": true,
+        "content": "We're rolling.",
+        "sounding_object": "rec2",
+        "angle": 8.596553879676447,
+        "distance": 1.3484839803457065,
+        "direction": "front",
+        "mic_loc": [
+            8.272194,
+            1.349159
+        ],
+        "mic_forward_vec": [
+            0.40629155836718783,
+            -0.913743492233768
+        ],
+        "sounding_loc": [
+            8.629737,
+            0.048939
+        ],
+        "sounding_forward_vec": [
+            -0.47150592180176343,
+            0.8818628950726237
+        ],
+        "clip_energy": 0.2242109662874777,
+        "guest_clip_energy": 0.7336089826308477
+    },
+    "9": {
+        "is_key_frame": true,
+        "content": "We're rolling.",
+        "sounding_object": "rec2",
+        "angle": 8.321994465458946,
+        "distance": 1.3587184094763711,
+        "direction": "front",
+        "mic_loc": [
+            8.273488,
+            1.346943
+        ],
+        "mic_forward_vec": [
+            0.4058967141788006,
+            -0.9139189556075819
+        ],
+        "sounding_loc": [
+            8.639453,
+            0.038438
+        ],
+        "sounding_forward_vec": [
+            -0.4311671976198633,
+            0.9022720474982219
+        ],
+        "clip_energy": 0.3215027304469631,
+        "guest_clip_energy": 1.1381055624326921
+    },
+    "10": {
+        "is_key_frame": true,
+        "content": "We're rolling.",
+        "sounding_object": "rec2",
+        "angle": 8.420233043373955,
+        "distance": 1.3825505345657354,
+        "direction": "front",
+        "mic_loc": [
+            8.27369,
+            1.349047
+        ],
+        "mic_forward_vec": [
+            0.4061556079701206,
+            -0.9138039297980841
+        ],
+        "sounding_loc": [
+            8.644168,
+            0.017059
+        ],
+        "sounding_forward_vec": [
+            -0.44047934355464907,
+            0.8977627458864984
+        ],
+        "clip_energy": 0.2151982330744513,
+        "guest_clip_energy": 0.4797647327041466
+    },
+    "72": {
+        "is_key_frame": true,
+        "content": "Put that there.",
+        "sounding_object": "rec2",
+        "angle": 1.2900473668991153,
+        "distance": 0.9426629550358918,
+        "direction": "front",
+        "mic_loc": [
+            5.482104,
+            -0.717549
+        ],
+        "mic_forward_vec": [
+            -0.302499194955263,
+            0.9531496404297795
+        ],
+        "sounding_loc": [
+            5.21725,
+            0.187142
+        ],
+        "sounding_forward_vec": [
+            0.9366980366634633,
+            -0.3501382414287435
+        ],
+        "clip_energy": 0.38544166544009906,
+        "guest_clip_energy": 0.07062973209685441
+    },
+    "73": {
+        "is_key_frame": true,
+        "content": "Put that there.",
+        "sounding_object": "rec2",
+        "angle": -2.0274879528700596,
+        "distance": 0.886769775671228,
+        "direction": "front",
+        "mic_loc": [
+            5.453736,
+            -0.691442
+        ],
+        "mic_forward_vec": [
+            -0.20426938766314937,
+            0.9789147139887735
+        ],
+        "sounding_loc": [
+            5.241998,
+            0.169678
+        ],
+        "sounding_forward_vec": [
+            0.9132646885395872,
+            -0.40736667594035086
+        ],
+        "clip_energy": 0.3945571022250605,
+        "guest_clip_energy": 0.5197581892629867
+    },
+    "74": {
+        "is_key_frame": true,
+        "content": "Put that there.",
+        "sounding_object": "rec2",
+        "angle": -2.826710491487414,
+        "distance": 0.8502641323835787,
+        "direction": "front",
+        "mic_loc": [
+            5.461423,
+            -0.665117
+        ],
+        "mic_forward_vec": [
+            -0.18519993348381705,
+            0.9827008622350902
+        ],
+        "sounding_loc": [
+            5.26294,
+            0.161656
+        ],
+        "sounding_forward_vec": [
+            0.9089650029712841,
+            -0.41687243057488643
+        ],
+        "clip_energy": 0.21141596676642085,
+        "guest_clip_energy": 0.6733645406264419
+    },
+    "75": {
+        "is_key_frame": true,
+        "content": "Put that there.",
+        "sounding_object": "rec2",
+        "angle": -5.95916055891088,
+        "distance": 0.8315820522077181,
+        "direction": "front",
+        "mic_loc": [
+            5.4835,
+            -0.650247
+        ],
+        "mic_forward_vec": [
+            -0.15586690265260364,
+            0.9877780664994965
+        ],
+        "sounding_loc": [
+            5.269305,
+            0.153276
+        ],
+        "sounding_forward_vec": [
+            0.8994595201353037,
+            -0.43700408652319145
+        ],
+        "clip_energy": 0.2501179595654147,
+        "guest_clip_energy": 1.2000773087076515
+    },
+    "76": {
+        "is_key_frame": true,
+        "content": "Put that there.",
+        "sounding_object": "rec2",
+        "angle": -8.816205091730533,
+        "distance": 0.825360710771357,
+        "direction": "front",
+        "mic_loc": [
+            5.496744,
+            -0.641367
+        ],
+        "mic_forward_vec": [
+            -0.13188271228206008,
+            0.9912653278517954
+        ],
+        "sounding_loc": [
+            5.263785,
+            0.150435
+        ],
+        "sounding_forward_vec": [
+            0.9027917268989473,
+            -0.43007801367056253
+        ],
+        "clip_energy": 0.2889625789015987,
+        "guest_clip_energy": 0.8732478104702344
+    },
+    "523": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": -104.55212086106746,
+        "distance": 1.8737532548660185,
+        "direction": "back-left",
+        "mic_loc": [
+            3.63953,
+            0.934318
+        ],
+        "mic_forward_vec": [
+            0.010213800695991466,
+            -0.9999478377772225
+        ],
+        "sounding_loc": [
+            5.448269,
+            1.423618
+        ],
+        "sounding_forward_vec": [
+            0.49455647557147175,
+            0.8691454955704047
+        ],
+        "clip_energy": 0.03970696376564007,
+        "guest_clip_energy": 0.3456394869749994
+    },
+    "524": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": -90.61660277551997,
+        "distance": 1.8080998749073574,
+        "direction": "back-left",
+        "mic_loc": [
+            3.699585,
+            0.935486
+        ],
+        "mic_forward_vec": [
+            0.25991041485319827,
+            -0.965632733626423
+        ],
+        "sounding_loc": [
+            5.440387,
+            1.424192
+        ],
+        "sounding_forward_vec": [
+            0.4736770792449759,
+            0.8806986003156521
+        ],
+        "clip_energy": 0.21555614270386197,
+        "guest_clip_energy": 0.40635060018450747
+    },
+    "525": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": -83.28392947063053,
+        "distance": 1.6609272967378794,
+        "direction": "front-left",
+        "mic_loc": [
+            3.78832,
+            0.910171
+        ],
+        "mic_forward_vec": [
+            0.40690643311852315,
+            -0.913469843337349
+        ],
+        "sounding_loc": [
+            5.374155,
+            1.403939
+        ],
+        "sounding_forward_vec": [
+            0.3081791186701745,
+            0.951328350684281
+        ],
+        "clip_energy": 0.07214331586511007,
+        "guest_clip_energy": 0.600570802575431
+    },
+    "526": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": -97.40304940932677,
+        "distance": 1.5265776581235557,
+        "direction": "back-left",
+        "mic_loc": [
+            3.844931,
+            0.846353
+        ],
+        "mic_forward_vec": [
+            0.20419987734577405,
+            -0.9789292160784512
+        ],
+        "sounding_loc": [
+            5.28672,
+            1.348034
+        ],
+        "sounding_forward_vec": [
+            -0.054831441149790806,
+            0.9984956249585859
+        ],
+        "clip_energy": 0.09506499407454085,
+        "guest_clip_energy": 0.4422997402988183
+    },
+    "527": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": -119.94286767298141,
+        "distance": 1.4818042380034553,
+        "direction": "back-left",
+        "mic_loc": [
+            3.819431,
+            0.814375
+        ],
+        "mic_forward_vec": [
+            -0.2367642030221293,
+            -0.9715671423876459
+        ],
+        "sounding_loc": [
+            5.242057,
+            1.228958
+        ],
+        "sounding_forward_vec": [
+            -0.3467574071999921,
+            0.9379548499538444
+        ],
+        "clip_energy": 0.0877148990805058,
+        "guest_clip_energy": 0.3680720935360885
+    },
+    "528": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": -178.73165708923563,
+        "distance": 1.5946451381200775,
+        "direction": "back",
+        "mic_loc": [
+            3.663021,
+            0.908914
+        ],
+        "mic_forward_vec": [
+            -0.9918079176468522,
+            -0.1277382264360005
+        ],
+        "sounding_loc": [
+            5.248724,
+            1.077553
+        ],
+        "sounding_forward_vec": [
+            -0.5870993241129162,
+            0.8095149063643962
+        ],
+        "clip_energy": 0.0647610799496884,
+        "guest_clip_energy": 0.5383122240077115
+    },
+    "529": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": 149.66768956443008,
+        "distance": 1.6116945186669218,
+        "direction": "back-right",
+        "mic_loc": [
+            3.624857,
+            1.039672
+        ],
+        "mic_forward_vec": [
+            -0.8352720729480431,
+            0.5498368523053718
+        ],
+        "sounding_loc": [
+            5.234308,
+            0.954662
+        ],
+        "sounding_forward_vec": [
+            -0.7708705981960449,
+            0.6369917745441239
+        ],
+        "clip_energy": 0.06234073836598201,
+        "guest_clip_energy": 0.5015128018959693
+    },
+    "530": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": 132.93888825114595,
+        "distance": 1.5176432045553399,
+        "direction": "back-right",
+        "mic_loc": [
+            3.665564,
+            1.057944
+        ],
+        "mic_forward_vec": [
+            -0.5821329166325745,
+            0.8130936399781099
+        ],
+        "sounding_loc": [
+            5.170777,
+            0.864102
+        ],
+        "sounding_forward_vec": [
+            -0.8732902524248508,
+            0.4872003027705754
+        ],
+        "clip_energy": 0.0422069248761236,
+        "guest_clip_energy": 0.3348561559560401
+    },
+    "531": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": 131.18203304043433,
+        "distance": 1.380768789696885,
+        "direction": "back-right",
+        "mic_loc": [
+            3.70061,
+            1.025771
+        ],
+        "mic_forward_vec": [
+            -0.5279455494101123,
+            0.8492782211137024
+        ],
+        "sounding_loc": [
+            5.06317,
+            0.80227
+        ],
+        "sounding_forward_vec": [
+            -0.9487341702779194,
+            0.3160751083952485
+        ],
+        "clip_energy": 0.08471509013806568,
+        "guest_clip_energy": 0.3750381648987918
+    },
+    "532": {
+        "is_key_frame": true,
+        "content": "Everybody has jacked up or something on this trip.",
+        "sounding_object": "rec2",
+        "angle": 139.32024160081383,
+        "distance": 1.268313662540146,
+        "direction": "back-right",
+        "mic_loc": [
+            3.705971,
+            1.042602
+        ],
+        "mic_forward_vec": [
+            -0.5919088637723842,
+            0.8060048988608476
+        ],
+        "sounding_loc": [
+            4.94164,
+            0.756697
+        ],
+        "sounding_forward_vec": [
+            -0.9871809842842919,
+            0.15960483785743018
+        ],
+        "clip_energy": 0.030671943309397428,
+        "guest_clip_energy": 0.11511012830729836
+    },
+    "418": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -20.752774502597116,
+        "distance": 0.5219757563757152,
+        "direction": "front-left",
+        "mic_loc": [
+            4.853938,
+            -0.84232
+        ],
+        "mic_forward_vec": [
+            -0.9881512604200912,
+            -0.15348317995853875
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.11491803617957479,
+        "guest_clip_energy": 0.030818935195501412
+    },
+    "419": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -21.69017806934944,
+        "distance": 0.5345196239334904,
+        "direction": "front-left",
+        "mic_loc": [
+            4.885919,
+            -0.877303
+        ],
+        "mic_forward_vec": [
+            -0.9986910880093636,
+            -0.051147929876717776
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.030613968258706197,
+        "guest_clip_energy": 0.03920537924908641
+    },
+    "420": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -26.303615124153733,
+        "distance": 0.5319493596067202,
+        "direction": "front-left",
+        "mic_loc": [
+            4.899369,
+            -0.916695
+        ],
+        "mic_forward_vec": [
+            -0.9942508521126487,
+            0.1070758753093896
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.03736894264043136,
+        "guest_clip_energy": 0.04710199854638334
+    },
+    "421": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -54.719463363939006,
+        "distance": 0.5368455479046088,
+        "direction": "front-left",
+        "mic_loc": [
+            4.895511,
+            -0.893428
+        ],
+        "mic_forward_vec": [
+            -0.8472253005592512,
+            0.5312337433675374
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.22843638293284102,
+        "guest_clip_energy": 0.4200537718399775
+    },
+    "422": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -74.05439892718059,
+        "distance": 0.5550172630144039,
+        "direction": "front-left",
+        "mic_loc": [
+            4.899688,
+            -0.85843
+        ],
+        "mic_forward_vec": [
+            -0.6658381611977061,
+            0.7460962023042723
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.3141794968931366,
+        "guest_clip_energy": 0.5055196497670322
+    },
+    "423": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -82.21564503498006,
+        "distance": 0.569472539395009,
+        "direction": "front-left",
+        "mic_loc": [
+            4.901474,
+            -0.830143
+        ],
+        "mic_forward_vec": [
+            -0.5887771075751318,
+            0.8082954395488458
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.5599302562215688,
+        "guest_clip_energy": 0.16601379617917897
+    },
+    "424": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -86.91029092654968,
+        "distance": 0.6007173901103574,
+        "direction": "front-left",
+        "mic_loc": [
+            4.916325,
+            -0.792966
+        ],
+        "mic_forward_vec": [
+            -0.5566965961181638,
+            0.8307158960020267
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.50293309479087,
+        "guest_clip_energy": 0.07638751586248464
+    },
+    "425": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -104.77068773983441,
+        "distance": 0.6744583940207128,
+        "direction": "back-left",
+        "mic_loc": [
+            4.961376,
+            -0.726167
+        ],
+        "mic_forward_vec": [
+            -0.3237499405584641,
+            0.9461426826797272
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.16281554941371215,
+        "guest_clip_energy": 0.03738813728070293
+    },
+    "426": {
+        "is_key_frame": true,
+        "content": "slamming and thud",
+        "sounding_object": "refrigerator",
+        "angle": -119.43085471702378,
+        "distance": 0.711811884594518,
+        "direction": "back-left",
+        "mic_loc": [
+            4.987399,
+            -0.697957
+        ],
+        "mic_forward_vec": [
+            -0.08643739007103551,
+            0.9962572848404712
+        ],
+        "sounding_loc": [
+            4.4,
+            -1.1
+        ],
+        "sounding_forward_vec": [
+            -1,
+            -1
+        ],
+        "clip_energy": 0.07557732289038277,
+        "guest_clip_energy": 0.04058719719335316
+    }
+}

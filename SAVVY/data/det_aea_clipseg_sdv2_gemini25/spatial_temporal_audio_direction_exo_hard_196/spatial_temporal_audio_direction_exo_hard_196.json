@@ -1,0 +1,140 @@
+{
+    "event": "Asking about the listener's day",
+    "start_time": "0:15",
+    "end_time": "0:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, curly dark brown/black hair, wearing a grey short-sleeved collared shirt and dark shorts. He is also wearing glasses and a headset microphone. Appears to be of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.8m",
+                "direction": "25 degrees"
+            },
+            "0:05": {
+                "distance": "3.2m",
+                "direction": "10 degrees"
+            },
+            "0:11": {
+                "distance": "1.6m",
+                "direction": "50 degrees"
+            },
+            "0:14": {
+                "distance": "1.8m",
+                "direction": "40 degrees"
+            },
+            "0:15": {
+                "distance": "1.8m",
+                "direction": "40 degrees"
+            },
+            "0:30": {
+                "distance": "1.8m",
+                "direction": "40 degrees"
+            },
+            "0:45": {
+                "distance": "1.8m",
+                "direction": "40 degrees"
+            },
+            "1:00": {
+                "distance": "1.8m",
+                "direction": "40 degrees"
+            },
+            "1:15": {
+                "distance": "1.8m",
+                "direction": "40 degrees"
+            },
+            "1:21": {
+                "distance": "1.8m",
+                "direction": "40 degrees"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A low, rectangular coffee table, appearing to be made of dark wood or a dark laminate. During the event, it is covered with a light-colored, patterned tablecloth. Various items like bowls and cups are on it.",
+        "key_frames": {
+            "0:07": {
+                "distance": "0.8m",
+                "direction": "-35 degrees"
+            },
+            "0:10": {
+                "distance": "0.7m",
+                "direction": "10 degrees"
+            },
+            "0:13": {
+                "distance": "0.6m",
+                "direction": "15 degrees"
+            },
+            "0:15": {
+                "distance": "0.6m",
+                "direction": "15 degrees"
+            },
+            "0:30": {
+                "distance": "0.6m",
+                "direction": "15 degrees"
+            },
+            "0:45": {
+                "distance": "0.6m",
+                "direction": "15 degrees"
+            },
+            "1:00": {
+                "distance": "0.6m",
+                "direction": "15 degrees"
+            },
+            "1:15": {
+                "distance": "0.6m",
+                "direction": "15 degrees"
+            },
+            "1:21": {
+                "distance": "0.6m",
+                "direction": "15 degrees"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door, likely metal or painted wood, featuring multiple rectangular glass panels arranged vertically. It has a metallic handle and is situated at the end of an entryway/hallway.",
+        "key_frames": {
+            "0:00": {
+                "distance": "6.0m",
+                "direction": "-5 degrees"
+            },
+            "0:04": {
+                "distance": "6.0m",
+                "direction": "0 degrees"
+            },
+            "0:08": {
+                "distance": "7.0m",
+                "direction": "-70 degrees"
+            },
+            "0:15": {
+                "distance": "7.5m",
+                "direction": "-50 degrees"
+            },
+            "0:30": {
+                "distance": "7.5m",
+                "direction": "-50 degrees"
+            },
+            "0:45": {
+                "distance": "7.5m",
+                "direction": "-50 degrees"
+            },
+            "1:00": {
+                "distance": "7.5m",
+                "direction": "-50 degrees"
+            },
+            "1:15": {
+                "distance": "7.5m",
+                "direction": "-50 degrees"
+            },
+            "1:21": {
+                "distance": "7.5m",
+                "direction": "-50 degrees"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the black front door with glass panels, when the speech topic: \"asking about the listener's day\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_196",
+    "video_id": "loc2_script3_seq2_rec2"
+}

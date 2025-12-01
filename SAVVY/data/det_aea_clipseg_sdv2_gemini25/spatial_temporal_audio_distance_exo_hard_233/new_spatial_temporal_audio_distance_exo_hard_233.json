@@ -1,0 +1,206 @@
+{
+    "event": "Man inquiring about musical styles played",
+    "start_time": "1:22",
+    "end_time": "1:29",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short dark hair and appears to be balding. He is also wearing wired earphones connected to a device in his pocket. This is the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-40"
+            },
+            "0:29": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:35": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:43": {
+                "distance": "4.2",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:03": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "1:22": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "1:28": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:35": {
+                "distance": "1.7",
+                "direction": "-30"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "-25"
+            },
+            "1:52": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular coffee table made of light-colored wood (possibly oak or similar). It has a simple, modern design with four thick, square legs and a solid top. Approximate dimensions: 1.2 meters (length) x 0.7 meters (width) x 0.4 meters (height). During the video, it has colorful felt coasters, a couple of books/magazines, and later a glass of water on it.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:21": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:53": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "1:22": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:28": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "1:35": {
+                "distance": "0.9",
+                "direction": "10"
+            },
+            "1:49": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man (as viewed from coffee table)",
+        "description": "Adult male, wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short dark hair and appears to be balding. He is also wearing wired earphones connected to a device in his pocket.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-40"
+            },
+            "0:29": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:35": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:43": {
+                "distance": "4.2",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:03": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "1:22": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "1:28": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:35": {
+                "distance": "1.7",
+                "direction": "-30"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "-25"
+            },
+            "1:52": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "When the speech topic: \"inquiring about musical styles played\" is mentioned, what is the distance between the rectangular wooden coffee table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_233",
+    "video_id": "loc3_script2_seq1_rec1"
+}

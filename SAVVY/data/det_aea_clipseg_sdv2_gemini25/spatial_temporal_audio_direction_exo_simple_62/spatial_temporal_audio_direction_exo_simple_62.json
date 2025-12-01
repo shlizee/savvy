@@ -1,0 +1,182 @@
+{
+    "event": "A woman acknowledges agreement by saying 'Mom, alright, cool.'",
+    "start_time": "0:00",
+    "end_time": "0:01",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark brown hair, wearing a black short-sleeved crop top, light blue high-waisted jeans with a black belt, and dark-framed glasses (later revealed to be smart glasses). Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:10": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "0:20": {
+                "distance": "2.1",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "2.1",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:12": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:40": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "2:25": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "3:10": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "4:24": {
+                "distance": "2.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two-tiered nested circular coffee tables. The larger top table has a light-colored (possibly beige or light wood) surface and a dark metal frame. The smaller, lower table, also with a light-colored surface and dark metal frame, is partially tucked underneath. The larger table is approximately 0.8m in diameter.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-35"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:25": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "3:10": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "4:27": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "Large black flat-screen television, approximately 55-65 inches diagonally, mounted on a light-colored wooden media console.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "3.2",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "1:12": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "1:40": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "2:25": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "3:10": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "4:24": {
+                "distance": "3.0",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the tv, when the speech topic: \"acknowledging agreement\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_62",
+    "video_id": "loc1_script2_seq7_rec2"
+}

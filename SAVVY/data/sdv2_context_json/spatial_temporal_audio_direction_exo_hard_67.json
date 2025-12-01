@@ -1,0 +1,126 @@
+{
+    "event": "A person suggests stopping the recording.",
+    "start_time": "01:57",
+    "end_time": "02:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a light green/blue short-sleeved collared shirt, and dark shorts. Average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:18": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:40": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:51": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:57": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "01:02": {
+                "distance": "4.0",
+                "direction": "-50"
+            },
+            "01:21": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "01:25": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "01:31": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "01:43": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "01:57": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "02:00": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "02:03": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "02:08": {
+                "distance": "3.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop Oven",
+        "description": "Silver/stainless steel countertop oven with a glass door and control knobs, located on the kitchen counter. Approximate size: 50cm wide, 30cm high, 40cm deep.",
+        "is_static": true,
+        "key_frames": {
+            "01:03": {
+                "distance": "4.2",
+                "direction": "-60"
+            },
+            "01:05": {
+                "distance": "4.2",
+                "direction": "-60"
+            },
+            "01:10": {
+                "distance": "4.2",
+                "direction": "-60"
+            },
+            "01:22": {
+                "distance": "3.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Hob",
+        "description": "Large stainless steel kitchen hob/stovetop with multiple gas burners, integrated into the kitchen counter, located to the physical left of the countertop oven.",
+        "is_static": true,
+        "key_frames": {
+            "01:00": {
+                "distance": "3.8",
+                "direction": "-50"
+            },
+            "01:03": {
+                "distance": "4.0",
+                "direction": "-55"
+            },
+            "01:05": {
+                "distance": "4.0",
+                "direction": "-55"
+            },
+            "01:10": {
+                "distance": "4.0",
+                "direction": "-55"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the countertop oven and facing the kitchen hob, when the speech topic: \"suggesting stopping the recording\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_67",
+    "video_id": "loc1_script2_seq6_rec2"
+}

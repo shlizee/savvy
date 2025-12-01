@@ -1,0 +1,288 @@
+{
+    "event": "The speech topic: \"expressing doubt about needing two cups\" comes up.",
+    "start_time": "2:24",
+    "end_time": "2:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark curly hair, wearing a black short-sleeved crop top, light blue high-waisted jeans, and glasses. She is also wearing a lavalier microphone clipped to her jeans. Approximate height 1.6-1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-90"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:17": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "0:35": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "1.6",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-80"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "1:25": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "1:45": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "1:55": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "2:05": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "2:15": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "2:24": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "2:36": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:48": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:52": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "2:58": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "3:05": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "3:12": {
+                "distance": "0.6",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by a person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman",
+        "description": "The same woman described as the sounding object.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-90"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:14": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:17": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:30": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "0:35": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "1.6",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-80"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "1:25": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "1:45": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "1:55": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "2:05": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "2:15": {
+                "distance": "0.9",
+                "direction": "-40"
+            },
+            "2:24": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "2:36": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:48": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:52": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "2:58": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "3:05": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "3:12": {
+                "distance": "0.6",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "1.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"expressing doubt about needing two cups\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_14",
+    "video_id": "loc1_script2_seq3_rec1"
+}

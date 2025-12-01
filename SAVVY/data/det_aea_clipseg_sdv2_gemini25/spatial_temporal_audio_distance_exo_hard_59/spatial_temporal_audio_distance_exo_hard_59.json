@@ -1,0 +1,125 @@
+{
+    "event": "A woman proposes watching TV.",
+    "start_time": "0:02",
+    "end_time": "0:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and glasses. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:20": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:12": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:37": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "2:20": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "2:47": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "3:10": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "4:25": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch located in the living room area. It has several cushions on it.",
+        "key_frames": {
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:20": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "1:37": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "2:47": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "3:10": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "4:25": {
+                "distance": "0.5",
+                "direction": "-90"
+            }
+        }
+    },
+    "question": "When the speech topic: \"proposing watching tv\" is mentioned, what is the distance between the light-gray three-seater couch and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_59",
+    "video_id": "loc1_script2_seq7_rec2"
+}

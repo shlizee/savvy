@@ -1,0 +1,228 @@
+{
+    "event": "A person states that the audio volume is too low.",
+    "start_time": "3:11",
+    "end_time": "3:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Young adult female, long dark brown wavy hair, wearing black-rimmed glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She is barefoot. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "1:12": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "2:20": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "2:26": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "2:31": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "2:47": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "3:00": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "3:11": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "3:13": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "3:21": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "3:55": {
+                "distance": "2.0",
+                "direction": "-55"
+            },
+            "4:01": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "4:24": {
+                "distance": "1.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white recessed fireplace built into the wall, with a white mantelpiece. Small decorative items, including small white rabbit figures and a small skull, are visible on the mantel. The fireplace opening is dark.",
+        "key_frames": {
+            "0:08": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:11": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:25": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden china cabinet",
+        "description": "A tall wooden china cabinet, likely made of medium to dark brown stained wood. The upper section has glass doors, through which white dishware is visible. The lower section has solid wooden doors or drawers. It is positioned against the same wall as the fireplace and TV.",
+        "key_frames": {
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "0:15": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "0:20": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "0:45": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "1:15": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "1:40": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "2:00": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "2:30": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "3:11": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "3:30": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "4:00": {
+                "distance": "3.2",
+                "direction": "-25"
+            },
+            "4:25": {
+                "distance": "3.2",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the white recessed fireplace and facing the wooden china cabinet, when the speech topic: \"stating the audio volume is too low\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_81",
+    "video_id": "loc1_script2_seq7_rec2"
+}

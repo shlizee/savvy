@@ -1,0 +1,84 @@
+{
+    "event": "Distance between the built-in stainless steel dishwasher and the speech sound source when the speech topic 'expressing concern about using metal utensils' is mentioned.",
+    "start_time": "01:42",
+    "end_time": "01:45",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source, which is the person holding the camera and speaking. The concern about metal utensils is expressed when this person says they will look for 'plastic tongs'.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:43": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard-sized built-in dishwasher with a stainless steel front, located to the left of the main kitchen sink.",
+        "is_static": true,
+        "key_frames": {
+            "00:37": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "00:39": {
+                "distance": "0.6",
+                "direction": "-85"
+            },
+            "01:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:34": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "01:38": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "01:43": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "01:53": {
+                "distance": "0.6",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this specific distance calculation.",
+        "key_frames": {}
+    },
+    "prediction": 0.7,
+    "question": "When the speech topic: \"expressing concern about using metal utensils\" is mentioned, what is the distance between the built-in stainless steel dishwasher and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_179",
+    "video_id": "loc2_script3_seq32_rec2"
+}

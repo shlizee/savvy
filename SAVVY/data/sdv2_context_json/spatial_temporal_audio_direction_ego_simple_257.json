@@ -1,0 +1,127 @@
+{
+    "event": "Speech topic: instructing not to move french press while pressing",
+    "start_time": "02:45",
+    "end_time": "02:48",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a yellow knitted sleeveless top (vest) over a white short-sleeved t-shirt, light blue jeans, and light-colored socks with a pattern. She has a visible tattoo on her left forearm. Approximate height around 1.6-1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "00:04": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:07": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "00:10": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "00:13": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "00:21": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "00:34": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "00:45": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "00:57": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "01:08": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "01:20": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "01:33": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "01:45": {
+                "distance": "0.4",
+                "direction": "-30"
+            },
+            "01:59": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "02:09": {
+                "distance": "0.6",
+                "direction": "-35"
+            },
+            "02:23": {
+                "distance": "0.5",
+                "direction": "-25"
+            },
+            "02:35": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "02:41": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "02:46": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "02:47": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "02:51": {
+                "distance": "0.7",
+                "direction": "-35"
+            },
+            "02:59": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "03:06": {
+                "distance": "1.0",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, from whose perspective the video is shot.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable in egocentric mode where the camera's view is the reference for direction.",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing not to move french press while pressing\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_257",
+    "video_id": "loc3_script2_seq3_rec1"
+}

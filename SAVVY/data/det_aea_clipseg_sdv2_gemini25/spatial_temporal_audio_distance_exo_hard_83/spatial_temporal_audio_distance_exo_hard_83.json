@@ -1,0 +1,107 @@
+{
+    "event": "Distance between the black front door with glass panels and the speech sound source when expressing shared feeling about day ending.",
+    "start_time": "01:33",
+    "end_time": "01:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source, primarily the person holding the camera (first-person view, wearing blue shorts) and an accompanying person (wearing a blue shirt and khaki shorts), both seated on the living room couch during the specified event. The camera's location effectively represents the origin of the sound source for this query.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:33": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A dark-colored (appears black or very dark grey/bronze) metal front door. It features prominent ornate wrought iron scrollwork over textured/frosted glass panels. The main door has a large central glass panel with this scrollwork, and there is a matching sidelight panel to its left (when viewed from the exterior, right when viewed from interior looking out). The door has a vertical handle and a deadbolt lock.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:04": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "00:06": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "00:09": {
+                "distance": "1.5",
+                "direction": "-160"
+            },
+            "00:12": {
+                "distance": "3.5",
+                "direction": "175"
+            },
+            "00:18": {
+                "distance": "6.2",
+                "direction": "-20"
+            },
+            "00:43": {
+                "distance": "6.2",
+                "direction": "-20"
+            },
+            "01:08": {
+                "distance": "6.2",
+                "direction": "-20"
+            },
+            "01:15": {
+                "distance": "6.2",
+                "direction": "-15"
+            },
+            "01:33": {
+                "distance": "6.2",
+                "direction": "-15"
+            },
+            "01:40": {
+                "distance": "6.2",
+                "direction": "-15"
+            },
+            "01:56": {
+                "distance": "6.2",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 6.2,
+    "question": "When the speech topic: \"expressing shared feeling about day ending\" is mentioned, what is the distance between the black front door with glass panels and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_83",
+    "video_id": "loc2_script2_seq1_rec1"
+}

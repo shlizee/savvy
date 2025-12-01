@@ -1,0 +1,176 @@
+{
+    "event": "The speaker confirms popcorn availability.",
+    "start_time": "0:17",
+    "end_time": "0:22",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, appears to be of average build, wearing a teal/light blue short-sleeved polo shirt, khaki shorts, glasses, and white sneakers. He has short dark hair and a beard. He is also wearing a wired lavalier microphone.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:18": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "0:32": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:09": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "1:38": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "double-basin rectangular sink and tap",
+        "description": "A stainless steel, double-basin, rectangular undermount sink with a modern gooseneck tap. It is installed in a dark-colored kitchen island countertop.",
+        "key_frames": {
+            "0:16": {
+                "distance": "2.8",
+                "direction": "50"
+            },
+            "0:19": {
+                "distance": "2.7",
+                "direction": "45"
+            },
+            "0:21": {
+                "distance": "2.7",
+                "direction": "50"
+            },
+            "0:26": {
+                "distance": "2.8",
+                "direction": "55"
+            },
+            "0:32": {
+                "distance": "2.8",
+                "direction": "55"
+            },
+            "0:35": {
+                "distance": "2.7",
+                "direction": "60"
+            },
+            "0:38": {
+                "distance": "2.7",
+                "direction": "60"
+            },
+            "0:40": {
+                "distance": "2.8",
+                "direction": "55"
+            },
+            "1:04": {
+                "distance": "2.7",
+                "direction": "60"
+            },
+            "1:23": {
+                "distance": "2.8",
+                "direction": "55"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "A standard-sized, built-in dishwasher with a stainless steel front panel. It is installed under the kitchen island countertop, to the left of the double-basin sink (when viewed from the dining area side of the island).",
+        "key_frames": {
+            "0:16": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:19": {
+                "distance": "2.9",
+                "direction": "40"
+            },
+            "0:21": {
+                "distance": "2.9",
+                "direction": "45"
+            },
+            "0:26": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "0:32": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "0:35": {
+                "distance": "2.9",
+                "direction": "55"
+            },
+            "0:38": {
+                "distance": "2.9",
+                "direction": "55"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "1:04": {
+                "distance": "2.9",
+                "direction": "55"
+            },
+            "1:23": {
+                "distance": "3.0",
+                "direction": "50"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the built-in stainless steel dishwasher, when the speech topic: \"confirming popcorn availability\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_142",
+    "video_id": "loc2_script2_seq4_rec1"
+}

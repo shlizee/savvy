@@ -1,0 +1,104 @@
+{
+    "event": "When the speech topic 'naming the hallway location' comes up, determine the relative position of the other person to the camera wearer's facing direction.",
+    "start_time": "01:22",
+    "end_time": "01:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, white sneakers, and glasses. He has short dark hair and is of average to stocky build. He is holding a small black object (phone/audio device) with a wired earpiece.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "00:05": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:12": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:19": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:22": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:28": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "00:37": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:50": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "01:05": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:14": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "01:17": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "01:23": {
+                "distance": "unknown",
+                "direction": "unknown"
+            },
+            "01:43": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "01:44": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:23": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Hallway View",
+        "description": "At the event time (01:23), the camera is facing down an interior hallway. The hallway has light-colored tiled floors and white walls. A white closed door is visible on the left wall of the hallway. The hallway appears to continue further ahead.",
+        "key_frames": {
+            "01:23": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"naming the hallway location\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_98",
+    "video_id": "loc2_script2_seq2_rec1"
+}

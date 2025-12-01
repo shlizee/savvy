@@ -1,0 +1,184 @@
+{
+    "event": "A scraping sound occurs, and the robot needs to determine the direction of the sounding object relative to its position and facing.",
+    "start_time": "0:00",
+    "end_time": "0:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A dark-colored (possibly brown or dark red) ceramic bowl, approximately 15-20 cm in diameter, on the wooden dining table. A person in a green shirt is using a metal spoon to scrape food from this bowl, causing the scraping sound.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "0.9",
+                "direction": "-25"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black round ottoman",
+        "description": "A black, round, fabric-covered ottoman, approximately 0.8m in diameter and 0.4m high, located in the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-90"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "-100"
+            },
+            "0:45": {
+                "distance": "4.5",
+                "direction": "-110"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "-100"
+            },
+            "1:15": {
+                "distance": "3.8",
+                "direction": "-90"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "-100"
+            },
+            "2:00": {
+                "distance": "4.0",
+                "direction": "-110"
+            },
+            "2:12": {
+                "distance": "3.0",
+                "direction": "-110"
+            },
+            "2:25": {
+                "distance": "3.8",
+                "direction": "-105"
+            },
+            "2:39": {
+                "distance": "3.5",
+                "direction": "-100"
+            },
+            "2:55": {
+                "distance": "3.2",
+                "direction": "-95"
+            },
+            "3:05": {
+                "distance": "3.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-colored refrigerator",
+        "description": "A tall, light-colored (likely white or light grey with stainless steel trim) built-in refrigerator with double doors and an ice/water dispenser, located in the kitchen.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "0:02": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:08": {
+                "distance": "4.2",
+                "direction": "50"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:19": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "1:24": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "2:18": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "2:32": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "2:42": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "2:53": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "3:01": {
+                "distance": "1.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the black round ottoman and facing the light-colored refrigerator, when the scraping sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_397",
+    "video_id": "loc3_script3_seq5_rec2"
+}

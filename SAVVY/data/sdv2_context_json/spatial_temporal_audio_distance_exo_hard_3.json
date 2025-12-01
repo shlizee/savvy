@@ -1,0 +1,148 @@
+{
+    "event": "Distance between the white recessed fireplace and the knocking door when the knocking sound is happening.",
+    "start_time": "0:01",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden arched door, likely the front door of the house. It has a small, narrow, arched window with a metal grate. There is a silver doorknob and a deadbolt. A white rectangular security sensor is attached to the top right of the door frame.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:31": {
+                "distance": "3.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white painted fireplace with a recessed firebox. It has a dark wooden mantelpiece. There is a round mirror with a decorative frame hanging above the mantel. A string of carrot-shaped decorations is strung across the front of the mantel.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:18": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:54": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Knocking Door",
+        "description": "A dark brown wooden arched door, likely the front door of the house. It has a small, narrow, arched window with a metal grate. There is a silver doorknob and a deadbolt. A white rectangular security sensor is attached to the top right of the door frame.",
+        "key_frames": {
+            "0:05": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:14": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "1:31": {
+                "distance": "3.5",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "When the knocking door sound is happening, what is the distance between the white recessed fireplace and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_3",
+    "video_id": "loc1_script2_seq1_rec1"
+}

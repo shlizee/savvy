@@ -1,0 +1,296 @@
+{
+    "event": "Determine the relative position of the other person when the speech topic 'accepting snack offer' comes up.",
+    "start_time": "0:04",
+    "end_time": "0:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly brown hair, wearing a light blue/teal short-sleeved collared shirt, dark shorts, and glasses. They are also wearing wired headphones around their neck. Their face is blurred. Appears to be of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:01": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:26": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:28": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:44": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:57": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:59": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:02": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:03": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:33": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:39": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:41": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:46": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:55": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:56": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:14": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "2:18": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:20": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "2:23": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:26": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "2:27": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:31": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:33": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:37": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:40": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:43": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "2:44": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:50": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "2:52": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:54": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:56": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "2:59": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "3:01": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "3:03": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "3:09": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "3:11": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "3:13": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "3:15": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "3:17": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "3:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "3:22": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "3:23": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "3:25": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "3:28": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"accepting snack offer\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_23",
+    "video_id": "loc1_script2_seq4_rec1"
+}

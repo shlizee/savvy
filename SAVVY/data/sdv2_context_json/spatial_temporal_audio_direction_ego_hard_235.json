@@ -1,0 +1,168 @@
+{
+    "event": "The speech topic 'differentiating meat type from ground beef regarding doneness' comes up.",
+    "start_time": "01:46",
+    "end_time": "01:58",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the video, with a blurred face, wearing a grey short-sleeved collared shirt, dark shorts, and black headphones around their neck. They have curly dark hair and are wearing glasses. Approximate height appears to be average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "00:08": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "00:16": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "00:20": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "00:24": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "00:31": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "00:37": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "00:41": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:59": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "01:03": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "01:10": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "01:15": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "01:25": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "01:39": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "01:46": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "01:52": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "01:58": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:05": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "02:15": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:25": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:36": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "02:43": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "02:50": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "03:00": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "03:07": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "03:18": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "03:25": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "03:35": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "03:47": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "03:55": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "04:01": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "04:05": {
+                "distance": "1.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewer's perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "environment",
+        "description": "The general direction the camera is pointing.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"differentiating meat type from ground beef regarding doneness\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_235",
+    "video_id": "loc2_script3_seq4_rec1"
+}

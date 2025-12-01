@@ -1,0 +1,88 @@
+{
+    "event": "The other person suggests stopping the recording.",
+    "start_time": "03:12",
+    "end_time": "03:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with curly reddish-brown hair, wearing a light teal/blue short-sleeved button-up shirt, dark shorts, and black socks/shoes. He is also wearing wired earbuds connected to a device, and has a small black microphone or device clipped to his shirt pocket. He is holding a white smartphone in his right hand for a portion of the video, and later a coffee mug.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:17": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "00:39": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "00:59": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "01:19": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "01:45": {
+                "distance": "1.7",
+                "direction": "70"
+            },
+            "02:00": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "02:30": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "02:58": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "03:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "03:12": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "03:13": {
+                "distance": "1.2",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose perspective the video is from.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "00:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting stopping the recording\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_22",
+    "video_id": "loc1_script2_seq3_rec2"
+}

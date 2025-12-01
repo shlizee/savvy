@@ -1,0 +1,54 @@
+{
+    "00010": {
+        "A person wearing a grey t-shirt, dark shorts, and glasses. They have dark, curly hair.": {
+            "direction": -26.03,
+            "distance": 2.05,
+            "det_conf": [
+                0.5582588911056519,
+                0.399070680141449,
+                0.5718820095062256,
+                0.4930706024169922,
+                0.32521140575408936
+            ]
+        }
+    },
+    "00040": {
+        "A person wearing a grey t-shirt, dark shorts, and glasses. They have dark, curly hair.": {
+            "direction": 41.48,
+            "distance": 2.01,
+            "det_conf": [
+                0.16440771520137787,
+                0.6212127804756165,
+                0.4080432951450348,
+                0.48720115423202515,
+                0.4100476801395416
+            ]
+        }
+    },
+    "00050": {
+        "A person wearing a grey t-shirt, dark shorts, and glasses. They have dark, curly hair.": {
+            "direction": 38.08,
+            "distance": 1.39,
+            "det_conf": [
+                0.4865439832210541,
+                0.47836562991142273,
+                0.5610383152961731,
+                0.4192132353782654,
+                0.549910843372345
+            ]
+        }
+    },
+    "00810": {
+        "A person wearing a grey t-shirt, dark shorts, and glasses. They have dark, curly hair.": {
+            "direction": 76.02,
+            "distance": 3.0,
+            "det_conf": [
+                0.7115396857261658,
+                0.7431699633598328,
+                0.7427928447723389,
+                0.6490108370780945,
+                0.6448763012886047
+            ]
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "event": "The other person discusses planning to add the remaining two kebabs to the pan.",
+    "start_time": "0:41",
+    "end_time": "0:44",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male with dark, curly hair, wearing a dark grey t-shirt and dark shorts. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:25": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "1:12": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:19": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "1:34": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:26": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "camera",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"planning to add remaining two kebabs\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_214",
+    "video_id": "loc2_script3_seq34_rec1"
+}

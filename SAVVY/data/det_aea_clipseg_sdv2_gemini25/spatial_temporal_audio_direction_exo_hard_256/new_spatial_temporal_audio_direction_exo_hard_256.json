@@ -1,0 +1,208 @@
+{
+    "event": "Speaker (person in grey shirt) specifies grabbing a particular plate ('Yeah, we'll just grab the one...').",
+    "start_time": "0:21",
+    "end_time": "0:24",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. They also have a black wire/headphone around their neck. Approximate height appears to be average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:30": {
+                "distance": "0.5",
+                "direction": "-150"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:38": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "-150"
+            },
+            "1:10": {
+                "distance": "0.3",
+                "direction": "-120"
+            },
+            "1:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "2.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, glass-ceramic surface with multiple circular heating elements, integrated into a granite countertop on a kitchen island/peninsula. It has touch controls visible on its surface. Approximate size is standard cooktop dimensions (e.g., 75cm x 50cm).",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:40": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "3:00": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "3:30": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "4:00": {
+                "distance": "2.0",
+                "direction": "20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, oval-shaped wooden drop-leaf table with two matching wooden chairs with X-backs. It is positioned in a corner of the room near large glass sliding doors leading to a pool area. A lamp is on the table.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-90"
+            },
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-90"
+            },
+            "0:30": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the two-seater dining table, when the speech topic: \"specifying grabbing a particular plate\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_256",
+    "video_id": "loc2_script3_seq4_rec1"
+}

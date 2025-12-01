@@ -1,0 +1,115 @@
+{
+    "event": "The speech topic is 'acknowledging the watermelon'. The camera wearer asks the other person if they want some watermelon, and the other person accepts.",
+    "start_time": "1:53",
+    "end_time": "2:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly, medium-length brown hair, wearing glasses, a light blue/teal short-sleeved collared shirt, and dark shorts. They are also wearing wired headphones around their neck and in their ears. Approximate height appears to be average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:44": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:02": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:53": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:43": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "2:53": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:11": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:25": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"acknowledging the watermelon\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_19",
+    "video_id": "loc1_script2_seq4_rec1"
+}

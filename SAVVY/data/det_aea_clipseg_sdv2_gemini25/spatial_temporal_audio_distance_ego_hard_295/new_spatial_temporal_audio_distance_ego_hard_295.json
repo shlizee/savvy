@@ -1,0 +1,64 @@
+{
+    "event": "The speech topic: \"confirming task is likely finished\" comes up.",
+    "start_time": "0:53",
+    "end_time": "1:02",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green short-sleeved polo shirt and blue jeans. He has short dark hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:17": {
+                "distance": "3.8",
+                "direction": "45"
+            },
+            "0:18": {
+                "distance": "4.2",
+                "direction": "65"
+            },
+            "0:51": {
+                "distance": "3.7",
+                "direction": "50"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "0:55": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "40"
+            },
+            "1:01": {
+                "distance": "3.5",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The perspective of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general direction of the sounding object",
+        "description": "The camera is generally facing the living room area, and pans slightly towards the other person when he speaks.",
+        "key_frames": {
+            "0:53": {
+                "distance": "3.5",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"confirming task is likely finished\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_295",
+    "video_id": "loc3_script3_seq1_rec2"
+}

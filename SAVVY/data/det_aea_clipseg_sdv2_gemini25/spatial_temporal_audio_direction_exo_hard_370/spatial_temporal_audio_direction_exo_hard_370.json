@@ -1,0 +1,144 @@
+{
+    "event": "Speaker's location relative to a robot by the TV facing the ottoman, when the speech topic is 'suggesting san jose as a major stop'.",
+    "start_time": "01:30",
+    "end_time": "01:38",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person (likely male, based on voice) sitting on a beige fabric couch. The person is wearing a dark (possibly navy or black) sweater over a light-colored (white or light blue) collared shirt, and blue denim jeans. They have curly dark hair. The couch has a red and white zig-zag patterned throw blanket and a pillow with a repeating dog pattern. The person is actively speaking during the event time.",
+        "is_static": false,
+        "key_frames": {
+            "00:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:15": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:30": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "02:00": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "02:30": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "02:45": {
+                "distance": "2.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large, black, flat-screen television mounted on the wall above a stone-faced fireplace. The fireplace has a wooden mantelpiece.",
+        "key_frames": {
+            "00:00": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "00:03": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "00:08": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "00:15": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "00:30": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "01:00": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "01:30": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "02:00": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "02:30": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "02:45": {
+                "distance": "3.0",
+                "direction": "25"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black round ottoman",
+        "description": "A medium-sized, circular ottoman upholstered in a dark, likely black, material (leather or fabric). It is positioned in front of the fireplace, between the two main couches.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "00:03": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:15": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:30": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "01:30": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "02:00": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "02:30": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "02:45": {
+                "distance": "2.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the tv by the fireplace and facing the black round ottoman, when the speech topic: \"suggesting san jose as a major stop\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_370",
+    "video_id": "loc3_script3_seq2_rec1"
+}

@@ -1,0 +1,172 @@
+{
+    "event": "The speech topic 'explaining arrival time preventing early wake-up' comes up.",
+    "start_time": "0:57",
+    "end_time": "1:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male, appearing to be in his late 30s to early 40s, with curly brown hair and wearing glasses. He is dressed in a light teal/blue short-sleeve button-up collared shirt, dark navy or black shorts, and black socks. He has wired earbuds/headphones around his neck with buds in his ears, connected to a device likely in his pocket. Approximate height seems to be around 5'10\" to 6'0\" (178-183 cm).",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:57": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:38": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the first-person perspective of the wearer. The view is egocentric. Its position is the origin (0,0) for directional measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Same as the sounding object: A male, appearing to be in his late 30s to early 40s, with curly brown hair and wearing glasses. He is dressed in a light teal/blue short-sleeve button-up collared shirt, dark navy or black shorts, and black socks. He has wired earbuds/headphones around his neck with buds in his ears, connected to a device likely in his pocket. Approximate height seems to be around 5'10\" to 6'0\" (178-183 cm).",
+        "key_frames": {
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:57": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:38": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "1:50": {
+                "distance": "1.8",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining arrival time preventing early wake-up\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_6",
+    "video_id": "loc1_script2_seq1_rec1"
+}

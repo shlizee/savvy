@@ -1,0 +1,156 @@
+{
+    "event": "The other person inquires about the camera wearer's status.",
+    "start_time": "1:32",
+    "end_time": "1:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appears to be of average to slightly heavy build, approximately 1.8m tall. He is wearing a light blue short-sleeved polo shirt, khaki cargo shorts, white socks, and white sneakers. He has short, dark hair, possibly balding slightly on top, and is wearing dark-rimmed glasses. For a portion of the video, he holds a smartphone and has wired earphones with one earbud in his left ear.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-25"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:41": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "1:09": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:12": {
+                "distance": "1.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man in blue shirt",
+        "description": "The same as the sounding object. At the moment of the event, the camera is primarily facing this person.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-25"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:41": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "1:09": {
+                "distance": "4.0",
+                "direction": "-30"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:12": {
+                "distance": "1.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inquiring about listener's status\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_76",
+    "video_id": "loc2_script2_seq1_rec1"
+}

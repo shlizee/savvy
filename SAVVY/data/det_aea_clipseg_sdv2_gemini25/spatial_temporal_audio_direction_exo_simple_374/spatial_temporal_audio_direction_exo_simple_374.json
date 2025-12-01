@@ -1,0 +1,216 @@
+{
+    "event": "A person asks another person about the desired portion of food (mashed potatoes).",
+    "start_time": "01:00",
+    "end_time": "01:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with dark, curly hair, wearing glasses, a dark blue or black long-sleeved sweater over a light blue collared shirt, and blue jeans. Appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "2:55": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "3:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:43": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:10": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:30": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, large rectangular coffee table made of light-colored wood, located in the living room area in front of a sofa. It often has items like games, cups, or papers on it. Approximate size could be 4ft x 2.5ft.",
+        "key_frames": {
+            "0:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:47": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:11": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:26": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:29": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "4:30": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen hob",
+        "description": "A stainless steel gas stovetop with multiple burners, built into the main kitchen counter. It's located against the back wall of the kitchen area.",
+        "key_frames": {
+            "0:06": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "2:50": {
+                "distance": "3.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the kitchen hob, when the speech topic: \"asking about desired food portion\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_374",
+    "video_id": "loc3_script3_seq4_rec2"
+}

@@ -1,0 +1,131 @@
+{
+    "event": "Discussion about hypothetically choosing a location for resources as a caveman.",
+    "start_time": "2:32",
+    "end_time": "2:45",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a short-sleeved green polo shirt and blue jeans. He has short, dark hair and is balding on top. He is wearing a gold-colored watch on his left wrist. He is sitting on a light-colored couch to the right of the coffee table.",
+        "is_static": false,
+        "key_frames": {
+            "0:07": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:32": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:40": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "2:45": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A large, low, rectangular wooden coffee table with a light to medium brown finish. It has thick, blocky legs. On top are various items including books (one titled 'Remodelista'), a colorful patterned item (possibly a puzzle or placemat), a small white llama figurine, red and yellow coasters, a smartphone, and another small black electronic device.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:32": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:52": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the recording device, likely held by a person or mounted. All distances and directions are relative to this point.",
+        "key_frames": {}
+    },
+    "prediction": 1.1,
+    "question": "When the speech topic: \"hypothetically choosing location for resources as caveman\" is mentioned, what is the distance between the rectangular wooden coffee table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_319",
+    "video_id": "loc3_script3_seq2_rec2"
+}

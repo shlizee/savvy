@@ -1,0 +1,96 @@
+{
+    "event": "The other person acknowledges the camera wearer's flipping action and offers to find a plastic utensil.",
+    "start_time": "01:41",
+    "end_time": "01:46",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male, wearing a grey short-sleeved polo shirt, dark blue or black shorts, and glasses. He has dark, short hair. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "00:02": {
+                "distance": "1.2",
+                "direction": "25"
+            },
+            "00:28": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "00:41": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "00:43": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "00:48": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "01:10": {
+                "distance": "0.7",
+                "direction": "40"
+            },
+            "01:14": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "01:41": {
+                "distance": "0.7",
+                "direction": "50"
+            },
+            "01:43": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "01:46": {
+                "distance": "1.2",
+                "direction": "80"
+            },
+            "02:02": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "02:08": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "02:41": {
+                "distance": "0.6",
+                "direction": "20"
+            },
+            "02:43": {
+                "distance": "0.5",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose point of view is being recorded. Their hands are visible performing actions like cooking.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera view",
+        "description": "The direction the camera (and thus the camera wearer) is primarily facing.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"acknowledging flipping action and offering to find plastic utensil\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_196",
+    "video_id": "loc2_script3_seq32_rec1"
+}

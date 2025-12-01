@@ -1,0 +1,100 @@
+{
+    "event": "The speech topic: 'stating kebabs are intended for lunch' comes up, interpreted as the moment the other person states their intention to cook the kebabs.",
+    "start_time": "02:04",
+    "end_time": "02:06",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene, a male wearing a turquoise/blue short-sleeved polo shirt and khaki shorts. He has short dark hair and is wearing glasses. He is the one preparing the kebabs.",
+        "is_static": false,
+        "key_frames": {
+            "00:05": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "00:09": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "00:15": {
+                "distance": "0.8",
+                "direction": "-35"
+            },
+            "00:26": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "00:32": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "00:35": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "00:50": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "00:55": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "01:09": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "01:19": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "02:04": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "02:09": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "02:15": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "02:20": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "02:34": {
+                "distance": "0.6",
+                "direction": "-25"
+            },
+            "02:40": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera_wearer",
+        "description": "The person wearing the camera, whose perspective the video is from.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "kitchen_counter_and_stove",
+        "description": "The general direction the camera is facing during the event, which is the kitchen counter and stovetop where the kebabs are being prepared.",
+        "key_frames": {
+            "02:04": {
+                "distance": "0.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "prediction": "0.6",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating kebabs are intended for lunch\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_154",
+    "video_id": "loc2_script3_seq32_rec2"
+}

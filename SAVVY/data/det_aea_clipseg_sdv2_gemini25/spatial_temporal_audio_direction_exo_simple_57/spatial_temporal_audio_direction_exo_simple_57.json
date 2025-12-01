@@ -1,0 +1,172 @@
+{
+    "event": "The man identifies the band Counting Crows as performing a song in Shrek 2, and the woman acknowledges his knowledge.",
+    "start_time": "02:13",
+    "end_time": "02:22",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Person 2), with curly brown hair, wearing glasses, a light teal short-sleeve collared shirt, and dark shorts. He is wearing wired earbuds and is sitting on an armchair.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "00:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "00:12": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "01:11": {
+                "distance": "2.6",
+                "direction": "-40"
+            },
+            "01:35": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:48": {
+                "distance": "2.6",
+                "direction": "-50"
+            },
+            "03:08": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "03:30": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "04:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "04:20": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair closer to wall painting",
+        "description": "A light-gray fabric armchair with a cushioned back and seat, and dark wooden legs. It is located near the fireplace and a wall painting. The sounding object (man) is sitting on this armchair during the event.",
+        "key_frames": {
+            "00:06": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "00:12": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "01:11": {
+                "distance": "2.6",
+                "direction": "-40"
+            },
+            "01:35": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:48": {
+                "distance": "2.6",
+                "direction": "-50"
+            },
+            "03:08": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "03:30": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "04:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "04:20": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair further from wall painting",
+        "description": "A light-gray fabric armchair, similar in style to the reference armchair. It is located near a large arched window, further from the wall painting than the reference armchair.",
+        "key_frames": {
+            "00:06": {
+                "distance": "4.0",
+                "direction": "-70"
+            },
+            "00:08": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "00:12": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "00:45": {
+                "distance": "3.8",
+                "direction": "-75"
+            },
+            "01:11": {
+                "distance": "3.7",
+                "direction": "-70"
+            },
+            "01:35": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "02:15": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "02:48": {
+                "distance": "3.7",
+                "direction": "-75"
+            },
+            "03:08": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "03:30": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "04:00": {
+                "distance": "3.8",
+                "direction": "-70"
+            },
+            "04:20": {
+                "distance": "3.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the light-gray armchair closer to the wall painting and facing the light-gray armchair further from the wall painting, when the speech topic: \"identifying shrek opening band as counting crows\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_57",
+    "video_id": "loc1_script2_seq7_rec1"
+}

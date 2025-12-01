@@ -1,0 +1,92 @@
+{
+    "event": "Distance between electric cooktop and speech sound source when the topic 'denying script three cooking and specifying cooking eggs alone' is mentioned.",
+    "start_time": "0:48",
+    "end_time": "0:56",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person wearing a turquoise short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair and a fair complexion. Approximate height appears average adult male. This is the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "2:08": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:12": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black, flat, rectangular electric induction cooktop. It is built into a light-colored speckled granite countertop. It has touch controls visible on its surface. Approximate size is standard cooktop dimensions, perhaps 60-75cm wide and 50cm deep.",
+        "key_frames": {
+            "0:16": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:18": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person in blue shirt (Sounding Object)",
+        "description": "The camera, positioned at the reference object (cooktop), would be facing the sounding object (person in blue shirt) to determine the distance.",
+        "key_frames": {
+            "0:52": {
+                "distance": "1.0",
+                "direction": "45"
+            }
+        }
+    },
+    "prediction": 0.87,
+    "question": "When the speech topic: \"denying script three cooking and specifying cooking eggs alone\" is mentioned, what is the distance between the electric cooktop and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_172",
+    "video_id": "loc2_script3_seq31_rec2"
+}

@@ -1,0 +1,108 @@
+{
+    "event": "Speaker specifies a commitment location as 'that place', asking for speaker's location relative to an imagined robot.",
+    "start_time": "0:52",
+    "end_time": "0:53",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark brown hair, wearing glasses, a black short-sleeved V-neck crop top, and light blue denim jeans. She is barefoot. Approximate height appears average. This is the woman speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-35"
+            },
+            "0:09": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-35"
+            },
+            "0:22": {
+                "distance": "1.1",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-35"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "-35"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:09": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "1:14": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:21": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "2.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Sofa (interpreted as 'bed')",
+        "description": "A large, modern sofa upholstered in a light gray or beige fabric. It has several throw pillows, some light-colored and one mustard yellow. The visible section is a straight couch. The camera and the sounding object are initially on this sofa.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:52": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with mirror (interpreted as 'white dresser with a mirror')",
+        "description": "A white-painted traditional-style fireplace with a wooden mantelpiece. Above the mantelpiece hangs a large, round mirror with an ornate, dark-colored, segmented frame. A festive garland with carrot shapes is draped across the mantel. The fireplace opening is dark.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "3",
+    "question": "Imagine you are a robot standing by the bed and facing the white dresser with a mirror, when the speech topic: \"specifying commitment location as \"that place\"\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_90",
+    "video_id": "loc1_script2_seq8_rec1"
+}

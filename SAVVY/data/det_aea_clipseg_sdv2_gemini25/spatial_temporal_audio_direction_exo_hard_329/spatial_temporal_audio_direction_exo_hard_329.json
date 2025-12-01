@@ -1,0 +1,162 @@
+{
+    "event": "A woman expresses being thwarted again by saying 'Foiled again'. Determine her location relative to a robot standing by a black animal sculpture and facing a gray lounge chair.",
+    "start_time": "01:53",
+    "end_time": "01:54",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a yellow knit sleeveless top over a white short-sleeved t-shirt. She is seated at a wooden table playing a game. Approximate height when seated is 0.8m.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:53": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:10": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A black, sleek, stylized sculpture of a quadrupedal animal, resembling a panther or jaguar, in a low, elongated, stalking-like pose. It appears to be made of a smooth, matte material and is positioned on the wooden floor near large windows. Approximate size: 0.6m long, 0.2m high.",
+        "is_static": true,
+        "key_frames": {
+            "00:02": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:15": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:45": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "01:53": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "02:10": {
+                "distance": "2.5",
+                "direction": "60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Gray reclining lounge chair with ottoman",
+        "description": "A modern outdoor lounge chair with light gray fabric cushions and a dark metal frame, accompanied by a matching ottoman. It is located on a balcony visible through large glass windows/doors. Approximate size of chair: 0.8m wide, 1m deep, 0.8m high.",
+        "is_static": true,
+        "key_frames": {
+            "00:02": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "00:15": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "00:30": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "00:45": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "01:15": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "01:30": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "01:45": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "01:53": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "02:00": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "02:10": {
+                "distance": "3.5",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "A",
+    "question": "Imagine you are a robot standing by the black decorative animal sculpture and facing the gray reclining lounge chair with ottoman, when the speech topic: \"expressing being thwarted again\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_329",
+    "video_id": "loc3_script2_seq5_rec2"
+}

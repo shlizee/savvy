@@ -1,0 +1,200 @@
+{
+    "event": "A creak and thud sound occurs as the front door is closed.",
+    "start_time": "01:32",
+    "end_time": "01:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden front door with a rounded top. It has a black handle and a small wreath with artificial flowers hanging on it. The door is of standard residential size.",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:05": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:12": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:20": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:24": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:30": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:35": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:40": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:50": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:55": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "01:01": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "01:21": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:32": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair with wooden legs. It has a blue patterned pillow on its seat. It is positioned to the left of the fireplace (when viewed from the sofa) and near a white interior door and a wall with a framed painting.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:11": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:17": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:20": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:24": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:28": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:33": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:39": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:43": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:49": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:53": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:58": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:01": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:21": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "01:33": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Nested coffee tables",
+        "description": "A set of two round, light-colored nested coffee tables. The larger, higher table has a bag of pistachios, a small white bowl with red and black patterns containing some snacks, and two black remote controls. The smaller, lower table has a bag of Snyder's pretzels resting on a colorful magazine or book.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:14": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:26": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:57": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:09": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray armchair closer to the wall painting and facing a set of nested coffee tables, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_83",
+    "video_id": "loc1_script2_seq8_rec2"
+}

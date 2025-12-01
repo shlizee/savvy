@@ -1,0 +1,200 @@
+{
+    "event": "Imagine you are a robot standing by the wooden dining table and facing the countertop drip coffee maker, when the speech topic: \"inquiring about having mango\" comes up, relative to where you are facing, where is the speaker.",
+    "start_time": "02:30",
+    "end_time": "02:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male person wearing a light blue/teal short-sleeved collared shirt, dark shorts, glasses, and headphones around his neck. He has curly brown hair. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:11": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:29": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:31": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:51": {
+                "distance": "2.8",
+                "direction": "80"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:21": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:33": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:56": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:40": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:10": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:20": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden Dining Table",
+        "description": "A large, rectangular wooden dining table, light brown wood, with a light-colored (white/cream) patterned runner down the center. It has multiple upholstered chairs around it. Approximate length 2-2.5m, width 1m.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop Drip Coffee Maker",
+        "description": "A black Keurig-style (single-serve) coffee maker located on the kitchen counter, to the left of the sink area. It has some silver/chrome accents. Approximate size 0.3m x 0.2m x 0.3m.",
+        "key_frames": {
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "0:41": {
+                "distance": "2.2",
+                "direction": "-70"
+            },
+            "1:12": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wooden dining table and facing the countertop drip coffee maker, when the speech topic: \"inquiring about having mango\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_37",
+    "video_id": "loc1_script2_seq4_rec1"
+}

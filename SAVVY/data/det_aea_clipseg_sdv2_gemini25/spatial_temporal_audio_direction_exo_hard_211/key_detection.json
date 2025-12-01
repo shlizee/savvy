@@ -1,0 +1,805 @@
+{
+    "00000": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -66.88,
+            "distance": 1.98,
+            "det_conf": [
+                0.5880864858627319,
+                0.4981759786605835,
+                0.38531771302223206,
+                0.6106436848640442,
+                0.4941127896308899
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 58.91,
+            "distance": 3.93,
+            "det_conf": [
+                0.9038573503494263,
+                0.9074649810791016,
+                0.8945891261100769,
+                0.870594322681427,
+                0.6915795207023621
+            ]
+        }
+    },
+    "00005": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -49.8,
+            "distance": 1.72,
+            "det_conf": [
+                0.9484171271324158,
+                0.9671119451522827,
+                0.9585766792297363,
+                0.9368084073066711,
+                0.939456045627594
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 71.95,
+            "distance": 3.76,
+            "det_conf": [
+                0.9426108598709106,
+                0.8886041641235352,
+                0.8905754685401917,
+                0.8790979981422424,
+                0.8480640649795532
+            ]
+        }
+    },
+    "00010": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -16.11,
+            "distance": 2.0,
+            "det_conf": [
+                0.9494681358337402,
+                0.9521138072013855,
+                0.9465429186820984,
+                0.9488529562950134,
+                0.9342166781425476
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 78.58,
+            "distance": 4.0,
+            "det_conf": [
+                0.6420798897743225,
+                0.56165611743927,
+                0.678571879863739,
+                0.44421660900115967,
+                0.7361994981765747
+            ]
+        }
+    },
+    "00015": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -12.83,
+            "distance": 2.0,
+            "det_conf": [
+                0.9380708932876587,
+                0.948360800743103,
+                0.947187602519989,
+                0.9487249255180359,
+                0.9061263799667358
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -4.01,
+            "distance": 4.81,
+            "det_conf": [
+                0.16367661952972412,
+                0.5252246260643005,
+                0.5150523781776428,
+                0.38781845569610596,
+                0.13884900510311127
+            ]
+        }
+    },
+    "00020": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -8.93,
+            "distance": 2.02,
+            "det_conf": [
+                0.8037303686141968,
+                0.7804388403892517,
+                0.9222376346588135,
+                0.9258849024772644,
+                0.648208737373352
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -8.01,
+            "distance": 4.5,
+            "det_conf": [
+                0.5582866668701172,
+                0.29089540243148804,
+                0.7475689053535461,
+                0.7480387091636658,
+                0.03932682052254677
+            ]
+        }
+    },
+    "00025": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -6.76,
+            "distance": 2.0,
+            "det_conf": [
+                0.941457211971283,
+                0.9665782451629639,
+                0.9586935639381409,
+                0.9477804899215698,
+                0.9085472822189331
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 80.74,
+            "distance": 2.95,
+            "det_conf": [
+                0.7730594277381897,
+                0.5244952440261841,
+                0.7251549959182739,
+                0.43611466884613037,
+                0.7146409749984741
+            ]
+        }
+    },
+    "00030": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -6.23,
+            "distance": 2.01,
+            "det_conf": [
+                0.7625774145126343,
+                0.9156492352485657,
+                0.7100270986557007,
+                0.9248239398002625,
+                0.3697547912597656
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -6.2,
+            "distance": 4.6,
+            "det_conf": [
+                0.6211199164390564,
+                0.6785573959350586,
+                0.7422166466712952,
+                0.12059947103261948,
+                0.02237577736377716
+            ]
+        }
+    },
+    "00035": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -5.69,
+            "distance": 2.0,
+            "det_conf": [
+                0.9393373131752014,
+                0.9430882930755615,
+                0.9512199759483337,
+                0.956421434879303,
+                0.9356985688209534
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -5.95,
+            "distance": 4.61,
+            "det_conf": [
+                0.5655862092971802,
+                0.1130584254860878,
+                0.1698324829339981,
+                0.2687393128871918,
+                0.11409076303243637
+            ]
+        }
+    },
+    "00040": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -3.6,
+            "distance": 2.0,
+            "det_conf": [
+                0.8751819729804993,
+                0.35504552721977234,
+                0.17270395159721375,
+                0.914930522441864,
+                0.9198289513587952
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -4.56,
+            "distance": 4.6,
+            "det_conf": [
+                0.47605693340301514,
+                0.45355477929115295,
+                0.5124245285987854,
+                0.6493303775787354,
+                0.0056695155799388885
+            ]
+        }
+    },
+    "00045": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -34.48,
+            "distance": 1.3,
+            "det_conf": [
+                0.467276006937027,
+                0.8937952518463135,
+                0.7098414897918701,
+                0.3497183620929718,
+                0.8377121090888977
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 56.2,
+            "distance": 4.36,
+            "det_conf": [
+                0.654866635799408,
+                0.7816550731658936,
+                0.8164326548576355,
+                0.8741009831428528,
+                0.48748359084129333
+            ]
+        }
+    },
+    "00050": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -26.47,
+            "distance": 1.3,
+            "det_conf": [
+                0.8534043431282043,
+                0.8553476929664612,
+                0.6907780170440674,
+                0.30911943316459656,
+                0.5198151469230652
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 46.42,
+            "distance": 4.63,
+            "det_conf": [
+                0.9225702881813049,
+                0.9146108627319336,
+                0.9152543544769287,
+                0.8982024192810059,
+                0.9123675227165222
+            ]
+        }
+    },
+    "00055": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -75.36,
+            "distance": 1.26,
+            "det_conf": [
+                0.8176510334014893,
+                0.7010235786437988,
+                0.79315584897995,
+                0.6513543725013733,
+                0.5939599275588989
+            ]
+        },
+        "A low, rectangle wooden coffee table, medium to dark brown wood. Located in the living room in front of a couch. Various items like drinks and bowls are on it at the start of the video.": {
+            "direction": -7.2,
+            "distance": 1.32,
+            "det_conf": [
+                0.5308994650840759,
+                0.5084515810012817,
+                0.4767107665538788,
+                0.4641112685203552,
+                0.38337570428848267
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 32.26,
+            "distance": 4.49,
+            "det_conf": [
+                0.7534477114677429,
+                0.6469870805740356,
+                0.8383884429931641,
+                0.7316717505455017,
+                0.8531402945518494
+            ]
+        }
+    },
+    "00060": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -80.31,
+            "distance": 1.6,
+            "det_conf": [
+                0.4375889301300049,
+                0.7302170395851135,
+                0.6049995422363281,
+                0.6816653609275818,
+                0.6800955533981323
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 40.96,
+            "distance": 4.19,
+            "det_conf": [
+                0.9433478116989136,
+                0.9285251498222351,
+                0.9266762733459473,
+                0.9423172473907471,
+                0.925588846206665
+            ]
+        }
+    },
+    "00065": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -74.41,
+            "distance": 1.18,
+            "det_conf": [
+                0.6786664128303528,
+                0.6391454935073853,
+                0.7108712792396545,
+                0.675585150718689,
+                0.7026718854904175
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 36.55,
+            "distance": 4.17,
+            "det_conf": [
+                0.9307219386100769,
+                0.9530588984489441,
+                0.9331947565078735,
+                0.9317131042480469,
+                0.5464897155761719
+            ]
+        }
+    },
+    "00070": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -73.32,
+            "distance": 1.0,
+            "det_conf": [
+                0.7449694871902466,
+                0.5549609065055847,
+                0.7793365120887756,
+                0.6727919578552246,
+                0.7606644630432129
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 49.3,
+            "distance": 3.22,
+            "det_conf": [
+                0.9473729133605957,
+                0.9259721040725708,
+                0.9312127232551575,
+                0.8762974739074707,
+                0.4905704855918884
+            ]
+        }
+    },
+    "00075": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -76.68,
+            "distance": 1.41,
+            "det_conf": [
+                0.04256857931613922,
+                0.5637120008468628,
+                0.5192415118217468,
+                0.4482242465019226,
+                0.2613145112991333
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 49.48,
+            "distance": 3.11,
+            "det_conf": [
+                0.9114471077919006,
+                0.9429290294647217,
+                0.9345502257347107,
+                0.9175359010696411,
+                0.9336485266685486
+            ]
+        }
+    },
+    "00080": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 52.51,
+            "distance": 3.08,
+            "det_conf": [
+                0.9044286012649536,
+                0.9158111214637756,
+                0.9204074144363403,
+                0.8911882638931274,
+                0.8932374119758606
+            ]
+        }
+    },
+    "00085": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -79.1,
+            "distance": 1.0,
+            "det_conf": [
+                0.5858125686645508,
+                0.6192616820335388,
+                0.5937398672103882,
+                0.5968172550201416,
+                0.42157894372940063
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 56.19,
+            "distance": 2.66,
+            "det_conf": [
+                0.9386888742446899,
+                0.9124230742454529,
+                0.8901733160018921,
+                0.949634313583374,
+                0.9140926599502563
+            ]
+        }
+    },
+    "00090": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 55.29,
+            "distance": 2.86,
+            "det_conf": [
+                0.8973236083984375,
+                0.8977676630020142,
+                0.8308252096176147,
+                0.71309894323349,
+                0.6747652292251587
+            ]
+        }
+    },
+    "00095": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 55.87,
+            "distance": 2.59,
+            "det_conf": [
+                0.9242844581604004,
+                0.8798744082450867,
+                0.8740301728248596,
+                0.9112812280654907,
+                0.8769881129264832
+            ]
+        }
+    },
+    "00100": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 54.97,
+            "distance": 2.55,
+            "det_conf": [
+                0.8842400908470154,
+                0.8575215935707092,
+                0.886901319026947,
+                0.8639727830886841,
+                0.7988572120666504
+            ]
+        }
+    },
+    "00105": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 55.66,
+            "distance": 2.45,
+            "det_conf": [
+                0.9416972398757935,
+                0.9366133809089661,
+                0.9350335001945496,
+                0.9208952784538269,
+                0.8318019509315491
+            ]
+        }
+    },
+    "00110": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 69.76,
+            "distance": 2.2,
+            "det_conf": [
+                0.9374881982803345,
+                0.9265738725662231,
+                0.8989638090133667,
+                0.9330445528030396,
+                0.9365270137786865
+            ]
+        }
+    },
+    "00115": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -76.83,
+            "distance": 1.29,
+            "det_conf": [
+                0.9502390623092651,
+                0.9502390623092651,
+                0.9172243475914001,
+                0.9340088367462158,
+                0.9221631288528442
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 69.84,
+            "distance": 2.8,
+            "det_conf": [
+                0.8964969515800476,
+                0.9018399715423584,
+                0.9017330408096313,
+                0.9345856308937073,
+                0.9134031534194946
+            ]
+        }
+    },
+    "00120": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -55.2,
+            "distance": 2.01,
+            "det_conf": [
+                0.9751141667366028,
+                0.9600415825843811,
+                0.9457958936691284,
+                0.953606903553009,
+                0.9566705822944641
+            ]
+        },
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 72.01,
+            "distance": 3.04,
+            "det_conf": [
+                0.9273276925086975,
+                0.9204718470573425,
+                0.9233880043029785,
+                0.8565427660942078,
+                0.896035373210907
+            ]
+        }
+    },
+    "00790": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": 74.18,
+            "distance": 1.55,
+            "det_conf": [
+                0.8665437698364258,
+                0.8028596639633179,
+                0.6864080429077148,
+                0.6838311553001404,
+                0.7695006132125854
+            ]
+        }
+    },
+    "00800": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": 64.68,
+            "distance": 1.28,
+            "det_conf": [
+                0.8859448432922363,
+                0.8223579525947571,
+                0.8585835099220276,
+                0.9231599569320679,
+                0.8723938465118408
+            ]
+        }
+    },
+    "00900": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 33.69,
+            "distance": 1.36,
+            "det_conf": [
+                0.5423656105995178,
+                0.6496821045875549,
+                0.5809829235076904,
+                0.6458049416542053,
+                0.53201824426651
+            ]
+        }
+    },
+    "01210": {
+        "A low, rectangle wooden coffee table, medium to dark brown wood. Located in the living room in front of a couch. Various items like drinks and bowls are on it at the start of the video.": {
+            "direction": -45.53,
+            "distance": 2.54,
+            "det_conf": [
+                0.5891661643981934,
+                0.5692350268363953,
+                0.3271735608577728,
+                0.6267035007476807,
+                0.09484583139419556
+            ]
+        }
+    },
+    "01220": {
+        "A low, rectangle wooden coffee table, medium to dark brown wood. Located in the living room in front of a couch. Various items like drinks and bowls are on it at the start of the video.": {
+            "direction": -3.81,
+            "distance": 1.23,
+            "det_conf": [
+                0.6021571755409241,
+                0.5133416056632996,
+                0.5232709646224976,
+                0.11372735351324081,
+                0.37078213691711426
+            ]
+        }
+    },
+    "01780": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": 56.11,
+            "distance": 1.0,
+            "det_conf": [
+                0.5243725776672363,
+                0.4229256808757782,
+                0.06051156669855118,
+                0.38585835695266724,
+                0.38317421078681946
+            ]
+        }
+    },
+    "01790": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -7.46,
+            "distance": 1.15,
+            "det_conf": [
+                0.030335646122694016,
+                0.026150967925786972,
+                0.026930810883641243,
+                0.7062123417854309,
+                0.4413498640060425
+            ]
+        }
+    },
+    "01800": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -6.59,
+            "distance": 2.2,
+            "det_conf": [
+                0.060495149344205856,
+                0.05496323108673096,
+                0.14013813436031342,
+                0.03162476047873497,
+                0.5527162551879883
+            ]
+        }
+    },
+    "02410": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": 55.68,
+            "distance": 1.0,
+            "det_conf": [
+                0.6007454991340637,
+                0.6952878832817078,
+                0.27959203720092773,
+                0.6227250099182129,
+                0.4262022376060486
+            ]
+        }
+    },
+    "02580": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -38.61,
+            "distance": 1.0,
+            "det_conf": [
+                0.9471167922019958,
+                0.9226745367050171,
+                0.9394164085388184,
+                0.9451317191123962,
+                0.9165521860122681
+            ]
+        }
+    },
+    "02590": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -52.27,
+            "distance": 1.0,
+            "det_conf": [
+                0.8181068301200867,
+                0.8280821442604065,
+                0.34383222460746765,
+                0.17747756838798523,
+                0.8538269400596619
+            ]
+        }
+    },
+    "02600": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -56.71,
+            "distance": 1.0,
+            "det_conf": [
+                0.7119116187095642,
+                0.7060003280639648,
+                0.8269003629684448,
+                0.6576871275901794,
+                0.8359939455986023
+            ]
+        }
+    },
+    "02610": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -63.32,
+            "distance": 1.01,
+            "det_conf": [
+                0.6765453815460205,
+                0.7743674516677856,
+                0.7920172810554504,
+                0.7951416969299316,
+                0.7883327603340149
+            ]
+        }
+    },
+    "02620": {
+        "Adult male, light skin, short dark hair, balding on top. Wearing a turquoise/blue short-sleeved polo shirt with a thin black horizontal stripe near the collar, and khaki shorts. Appears to be of average to slightly heavy build.": {
+            "direction": -62.95,
+            "distance": 1.0,
+            "det_conf": [
+                0.7807044386863708,
+                0.796705961227417,
+                0.7715988159179688,
+                0.7293950319290161,
+                0.7550659775733948
+            ]
+        },
+        "A low, rectangle wooden coffee table, medium to dark brown wood. Located in the living room in front of a couch. Various items like drinks and bowls are on it at the start of the video.": {
+            "direction": 27.32,
+            "distance": 1.51,
+            "det_conf": [
+                0.5230284333229065,
+                0.2587429881095886,
+                0.07316257059574127,
+                0.16708120703697205,
+                0.3892551064491272
+            ]
+        }
+    },
+    "02980": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -45.71,
+            "distance": 3.28,
+            "det_conf": [
+                0.6397534012794495,
+                0.492740660905838,
+                0.17225141823291779,
+                0.5547768473625183,
+                0.5041200518608093
+            ]
+        }
+    },
+    "02990": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -47.33,
+            "distance": 3.24,
+            "det_conf": [
+                0.6387152075767517,
+                0.4790528416633606,
+                0.5342539548873901,
+                0.5286780595779419,
+                0.4940570294857025
+            ]
+        }
+    },
+    "03000": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -44.5,
+            "distance": 3.28,
+            "det_conf": [
+                0.6570523977279663,
+                0.5122116208076477,
+                0.39429664611816406,
+                0.3053753077983856,
+                0.159377321600914
+            ]
+        }
+    },
+    "03010": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -48.19,
+            "distance": 2.85,
+            "det_conf": [
+                0.6270602941513062,
+                0.11979324370622635,
+                0.6266463398933411,
+                0.6362956166267395,
+                0.28200945258140564
+            ]
+        }
+    },
+    "03020": {
+        "A fireplace built into the living room wall, with a black metal screen. The fireplace surround is light-colored, matching the walls. It is located on the same wall as a large TV, to the TV's right.": {
+            "direction": -46.34,
+            "distance": 3.07,
+            "det_conf": [
+                0.42068472504615784,
+                0.7977887988090515,
+                0.7448948621749878,
+                0.24741728603839874,
+                0.4464173913002014
+            ]
+        }
+    }
+}

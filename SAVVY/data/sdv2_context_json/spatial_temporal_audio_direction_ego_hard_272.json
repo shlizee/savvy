@@ -1,0 +1,160 @@
+{
+    "event": "The other person states that an action is done only once.",
+    "start_time": "2:59",
+    "end_time": "3:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a yellow knitted vest over a white t-shirt, light blue jeans, and socks. She is also wearing glasses.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:43": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:57": {
+                "distance": "0.9",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-55"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "-65"
+            },
+            "1:19": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "1:27": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "1:33": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "1:39": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "1:53": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "1:58": {
+                "distance": "0.4",
+                "direction": "-25"
+            },
+            "2:02": {
+                "distance": "0.5",
+                "direction": "-35"
+            },
+            "2:08": {
+                "distance": "0.6",
+                "direction": "-40"
+            },
+            "2:12": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:23": {
+                "distance": "0.3",
+                "direction": "-20"
+            },
+            "2:29": {
+                "distance": "0.4",
+                "direction": "-15"
+            },
+            "2:39": {
+                "distance": "0.4",
+                "direction": "-10"
+            },
+            "2:50": {
+                "distance": "0.6",
+                "direction": "-35"
+            },
+            "2:56": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "2:59": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "3:02": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating action is done only once\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_272",
+    "video_id": "loc3_script2_seq3_rec1"
+}

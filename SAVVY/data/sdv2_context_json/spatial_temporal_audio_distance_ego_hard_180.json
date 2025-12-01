@@ -1,0 +1,236 @@
+{
+    "event": "Distance between camera wearer and other person when asking about meat quality.",
+    "start_time": "01:46",
+    "end_time": "02:00",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer, whose perspective the video is from.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "04:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the wearer's viewpoint.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "04:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with curly brown hair, wearing a grey short-sleeved shirt and dark shorts. They are also wearing glasses and have a headset around their neck.",
+        "key_frames": {
+            "00:01": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "00:21": {
+                "distance": "0.5",
+                "direction": "45"
+            },
+            "00:36": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:02": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "01:11": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:47": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:06": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:35": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "03:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "03:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "03:35": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "03:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "04:05": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "0.7",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about meat quality\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_180",
+    "video_id": "loc2_script3_seq4_rec1"
+}

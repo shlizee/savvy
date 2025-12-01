@@ -1,0 +1,132 @@
+{
+    "event": "Determine speaker's location (left, right, or back) relative to a robot standing by the sink and facing the coffee table, when the speech topic 'confirming putting plates in dishwasher' occurs.",
+    "start_time": "2:16",
+    "end_time": "2:18",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/green short-sleeved polo shirt and blue jeans. His face is blurred. He is the one confirming about the plates.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": 1.2,
+                "direction": -15
+            },
+            "0:06": {
+                "distance": 1.5,
+                "direction": -20
+            },
+            "0:08": {
+                "distance": 1.0,
+                "direction": -40
+            },
+            "0:12": {
+                "distance": 1.2,
+                "direction": -30
+            },
+            "0:28": {
+                "distance": 3.5,
+                "direction": 10
+            },
+            "1:29": {
+                "distance": 2.0,
+                "direction": 5
+            },
+            "2:10": {
+                "distance": 1.5,
+                "direction": -10
+            },
+            "2:17": {
+                "distance": 1.2,
+                "direction": -15
+            },
+            "2:37": {
+                "distance": 1.5,
+                "direction": 10
+            },
+            "2:55": {
+                "distance": 2.5,
+                "direction": -60
+            },
+            "3:01": {
+                "distance": 2.0,
+                "direction": -70
+            },
+            "3:07": {
+                "distance": 1.0,
+                "direction": 0
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Kitchen Island Sink",
+        "description": "White rectangular undermount sink with a chrome tap, integrated into a large kitchen island with a white countertop and dark wood base. This is where the robot is standing.",
+        "key_frames": {
+            "0:19": {
+                "distance": 2.0,
+                "direction": 0
+            },
+            "0:21": {
+                "distance": 1.0,
+                "direction": 0
+            },
+            "1:30": {
+                "distance": 0.5,
+                "direction": 0
+            },
+            "2:11": {
+                "distance": 1.0,
+                "direction": 0
+            },
+            "2:17": {
+                "distance": 1.0,
+                "direction": 0
+            },
+            "2:33": {
+                "distance": 0.7,
+                "direction": 0
+            },
+            "3:00": {
+                "distance": 0.8,
+                "direction": 0
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular Wooden Coffee Table",
+        "description": "Low, rectangular wooden coffee table in the living room area, light-colored wood. This is what the robot is facing.",
+        "key_frames": {
+            "0:01": {
+                "distance": 4.0,
+                "direction": -10
+            },
+            "0:06": {
+                "distance": 4.5,
+                "direction": -5
+            },
+            "0:12": {
+                "distance": 4.0,
+                "direction": -15
+            },
+            "1:31": {
+                "distance": 3.5,
+                "direction": 5
+            },
+            "2:13": {
+                "distance": 3.8,
+                "direction": 0
+            },
+            "2:17": {
+                "distance": 3.8,
+                "direction": 5
+            },
+            "2:40": {
+                "distance": 3.5,
+                "direction": 10
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the sink with a tap and facing the rectangular wooden coffee table, when the speech topic: \"confirming putting plates in dishwasher\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_400",
+    "video_id": "loc3_script3_seq5_rec2"
+}

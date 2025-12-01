@@ -1,0 +1,108 @@
+{
+    "event": "The speech topic 'mentioning kebabs are meant for barbecue' comes up.",
+    "start_time": "1:33",
+    "end_time": "1:34",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. They have short brown hair and are wearing glasses. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-55"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-25"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:57": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "1:05": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:08": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "1:20": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "1:23": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:33": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:36": {
+                "distance": "0.6",
+                "direction": "-75"
+            },
+            "1:42": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "1:49": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "2:07": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "2:29": {
+                "distance": "0.8",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_gaze",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning kebabs are meant for barbecue\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_210",
+    "video_id": "loc2_script3_seq33_rec2"
+}

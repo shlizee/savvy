@@ -1,0 +1,132 @@
+{
+    "event": "The speech topic: \"confirming having recently cooked food for oneself\" comes up.",
+    "start_time": "0:42",
+    "end_time": "0:43",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short dark hair, wearing glasses, a light blue short-sleeved polo shirt, and khaki shorts. He is also wearing wired earphones.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "0:05": {
+                "distance": "1.7",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:14": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:21": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:26": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:29": {
+                "distance": "3.5",
+                "direction": "25"
+            },
+            "0:37": {
+                "distance": "2.8",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:42": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:43": {
+                "distance": "2.6",
+                "direction": "25"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:56": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:12": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "1:16": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:44": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, from whose perspective the video is shot.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male with short dark hair, wearing glasses, a light blue short-sleeved polo shirt, and khaki shorts. He is also wearing wired earphones.",
+        "key_frames": {
+            "0:42": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"confirming having recently cooked food for oneself\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_58",
+    "video_id": "loc2_script2_seq2_rec1"
+}

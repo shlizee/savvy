@@ -1,0 +1,156 @@
+{
+    "event": "Speaker suggests pretending to sip coffee.",
+    "start_time": "2:09",
+    "end_time": "2:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark curly hair, wearing glasses, a yellow knitted vest over a white short-sleeved shirt, light blue jeans, and light-colored patterned socks. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:08": {
+                "distance": "2.8",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "1:33": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "2:09": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "3:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table (Living Room)",
+        "description": "Large, wooden rectangular table, medium brown color. Located in the living room area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "0:36": {
+                "distance": "4.5",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "2:09": {
+                "distance": "4.0",
+                "direction": "25"
+            },
+            "2:45": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "3:05": {
+                "distance": "4.0",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-colored Refrigerator (Kitchen)",
+        "description": "Tall, double-door refrigerator, appears to be stainless steel or a very light silver/grey color, with an ice/water dispenser. Located in the kitchen.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:17": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "0:33": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-85"
+            },
+            "2:09": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:45": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "3:05": {
+                "distance": "1.2",
+                "direction": "-75"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the light-colored refrigerator, when the speech topic: \"suggesting pretending to sip\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_304",
+    "video_id": "loc3_script2_seq3_rec1"
+}

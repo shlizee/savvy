@@ -1,0 +1,104 @@
+{
+    "event": "Determine the direction of a knocking door sound relative to a hypothetical robot standing by the wall-mounted TV and facing the fireplace.",
+    "start_time": "0:02",
+    "end_time": "0:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The front door, which is dark brown or black, featuring ornate metal scrollwork over textured glass panels. It is a standard exterior door size.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "5.0",
+                "direction": "-100"
+            },
+            "1:09": {
+                "distance": "5.0",
+                "direction": "-100"
+            },
+            "1:25": {
+                "distance": "5.0",
+                "direction": "-100"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, flat-screen television, which is part of a larger wooden shelving and entertainment unit built into/against the wall.",
+        "key_frames": {
+            "0:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:53": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:11": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:25": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "1:57": {
+                "distance": "3.0",
+                "direction": "-50"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace with a white mantelpiece, a black firebox opening, and a black metal screen in front of it.",
+        "key_frames": {
+            "0:17": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "30"
+            },
+            "0:57": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "40"
+            },
+            "1:57": {
+                "distance": "4.0",
+                "direction": "40"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the knocking door sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_84",
+    "video_id": "loc2_script2_seq1_rec1"
+}

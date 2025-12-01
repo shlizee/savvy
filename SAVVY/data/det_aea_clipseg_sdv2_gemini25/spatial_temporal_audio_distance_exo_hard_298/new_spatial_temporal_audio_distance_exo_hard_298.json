@@ -1,0 +1,96 @@
+{
+    "event": "stating age and commenting on time passing",
+    "start_time": "01:17",
+    "end_time": "01:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, likely male, wearing a green shirt and blue jeans, sitting on a couch and holding a smartphone. The person's face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "00:13": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "00:20": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "00:40": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "01:00": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "01:20": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "01:35": {
+                "distance": "0.7",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "black decorative animal sculpture",
+        "description": "A small, black, four-legged animal sculpture, possibly a dog or a pig, standing on the wooden floor near a large window.",
+        "key_frames": {
+            "00:09": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "00:15": {
+                "distance": "4.2",
+                "direction": "-15"
+            },
+            "00:20": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "00:30": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "00:45": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "01:15": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "01:30": {
+                "distance": "4.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera",
+        "description": "The camera recording the scene.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "When the speech topic: \"stating age and commenting on time passing\" is mentioned, what is the distance between the black decorative animal sculpture and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_298",
+    "video_id": "loc3_script2_seq7_rec2"
+}

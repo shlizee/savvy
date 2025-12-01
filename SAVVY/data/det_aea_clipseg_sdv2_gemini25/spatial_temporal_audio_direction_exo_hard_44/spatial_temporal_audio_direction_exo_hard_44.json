@@ -1,0 +1,148 @@
+{
+    "event": "Speaker clarifies that a bowl is intended for shells, relative to a robot standing by the double wall oven and facing the refrigerator.",
+    "start_time": "0:01:37",
+    "end_time": "0:01:44",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing glasses, a black short-sleeved crop top, and light blue denim shorts/jeans. She is sitting at a wooden dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:00:06": {
+                "distance": "3.2",
+                "direction": "25"
+            },
+            "0:00:11": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:00:27": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:00:38": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:00:48": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:01:02": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "0:01:12": {
+                "distance": "3.5",
+                "direction": "35"
+            },
+            "0:01:23": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:01:35": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:01:41": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:01:55": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:02:32": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:02:43": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:03:05": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:03:19": {
+                "distance": "0.7",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. It is located on the far wall of the kitchen, to the left side from the camera's general perspective.",
+        "key_frames": {
+            "0:00:12": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "0:00:20": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "0:00:47": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "0:01:14": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "0:01:30": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "0:02:00": {
+                "distance": "3.8",
+                "direction": "65"
+            },
+            "0:02:36": {
+                "distance": "3.8",
+                "direction": "65"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "A large stainless steel refrigerator, located on the far wall of the kitchen, to the right of the double wall oven from the camera's general perspective.",
+        "key_frames": {
+            "0:00:12": {
+                "distance": "4.2",
+                "direction": "75"
+            },
+            "0:00:20": {
+                "distance": "4.2",
+                "direction": "75"
+            },
+            "0:00:47": {
+                "distance": "4.2",
+                "direction": "75"
+            },
+            "0:01:14": {
+                "distance": "4.2",
+                "direction": "75"
+            },
+            "0:01:30": {
+                "distance": "4.2",
+                "direction": "75"
+            },
+            "0:02:00": {
+                "distance": "4.2",
+                "direction": "75"
+            },
+            "0:02:36": {
+                "distance": "4.2",
+                "direction": "75"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the stainless steel refrigerator, when the speech topic: \"clarifying bowl purpose is for shells\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_44",
+    "video_id": "loc1_script2_seq4_rec2"
+}

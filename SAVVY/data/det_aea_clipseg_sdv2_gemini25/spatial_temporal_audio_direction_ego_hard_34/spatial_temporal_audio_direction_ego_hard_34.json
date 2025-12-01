@@ -1,0 +1,135 @@
+{
+    "event": "The other person volunteers to put away the fruit.",
+    "start_time": "0:23",
+    "end_time": "0:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark hair, wearing glasses, a light teal/green short-sleeved collared shirt with a small graphic on the left chest, and dark shorts. He is also wearing a wired earpiece in his right ear, connected to a device clipped to his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:08": {
+                "distance": "1.1",
+                "direction": "25"
+            },
+            "0:11": {
+                "distance": "1.1",
+                "direction": "25"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "25"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:31": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:39": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:43": {
+                "distance": "0.9",
+                "direction": "10"
+            },
+            "0:46": {
+                "distance": "0.9",
+                "direction": "10"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:58": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "1:02": {
+                "distance": "2.8",
+                "direction": "-40"
+            },
+            "1:21": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "1:24": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:26": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:35": {
+                "distance": "0.9",
+                "direction": "10"
+            },
+            "1:42": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:44": {
+                "distance": "0.9",
+                "direction": "15"
+            },
+            "1:57": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "2:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:03": {
+                "distance": "2.8",
+                "direction": "-35"
+            },
+            "2:08": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "2:11": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. The view shows their hands and arms interacting with objects on a wooden dining table. The surrounding environment is a dining room and kitchen area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"volunteering to put away the fruit\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_34",
+    "video_id": "loc1_script2_seq6_rec2"
+}

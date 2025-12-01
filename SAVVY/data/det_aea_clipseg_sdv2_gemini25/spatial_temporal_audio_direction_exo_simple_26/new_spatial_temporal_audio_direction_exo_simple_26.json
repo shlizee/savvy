@@ -1,0 +1,116 @@
+{
+    "event": "The speech topic is 'asking if they also require a cup'. The question asks for the speaker's location (left, right, or back) relative to a robot standing by the dark wooden front door and facing the light-gray armchair closer to the wall painting.",
+    "start_time": "2:22",
+    "end_time": "2:24",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is an adult male. The camera is mounted on him, so his physical appearance is mostly obscured, but his arms and hands are occasionally visible. He is wearing a light-colored t-shirt. At the time of the event, he is in the kitchen.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dark wooden front door",
+        "description": "A dark brown wooden front door with an arched top. It has a small, possibly rectangular, window or peephole near the top and a metallic handle. It is located on the right-hand wall of the living room when entering from the main archway connecting to the dining area/hallway.",
+        "key_frames": {
+            "0:13": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair. It is one of two identical armchairs situated by a large arched window on the far wall of the living room. This specific armchair is positioned to the left of the arched window (when viewed from the front door or the main living room entrance). This placement makes it closer to the left-hand wall of the living room, which features a fireplace and associated wall paintings.",
+        "key_frames": {
+            "0:11": {
+                "distance": "4.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "4.2",
+                "direction": "-25"
+            },
+            "0:16": {
+                "distance": "5.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the dark wooden front door and facing the light-gray armchair closer to the wall painting, when the speech topic: \"asking if they also require a cup\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_26",
+    "video_id": "loc1_script2_seq3_rec1"
+}

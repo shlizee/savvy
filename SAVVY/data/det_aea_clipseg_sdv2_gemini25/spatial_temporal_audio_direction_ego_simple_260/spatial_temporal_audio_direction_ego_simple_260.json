@@ -1,0 +1,120 @@
+{
+    "event": "The speech topic 'stating possession of filter alternative' comes up.",
+    "start_time": "1:04",
+    "end_time": "1:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a green short-sleeved polo shirt and blue jeans. He is also wearing glasses and a watch on his left wrist. He has a lavalier microphone clipped to his shirt.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:21": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:47": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "1:31": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:41": {
+                "distance": "0.6",
+                "direction": "-50"
+            },
+            "1:53": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "2:09": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:22": {
+                "distance": "0.4",
+                "direction": "-20"
+            },
+            "2:33": {
+                "distance": "0.4",
+                "direction": "-10"
+            },
+            "2:50": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "3:01": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:07": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "French press",
+        "description": "A glass and metal French press coffee maker on the kitchen counter.",
+        "key_frames": {
+            "1:05": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating possession of filter alternative\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_260",
+    "video_id": "loc3_script2_seq3_rec2"
+}

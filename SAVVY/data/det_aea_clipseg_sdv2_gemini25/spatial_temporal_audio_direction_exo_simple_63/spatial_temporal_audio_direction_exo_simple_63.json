@@ -1,0 +1,202 @@
+{
+    "event": "Speech topic: hinting at the specific show chosen",
+    "start_time": "0:12",
+    "end_time": "0:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing glasses, a black short-sleeved crop top, and light blue jeans. She is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:14": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:30": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "4:00": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "4:25": {
+                "distance": "1.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two round nested coffee tables. The larger table has a dark top and a dark metal frame. The smaller table, partially tucked under the larger one, appears similar. They are located in front of a grey sofa.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:11": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:14": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "4:00": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "4:25": {
+                "distance": "0.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "A tall, traditional wooden china cabinet with glass-paned upper doors displaying white dishware. It has solid wooden lower doors and is positioned against a light-colored wall, to the left of an arched doorway.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:11": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:14": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "1:35": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "2:30": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "4:00": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "4:25": {
+                "distance": "3.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the wooden china cabinet, when the speech topic: \"hinting at the specific show chosen\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_63",
+    "video_id": "loc1_script2_seq7_rec2"
+}

@@ -1,0 +1,96 @@
+{
+    "event": "The speech topic: \"suggesting removing food from skewers\" comes up.",
+    "start_time": "0:23",
+    "end_time": "0:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person, an adult male with dark curly hair, wearing a grey t-shirt and dark shorts. He is interacting with the camera wearer in the kitchen.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.6",
+                "direction": "70"
+            },
+            "0:15": {
+                "distance": "0.6",
+                "direction": "80"
+            },
+            "0:23": {
+                "distance": "0.6",
+                "direction": "85"
+            },
+            "0:30": {
+                "distance": "0.6",
+                "direction": "85"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "75"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:39": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:27": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:48": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, cooking at the stove.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:59": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stovetop/kitchen counter",
+        "description": "The black induction stovetop and granite kitchen counter where the cooking is taking place.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting removing food from skewers\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_168",
+    "video_id": "loc2_script3_seq34_rec1"
+}

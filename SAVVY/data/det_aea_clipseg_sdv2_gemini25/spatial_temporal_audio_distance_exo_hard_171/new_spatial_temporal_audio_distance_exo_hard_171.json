@@ -1,0 +1,126 @@
+{
+    "event": "Distance between the speech sound source (camera) and the stainless steel refrigerator when the speech topic is 'denying script three cooking and specifying cooking eggs alone'.",
+    "start_time": "0:52",
+    "end_time": "0:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person holding the camera, an adult male. The audio source is from this person. The view is egocentric.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Refrigerator",
+        "description": "A large, stainless steel, multi-door refrigerator, located in the kitchen.",
+        "is_static": true,
+        "key_frames": {
+            "0:14": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:39": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:53": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "1:06": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "2:01": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "2:02": {
+                "distance": "1.6",
+                "direction": "65"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Induction Stovetop",
+        "description": "Black glass-ceramic induction stovetop built into the kitchen counter. The camera is primarily facing this object during the event.",
+        "is_static": true,
+        "key_frames": {
+            "0:53": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:01": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "When the speech topic: \"denying script three cooking and specifying cooking eggs alone\" is mentioned, what is the distance between the stainless steel refrigerator and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_171",
+    "video_id": "loc2_script3_seq31_rec2"
+}

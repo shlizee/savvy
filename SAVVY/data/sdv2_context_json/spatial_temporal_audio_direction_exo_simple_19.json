@@ -1,0 +1,188 @@
+{
+    "event": "Speaker speculates and confirms mugs are by the coffee machine.",
+    "start_time": "0:18",
+    "end_time": "0:27",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She has a small black device clipped to her waistband with a wire running up towards her head.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:16": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "0:30": {
+                "distance": "2.8",
+                "direction": "-85"
+            },
+            "0:41": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:50": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "1:06": {
+                "distance": "2.7",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:25": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "1:38": {
+                "distance": "2.6",
+                "direction": "-65"
+            },
+            "1:52": {
+                "distance": "2.7",
+                "direction": "-60"
+            },
+            "2:00": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "2:12": {
+                "distance": "2.7",
+                "direction": "-60"
+            },
+            "2:25": {
+                "distance": "2.8",
+                "direction": "-65"
+            },
+            "2:38": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:49": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "2:58": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:12": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch with several throw pillows, including yellow and patterned ones. It is located in the living room.",
+        "key_frames": {
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-100"
+            },
+            "0:56": {
+                "distance": "4.0",
+                "direction": "-110"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "-110"
+            },
+            "2:30": {
+                "distance": "4.0",
+                "direction": "-110"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large, black, flat-screen TV. It is located in the living room, likely opposite the couch, possibly above a fireplace mantel.",
+        "key_frames": {
+            "0:11": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "0:56": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "2:30": {
+                "distance": "5.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the tv, when the speech topic: \"speculating and confirming mugs are by coffee\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_19",
+    "video_id": "loc1_script2_seq3_rec1"
+}

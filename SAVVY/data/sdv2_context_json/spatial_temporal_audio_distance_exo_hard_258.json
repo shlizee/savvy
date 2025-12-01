@@ -1,0 +1,108 @@
+{
+    "event": "Distance between the sink with a tap and the sounding object (kettle) when the background boiling sound is happening.",
+    "start_time": "1:32",
+    "end_time": "1:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A blue metallic stovetop kettle with a black handle, a silver spout, and a silver lid with a black knob. It has a traditional, somewhat rounded shape, estimated to hold 2-3 liters. It is the object making the boiling sound when on the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:11": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "0:21": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0.3",
+                "direction": "-10"
+            },
+            "1:56": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Sink with a tap",
+        "description": "A stainless steel kitchen sink with a modern, tall, curved tap, integrated into a white countertop on a central kitchen island.",
+        "key_frames": {
+            "0:05": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:21": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "1.0",
+                "direction": "180"
+            },
+            "1:53": {
+                "distance": "1.0",
+                "direction": "-150"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stove",
+        "description": "A gas stovetop with multiple burners, integrated into the main kitchen counter against the wall. This is where the sounding object (kettle) is placed when boiling.",
+        "key_frames": {
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "90"
+            },
+            "0:46": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.1",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "When the background boiling sound is happening, what is the distance between the sink with a tap and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_258",
+    "video_id": "loc3_script2_seq3_rec2"
+}

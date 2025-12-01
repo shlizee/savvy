@@ -1,0 +1,212 @@
+{
+    "event": "A speaker talks about 'suggesting running process briefly'",
+    "start_time": "0:55",
+    "end_time": "0:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark curly hair, wearing glasses, a white short-sleeved t-shirt, a yellow knitted sleeveless vest, light blue jeans, and light-colored patterned socks. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "0.5",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:44": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "0:57": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "1:06": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "1:12": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "1:27": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "1:33": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:43": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:58": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "2:07": {
+                "distance": "1.2",
+                "direction": "-80"
+            },
+            "2:23": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "2:35": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "2:49": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "2:51": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "3:00": {
+                "distance": "1.2",
+                "direction": "-75"
+            },
+            "3:06": {
+                "distance": "1.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Piano",
+        "description": "Upright black piano, standard size, positioned against a wall. Bookshelves are mounted on the wall above it.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "80"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "85"
+            },
+            "0:19": {
+                "distance": "5.0",
+                "direction": "-10"
+            },
+            "0:21": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "6.0",
+                "direction": "15"
+            },
+            "0:55": {
+                "distance": "6.5",
+                "direction": "20"
+            },
+            "1:30": {
+                "distance": "6.0",
+                "direction": "15"
+            },
+            "2:00": {
+                "distance": "6.2",
+                "direction": "18"
+            },
+            "2:30": {
+                "distance": "6.0",
+                "direction": "15"
+            },
+            "3:00": {
+                "distance": "6.5",
+                "direction": "20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "Wooden rectangular dining table with chairs, located in a dining area near large windows, past the kitchen island.",
+        "key_frames": {
+            "0:15": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "2.8",
+                "direction": "8"
+            },
+            "1:45": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "3.2",
+                "direction": "7"
+            },
+            "2:45": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "3:05": {
+                "distance": "3.0",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the piano and facing the rectangular dining table, when the speech topic: \"suggesting running process briefly\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_299",
+    "video_id": "loc3_script2_seq3_rec1"
+}

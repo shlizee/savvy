@@ -1,0 +1,79 @@
+{
+    "event": "Distance between the black decorative animal sculpture and the sounding object (frying pan) when the scraping sound is happening.",
+    "start_time": "0:55",
+    "end_time": "1:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A black, circular frying pan, likely metal with a non-stick coating, approximately 25-30 cm in diameter. It has a black handle. The sound is produced by a black spatula scraping against its inner surface.",
+        "is_static": false,
+        "key_frames": {
+            "0:28": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:07": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:14": {
+                "distance": "0.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Black decorative animal sculpture",
+        "description": "A small, black sculpture appearing to be a stylized cat, possibly in a seated or loaf position. It is located on the far dining table, near the large windows. It appears to be made of ceramic or resin, approximately 15-20 cm in its largest dimension.",
+        "key_frames": {
+            "0:03": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:29": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "0:55": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "1:08": {
+                "distance": "3.8",
+                "direction": "70"
+            },
+            "2:11": {
+                "distance": "3.5",
+                "direction": "80"
+            },
+            "2:38": {
+                "distance": "4.0",
+                "direction": "70"
+            },
+            "3:00": {
+                "distance": "4.2",
+                "direction": "60"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 3.8,
+    "question": "When the scraping sound is happening, what is the distance between the black decorative animal sculpture and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_334",
+    "video_id": "loc3_script3_seq5_rec2"
+}

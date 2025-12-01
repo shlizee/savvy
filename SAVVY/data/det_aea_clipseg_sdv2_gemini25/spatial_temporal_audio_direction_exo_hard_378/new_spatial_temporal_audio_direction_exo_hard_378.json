@@ -1,0 +1,132 @@
+{
+    "event": "A person is commenting on pleasant weather and blue skies.",
+    "start_time": "02:25",
+    "end_time": "02:31",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a person sitting on a light-colored (beige/cream) L-shaped couch. During the event, the person is wearing a dark (navy or black) long-sleeved sweater or shirt over a light-colored collared shirt, blue jeans, and light-colored (white/grey) socks. They have curly, short, dark hair and are wearing glasses. They are gesturing with their hands while speaking. Approximate height while sitting is around 1 meter.",
+        "is_static": false,
+        "key_frames": {
+            "00:03": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:08": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "00:25": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:10": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:30": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:55": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "02:25": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:30": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with balcony view",
+        "description": "A large expanse of floor-to-ceiling glass windows and sliding doors that provide a view to an outside balcony and trees. The frames appear to be dark. The windows occupy a significant portion of one wall of the living room. The robot is standing near this window expanse, looking into the room.",
+        "key_frames": {
+            "00:00": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "00:05": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "00:30": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "01:30": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "02:00": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "02:25": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "02:45": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black round ottoman",
+        "description": "A circular ottoman, upholstered in black or very dark grey fabric/leather. It has a relatively low profile. Approximate diameter 0.8-1 meter.",
+        "key_frames": {
+            "00:03": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "00:08": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "00:30": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "01:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "01:30": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "02:25": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "02:45": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the window with a balcony view and facing the black round ottoman, when the speech topic: \"commenting on pleasant weather and blue skies\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_378",
+    "video_id": "loc3_script3_seq2_rec1"
+}

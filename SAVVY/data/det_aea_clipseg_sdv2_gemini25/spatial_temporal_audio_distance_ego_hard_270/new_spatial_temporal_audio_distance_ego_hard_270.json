@@ -1,0 +1,152 @@
+{
+    "event": "Speech topic: \"explaining reason for video presentation style\"",
+    "start_time": "0:44",
+    "end_time": "0:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with dark hair, wearing a pink collared shirt, visible on a smartphone screen. He is speaking and gesturing.",
+        "is_static": false,
+        "key_frames": {
+            "0:19": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:23": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:44": {
+                "distance": "0.7",
+                "direction": "-65"
+            },
+            "0:47": {
+                "distance": "0.7",
+                "direction": "-65"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "-65"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "-65"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "-65"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "-65"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-65"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A man with short, dark hair (face blurred), wearing a light green short-sleeved polo shirt and blue jeans. He is sitting on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:17": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "0:25": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "0:35": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "0:44": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "0:50": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "1:30": {
+                "distance": "0.6",
+                "direction": "-65"
+            },
+            "1:35": {
+                "distance": "0.6",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"explaining reason for video presentation style\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_270",
+    "video_id": "loc3_script2_seq7_rec2"
+}

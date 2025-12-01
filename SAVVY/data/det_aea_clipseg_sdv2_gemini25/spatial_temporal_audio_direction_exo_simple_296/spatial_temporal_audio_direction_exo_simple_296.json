@@ -1,0 +1,120 @@
+{
+    "event": "Determine the relative direction of the sounding object (gas stove) from the robot's perspective when the flame sound occurs.",
+    "start_time": "0:51",
+    "end_time": "0:53",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A stainless steel gas stove with five burners and black grates. It is built into a white countertop. The knobs are black and located on the front right side of the stovetop.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "0:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:02": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:08": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:22": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "2:31": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:48": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:57": {
+                "distance": "0.8",
+                "direction": "15"
+            },
+            "3:05": {
+                "distance": "1.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A rectangular wooden dining table. It is not clearly visible in its entirety, but parts of it can be seen in the background, particularly through the kitchen island opening.",
+        "key_frames": {
+            "0:05": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A rectangular wooden coffee table with a colorful patterned runner on top. Various items are on the table, including a white rabbit figurine, a book, and a small orange and yellow object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.6",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the rectangular wooden coffee table, when the flame sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_296",
+    "video_id": "loc3_script2_seq3_rec1"
+}

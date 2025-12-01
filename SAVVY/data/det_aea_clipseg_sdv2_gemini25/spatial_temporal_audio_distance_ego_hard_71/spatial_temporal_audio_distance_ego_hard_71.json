@@ -1,0 +1,256 @@
+{
+    "event": "Speech topic: identifying otto as cup's co-pilot figure",
+    "start_time": "0:48",
+    "end_time": "0:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt and khaki shorts. He has short, dark hair and is of average build. Approximately 1.7-1.8 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "3.2",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:36": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, representing the first-person perspective of the wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male, wearing a light blue/teal polo shirt and khaki shorts. He has short, dark hair and is of average build. Approximately 1.7-1.8 meters tall.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:08": {
+                "distance": "3.2",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:36": {
+                "distance": "2.2",
+                "direction": "10"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"identifying otto as cup's co-pilot figure\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_71",
+    "video_id": "loc2_script2_seq3_rec2"
+}

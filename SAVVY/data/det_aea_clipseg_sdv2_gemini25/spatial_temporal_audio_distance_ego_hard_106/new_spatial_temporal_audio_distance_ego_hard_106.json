@@ -1,0 +1,103 @@
+{
+    "event": "The other person announces their intention to gather their belongings before leaving.",
+    "start_time": "0:59",
+    "end_time": "1:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a white t-shirt, light blue shorts, short dark hair, and glasses. Their face is blurred for privacy. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "0:55": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:03": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "40"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:09": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:12": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "1:15": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "5.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose arms and lap are visible in the foreground. They are seated on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A for egocentric distance query to a specific object.",
+        "key_frames": {}
+    },
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"announcing intention to gather belongings\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_106",
+    "video_id": "loc2_script2_seq8_rec1"
+}

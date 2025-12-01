@@ -1,0 +1,205 @@
+{
+    "event": "The speech topic: \"remarking on listener's surprising amount of knowledge\" is mentioned.",
+    "start_time": "02:29",
+    "end_time": "02:36",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speech sound source is a woman with long dark brown hair. She is wearing a black short-sleeved V-neck crop top, light wash blue denim jeans with a black belt, and black-framed smart glasses with a visible wire on her right side. She is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:11": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:20": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "01:12": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "01:40": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:20": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:29": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:36": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "03:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "03:10": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "04:25": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A large flat-screen television, likely 50-65 inches, with a black bezel. It is positioned on a light-colored wooden media console which is wider than the TV and has cabinet doors.",
+        "is_static": true,
+        "key_frames": {
+            "00:10": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:15": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:20": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "00:45": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "01:12": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "01:40": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "02:20": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "02:29": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "02:36": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "03:00": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "03:10": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "04:25": {
+                "distance": "3.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman (Speech Sound Source)",
+        "description": "Same as sounding_object. The woman is facing generally towards the TV, and the camera is to her right.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "00:02": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "00:08": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:11": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:20": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "01:12": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "01:40": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:20": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:29": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "02:36": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "03:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "03:10": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "04:25": {
+                "distance": "2.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "1.83",
+    "question": "When the speech topic: \"remarking on listener's surprising amount of knowledge\" is mentioned, what is the distance between the tv and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_61",
+    "video_id": "loc1_script2_seq7_rec2"
+}

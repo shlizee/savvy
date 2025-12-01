@@ -1,0 +1,112 @@
+{
+    "event": "inquiring about the specific arizona flavor",
+    "start_time": "0:26",
+    "end_time": "0:28",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a white/light-colored short-sleeve t-shirt and light blue shorts. He is barefoot and has dark hair. His face is blurred in the video. He is the guest.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:09": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:13": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:18": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:11": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Pool Window",
+        "description": "Large sliding glass doors in the kitchen area, providing a view of an outdoor swimming pool and patio area. The doors have multiple vertical panes.",
+        "key_frames": {
+            "0:45": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Outdoor Dining Table",
+        "description": "A small, dark-colored outdoor dining table, likely square or rectangular, with two chairs. It is located on the patio, visible through the pool window from the kitchen.",
+        "key_frames": {
+            "0:46": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the two-seater dining table, when the speech topic: \"inquiring about the specific arizona flavor\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_94",
+    "video_id": "loc2_script2_seq1_rec2"
+}

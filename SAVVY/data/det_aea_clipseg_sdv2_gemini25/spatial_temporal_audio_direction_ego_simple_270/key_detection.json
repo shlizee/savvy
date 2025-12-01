@@ -1,0 +1,106 @@
+{
+    "00000": {
+        "The camera wearer, whose voice initiates the speech topic.": {
+            "direction": -37.59,
+            "distance": 1.64,
+            "det_conf": [
+                0.5619688630104065,
+                0.6021780371665955,
+                0.6269349455833435,
+                0.35169917345046997,
+                0.12786848843097687
+            ]
+        }
+    },
+    "00010": {
+        "The camera wearer, whose voice initiates the speech topic.": {
+            "direction": -5.58,
+            "distance": 3.41,
+            "det_conf": [
+                0.002150310669094324,
+                0.0004035981255583465,
+                0.5045241117477417,
+                0.00032146749435923994,
+                0.49909326434135437
+            ]
+        }
+    },
+    "00020": {
+        "The camera wearer, whose voice initiates the speech topic.": {
+            "direction": 60.75,
+            "distance": 1.0,
+            "det_conf": [
+                0.6325498819351196,
+                0.4687863886356354,
+                0.7182995676994324,
+                0.6870728135108948,
+                0.6495691537857056
+            ]
+        }
+    },
+    "00580": {
+        "The camera wearer, whose voice initiates the speech topic.": {
+            "direction": 24.55,
+            "distance": 1.25,
+            "det_conf": [
+                0.1599082350730896,
+                0.5166870355606079,
+                0.5008689165115356,
+                0.1705995500087738,
+                0.36963048577308655
+            ]
+        }
+    },
+    "01210": {
+        "The camera wearer, whose voice initiates the speech topic.": {
+            "direction": 5.51,
+            "distance": 2.0,
+            "det_conf": [
+                0.5292618870735168,
+                0.4656032919883728,
+                0.4681439697742462,
+                0.6894923448562622,
+                0.6145756244659424
+            ]
+        }
+    },
+    "02400": {
+        "The camera wearer, whose voice initiates the speech topic.": {
+            "direction": -9.4,
+            "distance": 1.87,
+            "det_conf": [
+                0.5768460035324097,
+                0.3862796127796173,
+                0.16035833954811096,
+                0.4613451659679413,
+                0.062478236854076385
+            ]
+        }
+    },
+    "02410": {
+        "The camera wearer, whose voice initiates the speech topic.": {
+            "direction": -8.84,
+            "distance": 1.83,
+            "det_conf": [
+                0.5370814204216003,
+                0.6696308255195618,
+                0.5193242430686951,
+                0.38193708658218384,
+                0.1086452454328537
+            ]
+        }
+    },
+    "02520": {
+        "The camera wearer, whose voice initiates the speech topic.": {
+            "direction": 61.45,
+            "distance": 1.01,
+            "det_conf": [
+                0.5249125361442566,
+                0.09638823568820953,
+                0.06768801063299179,
+                0.1508018523454666,
+                0.036330051720142365
+            ]
+        }
+    }
+}

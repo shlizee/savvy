@@ -1,0 +1,116 @@
+{
+    "event": "Speech topic: 'confirming recording is still active' comes up",
+    "start_time": "1:38",
+    "end_time": "1:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male wearing a light blue/green short-sleeved collared shirt, dark shorts, and glasses. He has curly brown hair and is wearing wired earbuds. He is holding a can of drink and a smartphone.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.8",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:29": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:38": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:35": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:38": {
+                "distance": "1.1",
+                "direction": "-35"
+            },
+            "1:45": {
+                "distance": "1.1",
+                "direction": "-35"
+            },
+            "1:55": {
+                "distance": "1.1",
+                "direction": "-35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, providing an egocentric view. Its position is the origin.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:59": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General scene",
+        "description": "The environment in front of the camera, which changes as the wearer moves and looks around. At the event time, it primarily includes the other person and parts of the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.1,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"confirming recording is still active\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_3",
+    "video_id": "loc1_script2_seq1_rec1"
+}

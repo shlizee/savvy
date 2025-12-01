@@ -1,0 +1,120 @@
+{
+    "event": "Determine the direction of the sounding object (flame sound) relative to a robot standing by a gray reclining lounge chair and facing the TV by the fireplace, when the flame sound comes up.",
+    "start_time": "0:51",
+    "end_time": "0:53",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A stainless steel gas cooktop with multiple burners, black grates, and black knobs, integrated into a white countertop in the kitchen area. Approximate width 60-70cm.",
+        "is_static": true,
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:45": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "2:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Gray reclining lounge chair with ottoman",
+        "description": "A dark gray/black, circular, upholstered lounge chair with a matching ottoman, located in the living room area. Appears to be made of fabric.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "0:18": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A black flat-screen TV mounted on the wall above a stone-faced fireplace in the living room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:01": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:18": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the gray reclining lounge chair with ottoman and facing the tv by the fireplace, when the flame sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_297",
+    "video_id": "loc3_script2_seq3_rec1"
+}

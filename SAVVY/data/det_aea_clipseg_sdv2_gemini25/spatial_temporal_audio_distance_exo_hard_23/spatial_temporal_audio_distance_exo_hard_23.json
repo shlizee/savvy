@@ -1,0 +1,92 @@
+{
+    "event": "Distance between a set of nested coffee tables and the Keurig coffee machine (sounding object) when the water dripping sound is happening.",
+    "start_time": "1:57",
+    "end_time": "2:47",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A black Keurig single-serve coffee machine, likely a K-Classic model or similar. Approximate dimensions: 30cm height x 25cm width x 30cm depth. It is located on the kitchen countertop.",
+        "is_static": true,
+        "key_frames": {
+            "0:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two oval-shaped wooden coffee tables. The smaller table is designed to fit underneath the larger one. They are medium brown in color and located in the living room. The larger table is approximately 1m long and 0.6m wide.",
+        "key_frames": {
+            "0:11": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:14": {
+                "distance": "2.0",
+                "direction": "-90"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Keurig Coffee Machine",
+        "description": "A black Keurig single-serve coffee machine. (Same as sounding_object, if we consider standing at the reference_object and facing the sounding_object).",
+        "key_frames": {
+            "0:20": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 5.1,
+    "question": "When the water dripping sound is happening, what is the distance between a set of nested coffee tables and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_23",
+    "video_id": "loc1_script2_seq3_rec1"
+}

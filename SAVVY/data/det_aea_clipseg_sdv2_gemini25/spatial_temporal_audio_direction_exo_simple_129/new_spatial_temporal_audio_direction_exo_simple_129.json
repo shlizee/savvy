@@ -1,0 +1,112 @@
+{
+    "event": "A speaker discusses hating black coffee while agreeing on its quality.",
+    "start_time": "0:58",
+    "end_time": "1:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, balding with short brown hair on sides, wearing a teal/light blue polo shirt, khaki shorts, and white sneakers. He has a black lanyard around his neck. Approximate height 1.8m when standing.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:41": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with a pool view",
+        "description": "Large sliding glass doors, likely metal-framed, providing a view of an outdoor pool and patio area. This defines the area where the robot is positioned.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:23": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:27": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "170"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "180"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A stainless steel double-basin rectangular undermount sink with a modern arched tap, set into a granite countertop on the main kitchen counter.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:31": {
+                "distance": "4.0",
+                "direction": "-75"
+            },
+            "0:38": {
+                "distance": "4.5",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the double-basin rectangular sink and tap, when the speech topic: \"agreeing on coffee quality despite hating black coffee\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_129",
+    "video_id": "loc2_script2_seq3_rec2"
+}

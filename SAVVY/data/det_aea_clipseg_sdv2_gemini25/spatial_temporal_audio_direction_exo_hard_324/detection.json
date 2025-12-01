@@ -1,0 +1,984 @@
+{
+    "00000": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -37.71,
+            "distance": 1.64,
+            "det_conf": [
+                0.7895918488502502,
+                0.8331940770149231,
+                0.8110160827636719,
+                0.8061081171035767,
+                0.7921069264411926
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": 50.71,
+            "distance": 1.0,
+            "det_conf": [
+                0.48233431577682495,
+                0.5275847911834717,
+                0.28016936779022217,
+                0.2324403077363968,
+                0.17283937335014343
+            ]
+        }
+    },
+    "00020": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -52.08,
+            "distance": 1.16,
+            "det_conf": [
+                0.8557636737823486,
+                0.8560967445373535,
+                0.840084969997406,
+                0.6919106245040894,
+                0.48878782987594604
+            ]
+        }
+    },
+    "00041": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -1.26,
+            "distance": 1.97,
+            "det_conf": [
+                0.7128911018371582,
+                0.7880889773368835,
+                0.8324009776115417,
+                0.40303072333335876,
+                0.10599181801080704
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -72.32,
+            "distance": 3.46,
+            "det_conf": [
+                0.8650992512702942,
+                0.8786328434944153,
+                0.8806089758872986,
+                0.8791221380233765,
+                0.8783349394798279
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -72.78,
+            "distance": 3.56,
+            "det_conf": [
+                0.7631344199180603,
+                0.7604572176933289,
+                0.6855564713478088,
+                0.7707646489143372,
+                0.8115993142127991
+            ]
+        }
+    },
+    "00061": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -12.17,
+            "distance": 2.08,
+            "det_conf": [
+                0.7826482653617859,
+                0.8326860070228577,
+                0.18318314850330353,
+                0.6428503394126892,
+                0.8180622458457947
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -75.51,
+            "distance": 3.81,
+            "det_conf": [
+                0.5756772756576538,
+                0.7117891311645508,
+                0.62801593542099,
+                0.7335323095321655,
+                0.6785598993301392
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -57.52,
+            "distance": 5.52,
+            "det_conf": [
+                0.7484288215637207,
+                0.5116040706634521,
+                0.5785283446311951,
+                0.014627192169427872,
+                0.02646261639893055
+            ]
+        }
+    },
+    "00082": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -17.87,
+            "distance": 1.46,
+            "det_conf": [
+                0.8351868391036987,
+                0.8508820533752441,
+                0.7453173398971558,
+                0.8647426962852478,
+                0.8391708731651306
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -75.48,
+            "distance": 1.91,
+            "det_conf": [
+                0.7977159023284912,
+                0.7800017595291138,
+                0.4785217046737671,
+                0.7337015867233276,
+                0.11500214785337448
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -82.95,
+            "distance": 3.39,
+            "det_conf": [
+                0.5611642599105835,
+                0.8039966225624084,
+                0.7290688753128052,
+                0.6131162643432617,
+                0.809116005897522
+            ]
+        }
+    },
+    "00102": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -4.12,
+            "distance": 1.73,
+            "det_conf": [
+                0.8328020572662354,
+                0.8357679843902588,
+                0.8267878890037537,
+                0.8397538661956787,
+                0.8341434001922607
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -75.53,
+            "distance": 3.31,
+            "det_conf": [
+                0.8634097576141357,
+                0.8603110909461975,
+                0.8441851735115051,
+                0.8193395733833313,
+                0.8239892721176147
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -75.53,
+            "distance": 3.31,
+            "det_conf": [
+                0.7971638441085815,
+                0.7302768230438232,
+                0.8420043587684631,
+                0.8464378714561462,
+                0.8524789810180664
+            ]
+        }
+    },
+    "00123": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -8.64,
+            "distance": 1.61,
+            "det_conf": [
+                0.49057769775390625,
+                0.7618380784988403,
+                0.8037366271018982,
+                0.8029380440711975,
+                0.7512645721435547
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -78.99,
+            "distance": 2.85,
+            "det_conf": [
+                0.8669673800468445,
+                0.8161406517028809,
+                0.8263654708862305,
+                0.8386838436126709,
+                0.8703651428222656
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -79.01,
+            "distance": 2.85,
+            "det_conf": [
+                0.8699557185173035,
+                0.86329585313797,
+                0.8705124855041504,
+                0.8702415227890015,
+                0.8558307886123657
+            ]
+        }
+    },
+    "00143": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -4.58,
+            "distance": 1.69,
+            "det_conf": [
+                0.8314250111579895,
+                0.8137663006782532,
+                0.8165513277053833,
+                0.7687150239944458,
+                0.828132152557373
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -76.37,
+            "distance": 3.45,
+            "det_conf": [
+                0.8340741991996765,
+                0.8548728823661804,
+                0.8151639699935913,
+                0.7638781666755676,
+                0.8487837314605713
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -76.42,
+            "distance": 3.45,
+            "det_conf": [
+                0.8595175743103027,
+                0.8155826926231384,
+                0.751221776008606,
+                0.8414307832717896,
+                0.8274531960487366
+            ]
+        }
+    },
+    "00164": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": -8.62,
+            "distance": 1.55,
+            "det_conf": [
+                0.730385422706604,
+                0.7685787081718445,
+                0.7521474957466125,
+                0.8018577694892883,
+                0.7625685334205627
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -75.78,
+            "distance": 2.68,
+            "det_conf": [
+                0.8802207708358765,
+                0.8654584288597107,
+                0.8975071310997009,
+                0.8023685812950134,
+                0.7817937731742859
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -66.46,
+            "distance": 1.55,
+            "det_conf": [
+                0.7492987513542175,
+                0.8217242956161499,
+                0.7501030564308167,
+                0.32315877079963684,
+                0.033754706382751465
+            ]
+        }
+    },
+    "00185": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 18.91,
+            "distance": 1.85,
+            "det_conf": [
+                0.8799766302108765,
+                0.8945222496986389,
+                0.8581987619400024,
+                0.38554689288139343,
+                0.7529757618904114
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -61.22,
+            "distance": 3.25,
+            "det_conf": [
+                0.9227948188781738,
+                0.907961368560791,
+                0.9248232841491699,
+                0.8858458995819092,
+                0.8956748247146606
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -61.2,
+            "distance": 3.27,
+            "det_conf": [
+                0.8976892232894897,
+                0.9185000061988831,
+                0.9518529772758484,
+                0.9363921284675598,
+                0.9404399991035461
+            ]
+        }
+    },
+    "00205": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 41.43,
+            "distance": 2.18,
+            "det_conf": [
+                0.7882221937179565,
+                0.9106293320655823,
+                0.3032003939151764,
+                0.9152249693870544,
+                0.1262444406747818
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -53.36,
+            "distance": 3.54,
+            "det_conf": [
+                0.8752551078796387,
+                0.7851116061210632,
+                0.826615571975708,
+                0.8992835879325867,
+                0.8750571012496948
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -60.31,
+            "distance": 3.58,
+            "det_conf": [
+                0.9137358069419861,
+                0.9064464569091797,
+                0.900363564491272,
+                0.8799521923065186,
+                0.8652346134185791
+            ]
+        }
+    },
+    "00226": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 26.41,
+            "distance": 1.55,
+            "det_conf": [
+                0.9352152943611145,
+                0.9316297173500061,
+                0.914134681224823,
+                0.9445809721946716,
+                0.9421120285987854
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -59.58,
+            "distance": 3.92,
+            "det_conf": [
+                0.8772903084754944,
+                0.843332827091217,
+                0.8782165050506592,
+                0.6774269342422485,
+                0.8495675325393677
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -62.6,
+            "distance": 4.2,
+            "det_conf": [
+                0.8947569131851196,
+                0.8347861170768738,
+                0.7840611934661865,
+                0.7314313650131226,
+                0.8246508240699768
+            ]
+        }
+    },
+    "00246": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 33.48,
+            "distance": 1.27,
+            "det_conf": [
+                0.9338631629943848,
+                0.9491312503814697,
+                0.9315575957298279,
+                0.8049433827400208,
+                0.8986440896987915
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -56.47,
+            "distance": 3.59,
+            "det_conf": [
+                0.8909128308296204,
+                0.8373246192932129,
+                0.8834975957870483,
+                0.8823580741882324,
+                0.8723267316818237
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -63.07,
+            "distance": 4.13,
+            "det_conf": [
+                0.9182602167129517,
+                0.907374382019043,
+                0.9166579246520996,
+                0.8899084329605103,
+                0.8120135068893433
+            ]
+        }
+    },
+    "00267": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 41.66,
+            "distance": 1.72,
+            "det_conf": [
+                0.8348637223243713,
+                0.7497161626815796,
+                0.7473733425140381,
+                0.7127958536148071,
+                0.7509056925773621
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -49.58,
+            "distance": 3.77,
+            "det_conf": [
+                0.943970799446106,
+                0.945308268070221,
+                0.9435650110244751,
+                0.9539163708686829,
+                0.9245100021362305
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -49.42,
+            "distance": 3.78,
+            "det_conf": [
+                0.9658307433128357,
+                0.9493107199668884,
+                0.9542292952537537,
+                0.9464479684829712,
+                0.9494683742523193
+            ]
+        }
+    },
+    "00287": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 34.21,
+            "distance": 1.52,
+            "det_conf": [
+                0.6802967190742493,
+                0.7086231708526611,
+                0.7177830338478088,
+                0.6059697270393372,
+                0.8739091157913208
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -60.75,
+            "distance": 3.48,
+            "det_conf": [
+                0.9105314612388611,
+                0.8744036555290222,
+                0.9050877094268799,
+                0.9105021953582764,
+                0.897594153881073
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -58.75,
+            "distance": 3.46,
+            "det_conf": [
+                0.9469683170318604,
+                0.9342197775840759,
+                0.9356544613838196,
+                0.8723136186599731,
+                0.9191153645515442
+            ]
+        }
+    },
+    "00308": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 33.71,
+            "distance": 1.16,
+            "det_conf": [
+                0.8231223821640015,
+                0.24400608241558075,
+                0.9128341674804688,
+                0.9157083034515381,
+                0.913483738899231
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -64.11,
+            "distance": 3.47,
+            "det_conf": [
+                0.8810154795646667,
+                0.8566573262214661,
+                0.6952620148658752,
+                0.8609098792076111,
+                0.8723997473716736
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -64.94,
+            "distance": 3.5,
+            "det_conf": [
+                0.9220779538154602,
+                0.9151937365531921,
+                0.8632805943489075,
+                0.9027469158172607,
+                0.9140358567237854
+            ]
+        }
+    },
+    "00329": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 32.63,
+            "distance": 1.11,
+            "det_conf": [
+                0.8824191093444824,
+                0.8714460134506226,
+                0.877839207649231,
+                0.9056872129440308,
+                0.8311476707458496
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -66.02,
+            "distance": 3.43,
+            "det_conf": [
+                0.8889354467391968,
+                0.8896424174308777,
+                0.4097503423690796,
+                0.42946186661720276,
+                0.8648419380187988
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -65.18,
+            "distance": 3.27,
+            "det_conf": [
+                0.9426689147949219,
+                0.9452871680259705,
+                0.9300317168235779,
+                0.9207491874694824,
+                0.9337464570999146
+            ]
+        }
+    },
+    "00349": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 29.3,
+            "distance": 1.57,
+            "det_conf": [
+                0.9413762092590332,
+                0.9284601807594299,
+                0.9473604559898376,
+                0.8751944899559021,
+                0.8853663206100464
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -66.97,
+            "distance": 3.83,
+            "det_conf": [
+                0.8671392798423767,
+                0.8519570827484131,
+                0.8486318588256836,
+                0.8175665140151978,
+                0.8807993531227112
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -63.22,
+            "distance": 3.44,
+            "det_conf": [
+                0.8942463994026184,
+                0.9218822121620178,
+                0.9074665307998657,
+                0.8346018195152283,
+                0.9049685597419739
+            ]
+        }
+    },
+    "00370": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 12.44,
+            "distance": 1.84,
+            "det_conf": [
+                0.8413301706314087,
+                0.8536801934242249,
+                0.8402447700500488,
+                0.6360435485839844,
+                0.1707991063594818
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -66.34,
+            "distance": 3.38,
+            "det_conf": [
+                0.8032485246658325,
+                0.7294911742210388,
+                0.8062435984611511,
+                0.7555222511291504,
+                0.15251125395298004
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -66.49,
+            "distance": 3.37,
+            "det_conf": [
+                0.889797031879425,
+                0.8982826471328735,
+                0.8624504804611206,
+                0.8691228032112122,
+                0.7991266846656799
+            ]
+        }
+    },
+    "00390": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 33.68,
+            "distance": 1.56,
+            "det_conf": [
+                0.9211602210998535,
+                0.8582487106323242,
+                0.922376275062561,
+                0.8746092319488525,
+                0.8468359708786011
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -55.63,
+            "distance": 3.49,
+            "det_conf": [
+                0.8714689016342163,
+                0.9089802503585815,
+                0.9200270771980286,
+                0.909914493560791,
+                0.8016567230224609
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -54.82,
+            "distance": 3.51,
+            "det_conf": [
+                0.9149671196937561,
+                0.9301937222480774,
+                0.9370216727256775,
+                0.9056127071380615,
+                0.9070327281951904
+            ]
+        }
+    },
+    "00411": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 18.27,
+            "distance": 1.02,
+            "det_conf": [
+                0.6623448133468628,
+                0.42512935400009155,
+                0.5554288029670715,
+                0.7053264379501343,
+                0.09900537133216858
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -64.62,
+            "distance": 3.96,
+            "det_conf": [
+                0.851203441619873,
+                0.749290406703949,
+                0.7707558870315552,
+                0.6683149933815002,
+                0.5802788734436035
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -58.66,
+            "distance": 3.43,
+            "det_conf": [
+                0.9373565316200256,
+                0.9444608688354492,
+                0.9322295784950256,
+                0.9188566207885742,
+                0.943976879119873
+            ]
+        }
+    },
+    "00431": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 24.12,
+            "distance": 1.86,
+            "det_conf": [
+                0.8701418042182922,
+                0.7033731937408447,
+                0.8087325096130371,
+                0.7836605310440063,
+                0.8377097845077515
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -61.96,
+            "distance": 2.97,
+            "det_conf": [
+                0.8528639078140259,
+                0.8828386068344116,
+                0.8720635771751404,
+                0.9083991050720215,
+                0.8954192399978638
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -61.53,
+            "distance": 2.96,
+            "det_conf": [
+                0.9359176158905029,
+                0.9387593269348145,
+                0.9248313903808594,
+                0.9114068746566772,
+                0.8840581178665161
+            ]
+        }
+    },
+    "00452": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 28.99,
+            "distance": 1.57,
+            "det_conf": [
+                0.8579615950584412,
+                0.8686962723731995,
+                0.8799124360084534,
+                0.1886879801750183,
+                0.6849288940429688
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -60.39,
+            "distance": 2.98,
+            "det_conf": [
+                0.8911212086677551,
+                0.9112029075622559,
+                0.856989324092865,
+                0.9087473750114441,
+                0.850828230381012
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -65.58,
+            "distance": 3.48,
+            "det_conf": [
+                0.8289493918418884,
+                0.9241325259208679,
+                0.9190316796302795,
+                0.9042593836784363,
+                0.6896007061004639
+            ]
+        }
+    },
+    "00473": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 31.11,
+            "distance": 1.71,
+            "det_conf": [
+                0.8890427350997925,
+                0.9014247059822083,
+                0.8769364356994629,
+                0.8750655651092529,
+                0.8374727964401245
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -59.53,
+            "distance": 3.2,
+            "det_conf": [
+                0.8732900619506836,
+                0.8631455898284912,
+                0.8638467788696289,
+                0.8763074278831482,
+                0.860139012336731
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -58.37,
+            "distance": 3.11,
+            "det_conf": [
+                0.9319273233413696,
+                0.9413580298423767,
+                0.9329832196235657,
+                0.913695752620697,
+                0.8456220626831055
+            ]
+        }
+    },
+    "00493": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 38.05,
+            "distance": 1.79,
+            "det_conf": [
+                0.7764256000518799,
+                0.6202412843704224,
+                0.5769658088684082,
+                0.6678404211997986,
+                0.8648509383201599
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -54.2,
+            "distance": 3.36,
+            "det_conf": [
+                0.9047539234161377,
+                0.871514081954956,
+                0.9060413241386414,
+                0.8489211797714233,
+                0.7788802981376648
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -61.87,
+            "distance": 4.09,
+            "det_conf": [
+                0.886968731880188,
+                0.8955509662628174,
+                0.8952811360359192,
+                0.8599362969398499,
+                0.7480084300041199
+            ]
+        }
+    },
+    "00514": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 37.58,
+            "distance": 1.27,
+            "det_conf": [
+                0.8812982439994812,
+                0.7933547496795654,
+                0.8307408094406128,
+                0.8543875813484192,
+                0.7658699750900269
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -51.62,
+            "distance": 3.53,
+            "det_conf": [
+                0.8658317923545837,
+                0.7121800780296326,
+                0.7735822200775146,
+                0.6220306158065796,
+                0.7239407300949097
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -58.28,
+            "distance": 3.96,
+            "det_conf": [
+                0.9194303154945374,
+                0.7727073431015015,
+                0.7250532507896423,
+                0.44765639305114746,
+                0.8746668696403503
+            ]
+        }
+    },
+    "00534": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 39.86,
+            "distance": 1.36,
+            "det_conf": [
+                0.9039745330810547,
+                0.9211372137069702,
+                0.777649462223053,
+                0.876855731010437,
+                0.8076487183570862
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -46.51,
+            "distance": 3.23,
+            "det_conf": [
+                0.912096381187439,
+                0.9112460017204285,
+                0.7770865559577942,
+                0.8533548712730408,
+                0.9198637008666992
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -44.63,
+            "distance": 3.27,
+            "det_conf": [
+                0.9044979810714722,
+                0.9392659068107605,
+                0.9320487976074219,
+                0.9244245290756226,
+                0.9204310774803162
+            ]
+        }
+    },
+    "00555": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 31.97,
+            "distance": 2.0,
+            "det_conf": [
+                0.8746641278266907,
+                0.8620803356170654,
+                0.8600063920021057,
+                0.8601750731468201,
+                0.8358210921287537
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -48.4,
+            "distance": 3.56,
+            "det_conf": [
+                0.8219928741455078,
+                0.8273426294326782,
+                0.7848676443099976,
+                0.7982612252235413,
+                0.7177367806434631
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -51.23,
+            "distance": 3.76,
+            "det_conf": [
+                0.919131875038147,
+                0.9343772530555725,
+                0.766084611415863,
+                0.9269619584083557,
+                0.18325594067573547
+            ]
+        }
+    },
+    "00575": {
+        "A man with a blurred face, wearing a light green short-sleeved polo shirt and a watch on his left wrist. He has dark hair and is wearing an earbud in his right ear connected by a black wire. He is sitting at a wooden table.": {
+            "direction": 31.91,
+            "distance": 1.39,
+            "det_conf": [
+                0.8000322580337524,
+                0.8342351913452148,
+                0.8474047780036926,
+                0.7533478140830994,
+                0.8432582020759583
+            ]
+        },
+        "A light gray or beige fabric three-seater couch with a 'NOBODY' art blanket draped over its back. It has visible wooden legs. Located in the left background relative to the camera's view.": {
+            "direction": -55.25,
+            "distance": 3.42,
+            "det_conf": [
+                0.8663485050201416,
+                0.868356466293335,
+                0.8654107451438904,
+                0.861242413520813,
+                0.8513070940971375
+            ]
+        },
+        "This object is not visible in the video. Its existence and location are inferred from the question's premise that the robot is facing it. It is assumed to be a light-gray two-seater couch, positioned in the room such that the robot, standing by the three-seater couch (which is to the camera's left), would be facing towards the camera's right.": {
+            "direction": -54.98,
+            "distance": 3.44,
+            "det_conf": [
+                0.8906250596046448,
+                0.9175700545310974,
+                0.38913604617118835,
+                0.7858973145484924,
+                0.8002477288246155
+            ]
+        }
+    }
+}

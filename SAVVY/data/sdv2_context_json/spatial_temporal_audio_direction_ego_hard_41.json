@@ -1,0 +1,75 @@
+{
+    "event": "The other person is clarifying previous successful uploads.",
+    "start_time": "0:37",
+    "end_time": "0:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a light blue/green short-sleeved collared shirt and dark shorts. They have curly brown hair and are wearing glasses and headphones. They are approximately 1.7-1.8 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "2:10": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "2:20": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "2:45": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "4:18": {
+                "distance": "2.0",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"clarifying previous successful uploads\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_41",
+    "video_id": "loc1_script2_seq7_rec1"
+}

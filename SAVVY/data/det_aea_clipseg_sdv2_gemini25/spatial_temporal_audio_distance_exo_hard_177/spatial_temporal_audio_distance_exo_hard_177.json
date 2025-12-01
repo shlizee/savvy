@@ -1,0 +1,146 @@
+{
+    "event": "Distance between the two-seater dining table and the speech sound source when the speech topic 'acknowledging flipping action and offering to find plastic utensil' is mentioned.",
+    "start_time": "0:01:41",
+    "end_time": "0:01:46",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is the person wearing the camera and speaking. Their actions indicate they are in the kitchen, likely near the stovetop, preparing food. Physical characteristics are not visible.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:49": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:41": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:46": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A small, round, dark-colored (likely black or dark brown) outdoor two-seater dining table. It appears to be made of metal or a weather-resistant material. Diameter is approximately 0.7-0.8 meters. It is accompanied by two matching chairs. It is located on a patio area outside the kitchen, visible through large sliding glass doors, near a swimming pool.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:02": {
+                "distance": "7.0",
+                "direction": "-10"
+            },
+            "0:00:25": {
+                "distance": "7.0",
+                "direction": "10"
+            },
+            "0:00:49": {
+                "distance": "7.0",
+                "direction": "-5"
+            },
+            "0:01:10": {
+                "distance": "7.0",
+                "direction": "-5"
+            },
+            "0:01:41": {
+                "distance": "7.0",
+                "direction": "-5"
+            },
+            "0:01:46": {
+                "distance": "7.0",
+                "direction": "-5"
+            },
+            "0:01:58": {
+                "distance": "7.0",
+                "direction": "-5"
+            },
+            "0:02:02": {
+                "distance": "7.0",
+                "direction": "-5"
+            },
+            "0:02:40": {
+                "distance": "7.5",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera/speech sound source",
+        "description": "The camera itself, which is also the speech sound source. This is used to satisfy the template requirement when the reference is an external object and the 'facing' entity is the point of origin.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:49": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:41": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:46": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 7.0,
+    "question": "When the speech topic: \"acknowledging flipping action and offering to find plastic utensil\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_177",
+    "video_id": "loc2_script3_seq32_rec1"
+}

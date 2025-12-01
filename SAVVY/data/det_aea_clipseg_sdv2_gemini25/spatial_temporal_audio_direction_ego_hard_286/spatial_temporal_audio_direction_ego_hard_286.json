@@ -1,0 +1,135 @@
+{
+    "event": "The other person is describing how to slide a game piece in.",
+    "start_time": "0:26",
+    "end_time": "0:28",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light green/teal short-sleeved polo shirt. He has short, dark hair and is wearing wired earbuds, with the left one visible. He is sitting across a wooden table from the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the user, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for egocentric mode as the camera's facing direction defines the 'front'.",
+        "key_frames": {}
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing how to slide piece in\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_286",
+    "video_id": "loc3_script2_seq5_rec1"
+}

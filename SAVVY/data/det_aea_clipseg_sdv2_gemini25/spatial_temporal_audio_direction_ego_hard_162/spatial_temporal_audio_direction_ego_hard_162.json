@@ -1,0 +1,144 @@
+{
+    "event": "The speech topic 'reporting arrival via uber' comes up.",
+    "start_time": "0:33",
+    "end_time": "0:39",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a light blue short-sleeved polo shirt, khaki shorts, and white sneakers. They have short brown hair and are wearing wired earbuds. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:11": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "0:25": {
+                "distance": "1.6",
+                "direction": "-55"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the viewer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"reporting arrival via uber\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_162",
+    "video_id": "loc2_script3_seq2_rec1"
+}

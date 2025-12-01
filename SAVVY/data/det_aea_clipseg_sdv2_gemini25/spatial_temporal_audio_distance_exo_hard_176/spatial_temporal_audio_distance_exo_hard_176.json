@@ -1,0 +1,115 @@
+{
+    "event": "Distance between the built-in stainless steel dishwasher and the speech sound source when the speech topic 'explaining reason for suggesting different utensil (moving food)' is mentioned.",
+    "start_time": "0:01:34",
+    "end_time": "0:01:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person wearing the camera, who is the source of the speech. The speech is 'No, no, no, 'cause 'cause you'll want to kind of move around and stir stuff.'",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:00:15": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:00:30": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:00:45": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:01:00": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:01:15": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:01:30": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:01:35": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:01:45": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:02:00": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:02:15": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:02:30": {
+                "distance": 0,
+                "direction": 0
+            },
+            "0:02:45": {
+                "distance": 0,
+                "direction": 0
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "A standard built-in dishwasher with a stainless steel front panel, located under the kitchen counter to the left of the sink.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": 2.8,
+                "direction": -45
+            },
+            "0:00:25": {
+                "distance": 1.8,
+                "direction": -70
+            },
+            "0:00:28": {
+                "distance": 1.0,
+                "direction": -80
+            },
+            "0:00:40": {
+                "distance": 1.2,
+                "direction": 70
+            },
+            "0:00:48": {
+                "distance": 1.8,
+                "direction": -70
+            },
+            "0:01:11": {
+                "distance": 1.8,
+                "direction": -70
+            },
+            "0:01:35": {
+                "distance": 1.8,
+                "direction": -70
+            },
+            "0:02:07": {
+                "distance": 1.8,
+                "direction": -70
+            },
+            "0:02:35": {
+                "distance": 0.8,
+                "direction": 10
+            },
+            "0:02:40": {
+                "distance": 0.8,
+                "direction": 5
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 1.8,
+    "question": "When the speech topic: \"explaining reason for suggesting different utensil (moving food)\" is mentioned, what is the distance between the built-in stainless steel dishwasher and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_176",
+    "video_id": "loc2_script3_seq32_rec1"
+}

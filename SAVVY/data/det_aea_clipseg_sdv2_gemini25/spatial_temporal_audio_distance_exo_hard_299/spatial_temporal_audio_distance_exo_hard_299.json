@@ -1,0 +1,100 @@
+{
+    "event": "mentioning starting with tradeking account",
+    "start_time": "1:23",
+    "end_time": "1:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person, likely male, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. He is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "0:38": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:59": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "1:23": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "1:35": {
+                "distance": "0.7",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "tv by the fireplace",
+        "description": "A black flat-screen television mounted on a light-colored wooden entertainment unit, positioned to the left of a stone fireplace. The entertainment unit has shelves with various items.",
+        "key_frames": {
+            "0:02": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:11": {
+                "distance": "3.8",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "4.2",
+                "direction": "-40"
+            },
+            "0:37": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:59": {
+                "distance": "4.1",
+                "direction": "-40"
+            },
+            "1:23": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "1:37": {
+                "distance": "3.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera",
+        "description": "The camera recording the scene.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.8,
+    "question": "When the speech topic: \"mentioning starting with tradeking account\" is mentioned, what is the distance between the tv by the fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_299",
+    "video_id": "loc3_script2_seq7_rec2"
+}

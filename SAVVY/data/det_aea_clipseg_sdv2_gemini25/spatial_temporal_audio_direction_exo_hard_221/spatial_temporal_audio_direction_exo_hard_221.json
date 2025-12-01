@@ -1,0 +1,148 @@
+{
+    "event": "A person suggests tapping the stove control again.",
+    "start_time": "0:59",
+    "end_time": "1:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a person wearing a grey short-sleeved polo shirt, dark shorts, and glasses. They have dark, curly hair. This person is actively involved in the cooking process near the stove.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:51": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large sliding glass doors that provide a view of an outdoor pool area. These doors span a significant portion of one wall of the kitchen.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "1:02": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:02": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:40": {
+                "distance": "2.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A kitchen sink with two basins, likely stainless steel or a dark composite material, set into the kitchen counter. It has a metallic tap.",
+        "key_frames": {
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "0:36": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:59": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "2:35": {
+                "distance": "0.5",
+                "direction": "-85"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the double-basin rectangular sink and tap, when the speech topic: \"suggesting tapping stove control again\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_221",
+    "video_id": "loc2_script3_seq32_rec1"
+}

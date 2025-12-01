@@ -1,0 +1,164 @@
+{
+    "event": "The other person prompts the camera wearer to take a drink of the beverage they just received.",
+    "start_time": "1:16",
+    "end_time": "1:17",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue short-sleeved polo shirt, khaki cargo shorts, white sneakers with blue accents, and wired earbuds. He has short brown hair and is wearing glasses. His face is blurred in the video. Approximate height seems average, medium build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "1:09": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:16": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "1:47": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-85"
+            },
+            "2:12": {
+                "distance": "1.0",
+                "direction": "-85"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the person wearing the camera, serving as the origin for all egocentric measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Adult male, wearing a light blue short-sleeved polo shirt, khaki cargo shorts, white sneakers with blue accents, and wired earbuds. He has short brown hair and is wearing glasses. His face is blurred in the video. This is the object the camera is generally oriented towards during interaction.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "1:09": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "1:12": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "1:16": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "1:47": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-85"
+            },
+            "2:12": {
+                "distance": "1.0",
+                "direction": "-85"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"prompting to take a drink\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_74",
+    "video_id": "loc2_script2_seq1_rec1"
+}

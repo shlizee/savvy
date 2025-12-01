@@ -1,0 +1,189 @@
+{
+    "event": "Person B states they took an allergy pill earlier.",
+    "start_time": "02:07",
+    "end_time": "02:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with face intentionally blurred, wearing a grey short-sleeved polo shirt, dark blue or black shorts, dark sneakers with white soles, glasses, and black headphones around his neck. Appears to be of average height (approx 1.75-1.8m) and build. This is Person B.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "00:31": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "00:49": {
+                "distance": "1.2",
+                "direction": "75"
+            },
+            "01:55": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:07": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "02:13": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "02:18": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "02:46": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "03:06": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "03:13": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "03:26": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "03:37": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "03:42": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "Large, two-door stainless steel refrigerator, likely counter-depth or standard depth, with an ice/water dispenser on the left door. Typical kitchen appliance height (approx 1.7-1.8m) and width (approx 0.9m).",
+        "is_static": true,
+        "key_frames": {
+            "00:08": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "00:11": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:36": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "00:40": {
+                "distance": "0.5",
+                "direction": "-80"
+            },
+            "01:15": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "01:37": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "02:07": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "02:15": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "03:30": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "03:42": {
+                "distance": "2.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person B (Sounding Object)",
+        "description": "Adult male with face intentionally blurred, wearing a grey short-sleeved polo shirt, dark blue or black shorts, dark sneakers with white soles, glasses, and black headphones around his neck. Appears to be of average height (approx 1.75-1.8m) and build. This is Person B.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "00:31": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "00:49": {
+                "distance": "1.2",
+                "direction": "75"
+            },
+            "01:55": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:07": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "02:13": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "02:18": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "02:46": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "03:06": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "03:13": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "03:26": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "03:37": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "03:42": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": 1.25,
+    "question": "When the speech topic: \"stating taking allergy pill earlier\" is mentioned, what is the distance between the stainless steel refrigerator and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_223",
+    "video_id": "loc2_script3_seq5_rec2"
+}

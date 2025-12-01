@@ -1,0 +1,124 @@
+{
+    "event": "Distance between the TV and the front door when the front door closes with a creak and thud.",
+    "start_time": "0:14",
+    "end_time": "0:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden arched front door with a small rectangular glass pane in the upper half. It has a black doorknob and a white security sensor on the door frame. Approximate size is standard exterior door, ~0.8m wide x 2m high.",
+        "is_static": true,
+        "key_frames": {
+            "0:05": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:33": {
+                "distance": "3.0",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "TV",
+        "description": "A large, black, flat-screen television, likely 50-60 inches, resting on a low wooden media console. It is positioned to the left of a fireplace.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:54": {
+                "distance": "3.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door",
+        "description": "A dark brown wooden arched front door with a small rectangular glass pane in the upper half. It has a black doorknob and a white security sensor on the door frame.",
+        "key_frames": {
+            "0:05": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:05": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:33": {
+                "distance": "3.0",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": 4.8,
+    "question": "When the creak and thud sound is happening, what is the distance between the tv and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_5",
+    "video_id": "loc1_script2_seq1_rec1"
+}

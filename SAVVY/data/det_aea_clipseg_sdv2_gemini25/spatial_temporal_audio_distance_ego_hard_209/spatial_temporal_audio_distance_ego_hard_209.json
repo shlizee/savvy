@@ -1,0 +1,136 @@
+{
+    "event": "Commenting on difficulty of managing vocal energy while playing",
+    "start_time": "1:42",
+    "end_time": "1:49",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male with a blurred face, wearing a short-sleeved green polo shirt and blue jeans. He has dark hair and is wearing glasses. He also has a wired earpiece in his left ear, with the wire running down his shirt. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "6.0",
+                "direction": "-30"
+            },
+            "0:30": {
+                "distance": "6.5",
+                "direction": "-20"
+            },
+            "0:35": {
+                "distance": "6.0",
+                "direction": "-15"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:42": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:49": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:52": {
+                "distance": "1.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, representing the first-person perspective of the camera wearer. The camera wearer is female, based on voice and visible hands.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man (Sounding Object)",
+        "description": "The adult male who is speaking and being observed by the camera during the conversation.",
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "6.0",
+                "direction": "-30"
+            },
+            "0:30": {
+                "distance": "6.5",
+                "direction": "-20"
+            },
+            "0:35": {
+                "distance": "6.0",
+                "direction": "-15"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:15": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:42": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:49": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:52": {
+                "distance": "1.8",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"commenting on difficulty of managing vocal energy while playing\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_209",
+    "video_id": "loc3_script2_seq1_rec1"
+}

@@ -1,0 +1,136 @@
+{
+    "event": "Determining the relative position of the other person when the speech topic 'stating they are looking at the pool' comes up, relative to where the camera wearer is facing.",
+    "start_time": "0:15",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man wearing a turquoise blue short-sleeved polo shirt, khaki shorts, and glasses. He has short dark hair and is of average build. Approximately 1.7-1.8 meters tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:49": {
+                "distance": "1.6",
+                "direction": "-35"
+            },
+            "0:56": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:01": {
+                "distance": "1.3",
+                "direction": "-40"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:22": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:34": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:07": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:16": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "2:29": {
+                "distance": "1.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "pool",
+        "description": "An outdoor swimming pool area, viewed through large glass sliding doors. The area includes the pool itself, a paved patio, several cushioned lounge chairs, potted plants, and a partial view of a covered outdoor structure in the background. The sky is clear and blue.",
+        "key_frames": {
+            "0:15": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:17": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating they are looking at the pool\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_205",
+    "video_id": "loc2_script3_seq33_rec2"
+}

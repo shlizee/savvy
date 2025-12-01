@@ -1,0 +1,95 @@
+{
+    "event": "The speech topic: \"agreeing with the plan to add oil\" comes up.",
+    "start_time": "02:06",
+    "end_time": "02:07",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/light blue short-sleeved polo shirt and khaki shorts. He has short brown hair and is wearing glasses. Approximate height 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:02": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "00:05": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:08": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "00:39": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "00:50": {
+                "distance": "1.0",
+                "direction": "40"
+            },
+            "01:06": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "01:17": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "02:02": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "02:04": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "02:06": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "02:07": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "02:10": {
+                "distance": "0.6",
+                "direction": "20"
+            },
+            "02:13": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:17": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:35": {
+                "distance": "0.7",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.7,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"agreeing with the plan to add oil\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_140",
+    "video_id": "loc2_script3_seq31_rec2"
+}

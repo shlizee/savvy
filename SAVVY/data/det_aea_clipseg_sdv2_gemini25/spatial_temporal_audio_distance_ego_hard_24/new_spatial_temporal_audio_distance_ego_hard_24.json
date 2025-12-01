@@ -1,0 +1,163 @@
+{
+    "event": "Suggesting ending the recording",
+    "start_time": "03:25",
+    "end_time": "03:26",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Female with long dark brown hair, often tied back or in a braid, wearing glasses, a black short-sleeved crop top, and light blue denim shorts. She has a small lavalier microphone clipped to her top. Approximate height appears to be around 1.6 to 1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:38": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:43": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:48": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:03": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:12": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:16": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:23": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:53": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:05": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:29": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:50": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:56": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "3:15": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "3:25": {
+                "distance": "0.8",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose perspective the video is from. This person is male, and their arms and sometimes legs are visible. They are interacting with the female.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:25": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting ending the recording\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_24",
+    "video_id": "loc1_script2_seq4_rec2"
+}

@@ -1,0 +1,143 @@
+{
+    "event": "Camera wearer explains that a different utensil is needed because one needs to move and stir the food in the pan.",
+    "start_time": "0:01:31",
+    "end_time": "0:01:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise polo shirt and khaki shorts, with glasses. Appears to be of average height and build. This is the 'other person' in the question.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:00:05": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:00:08": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:00:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:00:19": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:00:26": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:00:28": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:00:32": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:00:36": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:00:50": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:00:53": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:01:00": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "0:01:07": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:01:10": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:01:19": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:01:25": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:01:30": {
+                "distance": "1.8",
+                "direction": "-90"
+            },
+            "0:01:31": {
+                "distance": "1.5",
+                "direction": "-100"
+            },
+            "0:01:35": {
+                "distance": "1.5",
+                "direction": "-100"
+            },
+            "0:01:54": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:02:02": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:02:05": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:02:10": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:02:16": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:02:20": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:02:27": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:02:34": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:02:39": {
+                "distance": "0.7",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "Camera worn by a person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"explaining reason for suggesting different utensil (moving food)\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_150",
+    "video_id": "loc2_script3_seq32_rec2"
+}

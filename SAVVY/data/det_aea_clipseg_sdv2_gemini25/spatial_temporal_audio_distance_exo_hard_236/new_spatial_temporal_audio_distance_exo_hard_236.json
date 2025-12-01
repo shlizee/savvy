@@ -1,0 +1,84 @@
+{
+    "event": "The man asks about playing the song 'Wonderwall' on the guitar.",
+    "start_time": "1:23",
+    "end_time": "1:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, approximately 1.7-1.8m tall, wearing a green short-sleeved polo shirt and blue denim jeans. His face is intentionally blurred in the video. He has dark, short hair. He is wearing wired earphones with the wire visible, and is the one speaking at the event time.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "-45"
+            },
+            "0:29": {
+                "distance": "6.5",
+                "direction": "-60"
+            },
+            "0:51": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:23": {
+                "distance": "1.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A built-in fireplace with a stacked stone facade (light grey and beige stones) and a thick, light-colored wooden mantelpiece. A large landscape painting with a prominent blue sky is mounted above the mantel. The firebox appears to have a gas log set.",
+        "key_frames": {
+            "0:09": {
+                "distance": "4.5",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:58": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "1:10": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "1:23": {
+                "distance": "2.8",
+                "direction": "75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Coffee Table / Living Area",
+        "description": "A large, rectangular wooden coffee table is often in the center of the camera's view when the camera (held by the other person) is seated on the sofa during the event. Beyond it is the rest of the living area.",
+        "key_frames": {
+            "0:58": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.1,
+    "question": "When the speech topic: \"asking about playing wonderwall specifically\" is mentioned, what is the distance between the fireplace and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_236",
+    "video_id": "loc3_script2_seq1_rec1"
+}

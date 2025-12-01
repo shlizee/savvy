@@ -1,0 +1,108 @@
+{
+    "event": "Asking if a knife was provided",
+    "start_time": "0:03:09",
+    "end_time": "0:03:12",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is the camera wearer, from whose first-person perspective the video is recorded. Their hands are visible holding cutlery and a portable battery. They are wearing a gold-colored digital watch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:04:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, wooden, oval-shaped drop-leaf dining table, likely dark wood. It has two matching wooden chairs with X-backs. A lamp with a clear glass chimney is on the table. It is positioned near a large window overlooking a pool. Approximate size when leaves might be down: 0.8m long x 0.6m wide x 0.75m high.",
+        "is_static": true,
+        "key_frames": {
+            "0:00:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:00:32": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:01:03": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:01:12": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:01:41": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:02:16": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:02:45": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:03:09": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:03:25": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:03:50": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:04:05": {
+                "distance": "0.4",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.4,
+    "question": "When the speech topic: \"asking if a knife was provided\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_208",
+    "video_id": "loc2_script3_seq4_rec1"
+}

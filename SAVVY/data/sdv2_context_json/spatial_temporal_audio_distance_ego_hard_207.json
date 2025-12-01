@@ -1,0 +1,200 @@
+{
+    "event": "The speech topic: \"suggesting sitting down to talk\" comes up.",
+    "start_time": "0:54",
+    "end_time": "0:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses for most of the video. He appears to be of average build and height. He is mobile at first, then sits on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "6.0",
+                "direction": "-20"
+            },
+            "0:43": {
+                "distance": "5.0",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "1.9",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:40": {
+                "distance": "1.9",
+                "direction": "5"
+            },
+            "1:52": {
+                "distance": "1.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the viewpoint of the person wearing it. The person is initially standing at the door, then moves into the living room and sits on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Man",
+        "description": "The same man as the sounding object. A man with a blurred face, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses for most of the video. He appears to be of average build and height.",
+        "key_frames": {
+            "0:04": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "0:35": {
+                "distance": "6.0",
+                "direction": "-20"
+            },
+            "0:43": {
+                "distance": "5.0",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:56": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "1.9",
+                "direction": "0"
+            },
+            "1:28": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:40": {
+                "distance": "1.9",
+                "direction": "5"
+            },
+            "1:52": {
+                "distance": "1.8",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting sitting down to talk\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_207",
+    "video_id": "loc3_script2_seq1_rec1"
+}

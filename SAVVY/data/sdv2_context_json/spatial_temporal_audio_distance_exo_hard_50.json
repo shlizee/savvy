@@ -1,0 +1,188 @@
+{
+    "event": "Distance between the light-gray armchair further from the wall painting and the speech sound source when the speech topic: \"clarifying previous successful uploads\" is mentioned.",
+    "start_time": "0:45",
+    "end_time": "0:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person whose perspective the camera is from, and who is speaking. The person is wearing a light blue/green short-sleeved collared shirt and dark shorts. Their hands and feet are occasionally visible. The speech sound originates from this person/camera location.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:57": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:20": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A light-gray upholstered armchair. It is located in the living room, near a white interior door and further from the arched window, and across the room from the wall with the TV and a wall painting. It has a somewhat boxy shape with armrests.",
+        "key_frames": {
+            "0:05": {
+                "distance": "5.5",
+                "direction": "-30"
+            },
+            "0:06": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:57": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:11": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:35": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:40": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "2:11": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "2:25": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "2:47": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "3:08": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "4:18": {
+                "distance": "3.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Television",
+        "description": "A large flat-screen television mounted on a light-colored wooden media console. It is the primary focus when the characters are watching TV.",
+        "key_frames": {
+            "0:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:27": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:51": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "4:10": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.0,
+    "question": "When the speech topic: \"clarifying previous successful uploads\" is mentioned, what is the distance between the light-gray armchair further from the wall painting and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_50",
+    "video_id": "loc1_script2_seq7_rec1"
+}

@@ -1,0 +1,112 @@
+{
+    "event": "The speech topic 'identifying kebabs as another cooking ingredient' comes up.",
+    "start_time": "01:08",
+    "end_time": "01:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male with curly brown hair, wearing a grey short-sleeved collared shirt, dark shorts, and black sneakers with white socks. He is also wearing headphones around his neck and holding a phone or small device. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:03": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "00:11": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "00:13": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:16": {
+                "distance": "2.0",
+                "direction": "40"
+            },
+            "00:25": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "00:35": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:45": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:55": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "01:08": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "01:11": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "01:19": {
+                "distance": "2.0",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, held by the camera wearer. The wearer is initially standing in a hallway and then walks into a living room and sits on a couch.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:11": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person, as described in 'sounding_object'. The camera is generally oriented towards this person during the specified event.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "00:13": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "01:08": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "01:11": {
+                "distance": "2.0",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"identifying kebabs as another cooking ingredient\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_170",
+    "video_id": "loc2_script3_seq2_rec2"
+}

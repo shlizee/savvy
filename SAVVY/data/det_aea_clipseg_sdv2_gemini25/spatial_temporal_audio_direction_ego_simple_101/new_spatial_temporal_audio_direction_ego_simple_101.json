@@ -1,0 +1,216 @@
+{
+    "event": "The other person compliments the niceness of the place.",
+    "start_time": "0:03",
+    "end_time": "0:05",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a light-colored (possibly white or very light pink) t-shirt and light blue shorts. They have dark hair and are wearing glasses. They are of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "50"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "50"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:56": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:08": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:14": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:29": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:36": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:44": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The first-person view camera, representing the wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A person with a blurred face, wearing a light-colored (possibly white or very light pink) t-shirt and light blue shorts. They have dark hair and are wearing glasses. They are of average build.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "50"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "50"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:33": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:56": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:08": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:14": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:29": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:36": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "1:44": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"complimenting the niceness of the place\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_101",
+    "video_id": "loc2_script2_seq2_rec2"
+}

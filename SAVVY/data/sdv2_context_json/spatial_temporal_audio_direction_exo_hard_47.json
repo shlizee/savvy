@@ -1,0 +1,144 @@
+{
+    "event": "A woman offers watermelon to another person while they are seated at a dining table.",
+    "start_time": "0:01:52",
+    "end_time": "0:01:58",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult female with long dark brown hair, often tied back or in a braid. Wearing a black short-sleeved crop top and light blue denim shorts/jeans. Wearing glasses. She is the one who offers the watermelon.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:13": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:23": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:52": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:57": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "3:25": {
+                "distance": "0.8",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Countertop Drip Coffee Maker",
+        "description": "Black, single-serve (Keurig-style) drip coffee maker. Located on the kitchen counter to the left of the main sink area (from camera's perspective when looking into the kitchen). Rectangular prism shape, approx. 30cm tall, 20cm wide, 30cm deep.",
+        "key_frames": {
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "0:20": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:14": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "1:55": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "3:00": {
+                "distance": "2.2",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "Built-in stainless steel double wall oven. Located in the kitchen wall, to the right of the refrigerator. Two oven doors, one above the other.",
+        "key_frames": {
+            "0:07": {
+                "distance": "3.5",
+                "direction": "25"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:47": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "1:14": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "1:55": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "3:00": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the countertop drip coffee maker and facing the stainless steel double wall oven, when the speech topic: \"offering watermelon\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_47",
+    "video_id": "loc1_script2_seq4_rec2"
+}

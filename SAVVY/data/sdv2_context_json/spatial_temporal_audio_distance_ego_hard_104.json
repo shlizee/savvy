@@ -1,0 +1,128 @@
+{
+    "event": "Speech topic: 'identifying spill for clean up' occurs.",
+    "start_time": "0:20",
+    "end_time": "0:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with dark hair, wearing a light-colored (e.g., white or beige) t-shirt and light-colored (e.g., light blue or grey) shorts. He is seated at a wooden table/island to the camera wearer's left.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:21": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:42": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "1:02": {
+                "distance": "2.0",
+                "direction": "-75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The first-person perspective of the camera wearer. The camera is the reference point for all distances and directions.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Scrabble game and cleanup area",
+        "description": "The Scrabble game board, pieces, and box on the wooden table, which is the focus of the cleanup activity. Later, the cabinet where the game is stored.",
+        "key_frames": {
+            "0:01": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "0:06": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "0:18": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "0:21": {
+                "distance": "0.5",
+                "direction": "-15"
+            },
+            "0:29": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"identifying spill for clean up\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_104",
+    "video_id": "loc2_script2_seq6_rec2"
+}

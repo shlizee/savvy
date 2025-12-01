@@ -1,0 +1,104 @@
+{
+    "event": "The moment the speech topic 'instructing someone to stay out of the kitchen' comes up.",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult person (P2), not visible in the video. Their voice sounds male. Their location is inferred from audio cues, suggesting they are in an adjacent room (likely the dining area, to the camera wearer's left) when speaking the specific phrase.",
+        "is_static": false,
+        "key_frames": {
+            "0:15": {
+                "distance": "~3-5m",
+                "direction": "~-75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0m",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0m",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stovetop / Direction of Gaze",
+        "description": "The camera wearer is generally facing and interacting with the stovetop at the moment of the event.",
+        "key_frames": {
+            "0:05": {
+                "distance": "~0.5m",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "~0.5m",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "~0.5m",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "~0.5m",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "~0.5m",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "~0.5m",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing someone to stay out of the kitchen\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_191",
+    "video_id": "loc2_script3_seq32_rec1"
+}

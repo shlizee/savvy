@@ -1,0 +1,103 @@
+{
+    "event": "Speech topic: asking about popcorn quality",
+    "start_time": "0:39",
+    "end_time": "0:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is an adult male, wearing a white t-shirt and light blue shorts. He has short dark hair and is later seen wearing glasses. His face is blurred in the video. He is mostly seated at a small wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.3",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:36": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:37": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:39": {
+                "distance": "0.9",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "0.9",
+                "direction": "-5"
+            },
+            "0:41": {
+                "distance": "0.9",
+                "direction": "-5"
+            },
+            "0:45": {
+                "distance": "1.1",
+                "direction": "-5"
+            },
+            "1:04": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:06": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "1:16": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:18": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:31": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:33": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by the first-person participant.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 0.9,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about popcorn quality\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_89",
+    "video_id": "loc2_script2_seq4_rec2"
+}

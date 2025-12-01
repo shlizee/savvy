@@ -1,0 +1,136 @@
+{
+    "event": "The other person recommends eating eggs and potatoes together.",
+    "start_time": "3:50",
+    "end_time": "3:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a short-sleeved green polo shirt, blue jeans, glasses (removed towards the end), and in-ear headphones (removed towards the end). Average build. Approximately 1.7-1.8m tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "1:05": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "1:21": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:23": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:29": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:31": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:54": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:01": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:07": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:15": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:20": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:25": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:54": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "3:10": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "3:29": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "3:36": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "3:51": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "4:08": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "4:13": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "4:19": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "4:36": {
+                "distance": "3.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing an egocentric view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_forward_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"recommending eating eggs and potatoes together\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_316",
+    "video_id": "loc3_script3_seq4_rec1"
+}

@@ -1,0 +1,67 @@
+{
+    "event": "Distance between the camera wearer and the sound source (flame) when the flame sound comes up.",
+    "start_time": "0:52",
+    "end_time": "0:53",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The specific gas stove burner that is lit. It is a circular, metallic burner, part of a stainless steel gas cooktop with multiple burners, black grates, and black control knobs. The flame itself is the source of the 'whoosh' sound.",
+        "is_static": true,
+        "key_frames": {
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:34": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:31": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the person, representing their viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": null,
+        "description": null,
+        "key_frames": {}
+    },
+    "prediction": 0.5,
+    "question": "Imagine you are the camera wearer, when the flame sound comes up, relative to where you are standing, what is the distance between you and the sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_218",
+    "video_id": "loc3_script2_seq3_rec1"
+}

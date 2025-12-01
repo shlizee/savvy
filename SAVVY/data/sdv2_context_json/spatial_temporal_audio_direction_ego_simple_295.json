@@ -1,0 +1,131 @@
+{
+    "event": "The camera wearer asks the other person if they purchased any fruit.",
+    "start_time": "0:32",
+    "end_time": "0:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with blurred face, wearing a dark (possibly black or navy blue) sweater over a light-colored collared shirt, and blue jeans. They have curly dark hair and are wearing glasses. They are sitting on a light-colored couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.2",
+                "direction": "-50"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "2.1",
+                "direction": "-75"
+            },
+            "0:15": {
+                "distance": "2.1",
+                "direction": "-75"
+            },
+            "0:25": {
+                "distance": "2.1",
+                "direction": "-75"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:50": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:15": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "2:47": {
+                "distance": "2.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person, providing an egocentric point of view. The camera wearer is sitting on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this question, as the question asks for the relative position of the sounding object to the camera wearer.",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"asking about purchasing fruit\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_295",
+    "video_id": "loc3_script3_seq2_rec1"
+}

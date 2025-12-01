@@ -1,0 +1,128 @@
+{
+    "event": "A person is asking about the eating location or room.",
+    "start_time": "0:01:13",
+    "end_time": "0:01:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person 1, the individual holding the camera. Arms with a light-colored shirt are occasionally visible. During the specified speech event (0:01:13), this person is located at the small dining table near the window.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:04:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "A black glass-ceramic electric cooktop with multiple burners, integrated into the kitchen island countertop. It has touch controls visible on its surface.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "2.7",
+                "direction": "25"
+            },
+            "0:00:07": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:00:37": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:00:43": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:01:11": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "0:01:13": {
+                "distance": "2.2",
+                "direction": "40"
+            },
+            "0:04:01": {
+                "distance": "1.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Round Sink with Tap",
+        "description": "A round, dark-colored (possibly black or dark grey composite material) sink basin embedded in the kitchen island countertop, equipped with a tall, arched metal tap.",
+        "key_frames": {
+            "0:00:01": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:00:10": {
+                "distance": "0.6",
+                "direction": "-25"
+            },
+            "0:00:14": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:00:37": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "0:00:44": {
+                "distance": "0.5",
+                "direction": "-35"
+            },
+            "0:01:13": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:01:43": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:04:01": {
+                "distance": "0.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the round sink with a tap, when the speech topic: \"asking about eating location or room\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_256",
+    "video_id": "loc2_script3_seq4_rec2"
+}

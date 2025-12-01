@@ -1,0 +1,136 @@
+{
+    "event": "Camera wearer expresses concern about the other person using a metal utensil, and the question asks for the location of the other person relative to where the camera wearer is facing.",
+    "start_time": "1:34",
+    "end_time": "1:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/turquoise polo shirt, khaki shorts, glasses, and has a black headset/earpiece on his left ear. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:28": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:46": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:54": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:09": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "1:19": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:26": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:34": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:56": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "2:15": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "2:34": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:38": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, representing the egocentric viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person at the stove",
+        "description": "During the event, the camera wearer is facing the other person who is at the stove.",
+        "key_frames": {
+            "1:34": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing concern about using metal utensils\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_197",
+    "video_id": "loc2_script3_seq32_rec2"
+}

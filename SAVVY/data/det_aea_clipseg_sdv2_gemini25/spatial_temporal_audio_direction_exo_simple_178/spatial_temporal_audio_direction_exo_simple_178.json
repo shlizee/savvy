@@ -1,0 +1,140 @@
+{
+    "event": "inquiring about necessity of placing item",
+    "start_time": "0:48",
+    "end_time": "0:51",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, light skin, dark hair, wearing a plain white short-sleeved t-shirt and light blue shorts. He is seated on a bar stool at a large wooden kitchen island during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:53": {
+                "distance": "1.8",
+                "direction": "-55"
+            },
+            "1:02": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "A black, flat, rectangular electric cooktop, likely glass-ceramic, with visible burner outlines. It is built into the kitchen island which has a wooden countertop. Approximate size appears to be standard (e.g., 30-36 inches wide).",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "1.6",
+                "direction": "40"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:48": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "25"
+            },
+            "1:02": {
+                "distance": "2.0",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "A standard-sized built-in dishwasher with a stainless steel front panel and a visible handle. It is located under the main kitchen counter, which has a granite-like surface, to the right of a built-in oven stack (also stainless steel) and to the right of the kitchen sink (from initial camera view).",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "2.3",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "0:25": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "0:35": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "0:48": {
+                "distance": "2.2",
+                "direction": "20"
+            },
+            "0:55": {
+                "distance": "2.4",
+                "direction": "5"
+            },
+            "1:02": {
+                "distance": "2.6",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the built-in stainless steel dishwasher, when the speech topic: \"inquiring about necessity of placing item\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_178",
+    "video_id": "loc2_script2_seq6_rec2"
+}

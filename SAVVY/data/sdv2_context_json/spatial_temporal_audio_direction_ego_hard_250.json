@@ -1,0 +1,112 @@
+{
+    "event": "Location of the other person relative to the camera wearer when the camera wearer mentions 'kitchen safety'.",
+    "start_time": "03:22",
+    "end_time": "03:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The 'other person'. A male wearing a light blue/teal short-sleeved polo shirt with a small white logo on the left chest, khaki shorts, white sneakers with grey accents, and glasses. He has short brown hair, is wearing a gold-colored watch on his left wrist, and has a black wired earpiece/headset with the wire running down his shirt. Approximate height appears average, medium build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-25"
+            },
+            "0:12": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:24": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:51": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:16": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:27": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:46": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "2:01": {
+                "distance": "1.5",
+                "direction": "-35"
+            },
+            "2:31": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "3:05": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "3:13": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "3:22": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "3:38": {
+                "distance": "1.2",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera (wearer)",
+        "description": "The camera is worn by a person, providing a first-person egocentric perspective. It is considered the origin (0,0) for directional and distance measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's View",
+        "description": "The direction the camera is pointing, which defines the forward (0 degrees) axis for the egocentric frame of reference.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning kitchen safety\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_250",
+    "video_id": "loc2_script3_seq5_rec1"
+}

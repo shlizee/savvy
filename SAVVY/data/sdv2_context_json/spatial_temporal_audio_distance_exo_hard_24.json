@@ -1,0 +1,104 @@
+{
+    "event": "Distance between the white dresser with a mirror and the sounding object (Keurig coffee machine) when the water dripping sound (Keurig brewing) is happening.",
+    "start_time": "1:57",
+    "end_time": "2:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Black Keurig K-Classic single-serve coffee machine. It is rectangular with rounded edges, approximately 0.2m wide, 0.3m deep, and 0.3m high. It is made of plastic and located on the white kitchen countertop, to the right of the sink (when facing the counter).",
+        "is_static": true,
+        "key_frames": {
+            "0:23": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "White dresser with a mirror",
+        "description": "A long, light grey (appearing almost white in the lighting) wooden dresser with multiple drawers (approximately 8-10 visible drawer fronts) with silver-colored handles. A large rectangular mirror is mounted on its top. Approximate dimensions: 1.8m wide, 0.5m deep, 0.8m high (dresser itself, mirror adds height). Located in the first room (bedroom).",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Keurig coffee machine",
+        "description": "Black Keurig K-Classic single-serve coffee machine. (Same as sounding object, representing the target for the distance measurement from the reference object).",
+        "key_frames": {
+            "0:23": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "0:43": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:57": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 10.5,
+    "question": "When the water dripping sound is happening, what is the distance between the white dresser with a mirror and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_24",
+    "video_id": "loc1_script2_seq3_rec1"
+}

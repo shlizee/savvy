@@ -1,0 +1,112 @@
+{
+    "event": "The camera wearer suggests sitting down with the other person.",
+    "start_time": "0:27",
+    "end_time": "0:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, with short dark hair, wearing a grey short-sleeved t-shirt and dark shorts. He is seen sitting on a light-colored L-shaped sectional sofa in a living room. Approximate height when sitting is not easily determined, but appears to be of average adult male proportions.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:29": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is handheld, providing an egocentric point-of-view. Its physical characteristics are not visible.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male, medium build, with short dark hair, wearing a grey short-sleeved t-shirt and dark shorts. He is seen sitting on a light-colored L-shaped sectional sofa in a living room. Approximate height when sitting is not easily determined, but appears to be of average adult male proportions.",
+        "key_frames": {
+            "0:09": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:29": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting sitting down together\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_118",
+    "video_id": "loc2_script3_seq1_rec1"
+}

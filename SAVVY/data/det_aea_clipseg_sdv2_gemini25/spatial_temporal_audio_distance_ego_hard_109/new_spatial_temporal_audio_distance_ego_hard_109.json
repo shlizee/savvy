@@ -1,0 +1,147 @@
+{
+    "event": "The other person is describing a clock and its contents as a prop.",
+    "start_time": "0:09",
+    "end_time": "0:16",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a light blue/turquoise polo shirt and khaki shorts. They have short, dark hair and are of average build. Initially seated on a couch to the camera's left, then stands and walks towards the front door, and is later seen standing in the hallway near the front door.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:09": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:12": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:16": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:35": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:55": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:12": {
+                "distance": "1.3",
+                "direction": "-40"
+            },
+            "1:13": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:14": {
+                "distance": "2.5",
+                "direction": "-65"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:23": {
+                "distance": "2.2",
+                "direction": "-5"
+            },
+            "1:24": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:26": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:27": {
+                "distance": "1.2",
+                "direction": "35"
+            },
+            "1:28": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:29": {
+                "distance": "1.8",
+                "direction": "55"
+            },
+            "1:30": {
+                "distance": "2.0",
+                "direction": "60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera, representing the wearer's point of view. The wearer is initially seated on a couch, then stands up and walks towards the front door.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Not Applicable",
+        "description": "Not applicable for direct distance measurement to the sounding object from the camera.",
+        "key_frames": {}
+    },
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"commenting positively on the clock and its contents\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_109",
+    "video_id": "loc2_script2_seq8_rec2"
+}

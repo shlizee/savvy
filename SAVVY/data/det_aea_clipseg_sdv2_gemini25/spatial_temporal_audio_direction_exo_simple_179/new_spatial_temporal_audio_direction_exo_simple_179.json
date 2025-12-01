@@ -1,0 +1,144 @@
+{
+    "event": "Speech topic: \"inquiring about necessity of placing item\"",
+    "start_time": "0:01",
+    "end_time": "0:02",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with short dark hair, wearing a light-colored (white or beige) t-shirt and light blue or grey shorts. He is sitting at the wooden kitchen island when he speaks.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:01": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "1:03": {
+                "distance": "3.0",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small wooden dining table, appearing square or slightly rounded, accompanied by at least two chairs. It is situated in an area adjacent to the main kitchen, near large sliding glass doors that likely lead to an outdoor pool area. The table is dark wood, and the chairs have dark metal frames with light-colored seat cushions.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-75"
+            },
+            "0:52": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "0:53": {
+                "distance": "0.4",
+                "direction": "40"
+            },
+            "0:54": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:59": {
+                "distance": "0.5",
+                "direction": "-90"
+            },
+            "1:01": {
+                "distance": "0.5",
+                "direction": "-70"
+            },
+            "1:02": {
+                "distance": "0.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, two-door stainless steel refrigerator with a visible ice and water dispenser on the left door. It is built into the kitchen cabinetry on the far wall of the kitchen area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:03": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:39": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:59": {
+                "distance": "4.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the stainless steel refrigerator, when the speech topic: \"inquiring about necessity of placing item\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_179",
+    "video_id": "loc2_script2_seq6_rec2"
+}

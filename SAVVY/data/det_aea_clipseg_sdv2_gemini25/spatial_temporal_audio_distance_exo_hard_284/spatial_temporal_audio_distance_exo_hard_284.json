@@ -1,0 +1,160 @@
+{
+    "event": "A person suggests putting the Connect 4 game away or ending the game session.",
+    "start_time": "2:05",
+    "end_time": "2:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a light green/teal short-sleeved polo shirt. He has short dark hair and is wearing wired earphones (green wire visible). He is the one speaking the phrase about putting the game away. He is sitting across a wooden table from the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored Refrigerator",
+        "description": "Tall, light-colored (appears to be stainless steel or light gray) refrigerator, integrated into dark wood kitchen cabinetry. It appears to be a side-by-side or French door model. Located in the kitchen area, to the camera's left-forward direction, and to the left of the person (P2) speaking.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "0:45": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "1:15": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "1:45": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "2:00": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "2:06": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "2:10": {
+                "distance": "4.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Speech Sound Source (Person P2)",
+        "description": "The person (P2) who is speaking the target phrase, as described in 'sounding_object'. If one stands by the refrigerator (Reference Object), this is the object one would face to measure the distance to the speech sound source.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.58,
+    "question": "When the speech topic: \"suggesting putting game away or ending\" is mentioned, what is the distance between the light-colored refrigerator and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_284",
+    "video_id": "loc3_script2_seq5_rec1"
+}

@@ -1,0 +1,112 @@
+{
+    "event": "The speech topic: \"identifying the egg cooking as a different task\" comes up.",
+    "start_time": "0:52",
+    "end_time": "0:56",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person, likely male, with curly dark hair, wearing a grey short-sleeved collared shirt and dark shorts. Also wearing glasses and an earpiece/headset. This is the person who is *not* wearing the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:41": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:51": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:11": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "2:33": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A rectangular wooden coffee table, covered with a white patterned tablecloth at the beginning of the video. Various items like bowls, cans, and a phone are on it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Black front door with glass panels",
+        "description": "A black front door with multiple rectangular and ovaloid glass panels arranged in a decorative pattern, and a silver handle.",
+        "key_frames": {
+            "0:04": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the black front door with glass panels, when the speech topic: \"identifying the egg cooking as a different task\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_201",
+    "video_id": "loc2_script3_seq31_rec1"
+}

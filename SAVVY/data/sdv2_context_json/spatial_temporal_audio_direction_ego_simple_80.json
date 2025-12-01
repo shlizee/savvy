@@ -1,0 +1,140 @@
+{
+    "event": "A thud sound, identified as the front door closing.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown/black front door system, likely metal or heavy wood, featuring a main door and a sidelight. Both have textured, semi-opaque glass panels with ornate, black wrought iron scrollwork. The main door has a handle on the right. Approximate height is standard door height (around 2 meters), width of the main door is standard (around 0.8-0.9 meters), sidelight is narrower.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "0:06": {
+                "distance": "0.8",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera, representing the wearer's point of view and current position/orientation.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Living Room Center",
+        "description": "The central area of the living room including a sofa, coffee table, and armchairs, as viewed from the entryway at the moment of the thud.",
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are the camera wearer, when the thud sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_80",
+    "video_id": "loc2_script2_seq1_rec2"
+}

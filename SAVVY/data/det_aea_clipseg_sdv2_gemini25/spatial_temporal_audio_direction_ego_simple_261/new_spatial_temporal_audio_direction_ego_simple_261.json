@@ -1,0 +1,168 @@
+{
+    "event": "Determine the relative position of the other person when the speech topic 'confirming coffee placement in bottom' comes up.",
+    "start_time": "01:28",
+    "end_time": "01:29",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt, blue jeans, and glasses. His face is blurred. He is the 'other person' who confirms the coffee placement.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:04": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "00:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "00:16": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:19": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "00:22": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "00:34": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "00:47": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "00:51": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:28": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "01:29": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "01:31": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "01:38": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "01:41": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "01:53": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "02:09": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "02:12": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:35": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "02:50": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "02:59": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "03:01": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "03:06": {
+                "distance": "0.7",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:28": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:29": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "French Press",
+        "description": "The camera is primarily facing the French press on the kitchen counter when the speech topic occurs.",
+        "key_frames": {
+            "01:28": {
+                "distance": "0.5",
+                "direction": "-5"
+            },
+            "01:29": {
+                "distance": "0.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"confirming coffee placement in bottom\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_261",
+    "video_id": "loc3_script2_seq3_rec2"
+}

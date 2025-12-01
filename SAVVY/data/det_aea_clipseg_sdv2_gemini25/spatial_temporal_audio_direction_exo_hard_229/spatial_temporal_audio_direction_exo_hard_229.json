@@ -1,0 +1,166 @@
+{
+    "event": "The speaker (man cooking) clarifies his intent to only flip food and asserts his capability to do so.",
+    "start_time": "01:39",
+    "end_time": "01:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Man, appearing to be in his 30s-40s, with a medium build. He is wearing a turquoise blue short-sleeved polo shirt, khaki cargo shorts, white sneakers, and glasses. He has a thin black wire (possibly for a microphone or headset) around his neck. He is actively cooking at the stovetop.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.8",
+                "direction": "40"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:26": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:53": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "1:11": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:39": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:41": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:04": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "2:09": {
+                "distance": "0.6",
+                "direction": "-10"
+            },
+            "2:19": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:34": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:40": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dishwasher",
+        "description": "Built-in stainless steel dishwasher, standard under-counter size, located to the left of the kitchen sink, set into wooden cabinetry with a granite countertop.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:32": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:33": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:53": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:56": {
+                "distance": "1.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sink",
+        "description": "Double-basin rectangular sink, appears to be a dark composite material or stainless steel, with a modern gooseneck tap. It's set into a granite countertop, part of the main kitchen counter.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:26": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "0:32": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:37": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:33": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:53": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:56": {
+                "distance": "1.2",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "B",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the double-basin rectangular sink and tap, when the speech topic: \"clarifying intent to only flip food and asserting capability\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_229",
+    "video_id": "loc2_script3_seq32_rec2"
+}

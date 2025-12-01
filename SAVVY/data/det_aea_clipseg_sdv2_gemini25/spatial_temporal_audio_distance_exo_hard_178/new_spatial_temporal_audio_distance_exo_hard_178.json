@@ -1,0 +1,64 @@
+{
+    "event": "A person expresses concern about using metal utensils on a pan, suggesting a different utensil for stirring.",
+    "start_time": "01:34",
+    "end_time": "01:37",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult person holding the camera, providing a first-person perspective. Their physical characteristics are not visible. The speech originates from this person (Person 2).",
+        "is_static": false,
+        "key_frames": {
+            "00:27:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:36:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:34:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:53:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless Steel Double Wall Oven",
+        "description": "A built-in stainless steel double wall oven, located in a kitchen cabinet. It has two oven compartments stacked vertically, with control panels and handles typical of such appliances. Approximate width 0.75m, height 1.2m.",
+        "is_static": true,
+        "key_frames": {
+            "00:27:30": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "00:32:30": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "00:36:00": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "00:50:30": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "01:53:30": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "02:35:00": {
+                "distance": "4.2",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 4.4,
+    "question": "When the speech topic: \"expressing concern about using metal utensils\" is mentioned, what is the distance between the stainless steel double wall oven and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_178",
+    "video_id": "loc2_script3_seq32_rec2"
+}

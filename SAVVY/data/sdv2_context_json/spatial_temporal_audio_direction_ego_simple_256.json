@@ -1,0 +1,200 @@
+{
+    "event": "The other person suggests pretending to sip coffee.",
+    "start_time": "2:09",
+    "end_time": "2:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white t-shirt, a yellow knitted vest, and light blue jeans. She is also wearing light-colored socks with a pattern. Approximate height around 1.6-1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "0:58": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:33": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "2:09": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "2:11": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "3:07": {
+                "distance": "1.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white t-shirt, a yellow knitted vest, and light blue jeans. She is also wearing light-colored socks with a pattern. Approximate height around 1.6-1.7 meters.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:07": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:13": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "0:58": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "1:33": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "1:45": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "0.5",
+                "direction": "-40"
+            },
+            "2:09": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "2:11": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "2:40": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "-50"
+            },
+            "3:07": {
+                "distance": "1.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"suggesting pretending to sip\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_256",
+    "video_id": "loc3_script2_seq3_rec1"
+}

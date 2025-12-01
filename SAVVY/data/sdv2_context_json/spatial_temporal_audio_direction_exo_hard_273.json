@@ -1,0 +1,104 @@
+{
+    "event": "Speaker apologizes after an object is dropped, expressing concern about potential danger.",
+    "start_time": "02:56",
+    "end_time": "02:58",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "00:16": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "00:31": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "00:50": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "01:54": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "02:13": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "02:56": {
+                "distance": "1.8",
+                "direction": "-80"
+            },
+            "03:20": {
+                "distance": "0.8",
+                "direction": "-90"
+            },
+            "03:42": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with pool view",
+        "description": "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "00:10": {
+                "distance": "1.5",
+                "direction": "120"
+            },
+            "00:48": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "01:37": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "02:56": {
+                "distance": "4.5",
+                "direction": "70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "1.0",
+                "direction": "180"
+            },
+            "00:48": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "01:37": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "02:56": {
+                "distance": "4.0",
+                "direction": "80"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the window with a pool view and facing the two-seater dining table, when the speech topic: \"apologizing for potentially dangerous incident\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_273",
+    "video_id": "loc2_script3_seq5_rec2"
+}

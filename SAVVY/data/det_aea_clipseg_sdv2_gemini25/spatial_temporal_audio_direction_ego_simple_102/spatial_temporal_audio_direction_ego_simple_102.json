@@ -1,0 +1,232 @@
+{
+    "event": "Stating having personally taken the donkey photo",
+    "start_time": "0:18",
+    "end_time": "0:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer. Person wearing a teal/blue t-shirt, grey pants, and a gold-colored digital watch on the left wrist. Initially seen holding a phone and a small black rectangular device. This person is giving a tour of the house and is the one speaking about taking the donkey photo.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The camera wearer. Person wearing a teal/blue t-shirt, grey pants, and a gold-colored digital watch on the left wrist. This person is the reference point for the question.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Person with a blurred face, wearing a light-colored (white or very light pink/peach) short-sleeved t-shirt and light blue shorts. Barefoot. Seen holding a yellow/orange can (drink). This person is being given a tour of the house.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:18": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "0:19": {
+                "distance": "1.3",
+                "direction": "50"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:21": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "75"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:39": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:48": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:56": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:16": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:28": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:33": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "1:37": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:43": {
+                "distance": "2.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating having personally taken the donkey photo\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_102",
+    "video_id": "loc2_script2_seq2_rec2"
+}

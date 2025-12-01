@@ -1,0 +1,767 @@
+{
+    "00010": {
+        "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.": {
+            "direction": 18.88,
+            "distance": 1.35,
+            "det_conf": [
+                0.3589553236961365,
+                0.5367971062660217,
+                0.002135727321729064,
+                0.17970746755599976,
+                0.036450423300266266
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -1.99,
+            "distance": 4.69,
+            "det_conf": [
+                0.5506187677383423,
+                0.0311595369130373,
+                0.5122457146644592,
+                0.3750150799751282,
+                0.05266053229570389
+            ]
+        }
+    },
+    "00260": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -76.99,
+            "distance": 1.84,
+            "det_conf": [
+                0.7331442832946777,
+                0.5891929268836975,
+                0.4992838501930237,
+                0.2714204490184784,
+                0.06590131670236588
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -0.85,
+            "distance": 3.68,
+            "det_conf": [
+                0.667102575302124,
+                0.7690494060516357,
+                0.7091765999794006,
+                0.09715760499238968,
+                0.19448846578598022
+            ]
+        }
+    },
+    "00270": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -79.68,
+            "distance": 1.22,
+            "det_conf": [
+                0.7685416340827942,
+                0.7162089943885803,
+                0.821246325969696,
+                0.718275249004364,
+                0.37889212369918823
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 0.81,
+            "distance": 3.85,
+            "det_conf": [
+                0.5214428305625916,
+                0.34926822781562805,
+                0.14364562928676605,
+                0.5691753029823303,
+                0.16246403753757477
+            ]
+        }
+    },
+    "00280": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -16.42,
+            "distance": 3.48,
+            "det_conf": [
+                0.9003626704216003,
+                0.8662042617797852,
+                0.900407612323761,
+                0.8575490117073059,
+                0.8420125246047974
+            ]
+        }
+    },
+    "00290": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -2.43,
+            "distance": 5.01,
+            "det_conf": [
+                0.5385794639587402,
+                0.7578644752502441,
+                0.6874784827232361,
+                0.33946657180786133,
+                0.6890926957130432
+            ]
+        }
+    },
+    "00340": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -5.75,
+            "distance": 4.55,
+            "det_conf": [
+                0.002506399992853403,
+                0.0018872764194384217,
+                0.0024800922255963087,
+                0.05330132693052292,
+                0.5248762369155884
+            ]
+        }
+    },
+    "00360": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -66.28,
+            "distance": 2.82,
+            "det_conf": [
+                0.19276162981987,
+                0.696840226650238,
+                0.13336487114429474,
+                0.676283597946167,
+                0.037477292120456696
+            ]
+        },
+        "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.": {
+            "direction": 14.74,
+            "distance": 1.82,
+            "det_conf": [
+                0.7579348683357239,
+                0.509831428527832,
+                0.44406387209892273,
+                0.3859398663043976,
+                0.24218742549419403
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 70.11,
+            "distance": 4.4,
+            "det_conf": [
+                0.6969655752182007,
+                0.40545791387557983,
+                0.7254000902175903,
+                0.7227944731712341,
+                0.7093225717544556
+            ]
+        }
+    },
+    "00370": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -34.32,
+            "distance": 3.88,
+            "det_conf": [
+                0.831241250038147,
+                0.7787559032440186,
+                0.3659737706184387,
+                0.4235217869281769,
+                0.5602527856826782
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 74.86,
+            "distance": 4.25,
+            "det_conf": [
+                0.6890819668769836,
+                0.7530433535575867,
+                0.6072693467140198,
+                0.7796966433525085,
+                0.5251263976097107
+            ]
+        }
+    },
+    "00380": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -44.54,
+            "distance": 3.11,
+            "det_conf": [
+                0.755203127861023,
+                0.7139348387718201,
+                0.18282371759414673,
+                0.08651749044656754,
+                0.34615975618362427
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 61.46,
+            "distance": 4.59,
+            "det_conf": [
+                0.5364698767662048,
+                0.5364272594451904,
+                0.40471503138542175,
+                0.3745546340942383,
+                0.08204629272222519
+            ]
+        }
+    },
+    "00620": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -70.77,
+            "distance": 1.0,
+            "det_conf": [
+                0.8245536684989929,
+                0.8149588704109192,
+                0.8398983478546143,
+                0.8237907886505127,
+                0.5867842435836792
+            ]
+        },
+        "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.": {
+            "direction": 50.44,
+            "distance": 1.27,
+            "det_conf": [
+                0.3829331696033478,
+                0.5370784401893616,
+                0.542073667049408,
+                0.04586980491876602,
+                0.02475089766085148
+            ]
+        }
+    },
+    "00630": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -71.24,
+            "distance": 1.05,
+            "det_conf": [
+                0.7607502937316895,
+                0.6676431894302368,
+                0.6925660371780396,
+                0.7557514905929565,
+                0.6926746964454651
+            ]
+        }
+    },
+    "00640": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -69.52,
+            "distance": 1.0,
+            "det_conf": [
+                0.8628981113433838,
+                0.8693034648895264,
+                0.8212147951126099,
+                0.8543502688407898,
+                0.8621876239776611
+            ]
+        },
+        "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.": {
+            "direction": 49.68,
+            "distance": 2.27,
+            "det_conf": [
+                0.23742496967315674,
+                0.12083779275417328,
+                0.5837196111679077,
+                0.6009528040885925,
+                0.02798856794834137
+            ]
+        }
+    },
+    "00650": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -30.76,
+            "distance": 1.1,
+            "det_conf": [
+                0.5657347440719604,
+                0.6307299733161926,
+                0.5884094834327698,
+                0.5837457776069641,
+                0.6224125623703003
+            ]
+        }
+    },
+    "00660": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -11.39,
+            "distance": 1.2,
+            "det_conf": [
+                0.9446015954017639,
+                0.9468680620193481,
+                0.9345682263374329,
+                0.9479291439056396,
+                0.8967462182044983
+            ]
+        }
+    },
+    "00960": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -52.29,
+            "distance": 1.0,
+            "det_conf": [
+                0.6234505772590637,
+                0.8216596841812134,
+                0.7194502353668213,
+                0.5521590709686279,
+                0.1522604525089264
+            ]
+        }
+    },
+    "00970": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -47.47,
+            "distance": 1.07,
+            "det_conf": [
+                0.816799521446228,
+                0.8173113465309143,
+                0.744696855545044,
+                0.6962366700172424,
+                0.5630887150764465
+            ]
+        }
+    },
+    "00980": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -62.27,
+            "distance": 1.14,
+            "det_conf": [
+                0.6805069446563721,
+                0.6606544256210327,
+                0.5592420101165771,
+                0.24007125198841095,
+                0.45920518040657043
+            ]
+        }
+    },
+    "00990": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -7.05,
+            "distance": 3.38,
+            "det_conf": [
+                0.1732824593782425,
+                0.13188409805297852,
+                0.12186001986265182,
+                0.19663113355636597,
+                0.5537819862365723
+            ]
+        }
+    },
+    "01000": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -75.59,
+            "distance": 1.0,
+            "det_conf": [
+                0.7493861317634583,
+                0.8740137815475464,
+                0.5235675573348999,
+                0.8608845472335815,
+                0.3142440915107727
+            ]
+        }
+    },
+    "01160": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": 72.43,
+            "distance": 1.0,
+            "det_conf": [
+                0.8310052156448364,
+                0.8562980890274048,
+                0.8564586043357849,
+                0.7863867878913879,
+                0.8386626839637756
+            ]
+        }
+    },
+    "01190": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -15.41,
+            "distance": 4.13,
+            "det_conf": [
+                0.1592392474412918,
+                0.1157534271478653,
+                0.5279898643493652,
+                0.08649872988462448,
+                0.49767589569091797
+            ]
+        }
+    },
+    "01195": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -14.14,
+            "distance": 4.53,
+            "det_conf": [
+                0.6629106402397156,
+                0.3577880263328552,
+                0.7447903156280518,
+                0.18665771186351776,
+                0.04413674771785736
+            ]
+        }
+    },
+    "01200": {
+        "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.": {
+            "direction": -18.57,
+            "distance": 3.68,
+            "det_conf": [
+                0.555638313293457,
+                0.04915005713701248,
+                0.0005644624470733106,
+                0.04339846223592758,
+                0.001184814260341227
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -37.48,
+            "distance": 3.6,
+            "det_conf": [
+                0.4742823839187622,
+                0.7669678330421448,
+                0.8106776475906372,
+                0.7542262077331543,
+                0.2697262167930603
+            ]
+        }
+    },
+    "01220": {
+        "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.": {
+            "direction": -38.06,
+            "distance": 1.9,
+            "det_conf": [
+                0.7537351846694946,
+                0.9129295349121094,
+                0.7673130631446838,
+                0.8617475032806396,
+                0.908385157585144
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -38.87,
+            "distance": 1.9,
+            "det_conf": [
+                0.831999659538269,
+                0.8461009860038757,
+                0.8152571320533752,
+                0.7663381099700928,
+                0.57378089427948
+            ]
+        }
+    },
+    "01225": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -35.64,
+            "distance": 1.78,
+            "det_conf": [
+                0.7174568772315979,
+                0.725558340549469,
+                0.7255792617797852,
+                0.7091617584228516,
+                0.6373474597930908
+            ]
+        }
+    },
+    "01230": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -33.59,
+            "distance": 1.34,
+            "det_conf": [
+                0.6879825592041016,
+                0.7021949887275696,
+                0.7028124928474426,
+                0.6495521664619446,
+                0.5305905938148499
+            ]
+        }
+    },
+    "01235": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -42.6,
+            "distance": 1.18,
+            "det_conf": [
+                0.7320877909660339,
+                0.7450344562530518,
+                0.7495763897895813,
+                0.6951137781143188,
+                0.7519000768661499
+            ]
+        }
+    },
+    "01240": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -45.08,
+            "distance": 1.03,
+            "det_conf": [
+                0.6801075339317322,
+                0.4402816891670227,
+                0.6291126608848572,
+                0.6258212924003601,
+                0.6248529553413391
+            ]
+        }
+    },
+    "01245": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -52.34,
+            "distance": 1.0,
+            "det_conf": [
+                0.786537766456604,
+                0.68254154920578,
+                0.8247785568237305,
+                0.7377176284790039,
+                0.7817036509513855
+            ]
+        }
+    },
+    "01250": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -52.06,
+            "distance": 1.14,
+            "det_conf": [
+                0.9017750024795532,
+                0.8627091646194458,
+                0.6563878059387207,
+                0.8045768141746521,
+                0.7568885684013367
+            ]
+        }
+    },
+    "01255": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -29.05,
+            "distance": 1.05,
+            "det_conf": [
+                0.9692137241363525,
+                0.9592993855476379,
+                0.9554126262664795,
+                0.9542261958122253,
+                0.9440939426422119
+            ]
+        }
+    },
+    "01260": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -19.09,
+            "distance": 1.13,
+            "det_conf": [
+                0.9350771307945251,
+                0.9366825819015503,
+                0.9025532603263855,
+                0.8848382234573364,
+                0.27193358540534973
+            ]
+        }
+    },
+    "02180": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -53.9,
+            "distance": 3.47,
+            "det_conf": [
+                0.5881502628326416,
+                0.3162018656730652,
+                0.22288687527179718,
+                0.17707552015781403,
+                0.5238478779792786
+            ]
+        }
+    },
+    "02190": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 23.57,
+            "distance": 2.92,
+            "det_conf": [
+                0.5856898427009583,
+                0.3332921862602234,
+                0.22858384251594543,
+                0.35853755474090576,
+                0.03446735814213753
+            ]
+        }
+    },
+    "02210": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": -17.0,
+            "distance": 1.5,
+            "det_conf": [
+                0.8726287484169006,
+                0.22250357270240784,
+                0.028072895482182503,
+                0.005708028562366962,
+                0.022895844653248787
+            ]
+        }
+    },
+    "02220": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": 5.05,
+            "distance": 4.66,
+            "det_conf": [
+                0.048722509294748306,
+                0.22604478895664215,
+                0.7885017395019531,
+                0.6029718518257141,
+                0.0003098559973295778
+            ]
+        }
+    },
+    "02310": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 41.07,
+            "distance": 5.48,
+            "det_conf": [
+                0.771681010723114,
+                0.7176244258880615,
+                0.7020272612571716,
+                0.7035149335861206,
+                0.6079352498054504
+            ]
+        }
+    },
+    "02325": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -3.03,
+            "distance": 4.58,
+            "det_conf": [
+                0.5304293632507324,
+                0.5089568495750427,
+                0.26071903109550476,
+                0.14610187709331512,
+                0.11850093305110931
+            ]
+        }
+    },
+    "02335": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 40.12,
+            "distance": 6.22,
+            "det_conf": [
+                0.6643549203872681,
+                0.5937063694000244,
+                0.5874325633049011,
+                0.3188438415527344,
+                0.022924605756998062
+            ]
+        }
+    },
+    "02345": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -39.32,
+            "distance": 4.84,
+            "det_conf": [
+                0.30110689997673035,
+                0.10256633162498474,
+                0.400863915681839,
+                0.6265720725059509,
+                0.5494844913482666
+            ]
+        }
+    },
+    "02350": {
+        "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.": {
+            "direction": -47.46,
+            "distance": 3.95,
+            "det_conf": [
+                0.7286226749420166,
+                0.7125541567802429,
+                0.8032726049423218,
+                0.3138696551322937,
+                0.00936038140207529
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 51.46,
+            "distance": 4.06,
+            "det_conf": [
+                0.5316348075866699,
+                0.47442880272865295,
+                0.16723255813121796,
+                0.5009512305259705,
+                0.47461986541748047
+            ]
+        }
+    },
+    "02355": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -39.05,
+            "distance": 3.59,
+            "det_conf": [
+                0.8161384463310242,
+                0.5412638187408447,
+                0.7034786939620972,
+                0.5649400949478149,
+                0.4054756462574005
+            ]
+        }
+    },
+    "02360": {
+        "A black Keurig-style single-serve coffee maker, approximately 30cm H x 20cm W x 30cm D, located on the kitchen counter.": {
+            "direction": -6.37,
+            "distance": 3.28,
+            "det_conf": [
+                0.6368140578269958,
+                0.039973191916942596,
+                0.007949315942823887,
+                0.017959414049983025,
+                0.020042968913912773
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -29.02,
+            "distance": 2.73,
+            "det_conf": [
+                0.711967945098877,
+                0.6475671529769897,
+                0.6570487022399902,
+                0.037672121077775955,
+                0.0924801230430603
+            ]
+        }
+    },
+    "02440": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 24.2,
+            "distance": 1.28,
+            "det_conf": [
+                0.8366925716400146,
+                0.8633511066436768,
+                0.5818672776222229,
+                0.8142756223678589,
+                0.13415956497192383
+            ]
+        }
+    },
+    "02450": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -16.66,
+            "distance": 2.29,
+            "det_conf": [
+                0.3051879405975342,
+                0.38542482256889343,
+                0.8349732756614685,
+                0.46446922421455383,
+                0.8255429863929749
+            ]
+        }
+    },
+    "02460": {
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": -65.86,
+            "distance": 4.25,
+            "det_conf": [
+                0.06019323319196701,
+                0.34649673104286194,
+                0.32651111483573914,
+                0.6514707207679749,
+                0.4803963601589203
+            ]
+        }
+    },
+    "02470": {
+        "A woman with dark hair, wearing glasses, a black short-sleeved top, and light blue denim shorts. Approximately 1.6-1.7m tall.": {
+            "direction": 7.29,
+            "distance": 4.05,
+            "det_conf": [
+                0.3089800775051117,
+                0.5657958388328552,
+                0.39120393991470337,
+                3.7896261346759275e-05,
+                3.828935223282315e-05
+            ]
+        },
+        "A stainless steel toaster oven, approximately 25cm H x 40cm W x 30cm D, located on the kitchen counter to the right of the coffee maker.": {
+            "direction": 72.95,
+            "distance": 3.5,
+            "det_conf": [
+                0.7794232368469238,
+                0.8189893364906311,
+                0.47155389189720154,
+                0.42031601071357727,
+                0.5117779970169067
+            ]
+        }
+    }
+}

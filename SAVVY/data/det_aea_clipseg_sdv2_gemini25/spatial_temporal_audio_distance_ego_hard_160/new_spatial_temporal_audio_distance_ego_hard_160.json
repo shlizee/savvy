@@ -1,0 +1,128 @@
+{
+    "event": "The speech topic: \"confirming they were admiring the pool\" comes up.",
+    "start_time": "0:18",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Appears to be of average height (approx 1.7-1.8m) and build. This is the 'other person' referred to in the question.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "4.5",
+                "direction": "40"
+            },
+            "0:04": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:51": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "2:15": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "2:25": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the user, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other person",
+        "description": "Adult male with dark curly hair, wearing glasses, a grey t-shirt, and dark shorts. Appears to be of average height and build. This is the same as the sounding object.",
+        "key_frames": {
+            "0:03": {
+                "distance": "4.5",
+                "direction": "40"
+            },
+            "0:04": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:18": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:51": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "2:15": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "2:25": {
+                "distance": "3.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"confirming they were admiring the pool\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_160",
+    "video_id": "loc2_script3_seq33_rec1"
+}

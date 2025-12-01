@@ -1,0 +1,152 @@
+{
+    "event": "The other person is thanking the camera wearer for the correct amount of creamer.",
+    "start_time": "01:06",
+    "end_time": "01:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing glasses, a light blue short-sleeved collared shirt, and dark shorts. He has headphones around his neck. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:11": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:27": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:44": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:57": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:07": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:56": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:22": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:37": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:43": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:50": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:55": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:08": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:22": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "3:28": {
+                "distance": "1.5",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the first person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The man with curly brown hair, wearing glasses, a light blue short-sleeved collared shirt, and dark shorts.",
+        "key_frames": {
+            "1:06": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"thanking for the correct amount of creamer\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_24",
+    "video_id": "loc1_script2_seq4_rec1"
+}

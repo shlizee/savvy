@@ -1,0 +1,100 @@
+{
+    "event": "Distance between the built-in stainless steel dishwasher and the speech sound source when the speech topic: \"mentioning kitchen safety\" is mentioned.",
+    "start_time": "03:22",
+    "end_time": "03:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source, which is the person wearing the camera. The camera provides a first-person perspective. The person is wearing a light blue/teal t-shirt.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard built-in dishwasher with a stainless steel front panel and a black control strip at the top. It is located under a granite kitchen countertop.",
+        "is_static": true,
+        "key_frames": {
+            "02:16": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "02:18": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "02:21": {
+                "distance": "1.0",
+                "direction": "-55"
+            },
+            "02:29": {
+                "distance": "1.1",
+                "direction": "-60"
+            },
+            "03:08": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "03:13": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "03:22": {
+                "distance": "1.06",
+                "direction": "-45"
+            },
+            "03:27": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "03:36": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "03:37": {
+                "distance": "0.7",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 1.06,
+    "question": "When the speech topic: \"mentioning kitchen safety\" is mentioned, what is the distance between the built-in stainless steel dishwasher and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_226",
+    "video_id": "loc2_script3_seq5_rec2"
+}

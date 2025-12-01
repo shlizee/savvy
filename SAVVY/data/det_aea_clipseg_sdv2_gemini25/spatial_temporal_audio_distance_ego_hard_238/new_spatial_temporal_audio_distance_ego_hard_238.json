@@ -1,0 +1,112 @@
+{
+    "event": "The camera wearer is showing the other person a video on their phone and vaguely referencing it.",
+    "start_time": "0:07",
+    "end_time": "0:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with long dark hair, wearing a yellow knitted short-sleeved top over a white t-shirt, and light blue jeans. Their face is blurred.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by a person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A person with long dark hair, wearing a yellow knitted short-sleeved top over a white t-shirt, and light blue jeans. Their face is blurred.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "35"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "35"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"referencing a specific video vaguely\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_238",
+    "video_id": "loc3_script2_seq7_rec1"
+}

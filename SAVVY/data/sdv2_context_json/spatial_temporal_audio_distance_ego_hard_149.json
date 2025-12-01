@@ -1,0 +1,123 @@
+{
+    "event": "The speech topic: \"indicating current use of specific utensil\" comes up, referring to the other person stirring something in a pot.",
+    "start_time": "1:18",
+    "end_time": "1:25",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a turquoise polo shirt and khaki shorts. They have short brown hair and are wearing glasses. They appear to be of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:20": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:36": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "0:55": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "1:19": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "1:25": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "2:02": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "2:06": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "2:10": {
+                "distance": "0.6",
+                "direction": "-70"
+            },
+            "2:15": {
+                "distance": "0.7",
+                "direction": "-65"
+            },
+            "2:20": {
+                "distance": "0.5",
+                "direction": "-75"
+            },
+            "2:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera being worn by the person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"indicating current use of specific utensil\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_149",
+    "video_id": "loc2_script3_seq32_rec2"
+}

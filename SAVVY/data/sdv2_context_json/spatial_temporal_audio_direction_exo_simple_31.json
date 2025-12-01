@@ -1,0 +1,104 @@
+{
+    "event": "Speaker suggests splitting coffee into two cups.",
+    "start_time": "02:28",
+    "end_time": "02:35",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is the person holding the camera (female voice). At the time of the event (02:28-02:35), this person is in the kitchen operating a Keurig coffee machine.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:28": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:10": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from wall painting",
+        "description": "A modern light-gray upholstered armchair. It is situated in the living room, to the right of a large arched window when viewed from the hallway leading into the living room. It is further from the wall painting seen on the wall opposite the hallway entrance.",
+        "key_frames": {
+            "00:09": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "00:10": {
+                "distance": "3.8",
+                "direction": "20"
+            },
+            "00:11": {
+                "distance": "3.0",
+                "direction": "25"
+            },
+            "00:12": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "00:13": {
+                "distance": "2.0",
+                "direction": "40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to wall painting",
+        "description": "A modern light-gray upholstered armchair. It is situated in the living room, to the left of a large arched window when viewed from the hallway leading into the living room. A wall painting is visible on the wall near this armchair (the wall opposite the hallway entrance).",
+        "key_frames": {
+            "00:09": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "00:10": {
+                "distance": "3.2",
+                "direction": "-10"
+            },
+            "00:11": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "00:12": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:13": {
+                "distance": "1.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing the light-gray armchair closer to the wall painting, when the speech topic: \"suggesting splitting coffee into two cups\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_31",
+    "video_id": "loc1_script2_seq3_rec2"
+}

@@ -1,0 +1,122 @@
+{
+    "event": "The TV is narrating the prince's destined kiss action.",
+    "start_time": "4:05",
+    "end_time": "4:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 55-65 inches, mounted on a light-brown wooden media console. It is the source of the narration.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:42": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:05": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "2:35": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "3:00": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "4:05": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "4:11": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "4:25": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A light-gray fabric three-seater couch with several cushions. The camera is positioned on this couch from 0:12 onwards.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:11": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "0.0",
+                "direction": "0"
+            },
+            "4:11": {
+                "distance": "0.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "The same TV as the sounding object. The couch is generally oriented towards the TV.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "4:05": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "4:11": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "When the speech topic: \"(tv) narrating the prince's destined kiss action\" is mentioned, what is the distance between the light-gray three-seater couch and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_64",
+    "video_id": "loc1_script2_seq7_rec2"
+}

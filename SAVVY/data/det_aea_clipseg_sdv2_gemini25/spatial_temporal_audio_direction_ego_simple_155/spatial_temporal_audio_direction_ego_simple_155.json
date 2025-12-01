@@ -1,0 +1,180 @@
+{
+    "event": "The other person expresses pleasure at seeing the camera wearer (listener).",
+    "start_time": "1:23",
+    "end_time": "1:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a light blue short-sleeved polo shirt with a small logo on the left chest, khaki-colored shorts, and predominantly white athletic shoes. He has short, dark hair visible around the blurred area of his face and is wearing a gold-colored watch on his left wrist. A thin black cord, likely for headphones, is around his neck. He appears to be of average height and has a medium to somewhat heavy build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:13": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:14": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "1:16": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "1:22": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:24": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:26": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:28": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:29": {
+                "distance": "2.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the first-person perspective of the wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "Adult male with a blurred face, wearing a light blue short-sleeved polo shirt with a small logo on the left chest, khaki-colored shorts, and predominantly white athletic shoes. He has short, dark hair visible around the blurred area of his face and is wearing a gold-colored watch on his left wrist. A thin black cord, likely for headphones, is around his neck. He appears to be of average height and has a medium to somewhat heavy build.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:23": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:57": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:13": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:14": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "1:16": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "1:22": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:24": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:26": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "1:28": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "1:29": {
+                "distance": "2.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"expressing pleasure at seeing the listener\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_155",
+    "video_id": "loc2_script2_seq8_rec2"
+}

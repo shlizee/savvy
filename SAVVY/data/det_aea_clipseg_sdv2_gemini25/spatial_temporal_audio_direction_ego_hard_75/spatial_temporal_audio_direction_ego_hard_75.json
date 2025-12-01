@@ -1,0 +1,136 @@
+{
+    "event": "The other person offers additional snacks to the camera wearer.",
+    "start_time": "0:14",
+    "end_time": "0:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing glasses, a black short-sleeved top, and light blue jeans. She is barefoot. Approximate height around 1.6-1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:03": {
+                "distance": "1.1",
+                "direction": "-55"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:09": {
+                "distance": "1.2",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "1.1",
+                "direction": "-50"
+            },
+            "0:14": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:16": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:22": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-65"
+            },
+            "0:34": {
+                "distance": "1.1",
+                "direction": "-50"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:46": {
+                "distance": "1.1",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:10": {
+                "distance": "1.6",
+                "direction": "-20"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "1:17": {
+                "distance": "1.7",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "-5"
+            },
+            "1:22": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:29": {
+                "distance": "1.6",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_view",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"offering additional snacks\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_75",
+    "video_id": "loc1_script2_seq8_rec1"
+}

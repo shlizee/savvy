@@ -1,0 +1,148 @@
+{
+    "event": "Determine the location of the speaker (who says 'Sweet. I'll help you cook.') relative to a hypothetical robot standing by the stainless steel double wall oven and facing the two-seater dining table.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a teal short-sleeved polo shirt and khaki shorts. He has short dark hair and is wearing glasses. At the time of the speech, he is in the living room, getting up from a grey couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "2.8",
+                "direction": "-50"
+            },
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "0:16": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:23": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "0:33": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "1:01": {
+                "distance": "0.4",
+                "direction": "5"
+            },
+            "1:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:06": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:35": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry. It is located to the right of a stainless steel refrigerator.",
+        "key_frames": {
+            "0:13": {
+                "distance": "1.8",
+                "direction": "70"
+            },
+            "0:15": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:30": {
+                "distance": "2.2",
+                "direction": "45"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "1:00": {
+                "distance": "2.3",
+                "direction": "35"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "2:00": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "2:15": {
+                "distance": "2.4",
+                "direction": "40"
+            },
+            "2:38": {
+                "distance": "2.5",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, rectangular wooden dining table with two chairs. It is positioned near large glass windows/doors that look out onto a pool area. The table has a dark wood finish, and the chairs appear to be of a similar material with possibly fabric seats.",
+        "key_frames": {
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "3.3",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "2:00": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "3.4",
+                "direction": "5"
+            },
+            "2:38": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the two-seater dining table, when the speech topic: \"agreeing to start activity\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_210",
+    "video_id": "loc2_script3_seq31_rec2"
+}

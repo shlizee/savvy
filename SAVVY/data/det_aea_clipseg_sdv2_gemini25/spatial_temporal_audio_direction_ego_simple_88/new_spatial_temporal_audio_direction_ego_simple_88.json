@@ -1,0 +1,188 @@
+{
+    "event": "Describing a donkey picture during the tour",
+    "start_time": "0:18",
+    "end_time": "0:22",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a turquoise/blue polo shirt, khaki shorts, white sneakers, and glasses. He is also wearing wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:04": {
+                "distance": "1.6",
+                "direction": "-40"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:14": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "0:18": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "0:22": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "0:24": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:26": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:56": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:17": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "1:44": {
+                "distance": "1.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The viewpoint of the camera, worn by a person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Donkey Picture",
+        "description": "A framed picture on the wall, appearing to be a close-up of a donkey's face in a desert-like environment. There is another picture of a landscape to its right.",
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:18": {
+                "distance": "1.0",
+                "direction": "-80"
+            },
+            "0:19": {
+                "distance": "0.8",
+                "direction": "-85"
+            },
+            "0:20": {
+                "distance": "0.8",
+                "direction": "-85"
+            },
+            "1:11": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:17": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing a donkey picture during the tour\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_88",
+    "video_id": "loc2_script2_seq2_rec1"
+}

@@ -1,0 +1,77 @@
+{
+    "event": "Suggesting chatting briefly",
+    "start_time": "0:45",
+    "end_time": "0:46",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with dark hair, wearing a white t-shirt and light blue shorts. He is the one who receives coffee and speaks the line 'Chat a little bit'.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:24": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "0:55": {
+                "distance": "0.8",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "Built-in dishwasher with a stainless steel front panel, located under the kitchen counter to the left of the black induction stovetop.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:01": {
+                "distance": "2.2",
+                "direction": "-75"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "0:45": {
+                "distance": "4.3",
+                "direction": "-120"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person 2 (coffee receiver at table)",
+        "description": "Adult male with dark hair, wearing a white t-shirt and light blue shorts, sitting at a small wooden table by a window.",
+        "key_frames": {
+            "0:45": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "0:46": {
+                "distance": "0.8",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": 4.3,
+    "question": "When the speech topic: \"suggesting chatting briefly\" is mentioned, what is the distance between the built-in stainless steel dishwasher and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_106",
+    "video_id": "loc2_script2_seq3_rec1"
+}

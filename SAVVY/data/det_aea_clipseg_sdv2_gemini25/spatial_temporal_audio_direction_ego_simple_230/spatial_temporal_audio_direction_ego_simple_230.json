@@ -1,0 +1,160 @@
+{
+    "event": "The speech topic 'commenting that underdone meat is acceptable' comes up.",
+    "start_time": "1:47",
+    "end_time": "1:58",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person, a male wearing a turquoise/teal polo shirt, khaki shorts, glasses, a watch on his left wrist, and earbuds/headphones. He is seated at the dining table during the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "0:52": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "1:16": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "1:28": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "1:42": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "1:47": {
+                "distance": "2.5",
+                "direction": "-100"
+            },
+            "1:55": {
+                "distance": "2.5",
+                "direction": "-110"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "2:09": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "50"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "3:15": {
+                "distance": "0.8",
+                "direction": "75"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "3:50": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "4:05": {
+                "distance": "0.8",
+                "direction": "50"
+            },
+            "4:10": {
+                "distance": "0.8",
+                "direction": "45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera worn by the user, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:47": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Counter / Paper Towel Roll",
+        "description": "During the event (1:47-1:58), the camera wearer is at the kitchen counter, and the camera is primarily facing the counter, specifically the area with a paper towel roll, while they are getting napkins and responding to the comment about the meat.",
+        "key_frames": {
+            "1:47": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"commenting that underdone meat is acceptable\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_230",
+    "video_id": "loc2_script3_seq4_rec2"
+}

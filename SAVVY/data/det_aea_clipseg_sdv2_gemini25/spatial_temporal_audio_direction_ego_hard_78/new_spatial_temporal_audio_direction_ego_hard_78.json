@@ -1,0 +1,268 @@
+{
+    "event": "The other person mentions consuming coffee and chips together.",
+    "start_time": "0:39",
+    "end_time": "0:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing a black short-sleeved top, light blue jeans, and glasses. She is barefoot for most of the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "0:03": {
+                "distance": "1.3",
+                "direction": "-50"
+            },
+            "0:07": {
+                "distance": "1.1",
+                "direction": "-40"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "1.3",
+                "direction": "-55"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:22": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "1.1",
+                "direction": "-50"
+            },
+            "0:34": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:39": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:46": {
+                "distance": "1.3",
+                "direction": "-55"
+            },
+            "0:51": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "0:58": {
+                "distance": "1.1",
+                "direction": "-30"
+            },
+            "1:08": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:10": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:23": {
+                "distance": "1.6",
+                "direction": "-25"
+            },
+            "1:27": {
+                "distance": "1.7",
+                "direction": "-15"
+            },
+            "1:29": {
+                "distance": "1.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, from whose perspective the video is shot.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_facing_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:39": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:58": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"mentioning consuming coffee and chips together\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_78",
+    "video_id": "loc1_script2_seq8_rec1"
+}

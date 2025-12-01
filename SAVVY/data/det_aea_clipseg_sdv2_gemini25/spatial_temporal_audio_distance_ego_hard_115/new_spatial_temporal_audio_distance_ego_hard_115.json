@@ -1,0 +1,63 @@
+{
+    "event": "The camera wearer greets Thomas.",
+    "start_time": "0:13",
+    "end_time": "0:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "An adult male, likely Thomas, with light skin and dark hair, wearing a grey t-shirt and dark shorts. He is initially seen sitting on a light-colored couch in a living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:10": {
+                "distance": "5.5",
+                "direction": "10"
+            },
+            "0:14": {
+                "distance": "5.5",
+                "direction": "10"
+            },
+            "0:27": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by the person speaking.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 5.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"greeting thomas\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_115",
+    "video_id": "loc2_script3_seq1_rec1"
+}

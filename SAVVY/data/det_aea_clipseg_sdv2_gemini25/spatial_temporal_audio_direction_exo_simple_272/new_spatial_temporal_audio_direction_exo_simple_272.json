@@ -1,0 +1,152 @@
+{
+    "event": "Determine the speaker's location (left, right, or back) relative to a robot standing by the two-seater dining table and facing the stainless steel refrigerator, when the speech topic is 'continuing hypothetical bleeding scenario'.",
+    "start_time": "03:01",
+    "end_time": "03:12",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "An adult male with curly dark hair, wearing a grey polo shirt, dark shorts, and glasses. He is the one speaking about the hypothetical bleeding scenario.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:16": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:31": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "00:45": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "00:49": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "01:15": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "02:11": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "02:17": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "02:37": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "03:01": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "03:08": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "03:14": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "03:26": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "03:37": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "03:42": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:47": {
+                "distance": "2.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "two-seater dining table",
+        "description": "A small, semi-circular wooden dining table with a dark brown top and legs, accompanied by two wooden chairs with dark frames and patterned cushions. It's located near a large window.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:07": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:33": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "01:36": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "02:30": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:01": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "03:45": {
+                "distance": "2.5",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "A large, two-door stainless steel refrigerator with an ice/water dispenser on the left door. It's located in the kitchen area.",
+        "key_frames": {
+            "00:07": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "00:12": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "00:36": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "01:15": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "02:10": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "03:01": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "03:42": {
+                "distance": "2.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the stainless steel refrigerator, when the speech topic: \"continuing hypothetical bleeding scenario\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_272",
+    "video_id": "loc2_script3_seq5_rec2"
+}

@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic 'speculating stop's origin as tech hub' comes up.",
+    "start_time": "01:17",
+    "end_time": "01:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male with curly light brown/blondish hair, wearing glasses, a dark (appears navy or black) V-neck sweater over a light blue collared shirt, and blue jeans. He is sitting on a light-colored couch, to the camera wearer's left. Approximate height while seated is around 1 meter, width around 0.5 meters.",
+        "is_static": false,
+        "key_frames": {
+            "00:03": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "00:08": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "00:17": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "00:30": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "00:45": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:00": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:15": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:17": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:20": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:23": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:30": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "01:45": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "02:00": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "02:15": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "02:30": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "02:45": {
+                "distance": "2.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is handheld by a person (camera wearer), providing an egocentric point of view. The camera wearer is seated, likely on another couch or armchair in the living room. Their hand holding a phone is visible at the start, and later their arm with a watch.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "General direction of camera view",
+        "description": "The camera is generally facing into a well-lit living room with large windows, a fireplace, and bookshelves. The primary focus of the camera shifts but the sounding object (other person) remains consistently in the left portion of the frame when visible.",
+        "key_frames": {
+            "00:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "00:17": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "01:17": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "01:23": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "02:00": {
+                "distance": "3.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"speculating stop's origin as tech hub\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_300",
+    "video_id": "loc3_script3_seq2_rec1"
+}

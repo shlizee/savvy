@@ -1,0 +1,152 @@
+{
+    "event": "Speaker requests a tour of the place.",
+    "start_time": "0:03",
+    "end_time": "0:05",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A person (male, face intentionally blurred in the video) wearing a light-colored (appears to be white or very light pastel) t-shirt and light blue shorts. He is also wearing dark-framed glasses. He is initially sitting on a couch and then gets up to give a tour.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:07": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:23": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "0:55": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "1:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "1.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A large, dark brown or black wooden coffee table, rectangular in shape. It is a low table, positioned in front of a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with black metal screen",
+        "description": "A fireplace built into the wall, featuring a black metal screen or grate in front of the opening. It is situated between two tall, arched windows with white shutters. Two light-colored armchairs are placed on either side, slightly in front of the fireplace and windows.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "1:43": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"requesting a tour of the place\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_114",
+    "video_id": "loc2_script2_seq2_rec2"
+}

@@ -1,0 +1,104 @@
+{
+    "event": "The TV is narrating the prince's bravery and appearance in the movie Shrek 2.",
+    "start_time": "03:31",
+    "end_time": "04:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A large, black, flat-screen television, approximately 50-60 inches diagonally. It is placed on a light-colored wooden console table against the main wall of the living room. During the event, it is playing the movie Shrek 2 and is the source of the narration about the prince.",
+        "is_static": true,
+        "key_frames": {
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "03:31": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "04:00": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair",
+        "description": "An upholstered armchair, covered in light beige or light gray fabric, with visible wooden legs. It has a somewhat rounded back and armrests. A blue decorative pillow is often seen on it. It is located in the living room, near a large arched window, to the right side of the room when facing the TV wall. A framed picture (wall painting) is on the wall adjacent to this armchair.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:09": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "80"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "85"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "White recessed fireplace",
+        "description": "A white recessed fireplace with a white mantelpiece. The firebox opening is dark. Above the mantel, there is a large circular mirror and, during the video, an Easter-themed bunny garland and other small decorative items. It is located on the main wall of the living room, to the right of the television console.",
+        "key_frames": {
+            "0:09": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "15"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "03:31": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "04:00": {
+                "distance": "3.5",
+                "direction": "20"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray armchair closer to the wall painting and facing the white recessed fireplace, when the speech topic: \"(tv) narrating the prince's bravery and appearance\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_67",
+    "video_id": "loc1_script2_seq7_rec2"
+}

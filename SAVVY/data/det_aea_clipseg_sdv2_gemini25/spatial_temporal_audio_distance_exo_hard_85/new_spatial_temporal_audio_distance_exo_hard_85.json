@@ -1,0 +1,92 @@
+{
+    "event": "Thud sound of the front door closing, asking for the distance between the dishwasher and the front door.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Dark brown wooden front door with a large central textured glass panel featuring black ornate wrought iron scrollwork. A similar, narrower glass panel with wrought iron (sidelight) is to the right of the main door. The door has a black handle.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "170"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A standard-sized built-in dishwasher with a stainless steel front panel. It is located under a granite countertop in the kitchen, to the right of a kitchen sink.",
+        "key_frames": {
+            "0:46": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:47": {
+                "distance": "1.8",
+                "direction": "45"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:50": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "1:02": {
+                "distance": "1.2",
+                "direction": "75"
+            },
+            "1:03": {
+                "distance": "2.5",
+                "direction": "20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door",
+        "description": "Dark brown wooden front door with a large central textured glass panel featuring black ornate wrought iron scrollwork. A similar, narrower glass panel with wrought iron (sidelight) is to the right of the main door. The door has a black handle. (Same as sounding object, for orientation if standing at reference object).",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "-90"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "170"
+            }
+        }
+    },
+    "prediction": 12.6,
+    "question": "When the thud sound is happening, what is the distance between the built-in stainless steel dishwasher and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_85",
+    "video_id": "loc2_script2_seq1_rec2"
+}

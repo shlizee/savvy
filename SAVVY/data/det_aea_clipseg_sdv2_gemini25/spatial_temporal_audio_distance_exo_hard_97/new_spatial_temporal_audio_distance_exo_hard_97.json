@@ -1,0 +1,116 @@
+{
+    "event": "Distance between the two-seater dining table and the speech sound source when the speech topic 'naming the hallway location' is mentioned.",
+    "start_time": "01:23",
+    "end_time": "01:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The person giving the tour, who is also the camera operator. Male, wearing a turquoise polo shirt, khaki shorts, white sneakers, glasses, and wired earbuds.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:22": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:37": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:46": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:50": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:05": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:35": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:44": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small, circular (when leaves are up, appears to be drop-leaf style) wooden table, light to medium brown wood. Accompanied by two wooden chairs with simple backrests. Located in a dining nook within the kitchen area, near large sliding glass doors leading to a pool. Approximate diameter when round: 0.8-1.0 meters.",
+        "is_static": true,
+        "key_frames": {
+            "00:38": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "00:46": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "00:47": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "00:48": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "00:55": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "01:08": {
+                "distance": "6.0",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 7.9,
+    "question": "When the speech topic: \"naming the hallway location\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_97",
+    "video_id": "loc2_script2_seq2_rec1"
+}

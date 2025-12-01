@@ -1,0 +1,108 @@
+{
+    "event": "When the speech topic 'describing stop locations as random' comes up, relative to where the camera wearer is facing, where is the other person.",
+    "start_time": "0:59",
+    "end_time": "1:15",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male, appearing to be a young adult or adult. He is wearing a dark (possibly navy or black) sweater over a light-colored collared shirt (the collar is visible), blue jeans, and light-colored socks. He has curly, light brown or dark blonde hair. Throughout most of the video, he is seated on a light-colored couch. If standing, his approximate height might be 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person. The wearer's hand holding a phone is visible at the beginning. Later, the wearer's arm with a watch and their legs (wearing jeans) are visible once seated. This is the egocentric point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Coffee Table",
+        "description": "A square, wooden coffee table. It has various items on it: a colorful patterned cloth or paper, coasters, a phone, a small white bottle, and a book/magazine. Once the camera wearer is seated, this table is generally in their forward view.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:59": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing stop locations as random\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_297",
+    "video_id": "loc3_script3_seq2_rec1"
+}

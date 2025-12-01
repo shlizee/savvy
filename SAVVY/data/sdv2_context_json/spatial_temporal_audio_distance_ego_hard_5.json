@@ -1,0 +1,204 @@
+{
+    "event": "The first instance of the speech topic 'asking about well-being' occurs, spoken by the other person.",
+    "start_time": "0:09",
+    "end_time": "0:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Young adult female with long dark brown hair, wearing glasses, a black short-sleeved V-neck crop top, light blue high-waisted jeans, and a small black device (possibly a microphone pack) clipped to her waistband. She is barefoot.",
+        "is_static": false,
+        "key_frames": {
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:32": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "1.7",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:34": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:44": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:52": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:57": {
+                "distance": "1.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera (Wearer)",
+        "description": "The first-person perspective camera worn by an individual. This is the origin point for all egocentric measurements. The video is characterized by a wide-angle lens.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:58": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman (Other Person)",
+        "description": "Young adult female with long dark brown hair, wearing glasses, a black short-sleeved V-neck crop top, light blue high-waisted jeans, and a small black device (possibly a microphone pack) clipped to her waistband. She is barefoot. This is the primary person the camera is interacting with.",
+        "key_frames": {
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "2.8",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:32": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "1.7",
+                "direction": "-10"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:34": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:44": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:52": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "1:57": {
+                "distance": "1.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about well-being\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_5",
+    "video_id": "loc1_script2_seq1_rec2"
+}

@@ -1,0 +1,104 @@
+{
+    "event": "The other person states they have placed items down or intends to place items.",
+    "start_time": "0:12",
+    "end_time": "0:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, likely in his 50s or 60s, with short, light-colored (possibly gray or blonde) hair and wearing glasses. He is dressed in a light blue/teal short-sleeved polo shirt and khaki shorts. He has an average build and appears to be of average height, estimated around 1.7 to 1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "6.5",
+                "direction": "-5"
+            },
+            "0:01": {
+                "distance": "6.5",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "6.5",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "0:17": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "0:18": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "0:21": {
+                "distance": "3.0",
+                "direction": "-35"
+            },
+            "0:25": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:27": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:28": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:29": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:34": {
+                "distance": "2.5",
+                "direction": "-25"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the viewer's perspective (origin point).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's Point of Gaze",
+        "description": "The direction the camera is currently pointing, representing the forward direction (0 degrees).",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating intention and placing items down here\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_158",
+    "video_id": "loc2_script3_seq1_rec2"
+}

@@ -1,0 +1,88 @@
+{
+    "event": "Expressing liking for the door",
+    "start_time": "0:13",
+    "end_time": "0:14",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is a male (P2), wearing a light-colored t-shirt, light blue shorts, short dark hair, and glasses. Approximate height 1.7-1.8m. At the time of speech, he is standing in the foyer/entryway of the house.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:08": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:56": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "2:10": {
+                "distance": "3.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table (Patio Table)",
+        "description": "A round outdoor dining table, likely metal or dark resin, with at least two matching chairs. It is located on the patio, visible through sliding glass doors from the kitchen. Approximate diameter of the table is 1 meter. This is interpreted as the 'two-seater dining table'.",
+        "is_static": true,
+        "key_frames": {
+            "0:48": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.8",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "2.8",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's View",
+        "description": "The general direction the camera is pointing. Not a specific object for this distance calculation.",
+        "key_frames": {}
+    },
+    "prediction": 14.3,
+    "question": "When the speech topic: \"expressing liking for the door\" is mentioned, what is the distance between the two-seater dining table and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_86",
+    "video_id": "loc2_script2_seq1_rec2"
+}

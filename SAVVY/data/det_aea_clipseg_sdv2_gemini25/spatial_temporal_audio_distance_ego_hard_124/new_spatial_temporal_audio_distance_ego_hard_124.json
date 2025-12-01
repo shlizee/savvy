@@ -1,0 +1,192 @@
+{
+    "event": "The other person suggests sitting down together by asking 'Shall I sit down with you for a bit?'",
+    "start_time": "0:29",
+    "end_time": "0:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male, appearing to be an adult, wearing a light blue short-sleeved t-shirt and light-colored (khaki/beige) shorts. He has short, light brown or graying hair. Average build. Mobile.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:01": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "0:18": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "0:19": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:21": {
+                "distance": "3.8",
+                "direction": "-25"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "0:27": {
+                "distance": "3.2",
+                "direction": "-30"
+            },
+            "0:28": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:29": {
+                "distance": "2.8",
+                "direction": "-35"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:34": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera capturing the first-person perspective. It is the origin point for distance and direction measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "The other person in the scene, who is also the sounding object for this event. A male, appearing to be an adult, wearing a light blue short-sleeved t-shirt and light-colored (khaki/beige) shorts. He has short, light brown or graying hair. Average build. Mobile.",
+        "key_frames": {
+            "0:00": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:01": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:02": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "5.5",
+                "direction": "-15"
+            },
+            "0:18": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "0:19": {
+                "distance": "4.5",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:21": {
+                "distance": "3.8",
+                "direction": "-25"
+            },
+            "0:26": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "0:27": {
+                "distance": "3.2",
+                "direction": "-30"
+            },
+            "0:28": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:29": {
+                "distance": "2.8",
+                "direction": "-35"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:34": {
+                "distance": "2.5",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "2.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting sitting down together\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_124",
+    "video_id": "loc2_script3_seq1_rec2"
+}

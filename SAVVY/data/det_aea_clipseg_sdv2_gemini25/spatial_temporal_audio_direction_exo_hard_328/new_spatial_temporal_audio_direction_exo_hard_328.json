@@ -1,0 +1,120 @@
+{
+    "event": "The speaker (woman) states she sees her opponent's plots in return.",
+    "start_time": "01:48",
+    "end_time": "01:49",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "3"
+            },
+            "0:22": {
+                "distance": "1.6",
+                "direction": "2"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "4"
+            },
+            "0:50": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Gray reclining lounge chair with ottoman",
+        "description": "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.",
+        "key_frames": {
+            "0:00": {
+                "distance": "unknown",
+                "direction": "unknown"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are a robot standing by the gray reclining lounge chair with ottoman and facing the rectangular dining table, when the speech topic: \"stating seeing opponent's plots in return\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_328",
+    "video_id": "loc3_script2_seq5_rec2"
+}

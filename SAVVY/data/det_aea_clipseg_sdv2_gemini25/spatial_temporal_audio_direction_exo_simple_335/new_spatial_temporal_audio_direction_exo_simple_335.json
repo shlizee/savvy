@@ -1,0 +1,132 @@
+{
+    "event": "Speaker suggests putting the game away or ending the game session.",
+    "start_time": "02:05",
+    "end_time": "02:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with a blurred face, wearing a light green short-sleeved polo shirt and glasses. He has short dark hair and is wearing a watch on his left wrist. He is seated at a wooden table across from the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A light-gray three-seater couch, located in the background living room area. It has a distinctive dark gray or black blanket draped over it with the word 'NOBODY' in white capital letters. It has light-colored wooden legs.",
+        "key_frames": {
+            "0:02": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:40": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "2:05": {
+                "distance": "3.5",
+                "direction": "-20"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "light-gray two-seater couch",
+        "description": "A light-gray two-seater couch, located in the background living room area, to the left of the three-seater couch (from the camera's perspective). It appears to be of a similar style to the three-seater couch with light-colored wooden legs.",
+        "key_frames": {
+            "0:02": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:20": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:40": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "2:00": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "2:05": {
+                "distance": "4.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the light-gray two-seater couch, when the speech topic: \"suggesting putting game away or ending\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_335",
+    "video_id": "loc3_script2_seq5_rec1"
+}

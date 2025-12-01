@@ -1,0 +1,136 @@
+{
+    "event": "The man asks Maddie (the camera wearer) if she wants to play the Connect Four board game.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, fair skin, short dark hair (balding on top). He is wearing a turquoise/green short-sleeved polo shirt and has wired earphones in, with the wire going down his shirt. He is the speech sound source.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.1",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:28": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.9",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-colored Refrigerator",
+        "description": "A tall, two-door refrigerator, appearing to be made of a light-colored metal (likely stainless steel). It is located in the kitchen area in the background of the scene.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:10": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:20": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:30": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:00": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:45": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "2:00": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "2:08": {
+                "distance": "4.0",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable for this query, as the distance is calculated between two objects located via camera-relative coordinates.",
+        "key_frames": {}
+    },
+    "prediction": 2.8,
+    "question": "When the speech topic: \"asking maddie about playing connect four\" is mentioned, what is the distance between the light-colored refrigerator and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_276",
+    "video_id": "loc3_script2_seq5_rec1"
+}

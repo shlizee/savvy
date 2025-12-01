@@ -1,0 +1,136 @@
+{
+    "event": "A person asks for clarification on a previous statement.",
+    "start_time": "0:49",
+    "end_time": "0:51",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A male person, wearing a grey short-sleeved shirt, dark shorts, glasses, and an earpiece. He has curly dark hair. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:47": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:49": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:49": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:02": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:33": {
+                "distance": "2.5",
+                "direction": "20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Coffee Table",
+        "description": "A rectangular wooden coffee table, approximately 1.2m x 0.6m x 0.4m (LWH), located in the living room. It is covered with a white disposable tablecloth with a colorful confetti print. Various snacks, drinks, and balloons are on or around it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:04": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:21": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:22": {
+                "distance": "3.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door",
+        "description": "A black front door, standard door size (approx 0.9m x 2m), with ornate black wrought iron scrollwork over glass panels. It is located at the end of an interior hallway.",
+        "key_frames": {
+            "0:06": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.0",
+                "direction": "-90"
+            },
+            "0:19": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:23": {
+                "distance": "5.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the black front door with glass panels, when the speech topic: \"asking for clarification on previous statement\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_200",
+    "video_id": "loc2_script3_seq31_rec1"
+}

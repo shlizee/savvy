@@ -1,0 +1,115 @@
+{
+    "event": "The speaker (man in green shirt) is observing and commenting on his opponent's competitiveness during a game of Connect 4.",
+    "start_time": "01:26",
+    "end_time": "01:33",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with light skin, short dark hair, wearing a turquoise/green polo shirt, and a black headset with a microphone. He is sitting at a wooden table across from the camera, playing Connect 4. He is the one making comments about the opponent's competitiveness.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "01:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:26": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:33": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:45": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:08": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "light-gray three-seater couch",
+        "description": "A long, light gray or beige fabric couch with at least three seat cushions. A dark gray/black and white patterned throw blanket with the word 'NOBODY' in white is draped over its back and part of the seat on the end closest to the camera. It has visible wooden legs and is located to the left of the dining table from the camera's perspective.",
+        "key_frames": {
+            "00:02": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:30": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "00:45": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:15": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:26": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:33": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "01:45": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "02:08": {
+                "distance": "2.5",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "light-gray two-seater couch",
+        "description": "This object is not visible in the video. Its existence and general location are inferred from the question's premise. It is assumed to be a standard two-seater couch, light gray, and positioned in the living area such that the robot, while standing by the three-seater couch, is facing it.",
+        "key_frames": {}
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the light-gray two-seater couch, when the speech topic: \"observing opponent's competitiveness\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_334",
+    "video_id": "loc3_script2_seq5_rec1"
+}

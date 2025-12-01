@@ -1,0 +1,140 @@
+{
+    "event": "A creak and thud sound as a door is opened.",
+    "start_time": "01:21",
+    "end_time": "01:23",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A wooden front door, arched at the top. The interior side visible is dark stained wood. The exterior side, briefly visible, is painted a light blue/teal. It has a small, narrow rectangular window with a metal grate near the top center. Standard silver-colored doorknob and lock mechanism. Approximate size: standard single door height (~2 meters), width (~0.8-0.9 meters).",
+        "is_static": true,
+        "key_frames": {
+            "00:01": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "00:06": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "00:58": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "01:01": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "01:20": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "01:21": {
+                "distance": "1.5",
+                "direction": "-50"
+            },
+            "01:22": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "01:23": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:27": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:32": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:33": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person view camera worn by the participant. Its position is the origin (0,0) in this egocentric view, and its orientation defines the 0-degree direction.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's direct line of sight",
+        "description": "The point or area at the center of the camera's field of view, representing the direction the camera wearer is facing (0 degrees direction). The distance is to the object at the center of the view.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "00:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "01:21": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "01:23": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:28": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:33": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the creak and thud sound comes up, relative to where you are facing, where is the sound source: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_68",
+    "video_id": "loc1_script2_seq8_rec1"
+}

@@ -1,0 +1,104 @@
+{
+    "event": "The speech topic: \"identifying next sequence and suggesting stopping recording\" comes up.",
+    "start_time": "0:29",
+    "end_time": "0:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male, appearing to be an adult, with short dark hair, wearing a grey short-sleeved t-shirt and dark shorts. He is seated on a light-colored (beige or off-white) sofa in a living room setting. The sofa has multiple cushions. He is seen holding a phone or small electronic device when he starts speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:12": {
+                "distance": "unknown",
+                "direction": "unknown"
+            },
+            "0:15": {
+                "distance": "unknown",
+                "direction": "unknown"
+            },
+            "0:27": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:28": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "3.2",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by the first-person videographer, capturing an egocentric view. The videographer's hands are occasionally visible; at the start of the video, one hand holds a smartphone and the other a black flip-style phone or small device. During the event, one hand is holding a black rectangular object (likely a power bank connected by a cable).",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Thomas on couch / Living Room",
+        "description": "The primary facing object during the event is Thomas, who is seated on a light-colored sofa. The broader scene is a well-lit living room with large, light-colored tiled floors, a colorful patterned rug (predominantly red, yellow, blue, and white), a white rectangular coffee table in front of the sofa, two tall arched windows with white shutters, a fireplace between the windows, and various decorations including artwork on the walls (one large landscape, one with camels) and shelving units with a TV. Purple balloons are visible on the floor.",
+        "key_frames": {
+            "0:27": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:28": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "0:29": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "3.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"identifying next sequence and suggesting stopping recording\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_119",
+    "video_id": "loc2_script3_seq1_rec1"
+}

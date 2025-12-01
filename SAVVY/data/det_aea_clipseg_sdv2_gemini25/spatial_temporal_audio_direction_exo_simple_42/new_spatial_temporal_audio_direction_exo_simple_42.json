@@ -1,0 +1,152 @@
+{
+    "event": "A woman decides to put the creamer away.",
+    "start_time": "01:09",
+    "end_time": "01:11",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long dark hair, wearing glasses, a black short-sleeved crop top, and light blue denim shorts. She is also wearing a lavalier microphone.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "00:07": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "00:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "00:27": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "00:38": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:43": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "00:48": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "01:00": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "01:09": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "01:11": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "01:14": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "01:23": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "01:34": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "01:53": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "02:15": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "02:42": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "03:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "03:12": {
+                "distance": "1.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel refrigerator",
+        "description": "A large, silver, double-door stainless steel refrigerator located in the kitchen.",
+        "key_frames": {
+            "00:07": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "00:12": {
+                "distance": "3.5",
+                "direction": "-80"
+            },
+            "00:20": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "00:46": {
+                "distance": "3.5",
+                "direction": "-60"
+            },
+            "01:14": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "01:18": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "01:35": {
+                "distance": "3.5",
+                "direction": "-75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "countertop drip coffee maker",
+        "description": "A black countertop drip coffee maker located on the kitchen counter to the left of the stove.",
+        "key_frames": {
+            "00:07": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "00:10": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "00:19": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "00:45": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "01:18": {
+                "distance": "3.0",
+                "direction": "-65"
+            },
+            "01:35": {
+                "distance": "3.0",
+                "direction": "-65"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the countertop drip coffee maker, when the speech topic: \"deciding to put the creamer away\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_42",
+    "video_id": "loc1_script2_seq4_rec2"
+}

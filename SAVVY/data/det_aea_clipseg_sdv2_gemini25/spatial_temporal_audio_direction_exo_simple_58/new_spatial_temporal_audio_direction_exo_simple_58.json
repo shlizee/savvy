@@ -1,0 +1,180 @@
+{
+    "event": "The speech topic: \"identifying shrek opening band as counting crows\" comes up.",
+    "start_time": "2:13",
+    "end_time": "2:25",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A male individual with curly brown hair, wearing glasses, a light teal/blue short-sleeved collared shirt, and dark shorts. He is also wearing in-ear headphones. He is seated on a large gray sofa for the duration of the event.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:10": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:18": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "3:30": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "4:00": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "4:22": {
+                "distance": "2.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A light-gray upholstered armchair with wooden legs. It is positioned to the right of a large arched window (when viewed from the main living area/sofa) and further from the fireplace and the wall painting above the fireplace. It has a blue pillow on it.",
+        "key_frames": {
+            "0:05": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:45": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:11": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:35": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "2:10": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "2:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "3:08": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "3:30": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "4:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "4:22": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair closer to the wall painting",
+        "description": "A light-gray upholstered armchair with wooden legs, matching the reference object. It is positioned to the left of the large arched window (when viewed from the main living area/sofa) and closer to the fireplace and the wall painting above the fireplace. It has a blue pillow on it.",
+        "key_frames": {
+            "0:05": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:11": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:35": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "2:10": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "2:30": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "3:08": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "3:30": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "4:00": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "4:22": {
+                "distance": "2.0",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the light-gray armchair further from the wall painting and facing the light-gray armchair closer to the wall painting, when the speech topic: \"identifying shrek opening band as counting crows\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_58",
+    "video_id": "loc1_script2_seq7_rec1"
+}

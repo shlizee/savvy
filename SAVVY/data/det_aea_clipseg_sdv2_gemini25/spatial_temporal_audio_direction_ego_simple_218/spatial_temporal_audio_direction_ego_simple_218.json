@@ -1,0 +1,136 @@
+{
+    "event": "The speech topic 'reaffirming food is almost cooked' comes up, specifically when the camera wearer states the food is almost done.",
+    "start_time": "02:52",
+    "end_time": "02:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appearing to be middle-aged, with a slightly heavy build. He is wearing a turquoise/light blue short-sleeved polo shirt, khaki shorts, and glasses. He has dark, short hair, possibly with some graying, and a short dark beard/stubble. Approximate height seems average.",
+        "is_static": false,
+        "key_frames": {
+            "00:08": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:12": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:18": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:26": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "00:33": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:43": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:52": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:03": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "01:33": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "01:35": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "01:38": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:46": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "01:50": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:24": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:26": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:31": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:42": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "02:49": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:52": {
+                "distance": "2.0",
+                "direction": "-80"
+            },
+            "02:53": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "02:54": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:59": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective (egocentric view).",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Counter",
+        "description": "At the start of the event (02:52), the camera is facing the kitchen counter which has items like a phone, a notepad, and a bag of pretzels on it.",
+        "key_frames": {
+            "02:52": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"reaffirming food is almost cooked\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_218",
+    "video_id": "loc2_script3_seq34_rec2"
+}

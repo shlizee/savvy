@@ -1,0 +1,104 @@
+{
+    "event": "A scraping sound comes up, and the task is to determine the direction of the sounding object relative to a hypothetical robot.",
+    "start_time": "2:10",
+    "end_time": "2:18",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A black metal frying pan, approximately 10-12 inches in diameter. It produces a scraping sound when being washed by a man in the kitchen island sink during the event time.",
+        "is_static": false,
+        "key_frames": {
+            "0:55": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "2:14": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "2:17": {
+                "distance": "1.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A light-gray, fabric, three-seater couch, with a white and black patterned throw (with 'NOBODY' text visible) draped over it. It has light-colored wooden legs and is located in the living room area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "-85"
+            },
+            "0:12": {
+                "distance": "3.5",
+                "direction": "-100"
+            },
+            "1:31": {
+                "distance": "5.0",
+                "direction": "-150"
+            },
+            "2:10": {
+                "distance": "5.5",
+                "direction": "-160"
+            },
+            "2:40": {
+                "distance": "4.5",
+                "direction": "-170"
+            },
+            "3:06": {
+                "distance": "3.0",
+                "direction": "175"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large, black, flat-screen television, mounted on or near a wall with a fireplace. The fireplace has a stone facade and a mantel, located in the living room area.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.5",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "5.0",
+                "direction": "-50"
+            },
+            "0:12": {
+                "distance": "5.5",
+                "direction": "-65"
+            },
+            "1:31": {
+                "distance": "7.0",
+                "direction": "-135"
+            },
+            "2:10": {
+                "distance": "7.5",
+                "direction": "-145"
+            },
+            "2:40": {
+                "distance": "6.5",
+                "direction": "-155"
+            },
+            "3:06": {
+                "distance": "5.0",
+                "direction": "160"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the light-gray three-seater couch and facing the tv by the fireplace, when the scraping sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_399",
+    "video_id": "loc3_script3_seq5_rec2"
+}

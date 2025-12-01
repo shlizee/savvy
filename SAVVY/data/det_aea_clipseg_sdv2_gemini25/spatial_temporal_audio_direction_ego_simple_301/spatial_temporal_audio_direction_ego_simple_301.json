@@ -1,0 +1,124 @@
+{
+    "event": "The other person is naming related tech destinations while discussing train routes.",
+    "start_time": "1:05",
+    "end_time": "1:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with blurred facial features, wearing a dark sweater over a light-colored collared shirt, blue jeans, and white socks. They are sitting on a light-colored couch. Approximate height while seated is around 1 meter. They are actively gesturing with their hands while speaking.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-75"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-85"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Straight Ahead",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:48": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"naming related tech destinations\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_301",
+    "video_id": "loc3_script3_seq2_rec1"
+}

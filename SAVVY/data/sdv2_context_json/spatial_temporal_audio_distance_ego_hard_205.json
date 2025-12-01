@@ -1,0 +1,107 @@
+{
+    "event": "The speech topic 'complimenting the home's beauty' comes up.",
+    "start_time": "0:09",
+    "end_time": "0:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Man, appears to be middle-aged, wearing a short-sleeved green polo shirt, blue denim jeans, and initially glasses (which he later removes around 1:52). He has a dark-colored wired earpiece in his right ear. Average height and build. His face is blurred in the video. He is mobile.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:09": {
+                "distance": "2.2",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:29": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "0:32": {
+                "distance": "6.5",
+                "direction": "-45"
+            },
+            "0:36": {
+                "distance": "6.5",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "0:43": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "0:51": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:02": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:11": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:20": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:40": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:52": {
+                "distance": "1.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the person, representing their point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable as the question is about distance to the other person, and the camera pans.",
+        "key_frames": {}
+    },
+    "prediction": 2.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"complimenting the home's beauty\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_205",
+    "video_id": "loc3_script2_seq1_rec1"
+}

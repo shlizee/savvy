@@ -1,0 +1,878 @@
+{
+    "00010": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -2.55,
+            "distance": 1.05,
+            "det_conf": [
+                0.5581644773483276,
+                0.45232823491096497,
+                0.5335147380828857,
+                0.5001622438430786,
+                0.5245983600616455
+            ]
+        }
+    },
+    "00140": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -1.93,
+            "distance": 2.38,
+            "det_conf": [
+                0.5063184499740601,
+                0.331351101398468,
+                0.07026287913322449,
+                0.27681344747543335,
+                0.20677681267261505
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 3.97,
+            "distance": 1.02,
+            "det_conf": [
+                0.5559309124946594,
+                0.6028974056243896,
+                0.482332319021225,
+                0.5738105177879333,
+                0.4131890833377838
+            ]
+        }
+    },
+    "00145": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 19.14,
+            "distance": 1.06,
+            "det_conf": [
+                0.501750111579895,
+                0.5524274706840515,
+                0.46558383107185364,
+                0.33540767431259155,
+                0.40450379252433777
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 0.12,
+            "distance": 1.03,
+            "det_conf": [
+                0.4825661778450012,
+                0.5085460543632507,
+                0.3380489647388458,
+                0.20520243048667908,
+                0.31599992513656616
+            ]
+        }
+    },
+    "00150": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 23.74,
+            "distance": 1.03,
+            "det_conf": [
+                0.5733942985534668,
+                0.4970037341117859,
+                0.4750526547431946,
+                0.5653212666511536,
+                0.43405789136886597
+            ]
+        }
+    },
+    "00155": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 36.12,
+            "distance": 1.25,
+            "det_conf": [
+                0.5752529501914978,
+                0.5755340456962585,
+                0.5127350091934204,
+                0.42990291118621826,
+                0.5296732187271118
+            ]
+        }
+    },
+    "00160": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 21.1,
+            "distance": 1.01,
+            "det_conf": [
+                0.4899318218231201,
+                0.5682762265205383,
+                0.43635496497154236,
+                0.4898533225059509,
+                0.5027111172676086
+            ]
+        }
+    },
+    "00165": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -0.65,
+            "distance": 1.0,
+            "det_conf": [
+                0.5004275441169739,
+                0.16758553683757782,
+                0.6421374678611755,
+                0.5090754628181458,
+                0.31021812558174133
+            ]
+        }
+    },
+    "00175": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 2.87,
+            "distance": 1.16,
+            "det_conf": [
+                0.3136771321296692,
+                0.512803316116333,
+                0.309812068939209,
+                0.03351891040802002,
+                0.07338928431272507
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 8.99,
+            "distance": 1.34,
+            "det_conf": [
+                0.5620038509368896,
+                0.5669999122619629,
+                0.5920554995536804,
+                0.5319626331329346,
+                0.5045280456542969
+            ]
+        }
+    },
+    "00180": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 6.84,
+            "distance": 1.21,
+            "det_conf": [
+                0.4603593945503235,
+                0.43508774042129517,
+                0.43212413787841797,
+                0.5085461735725403,
+                0.5163021087646484
+            ]
+        }
+    },
+    "00420": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": -13.48,
+            "distance": 1.05,
+            "det_conf": [
+                0.3316778242588043,
+                0.5022436380386353,
+                0.49350714683532715,
+                0.47978654503822327,
+                0.09351455420255661
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 13.5,
+            "distance": 1.36,
+            "det_conf": [
+                0.6606078147888184,
+                0.6323359608650208,
+                0.633400022983551,
+                0.5767873525619507,
+                0.3007540702819824
+            ]
+        }
+    },
+    "00425": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 8.65,
+            "distance": 1.0,
+            "det_conf": [
+                0.38084474205970764,
+                0.3980073630809784,
+                0.37694597244262695,
+                0.6547225713729858,
+                0.5200885534286499
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 14.6,
+            "distance": 1.4,
+            "det_conf": [
+                0.4710100591182709,
+                0.3754603862762451,
+                0.533184826374054,
+                0.4806753695011139,
+                0.5025330185890198
+            ]
+        }
+    },
+    "00430": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": -58.09,
+            "distance": 1.14,
+            "det_conf": [
+                0.38311633467674255,
+                0.20069807767868042,
+                0.5305392742156982,
+                0.13403354585170746,
+                0.3915766775608063
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 22.76,
+            "distance": 1.69,
+            "det_conf": [
+                0.6164465546607971,
+                0.5726193189620972,
+                0.5185917615890503,
+                0.4566163122653961,
+                0.2984841465950012
+            ]
+        }
+    },
+    "00435": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 26.23,
+            "distance": 1.56,
+            "det_conf": [
+                0.6857773065567017,
+                0.1518288254737854,
+                0.25267553329467773,
+                0.6390304565429688,
+                0.43938517570495605
+            ]
+        }
+    },
+    "00440": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 44.74,
+            "distance": 1.59,
+            "det_conf": [
+                0.326671838760376,
+                0.5340942144393921,
+                0.3559119403362274,
+                0.08471514284610748,
+                0.230461984872818
+            ]
+        },
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -69.9,
+            "distance": 1.54,
+            "det_conf": [
+                0.2889767587184906,
+                0.15225841104984283,
+                0.5220664143562317,
+                0.35895416140556335,
+                0.23231197893619537
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -3.91,
+            "distance": 1.0,
+            "det_conf": [
+                0.616978108882904,
+                0.6085829734802246,
+                0.5672687888145447,
+                0.5879006385803223,
+                0.4236288070678711
+            ]
+        }
+    },
+    "00460": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -69.0,
+            "distance": 3.33,
+            "det_conf": [
+                0.60443514585495,
+                0.5761927962303162,
+                0.24080166220664978,
+                0.5935947299003601,
+                0.5716083645820618
+            ]
+        }
+    },
+    "00680": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 4.2,
+            "distance": 1.0,
+            "det_conf": [
+                0.7216904759407043,
+                0.7187924385070801,
+                0.6789592504501343,
+                0.7512382864952087,
+                0.6675814390182495
+            ]
+        }
+    },
+    "00685": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -12.4,
+            "distance": 1.0,
+            "det_conf": [
+                0.7901512384414673,
+                0.7783926725387573,
+                0.8064405918121338,
+                0.7315603494644165,
+                0.6518409848213196
+            ]
+        }
+    },
+    "00690": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -5.22,
+            "distance": 1.0,
+            "det_conf": [
+                0.7054814696311951,
+                0.7377534508705139,
+                0.7541902661323547,
+                0.730832040309906,
+                0.70718914270401
+            ]
+        }
+    },
+    "00695": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -60.3,
+            "distance": 3.01,
+            "det_conf": [
+                0.07377791404724121,
+                0.280872106552124,
+                0.5135431885719299,
+                0.49826380610466003,
+                0.010054775513708591
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -12.89,
+            "distance": 1.0,
+            "det_conf": [
+                0.5611825585365295,
+                0.6162933111190796,
+                0.6088823676109314,
+                0.6758959889411926,
+                0.5142967700958252
+            ]
+        }
+    },
+    "00700": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -1.55,
+            "distance": 1.26,
+            "det_conf": [
+                0.0832807719707489,
+                0.05508739873766899,
+                0.060863446444272995,
+                0.5660002827644348,
+                0.02924373187124729
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -11.91,
+            "distance": 1.01,
+            "det_conf": [
+                0.6204404234886169,
+                0.5088851451873779,
+                0.49505892395973206,
+                0.38169190287590027,
+                0.6071062684059143
+            ]
+        }
+    },
+    "00705": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -9.56,
+            "distance": 1.05,
+            "det_conf": [
+                0.6405235528945923,
+                0.6136572360992432,
+                0.6443334221839905,
+                0.6106480956077576,
+                0.6134413480758667
+            ]
+        }
+    },
+    "00710": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -50.49,
+            "distance": 3.02,
+            "det_conf": [
+                0.630754828453064,
+                0.31203603744506836,
+                0.28566935658454895,
+                0.2293553352355957,
+                0.037982482463121414
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 2.09,
+            "distance": 1.0,
+            "det_conf": [
+                0.5214158892631531,
+                0.5655972361564636,
+                0.47098803520202637,
+                0.47967252135276794,
+                0.452364444732666
+            ]
+        }
+    },
+    "00715": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 64.95,
+            "distance": 1.04,
+            "det_conf": [
+                0.7125797271728516,
+                0.37843063473701477,
+                0.6663317680358887,
+                0.713626503944397,
+                0.1041981503367424
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -6.0,
+            "distance": 1.04,
+            "det_conf": [
+                0.5225458741188049,
+                0.11450579017400742,
+                0.17690643668174744,
+                0.19164177775382996,
+                0.0705358013510704
+            ]
+        }
+    },
+    "00720": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -0.2,
+            "distance": 1.0,
+            "det_conf": [
+                0.7071203589439392,
+                0.6479954719543457,
+                0.5797110795974731,
+                0.5895223021507263,
+                0.1859717220067978
+            ]
+        }
+    },
+    "00980": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -28.55,
+            "distance": 1.99,
+            "det_conf": [
+                0.673985481262207,
+                0.21009290218353271,
+                0.43914467096328735,
+                0.3982155919075012,
+                0.0436115488409996
+            ]
+        }
+    },
+    "00985": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 12.44,
+            "distance": 1.99,
+            "det_conf": [
+                0.12320050597190857,
+                0.1308719366788864,
+                0.39390164613723755,
+                0.6656929850578308,
+                0.7346723675727844
+            ]
+        },
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -58.65,
+            "distance": 1.85,
+            "det_conf": [
+                0.6785047650337219,
+                0.49533236026763916,
+                0.4673287868499756,
+                0.21352654695510864,
+                0.1648251712322235
+            ]
+        }
+    },
+    "00990": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 32.58,
+            "distance": 1.22,
+            "det_conf": [
+                0.684585690498352,
+                0.3173658847808838,
+                0.14536169171333313,
+                0.21905317902565002,
+                0.06410825997591019
+            ]
+        }
+    },
+    "00995": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -1.56,
+            "distance": 1.05,
+            "det_conf": [
+                0.5102902054786682,
+                0.48413336277008057,
+                0.4142739176750183,
+                0.49730437994003296,
+                0.16402272880077362
+            ]
+        }
+    },
+    "01000": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 6.4,
+            "distance": 1.09,
+            "det_conf": [
+                0.4851733148097992,
+                0.5055447816848755,
+                0.5002743601799011,
+                0.4692714810371399,
+                0.16595973074436188
+            ]
+        }
+    },
+    "01010": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -10.03,
+            "distance": 1.1,
+            "det_conf": [
+                0.5183915495872498,
+                0.4240553677082062,
+                0.4266461730003357,
+                0.37324345111846924,
+                0.48172527551651
+            ]
+        }
+    },
+    "01190": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -53.41,
+            "distance": 4.42,
+            "det_conf": [
+                0.7845600843429565,
+                0.590537428855896,
+                0.6028311848640442,
+                0.7415040731430054,
+                0.051101718097925186
+            ]
+        }
+    },
+    "01195": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -5.85,
+            "distance": 1.04,
+            "det_conf": [
+                0.46751657128334045,
+                0.4440649151802063,
+                0.4577175974845886,
+                0.507375955581665,
+                0.4620649516582489
+            ]
+        }
+    },
+    "01200": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": -57.52,
+            "distance": 1.04,
+            "det_conf": [
+                0.5393486618995667,
+                0.5272087454795837,
+                0.1515914648771286,
+                0.15980428457260132,
+                0.09257001429796219
+            ]
+        }
+    },
+    "01210": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -52.87,
+            "distance": 2.37,
+            "det_conf": [
+                0.2974581718444824,
+                0.6078753471374512,
+                0.4397442638874054,
+                0.568658709526062,
+                0.23216217756271362
+            ]
+        }
+    },
+    "01215": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 7.38,
+            "distance": 1.06,
+            "det_conf": [
+                0.5550296306610107,
+                0.4905741512775421,
+                0.5244420170783997,
+                0.49767595529556274,
+                0.4491052031517029
+            ]
+        }
+    },
+    "01480": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -60.44,
+            "distance": 4.68,
+            "det_conf": [
+                0.36494314670562744,
+                0.5313104391098022,
+                0.4618511497974396,
+                0.4171648919582367,
+                0.04460763558745384
+            ]
+        }
+    },
+    "01485": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 3.6,
+            "distance": 1.01,
+            "det_conf": [
+                0.6109995245933533,
+                0.8052790760993958,
+                0.769203782081604,
+                0.8070962429046631,
+                0.7677507400512695
+            ]
+        },
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -52.93,
+            "distance": 3.06,
+            "det_conf": [
+                0.1062731146812439,
+                0.53898686170578,
+                0.103590227663517,
+                0.07005167752504349,
+                0.031220732256770134
+            ]
+        }
+    },
+    "01510": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -66.14,
+            "distance": 3.27,
+            "det_conf": [
+                0.6632788777351379,
+                0.593187153339386,
+                0.44577857851982117,
+                0.39515477418899536,
+                0.38179928064346313
+            ]
+        }
+    },
+    "01780": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -2.71,
+            "distance": 1.05,
+            "det_conf": [
+                0.09456118196249008,
+                0.09454725682735443,
+                0.06673049926757812,
+                0.5176745653152466,
+                0.06924910843372345
+            ]
+        }
+    },
+    "01785": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -54.75,
+            "distance": 4.57,
+            "det_conf": [
+                0.5919408202171326,
+                0.35856321454048157,
+                0.05825863778591156,
+                0.21317806839942932,
+                0.054838571697473526
+            ]
+        }
+    },
+    "01805": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -55.58,
+            "distance": 4.78,
+            "det_conf": [
+                0.49923375248908997,
+                0.505255937576294,
+                0.330336332321167,
+                0.45363497734069824,
+                0.07445024698972702
+            ]
+        }
+    },
+    "01820": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -16.65,
+            "distance": 2.86,
+            "det_conf": [
+                0.047091227024793625,
+                0.10683547705411911,
+                0.6066195964813232,
+                0.1759134829044342,
+                0.10554509609937668
+            ]
+        }
+    },
+    "02140": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": 15.07,
+            "distance": 4.61,
+            "det_conf": [
+                0.4905278980731964,
+                0.5817884802818298,
+                0.32168248295783997,
+                0.04809131473302841,
+                0.08653673529624939
+            ]
+        }
+    },
+    "02150": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -11.35,
+            "distance": 1.45,
+            "det_conf": [
+                0.04627275839447975,
+                0.05846325308084488,
+                0.5662168860435486,
+                0.5348308682441711,
+                0.21814829111099243
+            ]
+        }
+    },
+    "02155": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": -19.27,
+            "distance": 4.7,
+            "det_conf": [
+                0.5356128215789795,
+                0.07051379978656769,
+                0.031215675175189972,
+                0.02425922267138958,
+                0.08882471174001694
+            ]
+        }
+    },
+    "02160": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": 55.57,
+            "distance": 3.82,
+            "det_conf": [
+                0.5165666341781616,
+                0.15891128778457642,
+                0.2355840802192688,
+                0.29017212986946106,
+                0.14582671225070953
+            ]
+        }
+    },
+    "02165": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": 51.02,
+            "distance": 4.37,
+            "det_conf": [
+                0.6464065909385681,
+                0.6038979887962341,
+                0.06098119914531708,
+                0.1810540109872818,
+                0.0476357527077198
+            ]
+        }
+    },
+    "02595": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 22.62,
+            "distance": 1.24,
+            "det_conf": [
+                0.5298779010772705,
+                0.30681177973747253,
+                0.23518972098827362,
+                0.23577749729156494,
+                0.2595202922821045
+            ]
+        },
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": 53.12,
+            "distance": 2.65,
+            "det_conf": [
+                0.4582537114620209,
+                0.644044816493988,
+                0.6164998412132263,
+                0.20905841886997223,
+                0.11517585813999176
+            ]
+        }
+    },
+    "02600": {
+        "The robot's location is 'by the gray reclining lounge chair with ottoman'. This chair is not visible in the video. Its position is assumed to be in the living area, likely to the camera's left (if the camera were to pan left from its view of the dining table), and oriented such that the robot can face the dining table. For the purpose of this analysis, the robot is at the location of this chair.": {
+            "direction": 10.27,
+            "distance": 2.49,
+            "det_conf": [
+                0.3452680706977844,
+                0.2527046203613281,
+                0.5175490975379944,
+                0.0717519223690033,
+                0.38612082600593567
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -6.95,
+            "distance": 1.18,
+            "det_conf": [
+                0.5408690571784973,
+                0.48099905252456665,
+                0.14222870767116547,
+                0.39852771162986755,
+                0.36048567295074463
+            ]
+        }
+    },
+    "02605": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": -3.78,
+            "distance": 1.06,
+            "det_conf": [
+                0.537918746471405,
+                0.4956505596637726,
+                0.4844140112400055,
+                0.5029928088188171,
+                0.2325613796710968
+            ]
+        }
+    },
+    "02610": {
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 9.37,
+            "distance": 1.09,
+            "det_conf": [
+                0.5367749929428101,
+                0.5567737817764282,
+                0.523497998714447,
+                0.25996968150138855,
+                0.34088853001594543
+            ]
+        }
+    },
+    "02615": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": 6.69,
+            "distance": 1.9,
+            "det_conf": [
+                0.5189900398254395,
+                0.340512216091156,
+                0.06521300226449966,
+                0.5412500500679016,
+                0.5095781683921814
+            ]
+        },
+        "A large, light-colored wooden rectangular dining table where the Connect Four game is being played. It is situated in front of large windows.": {
+            "direction": 6.38,
+            "distance": 1.07,
+            "det_conf": [
+                0.5723562240600586,
+                0.5809926390647888,
+                0.25337639451026917,
+                0.373262882232666,
+                0.3184031844139099
+            ]
+        }
+    },
+    "02620": {
+        "The woman playing Connect Four. She has long dark hair, is wearing a yellow sleeveless top over a white t-shirt, and sunglasses on her head. She is sitting at the dining table across from the camera.": {
+            "direction": -26.04,
+            "distance": 1.43,
+            "det_conf": [
+                0.3955416679382324,
+                0.5390372276306152,
+                0.32012516260147095,
+                0.06892950087785721,
+                0.05261312052607536
+            ]
+        }
+    }
+}

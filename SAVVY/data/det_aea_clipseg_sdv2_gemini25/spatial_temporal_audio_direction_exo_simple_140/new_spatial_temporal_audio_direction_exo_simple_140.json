@@ -1,0 +1,176 @@
+{
+    "event": "The speech topic: \"describing popcorn as pre-fired\" (interpreted as \"pretty fire\") comes up.",
+    "start_time": "0:42",
+    "end_time": "0:43",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved polo shirt, khaki shorts, glasses, and a wired earpiece/microphone. He appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "5"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:37": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:09": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "1:18": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:21": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "1:36": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "1:39": {
+                "distance": "0.8",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "electric cooktop",
+        "description": "A flat, black, likely glass-ceramic rectangular surface built into the kitchen island countertop. From the camera's perspective viewing the length of the island, it is on the right side of the island.",
+        "key_frames": {
+            "0:17": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:19": {
+                "distance": "3.8",
+                "direction": "20"
+            },
+            "0:22": {
+                "distance": "4.0",
+                "direction": "20"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "0:37": {
+                "distance": "3.2",
+                "direction": "5"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:04": {
+                "distance": "3.8",
+                "direction": "15"
+            },
+            "1:23": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "double-basin rectangular sink and tap",
+        "description": "A stainless steel double-basin sink with a metallic tap, built into the kitchen island countertop. From the camera's perspective viewing the length of the island, it is on the left side of the island.",
+        "key_frames": {
+            "0:17": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "3.2",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "0:25": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:34": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:37": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "1:04": {
+                "distance": "3.2",
+                "direction": "-5"
+            },
+            "1:23": {
+                "distance": "3.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the double-basin rectangular sink and tap, when the speech topic: \"describing popcorn as pre-fired\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_140",
+    "video_id": "loc2_script2_seq4_rec1"
+}

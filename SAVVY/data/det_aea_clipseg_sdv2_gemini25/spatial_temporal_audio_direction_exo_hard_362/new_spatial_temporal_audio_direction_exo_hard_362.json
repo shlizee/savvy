@@ -1,0 +1,100 @@
+{
+    "event": "A person asks about purchasing fruit, and their location is determined relative to a hypothetical robot standing by a coffee table and facing a window.",
+    "start_time": "0:31",
+    "end_time": "0:32",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is Person 1, the individual holding the camera. They have a male voice. Their physical appearance is not directly visible in the video as they are operating the camera. During the event at 0:31-0:32, they are seated in a beige armchair in the living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A low, rectangular wooden coffee table, light to medium brown. It has various items on it, including books/magazines, coasters, and remotes. Positioned in front of the sofas where the people are seated.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with balcony view",
+        "description": "Large floor-to-ceiling windows and sliding glass doors that span much of the wall opposite the seating area. They offer an outdoor view of trees and a bright sky, and lead to a balcony.",
+        "key_frames": {
+            "0:00": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "3.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the window with a balcony view, when the speech topic: \"asking about purchasing fruit\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_362",
+    "video_id": "loc3_script3_seq2_rec1"
+}

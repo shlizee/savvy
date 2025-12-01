@@ -1,0 +1,123 @@
+{
+    "event": "The distance between the camera wearer and the other person when the speech topic 'specifying grabbing a particular plate' comes up.",
+    "start_time": "0:21",
+    "end_time": "0:24",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is an adult male with curly dark hair, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. He also has a wired earpiece in his left ear. His face is blurred for privacy.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "0:19": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "0:22": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:34": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "1:02": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:10": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:20": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:40": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:01": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "4:05": {
+                "distance": "2.0",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "None",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"specifying grabbing a particular plate\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_173",
+    "video_id": "loc2_script3_seq4_rec1"
+}

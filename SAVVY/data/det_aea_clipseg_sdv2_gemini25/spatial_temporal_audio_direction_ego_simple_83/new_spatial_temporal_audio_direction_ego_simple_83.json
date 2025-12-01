@@ -1,0 +1,108 @@
+{
+    "event": "Guest makes specific requests about their drink, implying an expectation of service.",
+    "start_time": "0:34",
+    "end_time": "0:38",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The guest. A male wearing a white short-sleeved t-shirt and light blue shorts. He has short dark hair and is wearing glasses. He is barefoot. Approximate height appears average, medium build.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:22": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:34": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "1:13": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "1:35": {
+                "distance": "1.8",
+                "direction": "15"
+            },
+            "1:56": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "2:05": {
+                "distance": "1.8",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person holding the camera, presumably the host. Their hands are occasionally visible, one with a gold-colored watch, holding a black rectangular power bank and a smartphone. They are wearing grey pants and a light blue/teal t-shirt.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Direction Camera is Facing",
+        "description": "The general forward view from the camera's perspective. During the event (0:34-0:38), this includes parts of the living room, primarily the coffee table, and the guest sitting on the couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"requesting faster service\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_83",
+    "video_id": "loc2_script2_seq1_rec2"
+}

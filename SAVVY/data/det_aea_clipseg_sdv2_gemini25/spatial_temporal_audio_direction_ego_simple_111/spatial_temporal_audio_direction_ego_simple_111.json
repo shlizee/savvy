@@ -1,0 +1,172 @@
+{
+    "event": "The other person is instructing the camera wearer to stir coffee.",
+    "start_time": "1:09",
+    "end_time": "1:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, wearing a light teal short-sleeved polo shirt, khaki shorts, and glasses. He has short, dark hair and is wearing a black wired earpiece in his right ear. Approx 1.7-1.8m tall.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "0:32": {
+                "distance": "3.8",
+                "direction": "55"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:09": {
+                "distance": "0.7",
+                "direction": "5"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "1.8",
+                "direction": "30"
+            },
+            "1:38": {
+                "distance": "1.2",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person whose perspective the video is from. Their hands are often visible holding objects or interacting with the environment. Wearing a light blue t-shirt.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Center of Camera Gaze",
+        "description": "The point in the scene that aligns with the camera's central axis (0 degrees direction).",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:04": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:32": {
+                "distance": "3.8",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:27": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:38": {
+                "distance": "1.2",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"instructing to stir coffee\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_111",
+    "video_id": "loc2_script2_seq4_rec1"
+}

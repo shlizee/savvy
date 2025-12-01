@@ -1,0 +1,77 @@
+{
+    "event": "Speaker says 'Hi Thomas'",
+    "start_time": "0:16",
+    "end_time": "0:17",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Male, wearing a light blue/teal t-shirt, khaki shorts, white socks, and sneakers. Average build, short brown hair. Appears to be an adult.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "7",
+                "direction": "-55"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-65"
+            },
+            "0:16": {
+                "distance": "5",
+                "direction": "-70"
+            },
+            "0:20": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "0:28": {
+                "distance": "3",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "3",
+                "direction": "-35"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "rectangle wooden coffee table",
+        "description": "A rectangular coffee table, covered with a light blue and white patterned tablecloth with colorful confetti-like speckles. It has visible metal legs/frame. Various snacks (bowls of pretzels, watermelon) and drink cans are on its surface.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"greeting thomas\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_184",
+    "video_id": "loc2_script3_seq1_rec2"
+}

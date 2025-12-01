@@ -1,0 +1,107 @@
+{
+    "event": "Speech topic 'describing placing items down' comes up, specifically the utterance 'Alright, so I just set them down in there.'",
+    "start_time": "0:12",
+    "end_time": "0:13",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, average height and build. Wearing a light blue/teal short-sleeved collared shirt, khaki shorts. He has short, light-colored hair (possibly thinning on top), wears glasses, white socks, and light-colored sneakers.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "5.5",
+                "direction": "-10"
+            },
+            "0:01": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "5.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "5.5",
+                "direction": "10"
+            },
+            "0:04": {
+                "distance": "5.5",
+                "direction": "-70"
+            },
+            "0:12": {
+                "distance": "5.5",
+                "direction": "-20"
+            },
+            "0:13": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "0:15": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "4.0",
+                "direction": "-5"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:18": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person view camera, representing the ego-perspective. Directions of other objects are relative to its line of sight.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable as the reference object is the camera and directions are relative to its instantaneous view. The instruction states 'empty for camera'.",
+        "key_frames": {}
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing placing items down\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_157",
+    "video_id": "loc2_script3_seq1_rec2"
+}

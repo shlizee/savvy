@@ -1,0 +1,152 @@
+{
+    "event": "A person is commenting on an item fitting into a container.",
+    "start_time": "0:53",
+    "end_time": "0:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Michael: An adult male with curly dark hair, wearing a grey short-sleeved polo shirt and dark shorts. He is initially seated at a table, then moves to the kitchen counter.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:32": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "0:56": {
+                "distance": "0.7",
+                "direction": "35"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "30"
+            },
+            "2:11": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "2:17": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:25": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:37": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:46": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:06": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:26": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:37": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "3:42": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with a pool view",
+        "description": "A large set of multi-panel sliding glass doors/windows making up the exterior wall of the kitchen, offering a clear view of an outdoor pool and patio area. The kitchen counter is situated directly in front of this window.",
+        "is_static": true,
+        "key_frames": {
+            "0:08": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "75"
+            },
+            "0:48": {
+                "distance": "0.8",
+                "direction": "80"
+            },
+            "0:56": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "1:14": {
+                "distance": "0.8",
+                "direction": "75"
+            },
+            "1:25": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "1:36": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "2:05": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "2:32": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "2:43": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "3:31": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "3:42": {
+                "distance": "1.5",
+                "direction": "45"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Not Applicable",
+        "description": "The question asks for the distance between two objects, not a direction from a reference point.",
+        "key_frames": {}
+    },
+    "prediction": 0.4,
+    "question": "When the speech topic: \"commenting on item fitting\" is mentioned, what is the distance between the window with a pool view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_222",
+    "video_id": "loc2_script3_seq5_rec2"
+}

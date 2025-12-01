@@ -1,0 +1,186 @@
+{
+    "event": "Speech topic: recognizing personal need to clean up, specifically when the phrase 'Yeah, let's clean this up' is spoken.",
+    "start_time": "0:03",
+    "end_time": "0:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The speech sound source is a person (Person A) with a blurred face, wearing a light-colored t-shirt and light blue/grey shorts, seated at a large wooden table. Appears to be an adult male. This is the person who says 'Yeah, let's clean this up.'",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A circular, stainless steel undermount sink with a metallic gooseneck tap. It is installed in a light-colored (beige/grey speckled) granite or quartz countertop on a kitchen island. The sink bowl diameter is approximately 0.4-0.5 meters.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.8",
+                "direction": "25"
+            },
+            "0:01": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:03": {
+                "distance": "2.2",
+                "direction": "50"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:22": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:38": {
+                "distance": "2.2",
+                "direction": "35"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:59": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "1:04": {
+                "distance": "2.8",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Person A (Speech Sound Source)",
+        "description": "The person (Person A) who is the speech sound source. Details same as 'sounding_object'. This is the object one would face if standing at the 'reference_object' (sink).",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:08": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:22": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "1.1",
+                "direction": "5"
+            },
+            "0:38": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.0,
+    "question": "When the speech topic: \"recognizing personal need to clean up\" is mentioned, what is the distance between the round sink with a tap and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_140",
+    "video_id": "loc2_script2_seq6_rec2"
+}

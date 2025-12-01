@@ -1,0 +1,107 @@
+{
+    "event": "The camera wearer compliments a 'goat' item, asking for the distance to the other person at this time.",
+    "start_time": "0:48",
+    "end_time": "0:50",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male, wearing a light blue polo shirt, khaki shorts, short brown hair, and glasses. He is also wearing wired earbuds. Approximate height 1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "4.0",
+                "direction": "-20"
+            },
+            "0:16": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:23": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:44": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "0:48": {
+                "distance": "6.5",
+                "direction": "-10"
+            },
+            "1:09": {
+                "distance": "5.0",
+                "direction": "-15"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "1:45": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "2:10": {
+                "distance": "0.7",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, sitting on a couch during the event. Wearing blue shorts.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A for egocentric mode where camera is the reference.",
+        "key_frames": {}
+    },
+    "prediction": 6.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"complimenting a goal item\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_46",
+    "video_id": "loc2_script2_seq1_rec1"
+}

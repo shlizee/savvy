@@ -1,0 +1,120 @@
+{
+    "event": "The camera wearer requests faster service from the other person.",
+    "start_time": "0:44",
+    "end_time": "0:45",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The camera wearer, whose hands and legs are sometimes visible. The voice is male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, from whose perspective the video is shot.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:12": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A male wearing a light blue short-sleeved polo shirt, khaki cargo shorts, and white sneakers. He has short brown hair and is wearing glasses. He also has wired earphones in.",
+        "key_frames": {
+            "0:05": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "0:22": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "4.0",
+                "direction": "-15"
+            },
+            "0:44": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "1:09": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:12": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:14": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "1.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": 5.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"requesting faster service\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_45",
+    "video_id": "loc2_script2_seq1_rec1"
+}

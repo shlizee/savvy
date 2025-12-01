@@ -1,0 +1,120 @@
+{
+    "event": "The speech topic: \"reaffirming uncertainty about flavor\" comes up, specifically when the camera wearer says \"I don't know man, you get what you get.\"",
+    "start_time": "0:29",
+    "end_time": "0:31",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene. A male, wearing a light-colored (white or light beige) t-shirt and light blue shorts. He has short dark hair and is barefoot. He appears to be of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:10": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "2.2",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "2.2",
+                "direction": "-15"
+            },
+            "0:29": {
+                "distance": "2.1",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "2.1",
+                "direction": "-5"
+            },
+            "0:35": {
+                "distance": "2.1",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:12": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "15"
+            },
+            "1:20": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:56": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:11": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera itself, representing the viewpoint of the camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The camera is generally facing the other person during the specified event.",
+        "key_frames": {
+            "0:29": {
+                "distance": "2.1",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": 2.1,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"reaffirming uncertainty about flavor\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_51",
+    "video_id": "loc2_script2_seq1_rec2"
+}

@@ -1,0 +1,128 @@
+{
+    "event": "The other person inquires about an item's location and states they put away the butter.",
+    "start_time": "0:59",
+    "end_time": "1:01",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with dark, curly hair, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. They also have headphones around their neck.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:31": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:49": {
+                "distance": "1.0",
+                "direction": "60"
+            },
+            "0:59": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "1:01": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "1:11": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "2:11": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "2:17": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:37": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "2:46": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:05": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:13": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:20": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:27": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:37": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "3:42": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "3:47": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "3:48": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is facing.",
+        "key_frames": {
+            "0:59": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"inquiring about item location and stating placement near butter\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_234",
+    "video_id": "loc2_script3_seq5_rec2"
+}

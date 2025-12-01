@@ -1,0 +1,115 @@
+{
+    "event": "The other person suggests watching the current YouTube video for its full duration, implying it's worthwhile despite its length.",
+    "start_time": "0:34",
+    "end_time": "0:42",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a green short-sleeved polo shirt and blue jeans. He has short dark hair and is wearing glasses. He is seated on a couch to the left of the camera wearer.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:25": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:15": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:23": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:35": {
+                "distance": "0.8",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is initially at a table and then moves to sit on a couch.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:42": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "None",
+        "description": "Not applicable as the reference is the camera itself.",
+        "key_frames": {}
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"suggesting watching current video longer\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_275",
+    "video_id": "loc3_script2_seq7_rec2"
+}

@@ -1,0 +1,192 @@
+{
+    "event": "The other person is joking about the camera wearer being on a one-pretzel diet.",
+    "start_time": "0:20",
+    "end_time": "0:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with long dark brown hair, wearing a black short-sleeved V-neck top, light blue jeans with a black belt, and is barefoot. They are also wearing glasses. Approximate height appears to be around 1.6-1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:09": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:22": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:58": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:22": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:27": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer, whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A person with long dark brown hair, wearing a black short-sleeved V-neck top, light blue jeans with a black belt, and is barefoot. They are also wearing glasses. Approximate height appears to be around 1.6-1.7 meters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:09": {
+                "distance": "1.2",
+                "direction": "-70"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:15": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:22": {
+                "distance": "0.9",
+                "direction": "-45"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:34": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:58": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "1:08": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:13": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:22": {
+                "distance": "2.5",
+                "direction": "-5"
+            },
+            "1:27": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"joking about a one-pretzel diet\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_66",
+    "video_id": "loc1_script2_seq8_rec1"
+}

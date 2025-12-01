@@ -1,0 +1,160 @@
+{
+    "event": "Speaker expresses confidence in food outcome.",
+    "start_time": "2:02",
+    "end_time": "2:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (Cam), the person holding the camera. His voice is heard. His hand is occasionally visible (light-skinned). He is wearing a watch on his left wrist. His physical appearance is mostly obscured as he is operating the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:27": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "2:58": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, flat electric cooktop, likely ceramic glass, built into a kitchen island/peninsula with a granite countertop. It has multiple burners, with red indicator lights when on. Approximate size 0.8m x 0.5m.",
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:26": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:53": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "Double-basin sink, appears to be black or dark grey composite/stone material, rectangular basins. Modern gooseneck tap, metallic finish. Located on a main counter run with granite countertop and tiled backsplash.",
+        "key_frames": {
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:09": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:07": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:42": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "2:58": {
+                "distance": "1.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the double-basin rectangular sink and tap, when the speech topic: \"expressing confidence in food outcome\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_247",
+    "video_id": "loc2_script3_seq34_rec2"
+}

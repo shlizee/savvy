@@ -1,0 +1,974 @@
+{
+    "00000": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -35.34,
+            "distance": 4.14,
+            "det_conf": [
+                0.621680736541748,
+                0.5618628263473511,
+                0.5103515386581421,
+                0.38506171107292175,
+                0.354001522064209
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 15.05,
+            "distance": 1.77,
+            "det_conf": [
+                0.13108880817890167,
+                0.44602879881858826,
+                0.43684372305870056,
+                0.2217538207769394,
+                0.5278324484825134
+            ]
+        }
+    },
+    "00005": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 23.01,
+            "distance": 3.72,
+            "det_conf": [
+                0.35659143328666687,
+                0.36916011571884155,
+                0.3678070604801178,
+                0.21284119784832,
+                0.6168345212936401
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 43.01,
+            "distance": 1.05,
+            "det_conf": [
+                0.603152334690094,
+                0.5981050729751587,
+                0.5390395522117615,
+                0.6068983674049377,
+                0.21143904328346252
+            ]
+        }
+    },
+    "00010": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -52.31,
+            "distance": 2.64,
+            "det_conf": [
+                0.45594462752342224,
+                0.46258485317230225,
+                0.5967656970024109,
+                0.5968520641326904,
+                0.4776272773742676
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 41.07,
+            "distance": 1.13,
+            "det_conf": [
+                0.35391584038734436,
+                0.5480661392211914,
+                0.5495559573173523,
+                0.5243324041366577,
+                0.2410353273153305
+            ]
+        }
+    },
+    "00015": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -35.62,
+            "distance": 4.42,
+            "det_conf": [
+                0.6358921527862549,
+                0.6271117329597473,
+                0.45755407214164734,
+                0.6066537499427795,
+                0.6103984117507935
+            ]
+        }
+    },
+    "00020": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -36.91,
+            "distance": 4.0,
+            "det_conf": [
+                0.20299042761325836,
+                0.39485591650009155,
+                0.5541382431983948,
+                0.6101442575454712,
+                0.615251898765564
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 40.52,
+            "distance": 1.04,
+            "det_conf": [
+                0.5314877033233643,
+                0.5111088752746582,
+                0.47902050614356995,
+                0.48074206709861755,
+                0.35866788029670715
+            ]
+        }
+    },
+    "00180": {
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -11.47,
+            "distance": 2.49,
+            "det_conf": [
+                0.631574273109436,
+                0.7395865321159363,
+                0.7500246167182922,
+                0.7699782252311707,
+                0.8306442499160767
+            ]
+        }
+    },
+    "00185": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 19.25,
+            "distance": 3.08,
+            "det_conf": [
+                0.549320638179779,
+                0.5177729725837708,
+                0.511005699634552,
+                0.5435014367103577,
+                0.21094155311584473
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -12.8,
+            "distance": 2.23,
+            "det_conf": [
+                0.7997578978538513,
+                0.7246090173721313,
+                0.821849524974823,
+                0.7355456948280334,
+                0.6773363947868347
+            ]
+        }
+    },
+    "00190": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 16.63,
+            "distance": 2.8,
+            "det_conf": [
+                0.45826655626296997,
+                0.41884785890579224,
+                0.4544452726840973,
+                0.3907642960548401,
+                0.5529672503471375
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -14.32,
+            "distance": 2.28,
+            "det_conf": [
+                0.8475325703620911,
+                0.6451085805892944,
+                0.7664152383804321,
+                0.751670777797699,
+                0.8118868470191956
+            ]
+        }
+    },
+    "00195": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -9.75,
+            "distance": 3.36,
+            "det_conf": [
+                0.42167404294013977,
+                0.5576186776161194,
+                0.4340786337852478,
+                0.5233808755874634,
+                0.5120293498039246
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -19.09,
+            "distance": 2.02,
+            "det_conf": [
+                0.7585727572441101,
+                0.8068880438804626,
+                0.8097597360610962,
+                0.7655678391456604,
+                0.6863017082214355
+            ]
+        }
+    },
+    "00200": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -22.02,
+            "distance": 1.79,
+            "det_conf": [
+                0.6444887518882751,
+                0.6499308347702026,
+                0.5309175252914429,
+                0.5216699242591858,
+                0.47082382440567017
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -22.03,
+            "distance": 1.63,
+            "det_conf": [
+                0.8017759323120117,
+                0.835729718208313,
+                0.7623537182807922,
+                0.8546590805053711,
+                0.8299249410629272
+            ]
+        }
+    },
+    "00205": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 7.76,
+            "distance": 2.6,
+            "det_conf": [
+                0.620020866394043,
+                0.6170102953910828,
+                0.6305456161499023,
+                0.46510449051856995,
+                0.46665558218955994
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -3.18,
+            "distance": 1.67,
+            "det_conf": [
+                0.7699726819992065,
+                0.7203068137168884,
+                0.5061925053596497,
+                0.15791788697242737,
+                0.19614902138710022
+            ]
+        }
+    },
+    "00210": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 64.64,
+            "distance": 3.91,
+            "det_conf": [
+                0.5565833449363708,
+                0.5255075693130493,
+                0.48649489879608154,
+                0.4665898084640503,
+                0.4685834050178528
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -17.49,
+            "distance": 1.58,
+            "det_conf": [
+                0.7770208120346069,
+                0.708966851234436,
+                0.7244681715965271,
+                0.6638265252113342,
+                0.7245761156082153
+            ]
+        }
+    },
+    "00215": {
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 39.17,
+            "distance": 1.68,
+            "det_conf": [
+                0.7021580338478088,
+                0.6580380201339722,
+                0.5696832537651062,
+                0.6184638142585754,
+                0.762728214263916
+            ]
+        }
+    },
+    "00220": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -10.22,
+            "distance": 4.62,
+            "det_conf": [
+                0.5210482478141785,
+                0.46616825461387634,
+                0.5453341603279114,
+                0.42735737562179565,
+                0.3078431487083435
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 38.14,
+            "distance": 1.37,
+            "det_conf": [
+                0.6441088318824768,
+                0.5710886716842651,
+                0.5287590026855469,
+                0.5776125192642212,
+                0.5780131816864014
+            ]
+        }
+    },
+    "00310": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -5.6,
+            "distance": 4.05,
+            "det_conf": [
+                0.5755266547203064,
+                0.5962746739387512,
+                0.6244153380393982,
+                0.12990915775299072,
+                0.5861808657646179
+            ]
+        }
+    },
+    "00320": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 73.84,
+            "distance": 2.0,
+            "det_conf": [
+                0.7391136884689331,
+                0.8336760997772217,
+                0.6517124176025391,
+                0.8225148916244507,
+                0.768757700920105
+            ]
+        }
+    },
+    "00330": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 68.51,
+            "distance": 1.43,
+            "det_conf": [
+                0.5296009182929993,
+                0.5528261065483093,
+                0.2793116569519043,
+                0.18917569518089294,
+                0.5317562222480774
+            ]
+        },
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 49.15,
+            "distance": 2.44,
+            "det_conf": [
+                0.706616997718811,
+                0.724248468875885,
+                0.7818243503570557,
+                0.2777647376060486,
+                0.4234708249568939
+            ]
+        }
+    },
+    "00340": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 38.87,
+            "distance": 2.11,
+            "det_conf": [
+                0.6357740163803101,
+                0.475824773311615,
+                0.44103309512138367,
+                0.3577231466770172,
+                0.6540846824645996
+            ]
+        }
+    },
+    "00620": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -22.82,
+            "distance": 4.93,
+            "det_conf": [
+                0.8845950961112976,
+                0.8853461742401123,
+                0.8471798300743103,
+                0.8832001686096191,
+                0.8691320419311523
+            ]
+        }
+    },
+    "00630": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 55.42,
+            "distance": 5.28,
+            "det_conf": [
+                0.7739362716674805,
+                0.6695231199264526,
+                0.8343390226364136,
+                0.7662923336029053,
+                0.7612009048461914
+            ]
+        }
+    },
+    "00640": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 9.04,
+            "distance": 2.0,
+            "det_conf": [
+                0.6612691879272461,
+                0.6983603239059448,
+                0.6467595100402832,
+                0.6122496724128723,
+                0.4698423743247986
+            ]
+        },
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 21.64,
+            "distance": 2.49,
+            "det_conf": [
+                0.555501401424408,
+                0.590506911277771,
+                0.5906744003295898,
+                0.4586324691772461,
+                0.6269658803939819
+            ]
+        }
+    },
+    "00940": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 64.43,
+            "distance": 1.0,
+            "det_conf": [
+                0.47845128178596497,
+                0.5003043413162231,
+                0.45852598547935486,
+                0.4741361737251282,
+                0.5122413635253906
+            ]
+        }
+    },
+    "00960": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -1.2,
+            "distance": 3.6,
+            "det_conf": [
+                0.5165003538131714,
+                0.48920321464538574,
+                0.5450382232666016,
+                0.536557137966156,
+                0.4604557156562805
+            ]
+        }
+    },
+    "00965": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -3.84,
+            "distance": 3.74,
+            "det_conf": [
+                0.5313187837600708,
+                0.5761181712150574,
+                0.5214940905570984,
+                0.6288200616836548,
+                0.6363336443901062
+            ]
+        }
+    },
+    "00970": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -0.4,
+            "distance": 2.48,
+            "det_conf": [
+                0.1320193111896515,
+                0.14447836577892303,
+                0.5988350510597229,
+                0.08732714504003525,
+                0.24327458441257477
+            ]
+        }
+    },
+    "00975": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 23.48,
+            "distance": 3.54,
+            "det_conf": [
+                0.47301313281059265,
+                0.7746432423591614,
+                0.7774093151092529,
+                0.3990827202796936,
+                0.7408542037010193
+            ]
+        }
+    },
+    "00980": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 4.63,
+            "distance": 3.78,
+            "det_conf": [
+                0.7431796789169312,
+                0.7775090932846069,
+                0.7689923644065857,
+                0.19625002145767212,
+                0.7699835896492004
+            ]
+        }
+    },
+    "00990": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 13.24,
+            "distance": 3.11,
+            "det_conf": [
+                0.5813754796981812,
+                0.5536251664161682,
+                0.529095470905304,
+                0.4603169858455658,
+                0.6719732880592346
+            ]
+        }
+    },
+    "01000": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -1.48,
+            "distance": 2.44,
+            "det_conf": [
+                0.7624613642692566,
+                0.7623711824417114,
+                0.36668291687965393,
+                0.7753947377204895,
+                0.21551893651485443
+            ]
+        }
+    },
+    "01010": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 11.81,
+            "distance": 2.38,
+            "det_conf": [
+                0.6682795286178589,
+                0.7094136476516724,
+                0.702272355556488,
+                0.6665778756141663,
+                0.5288557410240173
+            ]
+        }
+    },
+    "01020": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 5.0,
+            "distance": 2.58,
+            "det_conf": [
+                0.6414519548416138,
+                0.562362790107727,
+                0.645740270614624,
+                0.5813118815422058,
+                0.4001743793487549
+            ]
+        }
+    },
+    "01920": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 2.61,
+            "distance": 3.14,
+            "det_conf": [
+                0.4156078100204468,
+                0.7506952285766602,
+                0.5263971090316772,
+                0.7640283703804016,
+                0.7663028836250305
+            ]
+        }
+    },
+    "01925": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 16.19,
+            "distance": 3.79,
+            "det_conf": [
+                0.7510408163070679,
+                0.7424070239067078,
+                0.7051434516906738,
+                0.555433452129364,
+                0.7300803661346436
+            ]
+        }
+    },
+    "01930": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 35.06,
+            "distance": 3.82,
+            "det_conf": [
+                0.7193904519081116,
+                0.7443500757217407,
+                0.733162522315979,
+                0.7345716953277588,
+                0.7165546417236328
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -37.39,
+            "distance": 1.24,
+            "det_conf": [
+                0.5520901679992676,
+                0.48970067501068115,
+                0.5924782752990723,
+                0.653803825378418,
+                0.17712122201919556
+            ]
+        }
+    },
+    "01935": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 39.31,
+            "distance": 3.15,
+            "det_conf": [
+                0.6980741620063782,
+                0.43333420157432556,
+                0.7901474833488464,
+                0.7161360383033752,
+                0.7398768067359924
+            ]
+        }
+    },
+    "01940": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 3.63,
+            "distance": 2.77,
+            "det_conf": [
+                0.7549882531166077,
+                0.8069799542427063,
+                0.8088238835334778,
+                0.7727583050727844,
+                0.7398424744606018
+            ]
+        }
+    },
+    "01945": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 50.09,
+            "distance": 2.52,
+            "det_conf": [
+                0.7980802059173584,
+                0.7428910136222839,
+                0.7098727822303772,
+                0.7183940410614014,
+                0.7166330218315125
+            ]
+        }
+    },
+    "01950": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 54.52,
+            "distance": 2.58,
+            "det_conf": [
+                0.7196937799453735,
+                0.715536892414093,
+                0.7268803119659424,
+                0.6831877827644348,
+                0.6747584342956543
+            ]
+        }
+    },
+    "01955": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 53.11,
+            "distance": 1.99,
+            "det_conf": [
+                0.7827452421188354,
+                0.7671470046043396,
+                0.7696028351783752,
+                0.7982237935066223,
+                0.679398775100708
+            ]
+        }
+    },
+    "01960": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 62.74,
+            "distance": 2.78,
+            "det_conf": [
+                0.7669420838356018,
+                0.7872244119644165,
+                0.8341385722160339,
+                0.8153175115585327,
+                0.8325282335281372
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -1.62,
+            "distance": 1.04,
+            "det_conf": [
+                0.328178346157074,
+                0.5181553363800049,
+                0.15829868614673615,
+                0.26826146245002747,
+                0.14618805050849915
+            ]
+        }
+    },
+    "02260": {
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -13.58,
+            "distance": 1.9,
+            "det_conf": [
+                0.6227983236312866,
+                0.6248011589050293,
+                0.46736201643943787,
+                0.13305476307868958,
+                0.5194481015205383
+            ]
+        }
+    },
+    "02270": {
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 7.84,
+            "distance": 1.28,
+            "det_conf": [
+                0.6088649034500122,
+                0.25785839557647705,
+                0.5623101592063904,
+                0.4657065272331238,
+                0.6022008657455444
+            ]
+        }
+    },
+    "02290": {
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 10.75,
+            "distance": 1.22,
+            "det_conf": [
+                0.2901524305343628,
+                0.6373825073242188,
+                0.6267157793045044,
+                0.6204003095626831,
+                0.6174429059028625
+            ]
+        }
+    },
+    "02300": {
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 2.81,
+            "distance": 1.23,
+            "det_conf": [
+                0.6608656644821167,
+                0.6111912131309509,
+                0.47629156708717346,
+                0.5211944580078125,
+                0.6250585317611694
+            ]
+        }
+    },
+    "02640": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -43.14,
+            "distance": 3.36,
+            "det_conf": [
+                0.4132775366306305,
+                0.5387603640556335,
+                0.5423586964607239,
+                0.23530253767967224,
+                0.2743639349937439
+            ]
+        }
+    },
+    "02650": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -16.91,
+            "distance": 3.08,
+            "det_conf": [
+                0.5162617564201355,
+                0.3970697820186615,
+                0.5564295053482056,
+                0.5345554351806641,
+                0.673186182975769
+            ]
+        }
+    },
+    "02680": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 54.73,
+            "distance": 1.78,
+            "det_conf": [
+                0.6436692476272583,
+                0.6217263340950012,
+                0.6020036935806274,
+                0.568536639213562,
+                0.7136945128440857
+            ]
+        }
+    },
+    "03525": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 24.74,
+            "distance": 1.03,
+            "det_conf": [
+                0.42505350708961487,
+                0.5847773551940918,
+                0.5426946878433228,
+                0.5341209769248962,
+                0.5828797817230225
+            ]
+        }
+    },
+    "03980": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 33.39,
+            "distance": 1.05,
+            "det_conf": [
+                0.6656734347343445,
+                0.6480525135993958,
+                0.6585363149642944,
+                0.6437516808509827,
+                0.6863380670547485
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": -26.64,
+            "distance": 1.02,
+            "det_conf": [
+                0.20126990973949432,
+                0.17131811380386353,
+                0.0958310142159462,
+                0.5629726052284241,
+                0.09814269840717316
+            ]
+        }
+    },
+    "03990": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 37.27,
+            "distance": 1.06,
+            "det_conf": [
+                0.6498692035675049,
+                0.6003784537315369,
+                0.38418546319007874,
+                0.5564705729484558,
+                0.5484336614608765
+            ]
+        },
+        "A small, wooden, semi-circular dining table located in a windowed nook, designed for two people. It has two chairs.": {
+            "direction": 66.5,
+            "distance": 1.96,
+            "det_conf": [
+                0.25548622012138367,
+                0.3048819303512573,
+                0.5013371706008911,
+                0.516539990901947,
+                0.5052674412727356
+            ]
+        }
+    },
+    "04000": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 38.7,
+            "distance": 1.0,
+            "det_conf": [
+                0.6492106318473816,
+                0.6288341879844666,
+                0.554578959941864,
+                0.5219501256942749,
+                0.5407636165618896
+            ]
+        },
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -43.91,
+            "distance": 1.14,
+            "det_conf": [
+                0.4666757583618164,
+                0.5086038708686829,
+                0.5027398467063904,
+                0.47892504930496216,
+                0.5537623167037964
+            ]
+        }
+    },
+    "04010": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 36.59,
+            "distance": 1.07,
+            "det_conf": [
+                0.5875861048698425,
+                0.35888126492500305,
+                0.5160154104232788,
+                0.5657702684402466,
+                0.4383380115032196
+            ]
+        },
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -9.46,
+            "distance": 1.03,
+            "det_conf": [
+                0.4329532980918884,
+                0.5857395529747009,
+                0.5581403970718384,
+                0.483002245426178,
+                0.5527586936950684
+            ]
+        }
+    },
+    "04020": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": 41.84,
+            "distance": 1.0,
+            "det_conf": [
+                0.6327304840087891,
+                0.5913512110710144,
+                0.6476424932479858,
+                0.585809588432312,
+                0.525185763835907
+            ]
+        },
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 35.4,
+            "distance": 1.07,
+            "det_conf": [
+                0.5028087496757507,
+                0.518013060092926,
+                0.5555354356765747,
+                0.52382493019104,
+                0.4921153485774994
+            ]
+        }
+    },
+    "04420": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -22.99,
+            "distance": 2.11,
+            "det_conf": [
+                0.46623483300209045,
+                0.5026389956474304,
+                0.5084256529808044,
+                0.3689520061016083,
+                0.4446902275085449
+            ]
+        }
+    },
+    "04440": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -38.33,
+            "distance": 6.48,
+            "det_conf": [
+                0.8585787415504456,
+                0.8359585404396057,
+                0.8507843613624573,
+                0.8691467642784119,
+                0.8773847222328186
+            ]
+        }
+    },
+    "04450": {
+        "Adult male, wearing a grey short-sleeved polo shirt, dark blue shorts, and black sneakers with white soles. He has dark, curly hair and wears glasses. He also has a dark-colored earpiece or headphones around his neck.": {
+            "direction": -15.52,
+            "distance": 2.06,
+            "det_conf": [
+                0.5608304738998413,
+                0.6514872908592224,
+                0.46139004826545715,
+                0.03942423686385155,
+                0.7027096748352051
+            ]
+        },
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": -10.14,
+            "distance": 4.72,
+            "det_conf": [
+                0.8063017129898071,
+                0.7172939777374268,
+                0.7905532717704773,
+                0.1558978408575058,
+                0.1346476525068283
+            ]
+        }
+    },
+    "04460": {
+        "Large, multi-panel sliding glass doors and adjacent fixed windows in a dining nook, offering a clear view of an outdoor swimming pool and patio area. The robot is assumed to be standing by these windows in the dining nook.": {
+            "direction": 17.38,
+            "distance": 6.7,
+            "det_conf": [
+                0.804747998714447,
+                0.8233228921890259,
+                0.7176240682601929,
+                0.7636480331420898,
+                0.45883461833000183
+            ]
+        }
+    }
+}

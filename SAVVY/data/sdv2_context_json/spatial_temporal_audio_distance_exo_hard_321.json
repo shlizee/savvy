@@ -1,0 +1,262 @@
+{
+    "event": "Distance between the gray reclining lounge chair with ottoman and the speech sound source when the speech topic 'describing recording start issue and confirming okay' is mentioned.",
+    "start_time": "0:03",
+    "end_time": "0:09",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, face blurred for privacy. He is wearing a light green short-sleeved polo shirt, blue denim jeans, and a watch on his left wrist. He is also wearing wired in-ear headphones (green cable visible). Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:07": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:19": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "2:22": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:55": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "3:36": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "4:08": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "4:13": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "4:36": {
+                "distance": "3.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "gray reclining lounge chair with ottoman",
+        "description": "A modern-style reclining lounge chair, upholstered in dark gray or black leather or faux leather, with a distinct wooden frame (possibly walnut or a similar dark wood). It has a matching ottoman. The chair has a swivel base. Approximate size: chair ~0.8m wide, 1m deep, 1m high. Ottoman ~0.6m x 0.5m.",
+        "is_static": true,
+        "key_frames": {
+            "0:01": {
+                "distance": "6.5",
+                "direction": "-20"
+            },
+            "0:06": {
+                "distance": "6.5",
+                "direction": "-20"
+            },
+            "0:26": {
+                "distance": "6.0",
+                "direction": "-30"
+            },
+            "0:45": {
+                "distance": "7.0",
+                "direction": "-15"
+            },
+            "1:04": {
+                "distance": "7.0",
+                "direction": "-15"
+            },
+            "1:21": {
+                "distance": "7.0",
+                "direction": "-10"
+            },
+            "1:26": {
+                "distance": "6.5",
+                "direction": "-25"
+            },
+            "1:55": {
+                "distance": "6.0",
+                "direction": "-35"
+            },
+            "2:00": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "2:08": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "2:13": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "2:27": {
+                "distance": "6.0",
+                "direction": "-35"
+            },
+            "2:55": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "3:27": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "3:30": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "4:08": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "4:13": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "4:36": {
+                "distance": "6.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "speech sound source (person speaking)",
+        "description": "Adult male, face blurred for privacy. He is wearing a light green short-sleeved polo shirt, blue denim jeans, and a watch on his left wrist. He is also wearing wired in-ear headphones (green cable visible). Approximate height appears average. This is the object one would face if standing by the reference object (chair).",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "0:04": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:06": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "1.8",
+                "direction": "-30"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "1:32": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:07": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "2:19": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "2:22": {
+                "distance": "2.5",
+                "direction": "-70"
+            },
+            "2:55": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "3:36": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "4:08": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "4:13": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "4:36": {
+                "distance": "3.5",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": "4.7",
+    "question": "When the speech topic: \"describing recording start issue and confirming okay\" is mentioned, what is the distance between the gray reclining lounge chair with ottoman and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_321",
+    "video_id": "loc3_script3_seq4_rec1"
+}

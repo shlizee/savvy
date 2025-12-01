@@ -1,0 +1,152 @@
+{
+    "event": "Determining the relative position of the other person when the speech topic 'indicating current use of specific utensil' comes up.",
+    "start_time": "1:31",
+    "end_time": "1:33",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is an adult male with dark, somewhat curly hair, wearing dark-rimmed glasses, a grey short-sleeved polo shirt, dark shorts, and black sneakers with white soles. Approximate height around 1.7-1.8 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:41": {
+                "distance": "2.0",
+                "direction": "-75"
+            },
+            "0:43": {
+                "distance": "1.8",
+                "direction": "-70"
+            },
+            "0:45": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:49": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:10": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:13": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "1:16": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "1:24": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "1:31": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "1:33": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:38": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:41": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "1:57": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:01": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "2:08": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:10": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:20": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:28": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "2:40": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "2:42": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "2:48": {
+                "distance": "0.7",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stovetop/counter",
+        "description": "The camera wearer is generally facing the kitchen stovetop and counter area where they are preparing food.",
+        "key_frames": {
+            "1:31": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"indicating current use of specific utensil\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_192",
+    "video_id": "loc2_script3_seq32_rec1"
+}

@@ -1,0 +1,108 @@
+{
+    "event": "The other person clarifies they only intend to flip food and asserts they are capable of doing so.",
+    "start_time": "01:39",
+    "end_time": "01:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person is a male, wearing a turquoise/blue short-sleeved polo shirt, khaki shorts, and glasses. He has dark hair and appears to be of average height and build. He is the one speaking during the event.",
+        "is_static": false,
+        "key_frames": {
+            "00:05": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "00:08": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "00:13": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "00:26": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "00:32": {
+                "distance": "1.8",
+                "direction": "-75"
+            },
+            "00:35": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "00:50": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "00:54": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "01:03": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "01:10": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "01:19": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "01:28": {
+                "distance": "0.6",
+                "direction": "-5"
+            },
+            "01:53": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "02:02": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "02:09": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "02:19": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "02:34": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "02:40": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing an egocentric view. This person is interacting in the kitchen.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "drawer",
+        "description": "At the time of the event (01:39-01:41), the camera is primarily facing an open kitchen drawer that the camera wearer is looking into.",
+        "key_frames": {
+            "01:40": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 1.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"clarifying intent to only flip food and asserting capability\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_151",
+    "video_id": "loc2_script3_seq32_rec2"
+}

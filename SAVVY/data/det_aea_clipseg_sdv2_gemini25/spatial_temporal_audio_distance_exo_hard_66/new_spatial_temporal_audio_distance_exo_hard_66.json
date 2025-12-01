@@ -1,0 +1,87 @@
+{
+    "event": "When the speech topic: \"offering the listener's coffee\" is mentioned, what is the distance between the light-gray armchair further from the wall painting and the speech sound source in meters.",
+    "start_time": "0:35",
+    "end_time": "0:36",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Person with a blurred face, long dark hair, wearing a black short-sleeved top and light blue jeans. At the time of the event, this person is sitting on a couch.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:08": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "0:22": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:35": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "0:45": {
+                "distance": "0.7",
+                "direction": "-50"
+            },
+            "0:58": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "1:21": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "1:27": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "A light-gray upholstered armchair with a blue rectangular pillow. It is one of two identical armchairs placed in front of a large arched window. A small framed painting is on the wall to the left of the window (when viewed from inside). This specific armchair is the one on the right side of the window (when viewed from inside, looking out), making it further from the wall painting and closer to the front door.",
+        "key_frames": {
+            "1:01": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "1:02": {
+                "distance": "2.5",
+                "direction": "-35"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "1:04": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "20"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:27": {
+                "distance": "3.5",
+                "direction": "160"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "N/A",
+        "key_frames": {}
+    },
+    "prediction": 3.5,
+    "question": "When the speech topic: \"offering the listener's coffee\" is mentioned, what is the distance between the light-gray armchair further from the wall painting and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_66",
+    "video_id": "loc1_script2_seq8_rec1"
+}

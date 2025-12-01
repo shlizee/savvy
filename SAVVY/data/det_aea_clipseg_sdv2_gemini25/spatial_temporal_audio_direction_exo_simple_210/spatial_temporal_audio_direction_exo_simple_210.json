@@ -1,0 +1,152 @@
+{
+    "event": "A speaker agrees to start an activity (cooking).",
+    "start_time": "0:02",
+    "end_time": "0:06",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The person whose first-person perspective is shown in the video (camera wearer). This person initiates the agreement to cook by saying 'Sweet. I'll help you cook.' at 0:02.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:23": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:13": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Sink",
+        "description": "A double-basin rectangular sink, likely stainless steel, with a gooseneck tap. It is set into a granite countertop which is part of a kitchen island/peninsula.",
+        "key_frames": {
+            "0:14": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "0.3",
+                "direction": "-5"
+            },
+            "0:23": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "0:24": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:31": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:17": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "2:00": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "2:13": {
+                "distance": "1.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A small rectangular dining table with two chairs. It is located in the dining area, past the kitchen island, near large glass doors/windows that overlook a pool area.",
+        "key_frames": {
+            "0:14": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:15": {
+                "distance": "3.2",
+                "direction": "8"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "0:39": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "3.2",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "2:07": {
+                "distance": "3.3",
+                "direction": "8"
+            },
+            "2:13": {
+                "distance": "3.5",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the double-basin rectangular sink and tap and facing the two-seater dining table, when the speech topic: \"agreeing to start activity\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_210",
+    "video_id": "loc2_script3_seq31_rec2"
+}

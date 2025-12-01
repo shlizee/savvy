@@ -1,0 +1,168 @@
+{
+    "event": "Male speaker states the recording duration is 3.5 minutes.",
+    "start_time": "3:28",
+    "end_time": "3:29",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly brown hair, wearing glasses, a light teal short-sleeved collared shirt with a pocket, dark shorts, and wired headphones around his neck with earbuds in. He is mostly seated at the dining table during the interaction.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.6",
+                "direction": "-5"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:27": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:30": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:44": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:55": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:43": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:28": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden Dining Table",
+        "description": "Large rectangular wooden dining table with a light-colored, patterned runner down the center. It has light-colored upholstered chairs around it. Various items like mugs, bowls, food containers, and a laptop are on it. The camera is positioned at this table for most of the video.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "3:28": {
+                "distance": "0.2",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Countertop Oven",
+        "description": "A silver/stainless steel countertop oven (toaster oven) located on the white kitchen countertop, to the right of the main stove (from kitchen entry perspective) and beneath white upper cabinets. It has a glass door and control knobs/buttons.",
+        "key_frames": {
+            "0:06": {
+                "distance": "3.5",
+                "direction": "-20"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:38": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:39": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:13": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "1:14": {
+                "distance": "3.0",
+                "direction": "-5"
+            },
+            "1:23": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "1:24": {
+                "distance": "3.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the wooden dining table and facing the countertop oven, when the speech topic: \"stating recording duration (3.5 minutes)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_40",
+    "video_id": "loc1_script2_seq4_rec1"
+}

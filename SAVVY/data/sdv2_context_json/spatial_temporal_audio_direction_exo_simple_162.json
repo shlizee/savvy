@@ -1,0 +1,104 @@
+{
+    "event": "The speech topic: 'considering words from available letters' comes up, spoken by the man in the blue shirt.",
+    "start_time": "0:01:21",
+    "end_time": "0:01:30",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue short-sleeved polo shirt, khaki shorts, white sneakers with blue accents, glasses, and a gold-colored watch. He is sitting on a bar stool at the kitchen island.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:01": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "0:00:25": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:01:21": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "0:02:05": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "0:03:08": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "0:04:13": {
+                "distance": "1.5",
+                "direction": "50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Electric Cooktop",
+        "description": "Black, rectangular, flat glass-ceramic electric cooktop, built into the wooden kitchen island. It has visible circular heating zones. Approximate size 0.7m x 0.5m.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "0:00:25": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:00:31": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:01:21": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:02:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:03:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:04:00": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless Steel Refrigerator",
+        "description": "Large, double-door stainless steel refrigerator with an ice/water dispenser on the left door. It is built into the kitchen cabinetry.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:00:25": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:01:21": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:02:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:03:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            },
+            "0:04:00": {
+                "distance": "3.5",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the electric cooktop and facing the stainless steel refrigerator, when the speech topic: \"considering words from available letters\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_162",
+    "video_id": "loc2_script2_seq5_rec1"
+}

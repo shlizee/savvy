@@ -1,0 +1,83 @@
+{
+    "event": "The speech topic 'indicating food is nearly done and planning one last flip' comes up, and the distance between the camera wearer and the other person is requested.",
+    "start_time": "1:59",
+    "end_time": "2:55",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The other person in the scene. An adult male with dark curly hair, wearing a dark grey/blue t-shirt and dark shorts. He is interacting with the camera wearer in the kitchen.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0.6",
+                "direction": "45"
+            },
+            "0:29": {
+                "distance": "0.7",
+                "direction": "60"
+            },
+            "0:35": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "0:42": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "1:09": {
+                "distance": "0.8",
+                "direction": "90"
+            },
+            "1:35": {
+                "distance": "0.5",
+                "direction": "30"
+            },
+            "1:39": {
+                "distance": "0.6",
+                "direction": "60"
+            },
+            "1:59": {
+                "distance": "0.6",
+                "direction": "70"
+            },
+            "2:27": {
+                "distance": "0.6",
+                "direction": "70"
+            },
+            "2:43": {
+                "distance": "0.6",
+                "direction": "80"
+            },
+            "2:49": {
+                "distance": "0.6",
+                "direction": "80"
+            },
+            "2:54": {
+                "distance": "0.6",
+                "direction": "80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "Not applicable as the reference is the camera itself in egocentric mode.",
+        "key_frames": {}
+    },
+    "prediction": 0.6,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"indicating food is nearly done and planning one last flip\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_169",
+    "video_id": "loc2_script3_seq34_rec1"
+}

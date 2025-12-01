@@ -1,0 +1,128 @@
+{
+    "event": "A splashing sound occurs, and the task is to determine the location of the sounding object relative to a hypothetical robot standing by the stainless steel double wall oven and facing the stainless steel refrigerator.",
+    "start_time": "0:08",
+    "end_time": "0:09",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The sounding object is the mug from which liquid (likely coffee or tea) spills, causing a splashing sound. The mug is ceramic, appears to be white with a dark pattern (possibly polka dots), of a standard coffee mug size. The sound originates from the liquid splashing onto the wooden dining table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:02": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "0:23": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "0:31": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "1:31": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "1:42": {
+                "distance": "1.1",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel double wall oven",
+        "description": "A stainless steel double wall oven, built into the kitchen cabinetry on the left side of the kitchen when entering from the dining area.",
+        "key_frames": {
+            "0:13": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "0:57": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "0:59": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:02": {
+                "distance": "2.5",
+                "direction": "-85"
+            },
+            "1:14": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:21": {
+                "distance": "3.5",
+                "direction": "-75"
+            },
+            "1:59": {
+                "distance": "4.0",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large stainless steel refrigerator, located on the back wall of the kitchen, towards the right side.",
+        "key_frames": {
+            "0:13": {
+                "distance": "5.0",
+                "direction": "10"
+            },
+            "0:57": {
+                "distance": "3.5",
+                "direction": "5"
+            },
+            "0:59": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:14": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "1:21": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "1:59": {
+                "distance": "3.5",
+                "direction": "15"
+            }
+        }
+    },
+    "prediction": "back-left",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the stainless steel refrigerator, when the splashing sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_60",
+    "video_id": "loc1_script2_seq6_rec2"
+}

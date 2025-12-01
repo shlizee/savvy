@@ -1,0 +1,224 @@
+{
+    "event": "The other person apologizes for a potentially dangerous incident (dropping a knife).",
+    "start_time": "02:51",
+    "end_time": "02:53",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Person with a blurred face, wearing a grey short-sleeved polo shirt, dark shorts, and dark sneakers. Appears to be male, of average build and height.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "80"
+            },
+            "00:31": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "00:45": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:50": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "00:59": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "01:11": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "02:11": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "02:17": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "02:23": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "02:37": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "02:41": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "02:46": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "02:51": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "02:57": {
+                "distance": "0.3",
+                "direction": "-80"
+            },
+            "03:06": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "03:10": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "03:16": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "03:21": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "03:27": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "03:37": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "03:42": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "03:47": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Person with a blurred face, wearing a grey short-sleeved polo shirt, dark shorts, and dark sneakers. Appears to be male, of average build and height.",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "00:15": {
+                "distance": "1.2",
+                "direction": "80"
+            },
+            "00:31": {
+                "distance": "2.2",
+                "direction": "-35"
+            },
+            "00:45": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "00:50": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "00:59": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "01:11": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "02:11": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "02:17": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "02:23": {
+                "distance": "0.7",
+                "direction": "-75"
+            },
+            "02:37": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "02:41": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "02:46": {
+                "distance": "0.8",
+                "direction": "-80"
+            },
+            "02:51": {
+                "distance": "0.8",
+                "direction": "-75"
+            },
+            "02:57": {
+                "distance": "0.3",
+                "direction": "-80"
+            },
+            "03:06": {
+                "distance": "0.6",
+                "direction": "-80"
+            },
+            "03:10": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "03:16": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "03:21": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "03:27": {
+                "distance": "0.7",
+                "direction": "-80"
+            },
+            "03:37": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "03:42": {
+                "distance": "1.8",
+                "direction": "-15"
+            },
+            "03:47": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"apologizing for potentially dangerous incident\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_238",
+    "video_id": "loc2_script3_seq5_rec2"
+}

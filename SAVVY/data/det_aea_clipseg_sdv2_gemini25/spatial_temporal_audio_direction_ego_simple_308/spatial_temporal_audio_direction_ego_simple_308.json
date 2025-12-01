@@ -1,0 +1,220 @@
+{
+    "event": "The other person compliments the chair the camera wearer is sitting in.",
+    "start_time": "0:09",
+    "end_time": "0:10",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with short, dark hair, wearing a light green short-sleeved polo shirt and blue jeans. He is also wearing a gold-colored watch on his left wrist.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "80"
+            },
+            "0:07": {
+                "distance": "1.8",
+                "direction": "75"
+            },
+            "0:09": {
+                "distance": "1.2",
+                "direction": "70"
+            },
+            "0:13": {
+                "distance": "1.3",
+                "direction": "65"
+            },
+            "0:21": {
+                "distance": "1.4",
+                "direction": "60"
+            },
+            "0:33": {
+                "distance": "1.5",
+                "direction": "55"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "50"
+            },
+            "0:50": {
+                "distance": "1.6",
+                "direction": "55"
+            },
+            "1:03": {
+                "distance": "1.6",
+                "direction": "60"
+            },
+            "1:15": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "1:36": {
+                "distance": "1.6",
+                "direction": "50"
+            },
+            "1:43": {
+                "distance": "1.6",
+                "direction": "55"
+            },
+            "1:57": {
+                "distance": "1.7",
+                "direction": "60"
+            },
+            "2:09": {
+                "distance": "1.7",
+                "direction": "65"
+            },
+            "2:19": {
+                "distance": "1.6",
+                "direction": "50"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "2:33": {
+                "distance": "1.6",
+                "direction": "50"
+            },
+            "2:40": {
+                "distance": "1.6",
+                "direction": "55"
+            },
+            "2:45": {
+                "distance": "1.7",
+                "direction": "60"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:52": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Forward",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:09": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "2:52": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"complimenting the chair\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_308",
+    "video_id": "loc3_script3_seq2_rec2"
+}

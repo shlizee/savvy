@@ -1,0 +1,168 @@
+{
+    "event": "The camera wearer asks the other person if they want a snack, specifically popcorn, and confirms its availability.",
+    "start_time": "0:15",
+    "end_time": "0:19",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with short dark hair, wearing a white plain t-shirt and light blue shorts. They are initially sitting at a small wooden drop-leaf table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:32": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "1:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer moves around the kitchen and dining area.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The same person as the sounding object. The camera is generally oriented towards this person during the specified event.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:06": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:18": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:36": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 2.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"confirming popcorn availability\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_88",
+    "video_id": "loc2_script2_seq4_rec2"
+}

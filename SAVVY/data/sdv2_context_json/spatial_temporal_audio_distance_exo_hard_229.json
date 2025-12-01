@@ -1,0 +1,103 @@
+{
+    "event": "The man suggests sitting down to talk.",
+    "start_time": "0:55",
+    "end_time": "0:57",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, appears to be middle-aged (approx. 40s-50s), with a receding hairline (dark hair) and wearing glasses. He is dressed in a short-sleeved green polo shirt and blue jeans. He is also wearing a wired lavalier microphone clipped to his shirt and an earpiece. Approximate height appears average, medium build.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:30": {
+                "distance": "6.5",
+                "direction": "-45"
+            },
+            "0:51": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:55": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "1:05": {
+                "distance": "2.2",
+                "direction": "-50"
+            },
+            "1:30": {
+                "distance": "2.2",
+                "direction": "-50"
+            },
+            "1:52": {
+                "distance": "2.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with balcony view",
+        "description": "A large set of floor-to-ceiling glass windows, likely including sliding doors, that span a significant portion of the living room's exterior wall. These windows provide a view to an outdoor balcony or patio area with visible greenery (trees). Above the main windows, there are also smaller clerestory windows. The frames of the windows appear to be white or a light color. The 'center point' is considered the geometric center of the main, lower expanse of these windows.",
+        "key_frames": {
+            "0:08": {
+                "distance": "7.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "7.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "7.0",
+                "direction": "5"
+            },
+            "0:25": {
+                "distance": "7.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "7.0",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "6.5",
+                "direction": "5"
+            },
+            "1:00": {
+                "distance": "6.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "6.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "6.5",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "6.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 5.43,
+    "question": "When the speech topic: \"suggesting sitting down to talk\" is mentioned, what is the distance between the window with a balcony view and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_229",
+    "video_id": "loc3_script2_seq1_rec1"
+}

@@ -1,0 +1,224 @@
+{
+    "event": "The camera wearer clarifies they only intend to flip the food and asserts they are capable of doing so.",
+    "start_time": "1:39",
+    "end_time": "1:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person wearing a grey short-sleeved polo shirt, dark shorts (possibly blue or black), dark sneakers with white soles, and glasses. They have dark, somewhat curly hair. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:42": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:49": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:13": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:39": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:41": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:44": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:58": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:02": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:20": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:32": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:42": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:48": {
+                "distance": "1.2",
+                "direction": "-25"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The point of view of the camera, worn by a person.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "Same as sounding_object. The camera wearer is generally facing the stove/counter in front of them during the event, and the other person is to their left.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:11": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:40": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:42": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:49": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:10": {
+                "distance": "1.2",
+                "direction": "-20"
+            },
+            "1:13": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:17": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:30": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:37": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:39": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:41": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:44": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "1:58": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:02": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:20": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:32": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:40": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:42": {
+                "distance": "1.2",
+                "direction": "-25"
+            },
+            "2:48": {
+                "distance": "1.2",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"clarifying intent to only flip food and asserting capability\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_194",
+    "video_id": "loc2_script3_seq32_rec1"
+}

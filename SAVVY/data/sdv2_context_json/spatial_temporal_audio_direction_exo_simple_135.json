@@ -1,0 +1,136 @@
+{
+    "event": "The speaker offers coffee additions (cream) to the person at the camera.",
+    "start_time": "0:04",
+    "end_time": "0:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A male, likely in his 30s or 40s, with short dark hair and a short dark beard and mustache. He is wearing glasses with dark frames, a light teal/aqua short-sleeved polo shirt, and light-colored (possibly khaki) shorts. He wears a watch with a dark band on his left wrist. He is initially seated at the dining table across from the camera.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "60"
+            },
+            "0:32": {
+                "distance": "3.0",
+                "direction": "50"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:43": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "1:09": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:22": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:38": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Two-seater dining table",
+        "description": "A dark brown wooden dining table. It appears to be rectangular or slightly oval. The camera is positioned as if a person is sitting at one end or side of this table. Items like a mug, a phone, a bag of popcorn, and a small decorative plate or lamp base are on it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "0.3",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A built-in stainless steel dishwasher. This appliance is not directly and clearly visible in the video. Its location is inferred to be within the kitchen area, under the main kitchen counter, which is to the right of the dining table from the initial camera perspective. The kitchen features wooden cabinetry and other stainless steel appliances like a refrigerator, suggesting the dishwasher would match this style.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "0:05": {
+                "distance": "3.5",
+                "direction": "75"
+            },
+            "0:19": {
+                "distance": "3.0",
+                "direction": "65"
+            },
+            "0:26": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "0:35": {
+                "distance": "3.0",
+                "direction": "60"
+            },
+            "1:04": {
+                "distance": "3.5",
+                "direction": "70"
+            },
+            "1:23": {
+                "distance": "3.5",
+                "direction": "70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the two-seater dining table and facing the built-in stainless steel dishwasher, when the speech topic: \"offering coffee additions (cream)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_135",
+    "video_id": "loc2_script2_seq4_rec1"
+}

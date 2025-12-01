@@ -1,0 +1,79 @@
+{
+    "event": "Camera wearer clarifies intent to only flip food and asserts capability, in response to the other person's suggestion about stirring or using a different spatula.",
+    "start_time": "1:39",
+    "end_time": "1:41",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The 'other person' in the scene. A male with dark, curly hair, wearing glasses, a grey short-sleeved polo shirt, dark shorts, and dark sneakers with white soles. Appears to be of average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "0:02": {
+                "distance": "1.3",
+                "direction": "30"
+            },
+            "0:28": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:41": {
+                "distance": "0.7",
+                "direction": "-15"
+            },
+            "0:43": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:47": {
+                "distance": "0.6",
+                "direction": "-30"
+            },
+            "1:11": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "1:15": {
+                "distance": "1.2",
+                "direction": "45"
+            },
+            "2:03": {
+                "distance": "1.0",
+                "direction": "80"
+            },
+            "2:41": {
+                "distance": "0.8",
+                "direction": "60"
+            },
+            "2:43": {
+                "distance": "0.7",
+                "direction": "70"
+            },
+            "2:48": {
+                "distance": "0.8",
+                "direction": "50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their viewpoint.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"clarifying intent to only flip food and asserting capability\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_145",
+    "video_id": "loc2_script3_seq32_rec1"
+}

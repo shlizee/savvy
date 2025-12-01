@@ -1,0 +1,115 @@
+{
+    "event": "The other person offers a spoon to the camera wearer.",
+    "start_time": "0:50",
+    "end_time": "0:51",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male, appearing to be middle-aged, with short dark hair (face is blurred). He is wearing a light teal short-sleeved polo shirt and khaki shorts. He is also wearing glasses and a wired earpiece/microphone. His approximate height seems average. He is mobile throughout the video.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:09": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "0:11": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:20": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:25": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:32": {
+                "distance": "3.5",
+                "direction": "25"
+            },
+            "0:37": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "0:40": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:42": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:45": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:52": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "1:04": {
+                "distance": "1.0",
+                "direction": "15"
+            },
+            "1:05": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "1:08": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "1:17": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "0.7",
+                "direction": "-5"
+            },
+            "1:23": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person who is seated at a wooden table. The viewpoint is egocentric.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.8,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"offering a spoon\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_81",
+    "video_id": "loc2_script2_seq4_rec1"
+}

@@ -1,0 +1,180 @@
+{
+    "event": "The speech topic 'explaining design motivation avoiding bulky models' comes up.",
+    "start_time": "1:37",
+    "end_time": "1:42",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a black short-sleeved crop top, and light blue high-waisted jeans. She has a small black microphone pack clipped to the back of her jeans. Approximate height around 1.6-1.7 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.8",
+                "direction": "5"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "3.2",
+                "direction": "-15"
+            },
+            "0:23": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:27": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:33": {
+                "distance": "1.8",
+                "direction": "-45"
+            },
+            "0:39": {
+                "distance": "1.7",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "0:49": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "3.2",
+                "direction": "-80"
+            },
+            "1:06": {
+                "distance": "1.8",
+                "direction": "-40"
+            },
+            "1:12": {
+                "distance": "1.6",
+                "direction": "-35"
+            },
+            "1:18": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:24": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "1:37": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:42": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:48": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "2:03": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "2:18": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "2:33": {
+                "distance": "1.5",
+                "direction": "-25"
+            },
+            "2:40": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:48": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "2:53": {
+                "distance": "2.0",
+                "direction": "-50"
+            },
+            "2:58": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "3:03": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:08": {
+                "distance": "0.8",
+                "direction": "-15"
+            },
+            "3:12": {
+                "distance": "1.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera itself, representing the wearer's point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"explaining design motivation avoiding bulky models\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_15",
+    "video_id": "loc1_script2_seq3_rec1"
+}

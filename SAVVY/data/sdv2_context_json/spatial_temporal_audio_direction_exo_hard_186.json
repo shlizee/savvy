@@ -1,0 +1,136 @@
+{
+    "event": "A person describes placing items down.",
+    "start_time": "0:11",
+    "end_time": "0:13",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal short-sleeved collared shirt, khaki shorts, white socks, and light-colored sneakers. He has short brown hair and an average build. He is the one who speaks the phrase 'Alright, so I just set them down in there.'",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "7.5",
+                "direction": "-5"
+            },
+            "0:11": {
+                "distance": "5.5",
+                "direction": "-28"
+            },
+            "0:12": {
+                "distance": "5.5",
+                "direction": "-28"
+            },
+            "0:13": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:15": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "-60"
+            },
+            "0:27": {
+                "distance": "5.0",
+                "direction": "-20"
+            },
+            "0:29": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:34": {
+                "distance": "1.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A large, low rectangular wooden coffee table. In the video, it is covered with a light blue tablecloth featuring a colorful confetti-like pattern. Various items like snack bowls (pretzels, watermelon) and drink cans are placed on it.",
+        "key_frames": {
+            "0:00": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:10": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "0:25": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:30": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "1.2",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "The fireplace is situated beneath a large, wall-mounted television. It is part of a larger wooden shelving unit. The fireplace opening itself appears dark. A black metal screen is mentioned in the prompt, and the dark opening is consistent with this, though screen details are not highly visible. The overall area of the TV and shelving unit constitutes the 'fireplace area'.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:05": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "4.5",
+                "direction": "15"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "5"
+            },
+            "0:20": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "0:23": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "4.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the rectangle wooden coffee table and facing the fireplace with a black metal screen, when the speech topic: \"describing placing items down\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_186",
+    "video_id": "loc2_script3_seq1_rec2"
+}

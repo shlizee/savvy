@@ -1,0 +1,92 @@
+{
+    "event": "A creak sound is heard as the front door is being closed.",
+    "start_time": "0:10",
+    "end_time": "0:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A light blue, arched wooden front door with a black handle, a small window with crossbars, and a floral wreath. It is the main entrance door to the house. The creak originates from this door as it is being closed.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.2",
+                "direction": "-45"
+            },
+            "0:10": {
+                "distance": "0.2",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden China Cabinet",
+        "description": "A traditional, dark brown wooden china cabinet with glass doors on the upper section displaying white china, and solid doors/drawers on the lower section. It is located in the living room.",
+        "key_frames": {
+            "0:10": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "0:15": {
+                "distance": "2.8",
+                "direction": "-70"
+            },
+            "0:19": {
+                "distance": "3.2",
+                "direction": "-30"
+            },
+            "0:31": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "1:15": {
+                "distance": "3.2",
+                "direction": "-35"
+            },
+            "1:29": {
+                "distance": "3.0",
+                "direction": "-60"
+            },
+            "1:33": {
+                "distance": "3.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Living Room Area",
+        "description": "The general area of the living room, including sofas, coffee table, and fireplace, as viewed from the location of the china cabinet.",
+        "key_frames": {
+            "0:10": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:19": {
+                "distance": "2.2",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": 3.5,
+    "question": "When the creak sound is happening, what is the distance between the wooden china cabinet and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_11",
+    "video_id": "loc1_script2_seq1_rec2"
+}

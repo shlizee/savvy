@@ -1,0 +1,79 @@
+{
+    "event": "The other person states the need to flip eggs.",
+    "start_time": "1:49",
+    "end_time": "1:51",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male with a light skin tone, wearing a green short-sleeved polo shirt, blue jeans, and glasses. He has short dark hair and is wearing a watch on his left wrist and in-ear headphones. Approximate height around 1.75-1.85 meters.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:04": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "1:21": {
+                "distance": "0.5",
+                "direction": "-10"
+            },
+            "1:31": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:49": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "2:00": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "2:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "2:16": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:24": {
+                "distance": "0.5",
+                "direction": "-20"
+            },
+            "2:55": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "4:13": {
+                "distance": "1.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": "0.7",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"stating need to flip eggs\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_309",
+    "video_id": "loc3_script3_seq4_rec1"
+}

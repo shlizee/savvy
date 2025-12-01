@@ -1,0 +1,132 @@
+{
+    "event": "Identify the location of a ticking sound relative to a robot standing by the window and facing a couch.",
+    "start_time": "0:50",
+    "end_time": "0:53",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Stainless steel gas stovetop with five burners, black grates, and black control knobs on the front right. The ticking sound originates from the igniter for one of the burners. Approximate width 70-80 cm.",
+        "is_static": true,
+        "key_frames": {
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:34": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:51": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:07": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Window with balcony view",
+        "description": "Large floor-to-ceiling glass windows and sliding doors, likely aluminum or vinyl frames, providing a view to an outside balcony. Spans several meters in width.",
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "70"
+            },
+            "0:05": {
+                "distance": "4.0",
+                "direction": "90"
+            },
+            "0:07": {
+                "distance": "3.0",
+                "direction": "45"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "90"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:51": {
+                "distance": "2.8",
+                "direction": "80"
+            },
+            "1:30": {
+                "distance": "2.8",
+                "direction": "80"
+            },
+            "3:00": {
+                "distance": "2.8",
+                "direction": "80"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray three-seater couch",
+        "description": "A modern-style three-seater sofa, upholstered in light-gray fabric. It has low armrests and is accompanied by some decorative pillows. Approximate length 2-2.5 meters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "15"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "0:07": {
+                "distance": "4.0",
+                "direction": "-90"
+            },
+            "0:19": {
+                "distance": "4.5",
+                "direction": "-150"
+            },
+            "0:51": {
+                "distance": "4.5",
+                "direction": "170"
+            },
+            "1:30": {
+                "distance": "4.5",
+                "direction": "170"
+            },
+            "3:00": {
+                "distance": "4.5",
+                "direction": "170"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the window with a balcony view and facing the light-gray three-seater couch, when the ticking sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_288",
+    "video_id": "loc3_script2_seq3_rec1"
+}

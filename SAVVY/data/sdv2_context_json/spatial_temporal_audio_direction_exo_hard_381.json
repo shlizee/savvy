@@ -1,0 +1,96 @@
+{
+    "event": "A person is speaking about listing available natural resources (fish, fruit).",
+    "start_time": "02:39",
+    "end_time": "02:42",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a green short-sleeved polo shirt and blue jeans. He has short, dark hair and is balding on top. He is sitting on a light-colored couch, leaning back. Approximate height if standing: 1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "00:07": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "00:10": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "01:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "02:00": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "02:39": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "02:42": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "02:52": {
+                "distance": "2.5",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular wooden coffee table",
+        "description": "A large, rectangular wooden coffee table with a dark wood top and lighter wood frame/legs. It has various items on it, including books, coasters, and a small llama figurine. Approximate dimensions: 1.2m (length) x 0.8m (width) x 0.4m (height).",
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:39": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "02:52": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV by the fireplace",
+        "description": "A large, black, flat-screen TV mounted on the wall above a stone fireplace. Approximate size: 55-65 inches diagonally.",
+        "key_frames": {
+            "00:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "01:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "02:00": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "02:39": {
+                "distance": "3.5",
+                "direction": "-5"
+            },
+            "02:52": {
+                "distance": "3.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the rectangular wooden coffee table and facing the tv by the fireplace, when the speech topic: \"listing available natural resources (fish, fruit)\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_381",
+    "video_id": "loc3_script3_seq2_rec2"
+}

@@ -1,0 +1,100 @@
+{
+    "event": "The speech topic 'confirming the presence of weather' comes up, and the location of the speaker relative to a robot (by the TV, facing the fireplace) is determined.",
+    "start_time": "1:46",
+    "end_time": "1:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a man wearing a light blue short-sleeved polo shirt and khaki cargo shorts. He has short brown hair and is wearing glasses. He also has wired earbuds in, with the wire going down his shirt. He is of average to larger build. This is the 'Host'.",
+        "is_static": false,
+        "key_frames": {
+            "0:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:15": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:40": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "1:14": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:48": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "2:03": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, black, flat-screen wall-mounted television. It is mounted above a low, dark brown wooden entertainment console which has shelves.",
+        "key_frames": {
+            "0:16": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "0:53": {
+                "distance": "3.5",
+                "direction": "-15"
+            },
+            "1:11": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "1:46": {
+                "distance": "3.0",
+                "direction": "-70"
+            },
+            "2:00": {
+                "distance": "3.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace with a black metal screen. The fireplace surround appears to be white or light-colored stucco or plaster. There are fireplace tools to its left.",
+        "key_frames": {
+            "0:17": {
+                "distance": "4.0",
+                "direction": "-10"
+            },
+            "0:57": {
+                "distance": "4.0",
+                "direction": "10"
+            },
+            "1:11": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "1:46": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "2:00": {
+                "distance": "3.5",
+                "direction": "-40"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"confirming the presence of weather\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_89",
+    "video_id": "loc2_script2_seq1_rec1"
+}

@@ -1,0 +1,200 @@
+{
+    "event": "The other person expressing confidence in locating mugs.",
+    "start_time": "0:24",
+    "end_time": "0:26",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing a black short-sleeved crop top, light blue jeans, and glasses. She is also wearing a small black pack on her hip, possibly a microphone pack, with a wire leading up to her ear/hair.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:18": {
+                "distance": "3.0",
+                "direction": "20"
+            },
+            "0:21": {
+                "distance": "3.5",
+                "direction": "15"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:30": {
+                "distance": "2.2",
+                "direction": "0"
+            },
+            "0:35": {
+                "distance": "2.3",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "2.1",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:55": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:06": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:50": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:35": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "2:40": {
+                "distance": "1.7",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:55": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "2:59": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0.6",
+                "direction": "0"
+            },
+            "3:10": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by a person, providing an egocentric point of view.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Woman",
+        "description": "The same woman described as the sounding object.",
+        "key_frames": {
+            "0:25": {
+                "distance": "2.5",
+                "direction": "5"
+            }
+        }
+    },
+    "prediction": "2.5",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"expressing confidence in locating mugs\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_8",
+    "video_id": "loc1_script2_seq3_rec1"
+}

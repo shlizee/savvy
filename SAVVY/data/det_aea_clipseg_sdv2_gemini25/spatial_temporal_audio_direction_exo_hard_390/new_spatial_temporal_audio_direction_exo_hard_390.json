@@ -1,0 +1,152 @@
+{
+    "event": "Person A asks Person B about the taste of the potatoes.",
+    "start_time": "3:40",
+    "end_time": "3:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Person A: An adult with curly dark hair, wearing glasses, a light blue collared shirt under a dark navy or black sweater, and blue jeans. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": 2.5,
+                "direction": -30
+            },
+            "0:05": {
+                "distance": 1.5,
+                "direction": -60
+            },
+            "0:13": {
+                "distance": 2.0,
+                "direction": -10
+            },
+            "0:53": {
+                "distance": 2.0,
+                "direction": -20
+            },
+            "1:05": {
+                "distance": 1.0,
+                "direction": -10
+            },
+            "1:23": {
+                "distance": 1.5,
+                "direction": -5
+            },
+            "1:32": {
+                "distance": 1.5,
+                "direction": -5
+            },
+            "1:38": {
+                "distance": 1.5,
+                "direction": -15
+            },
+            "2:16": {
+                "distance": 1.5,
+                "direction": -15
+            },
+            "2:25": {
+                "distance": 1.5,
+                "direction": -15
+            },
+            "2:40": {
+                "distance": 3.0,
+                "direction": -40
+            },
+            "2:56": {
+                "distance": 1.5,
+                "direction": -15
+            },
+            "3:30": {
+                "distance": 1.5,
+                "direction": -15
+            },
+            "3:40": {
+                "distance": 1.5,
+                "direction": -15
+            },
+            "4:12": {
+                "distance": 1.5,
+                "direction": -15
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wooden sideboard with slatted design",
+        "description": "A long, low wooden cabinet, likely teak or a similar dark wood, featuring a slatted design on its front doors/drawers. It is positioned against a wall, and three framed pictures are hung above it. Approximate dimensions: 2-2.5m (length) x 0.5m (depth) x 0.7m (height).",
+        "key_frames": {
+            "0:15": {
+                "distance": 4.0,
+                "direction": -70
+            },
+            "0:46": {
+                "distance": 2.5,
+                "direction": -60
+            },
+            "1:35": {
+                "distance": 3.0,
+                "direction": -70
+            },
+            "2:06": {
+                "distance": 3.0,
+                "direction": -70
+            },
+            "2:20": {
+                "distance": 3.0,
+                "direction": -70
+            },
+            "2:50": {
+                "distance": 3.0,
+                "direction": -70
+            },
+            "3:00": {
+                "distance": 3.0,
+                "direction": -70
+            },
+            "3:29": {
+                "distance": 3.0,
+                "direction": -70
+            },
+            "3:40": {
+                "distance": 3.0,
+                "direction": -70
+            },
+            "4:10": {
+                "distance": 3.0,
+                "direction": -70
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen hob",
+        "description": "A stainless steel gas hob with multiple burners, built into a white kitchen countertop. It is part of the main kitchen cooking area.",
+        "key_frames": {
+            "0:06": {
+                "distance": 2.5,
+                "direction": -5
+            },
+            "0:09": {
+                "distance": 2.5,
+                "direction": -5
+            },
+            "0:55": {
+                "distance": 2.5,
+                "direction": -5
+            },
+            "1:01": {
+                "distance": 2.5,
+                "direction": -5
+            },
+            "1:08": {
+                "distance": 2.5,
+                "direction": -5
+            },
+            "1:17": {
+                "distance": 2.5,
+                "direction": -5
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the wooden sideboard with slatted design and facing the kitchen hob, when the speech topic: \"asking about food taste\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_390",
+    "video_id": "loc3_script3_seq4_rec2"
+}

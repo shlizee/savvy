@@ -1,0 +1,172 @@
+{
+    "event": "A person agrees to start the activity of cooking.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male (P1), wearing a turquoise/blue short-sleeved polo shirt and khaki shorts. He has short brown hair and is wearing glasses. At the time of speaking, he is sitting on a couch in the living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:09": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:50": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "1:06": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:16": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:32": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:02": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:12": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "A built-in stainless steel double wall oven. The upper unit appears to be a combination microwave/oven, and the lower unit is a larger conventional oven. It is located on the kitchen wall that has large sliding glass doors leading to a pool area, to the right of the cooktop.",
+        "key_frames": {
+            "0:15": {
+                "distance": "4.0",
+                "direction": "45"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:38": {
+                "distance": "1.5",
+                "direction": "60"
+            },
+            "0:49": {
+                "distance": "0.8",
+                "direction": "70"
+            },
+            "1:00": {
+                "distance": "1.0",
+                "direction": "30"
+            },
+            "1:05": {
+                "distance": "1.2",
+                "direction": "20"
+            },
+            "1:17": {
+                "distance": "1.5",
+                "direction": "40"
+            },
+            "1:32": {
+                "distance": "1.0",
+                "direction": "50"
+            },
+            "2:02": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "round sink with a tap",
+        "description": "A round, dark-colored (likely stainless steel or composite material) undermount sink. It is fitted with a tall, gooseneck-style chrome tap. The sink is situated in the large central kitchen island.",
+        "key_frames": {
+            "0:13": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:24": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "0:39": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "-90"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-70"
+            },
+            "1:32": {
+                "distance": "2.5",
+                "direction": "-80"
+            },
+            "2:08": {
+                "distance": "3.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the stainless steel double wall oven and facing the round sink with a tap, when the speech topic: \"agreeing to start activity\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_212",
+    "video_id": "loc2_script3_seq31_rec2"
+}

@@ -1,0 +1,95 @@
+{
+    "event": "The other person recommends eating eggs and potatoes together, saying 'mix a little egg with the potato, that's the move'.",
+    "start_time": "03:50",
+    "end_time": "03:52",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male wearing a green short-sleeved polo shirt, blue jeans, glasses, and white wired in-ear headphones. He has short dark hair and is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "0:02": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "-40"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-50"
+            },
+            "1:21": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:31": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "1:55": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "2:08": {
+                "distance": "3.0",
+                "direction": "-25"
+            },
+            "2:16": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "2:24": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "2:55": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "3:37": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "03:51": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "4:13": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "4:36": {
+                "distance": "1.0",
+                "direction": "-40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The first-person view of the camera wearer. This is the origin (0,0) for all measurements.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "4:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_gaze",
+        "description": "The direction the camera is currently pointing. This defines the 'forward' (0 degrees azimuth) direction for other object's 'direction' measurements. As the reference object is the camera, this section's key_frames are empty.",
+        "key_frames": {}
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"recommending eating eggs and potatoes together\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_336",
+    "video_id": "loc3_script3_seq4_rec1"
+}

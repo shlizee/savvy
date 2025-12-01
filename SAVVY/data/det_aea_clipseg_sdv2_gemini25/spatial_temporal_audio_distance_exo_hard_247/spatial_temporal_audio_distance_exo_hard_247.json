@@ -1,0 +1,96 @@
+{
+    "event": "Distance between the fireplace and the sounding object (gas stovetop igniter) when the ticking sound is happening.",
+    "start_time": "0:50",
+    "end_time": "0:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Gas stovetop. It is a built-in unit with a stainless steel surface, five burners with black cast iron grates, and black control knobs on the front edge. The ticking sound originates from the igniter of one of the burners. Approximate size: 0.75m wide, 0.5m deep.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "90"
+            },
+            "0:07": {
+                "distance": "2.0",
+                "direction": "70"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "45"
+            },
+            "0:45": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0.6",
+                "direction": "10"
+            },
+            "2:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "3:00": {
+                "distance": "0.8",
+                "direction": "15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "Stone-faced fireplace with a wooden mantelpiece. The stone is composed of grey and tan stacked flat stones. The mantel is medium brown wood. It has a black firebox opening. Approximate size: 1.5m wide, 1.2m high to mantel.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "2.8",
+                "direction": "-25"
+            },
+            "0:04": {
+                "distance": "3.2",
+                "direction": "-70"
+            },
+            "0:05": {
+                "distance": "3.8",
+                "direction": "-110"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Sofa",
+        "description": "A light-colored sofa in the living room, visible when standing near the fireplace and looking into the room.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "0:01": {
+                "distance": "2.0",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": 4.5,
+    "question": "When the ticking sound is happening, what is the distance between the fireplace and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_247",
+    "video_id": "loc3_script2_seq3_rec1"
+}

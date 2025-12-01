@@ -1,0 +1,124 @@
+{
+    "event": "A creak sound occurs while a virtual robot is standing by a set of nested coffee tables and facing a specific light-gray armchair.",
+    "start_time": "0:39",
+    "end_time": "0:40",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Light-gray L-shaped sectional sofa with various pillows (e.g., yellow, white textured). It is made of fabric material. The creak sound originates from this sofa when the woman sits on it.",
+        "is_static": true,
+        "key_frames": {
+            "0:10": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:13": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "0:19": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:33": {
+                "distance": "1.8",
+                "direction": "-60"
+            },
+            "0:39": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "1:30": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:40": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "1:50": {
+                "distance": "1.2",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested coffee tables",
+        "description": "Set of two nested round coffee tables. The larger, lower table appears to be a darker material (possibly dark wood or metal). The smaller, upper table has a lighter top (possibly light wood, stone, or laminate) and dark metal legs. A plant, remote controls, and beverage cans are on the tables during parts of the video.",
+        "key_frames": {
+            "0:10": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "0:39": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0.7",
+                "direction": "30"
+            },
+            "1:40": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "1:50": {
+                "distance": "0.6",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Light-gray armchair further from the wall painting",
+        "description": "Light-gray armchair with a blue pillow and a patterned (possibly plaid or striped) throw blanket. It is located near a large arched window/doorway, on the side of the living room further from the wall painting that is situated near the fireplace and a white interior door.",
+        "key_frames": {
+            "0:10": {
+                "distance": "2.5",
+                "direction": "45"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:16": {
+                "distance": "2.2",
+                "direction": "70"
+            },
+            "0:33": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:39": {
+                "distance": "2.2",
+                "direction": "50"
+            },
+            "1:36": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "1:40": {
+                "distance": "2.0",
+                "direction": "20"
+            },
+            "1:50": {
+                "distance": "2.2",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by a set of nested coffee tables and facing the light-gray armchair further from the wall painting, when the creak sound comes up, relative to where you are facing, where is the sounding object: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_11",
+    "video_id": "loc1_script2_seq1_rec2"
+}

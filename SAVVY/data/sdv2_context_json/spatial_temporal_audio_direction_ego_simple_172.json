@@ -1,0 +1,260 @@
+{
+    "event": "The other person's location relative to the camera wearer when the camera wearer denies cooking for script three and specifies cooking eggs alone.",
+    "start_time": "0:52",
+    "end_time": "0:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a grey short-sleeved polo shirt, dark shorts (navy blue or black), glasses, and has curly dark hair. He is also wearing an earpiece or headset. Approximate height appears average. This is the 'other person' in the scene.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2",
+                "direction": "60"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "2",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:49": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "1",
+                "direction": "-15"
+            },
+            "0:53": {
+                "distance": "1",
+                "direction": "-12"
+            },
+            "0:54": {
+                "distance": "1",
+                "direction": "-10"
+            },
+            "0:56": {
+                "distance": "1",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "1",
+                "direction": "-15"
+            },
+            "1:11": {
+                "distance": "1",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:53": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:03": {
+                "distance": "1",
+                "direction": "-15"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:33": {
+                "distance": "3",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the primary person, providing a first-person perspective. This is the reference point for egocentric observations.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:14": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:49": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:52": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:38": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The other person in the scene, an adult male with curly dark hair, glasses, wearing a grey polo shirt and dark shorts. This is the object the camera wearer is often interacting with or turning to face.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2",
+                "direction": "60"
+            },
+            "0:26": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:27": {
+                "distance": "2",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:47": {
+                "distance": "1.5",
+                "direction": "-45"
+            },
+            "0:49": {
+                "distance": "1.2",
+                "direction": "-30"
+            },
+            "0:52": {
+                "distance": "1",
+                "direction": "-15"
+            },
+            "0:53": {
+                "distance": "1",
+                "direction": "-12"
+            },
+            "0:54": {
+                "distance": "1",
+                "direction": "-10"
+            },
+            "0:56": {
+                "distance": "1",
+                "direction": "-10"
+            },
+            "1:05": {
+                "distance": "1",
+                "direction": "-15"
+            },
+            "1:11": {
+                "distance": "1",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "1:30": {
+                "distance": "0.8",
+                "direction": "-25"
+            },
+            "1:38": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:45": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "1:53": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:00": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "2:03": {
+                "distance": "1",
+                "direction": "-15"
+            },
+            "2:08": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "2:15": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "2:33": {
+                "distance": "3",
+                "direction": "-80"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"denying script three cooking and specifying cooking eggs alone\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_172",
+    "video_id": "loc2_script3_seq31_rec1"
+}

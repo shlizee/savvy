@@ -1,0 +1,144 @@
+{
+    "event": "The other person reminds the camera wearer not to forget their shoes.",
+    "start_time": "1:03",
+    "end_time": "1:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long dark brown hair, wearing a black short-sleeved V-neck crop top, light blue jeans with a black belt, and is barefoot. She has a tattoo on her left arm. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.8",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "1.0",
+                "direction": "-50"
+            },
+            "0:08": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:15": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:22": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:35": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:40": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:48": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "0:58": {
+                "distance": "1.0",
+                "direction": "-45"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "1:02": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:03": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:04": {
+                "distance": "1.5",
+                "direction": "45"
+            },
+            "1:08": {
+                "distance": "1.5",
+                "direction": "15"
+            },
+            "1:10": {
+                "distance": "1.5",
+                "direction": "5"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "1:21": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "1:23": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:27": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:29": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person, providing a first-person perspective. The wearer is male, based on voice and hands.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "camera_facing_direction",
+        "description": "The direction the camera is pointing. At the event time (1:03-1:04), the camera is primarily looking downwards at the shoes the wearer is putting on. For the purpose of determining quadrants, 'facing' is interpreted as the general forward direction of the camera wearer's body/intended movement towards the exit.",
+        "key_frames": {
+            "0:00": {
+                "distance": " N/A",
+                "direction": "0"
+            },
+            "1:03": {
+                "distance": " N/A",
+                "direction": "0"
+            },
+            "1:33": {
+                "distance": " N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-right",
+    "question": "Imagine you are the camera wearer, when the speech topic \"reminding listener not to forget items\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_79",
+    "video_id": "loc1_script2_seq8_rec1"
+}

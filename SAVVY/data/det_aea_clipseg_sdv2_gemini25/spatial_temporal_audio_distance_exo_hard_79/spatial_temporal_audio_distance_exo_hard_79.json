@@ -1,0 +1,154 @@
+{
+    "event": "Distance between the rectangle wooden coffee table and the sounding object (knocking door) when the knocking sound is happening.",
+    "start_time": "0:02",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The sounding object is the front door, which is being knocked on. It is a dark gray/black metal security door with ornate scrollwork and glass panels. It has a handle and a deadbolt. Approximate dimensions: 2m height x 0.9m width.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "170"
+            },
+            "0:17": {
+                "distance": "3.8",
+                "direction": "-150"
+            },
+            "0:43": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:08": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:57": {
+                "distance": "4.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle Wooden Coffee Table",
+        "description": "A dark brown/black rectangular wooden coffee table located in the living room. Approximate dimensions: 1.2m long x 0.6m wide x 0.4m high.",
+        "is_static": true,
+        "key_frames": {
+            "0:13": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:17": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:19": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:54": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:11": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:24": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:56": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "2:05": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Front Door",
+        "description": "The front door, same as the sounding object. When standing by the coffee table (reference object), one might face the door to consider the distance.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "170"
+            },
+            "0:17": {
+                "distance": "3.8",
+                "direction": "-150"
+            },
+            "0:43": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "0:48": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:08": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:25": {
+                "distance": "4.0",
+                "direction": "-45"
+            },
+            "1:57": {
+                "distance": "4.0",
+                "direction": "-45"
+            }
+        }
+    },
+    "prediction": 3.8,
+    "question": "When the knocking door sound is happening, what is the distance between the rectangle wooden coffee table and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_79",
+    "video_id": "loc2_script2_seq1_rec1"
+}

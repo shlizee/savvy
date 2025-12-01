@@ -1,0 +1,861 @@
+{
+    "00000": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": -51.14,
+            "distance": 1.08,
+            "det_conf": [
+                0.5034914612770081,
+                0.5263546705245972,
+                0.3939165472984314,
+                0.47565922141075134,
+                0.43501174449920654
+            ]
+        }
+    },
+    "00056": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": -55.82,
+            "distance": 1.23,
+            "det_conf": [
+                0.7322210073471069,
+                0.6568834781646729,
+                0.7491023540496826,
+                0.48611530661582947,
+                0.4695991277694702
+            ]
+        }
+    },
+    "00084": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": -66.71,
+            "distance": 1.0,
+            "det_conf": [
+                0.5142993927001953,
+                0.2937660813331604,
+                0.5213639736175537,
+                0.40938204526901245,
+                0.5607986450195312
+            ]
+        }
+    },
+    "00169": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": 30.43,
+            "distance": 4.02,
+            "det_conf": [
+                0.6600970029830933,
+                0.5875142812728882,
+                0.6261401772499084,
+                0.5415162444114685,
+                0.05785118043422699
+            ]
+        }
+    },
+    "00198": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": 47.81,
+            "distance": 3.06,
+            "det_conf": [
+                0.5005576014518738,
+                0.5259802341461182,
+                0.48539280891418457,
+                0.43998047709465027,
+                0.4810630977153778
+            ]
+        }
+    },
+    "00226": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -19.26,
+            "distance": 2.25,
+            "det_conf": [
+                0.508118748664856,
+                0.5530811548233032,
+                0.5313258171081543,
+                0.5540490746498108,
+                0.46372053027153015
+            ]
+        }
+    },
+    "00254": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -55.78,
+            "distance": 1.01,
+            "det_conf": [
+                0.442356675863266,
+                0.3859201669692993,
+                0.45049849152565,
+                0.5036966800689697,
+                0.4970095157623291
+            ]
+        }
+    },
+    "00282": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 66.93,
+            "distance": 2.78,
+            "det_conf": [
+                0.6937045454978943,
+                0.6941404342651367,
+                0.44041725993156433,
+                0.21143731474876404,
+                0.5949409008026123
+            ]
+        }
+    },
+    "00311": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 60.56,
+            "distance": 3.14,
+            "det_conf": [
+                0.2236091047525406,
+                0.7260440587997437,
+                0.6235851645469666,
+                0.5346739292144775,
+                0.7000489830970764
+            ]
+        }
+    },
+    "00339": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 39.41,
+            "distance": 1.56,
+            "det_conf": [
+                0.0294030848890543,
+                0.023096783086657524,
+                0.4748968183994293,
+                0.1719980686903,
+                0.5738855004310608
+            ]
+        }
+    },
+    "00367": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 38.84,
+            "distance": 1.79,
+            "det_conf": [
+                0.45860299468040466,
+                0.4228304326534271,
+                0.4231128394603729,
+                0.5883582234382629,
+                0.5297674536705017
+            ]
+        }
+    },
+    "00396": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 77.71,
+            "distance": 4.4,
+            "det_conf": [
+                0.8068588972091675,
+                0.8124132752418518,
+                0.7740796208381653,
+                0.8380669951438904,
+                0.7617893815040588
+            ]
+        },
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": -0.8,
+            "distance": 2.22,
+            "det_conf": [
+                0.4609450101852417,
+                0.5776889324188232,
+                0.6964195966720581,
+                0.6139494776725769,
+                0.41646823287010193
+            ]
+        }
+    },
+    "00480": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 40.06,
+            "distance": 1.88,
+            "det_conf": [
+                0.4190327525138855,
+                0.2791265845298767,
+                0.4585809111595154,
+                0.5119576454162598,
+                0.34789353609085083
+            ]
+        }
+    },
+    "00509": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 38.68,
+            "distance": 2.24,
+            "det_conf": [
+                0.554473876953125,
+                0.5357329845428467,
+                0.7071139812469482,
+                0.4050368070602417,
+                0.5416604280471802
+            ]
+        }
+    },
+    "00565": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 52.79,
+            "distance": 2.28,
+            "det_conf": [
+                0.6850760579109192,
+                0.6987867951393127,
+                0.5670120120048523,
+                0.07033996284008026,
+                0.081884004175663
+            ]
+        }
+    },
+    "00650": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 48.61,
+            "distance": 2.4,
+            "det_conf": [
+                0.2383863776922226,
+                0.0473516620695591,
+                0.15876148641109467,
+                0.5126519203186035,
+                0.05414876341819763
+            ]
+        }
+    },
+    "00763": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 38.52,
+            "distance": 1.64,
+            "det_conf": [
+                0.2613426446914673,
+                0.4717986285686493,
+                0.5630276799201965,
+                0.47845324873924255,
+                0.13599802553653717
+            ]
+        }
+    },
+    "00792": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 38.78,
+            "distance": 4.37,
+            "det_conf": [
+                0.5847600102424622,
+                0.5085809826850891,
+                0.2969299852848053,
+                0.13144832849502563,
+                0.40542709827423096
+            ]
+        }
+    },
+    "00848": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 43.94,
+            "distance": 2.16,
+            "det_conf": [
+                0.40141263604164124,
+                0.5114635825157166,
+                0.501030445098877,
+                0.12485726177692413,
+                0.6768069267272949
+            ]
+        }
+    },
+    "00877": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 35.59,
+            "distance": 1.9,
+            "det_conf": [
+                0.46670016646385193,
+                0.5344062447547913,
+                0.3331145942211151,
+                0.31088605523109436,
+                0.5978581309318542
+            ]
+        }
+    },
+    "00905": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 75.84,
+            "distance": 2.19,
+            "det_conf": [
+                0.7131072878837585,
+                0.6837664246559143,
+                0.6647868752479553,
+                0.6419558525085449,
+                0.5263782739639282
+            ]
+        }
+    },
+    "00933": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 75.63,
+            "distance": 2.31,
+            "det_conf": [
+                0.5449730753898621,
+                0.5859673023223877,
+                0.62492835521698,
+                0.5973499417304993,
+                0.5785980820655823
+            ]
+        }
+    },
+    "00961": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 35.08,
+            "distance": 1.89,
+            "det_conf": [
+                0.25238049030303955,
+                0.5259034037590027,
+                0.04540017992258072,
+                0.5679804086685181,
+                0.6056875586509705
+            ]
+        }
+    },
+    "00990": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 43.73,
+            "distance": 3.59,
+            "det_conf": [
+                0.5818295478820801,
+                0.5878799557685852,
+                0.17014376819133759,
+                0.04018726944923401,
+                0.5810335278511047
+            ]
+        }
+    },
+    "01075": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 36.45,
+            "distance": 3.26,
+            "det_conf": [
+                0.159712016582489,
+                0.5020453929901123,
+                0.4003527760505676,
+                0.3232635259628296,
+                0.02838248945772648
+            ]
+        }
+    },
+    "01103": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 34.68,
+            "distance": 3.27,
+            "det_conf": [
+                0.4479789733886719,
+                0.31747904419898987,
+                0.6290965676307678,
+                0.34484973549842834,
+                0.11906208842992783
+            ]
+        }
+    },
+    "01159": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 44.72,
+            "distance": 2.16,
+            "det_conf": [
+                0.5866557955741882,
+                0.15847936272621155,
+                0.420721173286438,
+                0.45154091715812683,
+                0.254610151052475
+            ]
+        }
+    },
+    "01216": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 65.7,
+            "distance": 3.13,
+            "det_conf": [
+                0.764091968536377,
+                0.715887725353241,
+                0.7158926129341125,
+                0.7913855910301208,
+                0.6450443267822266
+            ]
+        }
+    },
+    "01244": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 70.66,
+            "distance": 3.53,
+            "det_conf": [
+                0.8244830369949341,
+                0.8130158185958862,
+                0.8246355652809143,
+                0.8113563060760498,
+                0.843370795249939
+            ]
+        }
+    },
+    "01527": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 58.02,
+            "distance": 2.2,
+            "det_conf": [
+                0.6890252232551575,
+                0.23934698104858398,
+                0.6571599245071411,
+                0.12487204372882843,
+                0.05638210475444794
+            ]
+        }
+    },
+    "01725": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": -23.28,
+            "distance": 1.0,
+            "det_conf": [
+                0.6999601721763611,
+                0.736553966999054,
+                0.7582730650901794,
+                0.5839518308639526,
+                0.41088059544563293
+            ]
+        },
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": -26.71,
+            "distance": 1.0,
+            "det_conf": [
+                0.456215500831604,
+                0.6051523685455322,
+                0.6047158241271973,
+                0.4954116940498352,
+                0.428867369890213
+            ]
+        }
+    },
+    "01754": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": -27.7,
+            "distance": 1.0,
+            "det_conf": [
+                0.5504934787750244,
+                0.5409584045410156,
+                0.531144917011261,
+                0.5296341776847839,
+                0.5473489761352539
+            ]
+        }
+    },
+    "01838": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": -31.97,
+            "distance": 1.0,
+            "det_conf": [
+                0.6529785394668579,
+                0.6545029282569885,
+                0.7063845992088318,
+                0.6487544775009155,
+                0.4938892424106598
+            ]
+        }
+    },
+    "01867": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -43.3,
+            "distance": 2.05,
+            "det_conf": [
+                0.6502615213394165,
+                0.6396304368972778,
+                0.6557824611663818,
+                0.5195015072822571,
+                0.5650749206542969
+            ]
+        },
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 26.93,
+            "distance": 7.28,
+            "det_conf": [
+                0.8158349990844727,
+                0.5909996628761292,
+                0.823924720287323,
+                0.828363299369812,
+                0.8060252666473389
+            ]
+        }
+    },
+    "01895": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 63.57,
+            "distance": 5.27,
+            "det_conf": [
+                0.8298249840736389,
+                0.834518551826477,
+                0.8193563222885132,
+                0.8219287395477295,
+                0.8266910910606384
+            ]
+        }
+    },
+    "01923": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 2.24,
+            "distance": 2.41,
+            "det_conf": [
+                0.7821570634841919,
+                0.6022365093231201,
+                0.49175265431404114,
+                0.5087488293647766,
+                0.20290572941303253
+            ]
+        }
+    },
+    "01952": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 80.13,
+            "distance": 3.73,
+            "det_conf": [
+                0.778912365436554,
+                0.616206705570221,
+                0.503868043422699,
+                0.5945554375648499,
+                0.6859740614891052
+            ]
+        },
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 13.31,
+            "distance": 3.55,
+            "det_conf": [
+                0.6156437397003174,
+                0.19169627130031586,
+                0.17258206009864807,
+                0.5304338932037354,
+                0.27682778239250183
+            ]
+        }
+    },
+    "01980": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 19.57,
+            "distance": 1.45,
+            "det_conf": [
+                0.5604187846183777,
+                0.47772839665412903,
+                0.28094664216041565,
+                0.09777713567018509,
+                0.3911202549934387
+            ]
+        }
+    },
+    "02008": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -28.07,
+            "distance": 1.5,
+            "det_conf": [
+                0.5827855467796326,
+                0.5156653523445129,
+                0.2546762526035309,
+                0.40167760848999023,
+                0.2774445116519928
+            ]
+        }
+    },
+    "02121": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": 25.34,
+            "distance": 2.07,
+            "det_conf": [
+                0.4938299357891083,
+                0.5476905703544617,
+                0.5423110127449036,
+                0.5734613537788391,
+                0.4470125138759613
+            ]
+        }
+    },
+    "02150": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -62.63,
+            "distance": 1.0,
+            "det_conf": [
+                0.5439479947090149,
+                0.58304762840271,
+                0.6050990223884583,
+                0.5505893230438232,
+                0.5216729044914246
+            ]
+        }
+    },
+    "02235": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 35.35,
+            "distance": 3.08,
+            "det_conf": [
+                0.08261698484420776,
+                0.2678329646587372,
+                0.5453794002532959,
+                0.00216780137270689,
+                0.039077505469322205
+            ]
+        }
+    },
+    "02263": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 20.64,
+            "distance": 3.09,
+            "det_conf": [
+                0.04824323207139969,
+                0.5898873805999756,
+                0.34659770131111145,
+                0.027068693190813065,
+                0.03431516885757446
+            ]
+        }
+    },
+    "02348": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 38.99,
+            "distance": 3.55,
+            "det_conf": [
+                0.33284372091293335,
+                0.5539975166320801,
+                0.5701098442077637,
+                0.25470346212387085,
+                0.07537932693958282
+            ]
+        }
+    },
+    "02404": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 33.63,
+            "distance": 1.62,
+            "det_conf": [
+                0.6370507478713989,
+                0.33845624327659607,
+                0.3279117941856384,
+                0.3802298903465271,
+                0.13093991577625275
+            ]
+        }
+    },
+    "02546": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 50.71,
+            "distance": 2.96,
+            "det_conf": [
+                0.34969601035118103,
+                0.5293548703193665,
+                0.36004704236984253,
+                0.3402461111545563,
+                0.061424124985933304
+            ]
+        }
+    },
+    "02659": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 36.83,
+            "distance": 1.84,
+            "det_conf": [
+                0.31679973006248474,
+                0.08069416135549545,
+                0.4695093035697937,
+                0.561423122882843,
+                0.4487665891647339
+            ]
+        }
+    },
+    "02772": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 44.49,
+            "distance": 3.83,
+            "det_conf": [
+                0.025548838078975677,
+                0.02769135683774948,
+                0.19118396937847137,
+                0.5397998094558716,
+                0.02338484302163124
+            ]
+        }
+    },
+    "02857": {
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 42.62,
+            "distance": 3.01,
+            "det_conf": [
+                0.10529163479804993,
+                0.4089670181274414,
+                0.17279894649982452,
+                0.5351393818855286,
+                0.4387674927711487
+            ]
+        }
+    },
+    "03027": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": -24.76,
+            "distance": 5.36,
+            "det_conf": [
+                0.6818055510520935,
+                0.7211772203445435,
+                0.6241036057472229,
+                0.3677529990673065,
+                0.020489085465669632
+            ]
+        },
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": 59.48,
+            "distance": 3.48,
+            "det_conf": [
+                0.8076456189155579,
+                0.6799494624137878,
+                0.6286635994911194,
+                0.6743791699409485,
+                0.2863992154598236
+            ]
+        }
+    },
+    "03055": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": -50.31,
+            "distance": 3.0,
+            "det_conf": [
+                0.5971891283988953,
+                0.41261178255081177,
+                0.522246241569519,
+                0.03622167184948921,
+                0.02198329009115696
+            ]
+        }
+    },
+    "03168": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 42.21,
+            "distance": 1.0,
+            "det_conf": [
+                0.5207280516624451,
+                0.37733930349349976,
+                0.4503186047077179,
+                0.37050890922546387,
+                0.17864923179149628
+            ]
+        }
+    },
+    "03225": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 57.93,
+            "distance": 2.67,
+            "det_conf": [
+                0.7998372316360474,
+                0.8153868913650513,
+                0.7972832918167114,
+                0.35389605164527893,
+                0.7518682479858398
+            ]
+        },
+        "A small, round, dark-colored outdoor dining table, approximately 0.7 meters in diameter, with two chairs. It is located outside by the pool.": {
+            "direction": -32.54,
+            "distance": 1.61,
+            "det_conf": [
+                0.40938276052474976,
+                0.4379194378852844,
+                0.3400838077068329,
+                0.597376823425293,
+                0.38077548146247864
+            ]
+        }
+    },
+    "03253": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -34.58,
+            "distance": 2.02,
+            "det_conf": [
+                0.7160631418228149,
+                0.7148113250732422,
+                0.7136160731315613,
+                0.7122145295143127,
+                0.6631800532341003
+            ]
+        }
+    },
+    "03281": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -38.31,
+            "distance": 1.69,
+            "det_conf": [
+                0.6461300253868103,
+                0.6512057185173035,
+                0.7194869518280029,
+                0.6881914734840393,
+                0.6452117562294006
+            ]
+        }
+    },
+    "03310": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -41.61,
+            "distance": 1.63,
+            "det_conf": [
+                0.4888642728328705,
+                0.5261397957801819,
+                0.06379743665456772,
+                0.5530697703361511,
+                0.5352375507354736
+            ]
+        }
+    },
+    "03338": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -43.18,
+            "distance": 1.75,
+            "det_conf": [
+                0.6567758917808533,
+                0.611491322517395,
+                0.6102330088615417,
+                0.5471361875534058,
+                0.552122950553894
+            ]
+        }
+    },
+    "03423": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -41.82,
+            "distance": 1.34,
+            "det_conf": [
+                0.5497164130210876,
+                0.5089660882949829,
+                0.49248412251472473,
+                0.5125778317451477,
+                0.49513593316078186
+            ]
+        }
+    },
+    "03451": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": -69.2,
+            "distance": 1.03,
+            "det_conf": [
+                0.5821864604949951,
+                0.5774638056755066,
+                0.429684042930603,
+                0.5488244891166687,
+                0.6385442018508911
+            ]
+        }
+    },
+    "03508": {
+        "The person holding the camera, male voice. This person is not visible in the frame, as the video is from their point-of-view.": {
+            "direction": 56.79,
+            "distance": 1.2,
+            "det_conf": [
+                0.6722235679626465,
+                0.50516277551651,
+                0.4779599905014038,
+                0.6001636385917664,
+                0.5955538153648376
+            ]
+        }
+    },
+    "03536": {
+        "Large sliding glass doors, approximately 2.5 meters high and 3-4 meters wide in total, leading to an outdoor pool area. The frame is dark.": {
+            "direction": 64.25,
+            "distance": 3.38,
+            "det_conf": [
+                0.5697851777076721,
+                0.7137174606323242,
+                0.619888424873352,
+                0.20735469460487366,
+                0.6500744223594666
+            ]
+        }
+    }
+}

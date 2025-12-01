@@ -1,0 +1,192 @@
+{
+    "event": "Determine the location of the sounding object (creak and thud of a door closing) relative to a robot standing by the front door and facing the TV.",
+    "start_time": "0:13",
+    "end_time": "0:15",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden front door with an arched top. It has a small, rectangular, vertically-oriented window with dark metal bars. The doorknob and hinges appear to be dark metal. The door opens inwards.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "80"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:06": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "90"
+            },
+            "0:11": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "0:13": {
+                "distance": "0.5",
+                "direction": "45"
+            },
+            "0:14": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "20"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:10": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:50": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:58": {
+                "distance": "3.0",
+                "direction": "75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Dark Wooden Front Door",
+        "description": "A dark brown wooden front door with an arched top. It has a small, rectangular, vertically-oriented window with dark metal bars. The doorknob and hinges appear to be dark metal. The door opens inwards. This is the same as the sounding object.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "80"
+            },
+            "0:04": {
+                "distance": "2.5",
+                "direction": "60"
+            },
+            "0:06": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:07": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0.5",
+                "direction": "90"
+            },
+            "0:11": {
+                "distance": "0.7",
+                "direction": "80"
+            },
+            "0:13": {
+                "distance": "0.5",
+                "direction": "45"
+            },
+            "0:14": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "20"
+            },
+            "0:16": {
+                "distance": "1.0",
+                "direction": "70"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "0:50": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:10": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:30": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:50": {
+                "distance": "3.0",
+                "direction": "75"
+            },
+            "1:58": {
+                "distance": "3.0",
+                "direction": "75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "TV",
+        "description": "A large, black, flat-screen television, resting on a low, light-brown wooden media console. The console has multiple sections.",
+        "key_frames": {
+            "0:00": {
+                "distance": "3.0",
+                "direction": "-15"
+            },
+            "0:02": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:17": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:32": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:45": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:00": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:20": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:40": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "1:55": {
+                "distance": "3.0",
+                "direction": "-20"
+            }
+        }
+    },
+    "prediction": "back-right",
+    "question": "Imagine you are a robot standing by the dark wooden front door and facing the tv, when the creak and thud sound comes up, relative to where you are facing, where is the sounding object: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_6",
+    "video_id": "loc1_script2_seq1_rec1"
+}

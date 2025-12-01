@@ -1,0 +1,104 @@
+{
+    "event": "The other person instructs the camera wearer to close the door.",
+    "start_time": "01:27",
+    "end_time": "01:30",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, balding with dark hair on the sides, wearing a light blue/teal polo shirt, khaki shorts, white sneakers with grey accents, glasses, and black wired earbuds. Appears to be of average to slightly heavy build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "00:09": {
+                "distance": "1.3",
+                "direction": "-45"
+            },
+            "00:26": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "00:40": {
+                "distance": "1.3",
+                "direction": "-40"
+            },
+            "00:57": {
+                "distance": "1.2",
+                "direction": "-45"
+            },
+            "01:12": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "01:13": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "01:14": {
+                "distance": "2.8",
+                "direction": "-10"
+            },
+            "01:15": {
+                "distance": "3.5",
+                "direction": "0"
+            },
+            "01:23": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "01:24": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "01:26": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "01:27": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "01:28": {
+                "distance": "1.3",
+                "direction": "-5"
+            },
+            "01:29": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "1.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera worn by the first person, representing their point of view.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:27": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general direction of interaction/door",
+        "description": "The general direction the camera is pointing during the event.",
+        "key_frames": {
+            "01:27": {
+                "distance": "1.2",
+                "direction": "-10"
+            }
+        }
+    },
+    "prediction": 1.2,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing closing the door\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_112",
+    "video_id": "loc2_script2_seq8_rec2"
+}

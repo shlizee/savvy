@@ -1,0 +1,99 @@
+{
+    "event": "The speech topic is 'responding positively about the day'. The specific utterance is 'Yeah, it was pretty good, pretty good.'",
+    "start_time": "0:15",
+    "end_time": "0:16",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, approximately 1.75-1.85m tall (estimated when standing earlier in video), medium build. He is wearing a light blue short-sleeved polo shirt, khaki shorts (above the knee), and white athletic sneakers with white socks. He has short brown hair, a slightly receding hairline, and is wearing wired earbuds with the wire running down the front of his shirt. At the time of the event, he is sitting on the rightmost cushion (his right) of a large, beige/light-cream colored fabric sofa. The sofa has three distinct seat cushions and three back cushions.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:11": {
+                "distance": "2.8",
+                "direction": "-15"
+            },
+            "0:15": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:25": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:45": {
+                "distance": "2.6",
+                "direction": "-18"
+            },
+            "1:00": {
+                "distance": "2.6",
+                "direction": "-18"
+            },
+            "1:15": {
+                "distance": "2.5",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A built-in fireplace with a white-painted surround, likely stucco or painted brick, and a matching white mantelpiece. The firebox opening is black and is covered by a black metal, mesh fireplace screen. The screen has two prominent curved handles on its top edge. A raised hearth is visible at the bottom. The overall width of the visible fireplace structure (surround) is estimated to be 1.0-1.2 meters.",
+        "key_frames": {
+            "0:00": {
+                "distance": "4.5",
+                "direction": "-30"
+            },
+            "0:05": {
+                "distance": "4.8",
+                "direction": "-40"
+            },
+            "0:08": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "4.0",
+                "direction": "-65"
+            },
+            "0:15": {
+                "distance": "4.2",
+                "direction": "-60"
+            },
+            "0:16": {
+                "distance": "4.2",
+                "direction": "-60"
+            },
+            "0:25": {
+                "distance": "4.2",
+                "direction": "-60"
+            },
+            "0:45": {
+                "distance": "4.3",
+                "direction": "-60"
+            },
+            "1:00": {
+                "distance": "4.3",
+                "direction": "-60"
+            },
+            "1:15": {
+                "distance": "4.2",
+                "direction": "-60"
+            }
+        }
+    },
+    "facing_object": {},
+    "prediction": 3.0,
+    "question": "When the speech topic: \"responding positively about the day\" is mentioned, what is the distance between the fireplace with a black metal screen and the speech sound source in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_158",
+    "video_id": "loc2_script3_seq2_rec1"
+}

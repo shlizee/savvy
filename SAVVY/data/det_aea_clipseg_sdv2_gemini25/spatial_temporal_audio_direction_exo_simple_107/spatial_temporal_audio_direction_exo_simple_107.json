@@ -1,0 +1,148 @@
+{
+    "event": "Speaker confirms having recently cooked food for oneself.",
+    "start_time": "0:41",
+    "end_time": "0:43",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, wearing a light blue/teal polo shirt, khaki cargo shorts, white sneakers, and glasses. He has short dark hair and is holding a black smartphone with a wired earphone. Approximate height 1.75-1.85m.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "0:19": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:22": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:25": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:28": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "0:30": {
+                "distance": "3.0",
+                "direction": "30"
+            },
+            "0:37": {
+                "distance": "2.5",
+                "direction": "40"
+            },
+            "0:42": {
+                "distance": "2.0",
+                "direction": "35"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "1:05": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "1:44": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A round, undermount stainless steel sink, approximately 0.4-0.5 meters in diameter, embedded in a light-colored granite countertop on a kitchen island/peninsula. It has a tall, gooseneck-style chrome or stainless steel tap.",
+        "key_frames": {
+            "0:25": {
+                "distance": "1.0",
+                "direction": "-40"
+            },
+            "0:26": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "0:31": {
+                "distance": "0.5",
+                "direction": "10"
+            },
+            "0:33": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "0.4",
+                "direction": "-10"
+            },
+            "0:42": {
+                "distance": "0.3",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "0.7",
+                "direction": "20"
+            },
+            "0:52": {
+                "distance": "1.0",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with pool view",
+        "description": "Large, multi-panel sliding glass doors, approximately 2-2.5 meters high and 3-4 meters wide in total, providing a view of an outdoor swimming pool and patio area. The doors have dark frames.",
+        "key_frames": {
+            "0:29": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:31": {
+                "distance": "2.0",
+                "direction": "5"
+            },
+            "0:35": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:38": {
+                "distance": "1.8",
+                "direction": "5"
+            },
+            "0:42": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:44": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the window with a pool view, when the speech topic: \"confirming having recently cooked food for oneself\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_107",
+    "video_id": "loc2_script2_seq2_rec1"
+}

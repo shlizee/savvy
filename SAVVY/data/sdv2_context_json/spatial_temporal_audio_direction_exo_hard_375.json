@@ -1,0 +1,132 @@
+{
+    "event": "The speaker discusses the Caltrain stops, contrasting a proposal for fewer, more direct stops with the reality of many seemingly random stops, using \"San Antonio\" as an example of an illogical stop name.",
+    "start_time": "0:53",
+    "end_time": "1:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A young adult male with short, curly, dark brown or black hair. He is wearing a dark navy or black long-sleeved collared shirt (possibly a sweater or a button-up shirt worn open) over a lighter-colored (possibly white or light blue) collared shirt, and blue denim jeans. He is also wearing light-colored socks, possibly white or grey. He is initially seen reading a magazine or book, then sits up and engages in conversation, gesturing with his hands. Approximate height when sitting is around 0.8-1.0 meters from seat to top of head.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.5",
+                "direction": "-30"
+            },
+            "0:08": {
+                "distance": "2.0",
+                "direction": "-45"
+            },
+            "0:12": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "0:53": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:00": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "1:41": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:40": {
+                "distance": "1.8",
+                "direction": "-50"
+            },
+            "2:48": {
+                "distance": "1.8",
+                "direction": "-50"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Fireplace",
+        "description": "A modern, built-in fireplace. The surround is made of stacked, rough-cut stones in varying shades of light grey, beige, and tan. It has a simple, thick wooden mantelpiece in a medium brown color. The firebox opening is rectangular and dark. The fireplace is situated on the right-hand wall of the living room area (from the initial camera perspective entering the room). Approximate width ~1.5-2 meters, height ~1.2-1.5 meters to mantel.",
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "90"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "60"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "70"
+            },
+            "0:12": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "0:53": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "1:00": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "1:41": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "2:40": {
+                "distance": "2.8",
+                "direction": "75"
+            },
+            "2:48": {
+                "distance": "2.8",
+                "direction": "75"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with balcony view",
+        "description": "A large expanse of floor-to-ceiling glass, consisting of multiple panels including sliding glass doors, that forms the far wall of the living room. These windows provide a view of an outdoor balcony with railings, and beyond that, trees and a natural landscape, possibly with distant houses. Above these main windows, there is a row of clerestory windows, also rectangular, allowing more light into the high-ceilinged room. The overall window structure spans almost the entire width of this far wall, approximately 5-7 meters wide and 2.5-3 meters high for the main section.",
+        "key_frames": {
+            "0:01": {
+                "distance": "4.0",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "4.5",
+                "direction": "-10"
+            },
+            "0:08": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:12": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "0:53": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "1:00": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "1:41": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "2:40": {
+                "distance": "5.0",
+                "direction": "-5"
+            },
+            "2:48": {
+                "distance": "5.0",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "A",
+    "question": "Imagine you are a robot standing by the fireplace and facing the window with a balcony view, when the speech topic: \"contrasting proposal with reality of many stops\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_375",
+    "video_id": "loc3_script3_seq2_rec1"
+}

@@ -1,0 +1,156 @@
+{
+    "event": "Speaker's location relative to a robot (at the sink, facing the dining table) when the speech topic 'instructing to turn off heat' comes up.",
+    "start_time": "01:40",
+    "end_time": "01:41",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is an adult male, wearing a short-sleeved green polo shirt, blue jeans, and glasses. He has short, dark hair. He is of average build.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "00:04": {
+                "distance": "1.5",
+                "direction": "-30"
+            },
+            "00:06": {
+                "distance": "3.0",
+                "direction": "-40"
+            },
+            "00:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:21": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "00:34": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:47": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "01:31": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "01:40": {
+                "distance": "0.7",
+                "direction": "-45"
+            },
+            "01:53": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "02:09": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "02:35": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "02:50": {
+                "distance": "0.7",
+                "direction": "-40"
+            },
+            "03:01": {
+                "distance": "0.8",
+                "direction": "-30"
+            },
+            "03:05": {
+                "distance": "0.8",
+                "direction": "-30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Sink with tap",
+        "description": "A stainless steel kitchen sink with a modern gooseneck tap, integrated into a large white countertop on a kitchen island. The island has dark wood cabinetry underneath.",
+        "key_frames": {
+            "00:06": {
+                "distance": "3.5",
+                "direction": "-10"
+            },
+            "00:20": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:36": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "00:47": {
+                "distance": "1.0",
+                "direction": "20"
+            },
+            "01:38": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "01:53": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "02:50": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "03:01": {
+                "distance": "1.0",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Rectangular dining table",
+        "description": "A rectangular wooden dining table, likely medium to dark brown, surrounded by chairs. It is located in a dining area with large windows overlooking an outdoor scene with a pool.",
+        "key_frames": {
+            "00:00": {
+                "distance": "5.5",
+                "direction": "10"
+            },
+            "00:06": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "00:20": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "00:36": {
+                "distance": "5.5",
+                "direction": "5"
+            },
+            "00:47": {
+                "distance": "6.0",
+                "direction": "-10"
+            },
+            "01:38": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "01:53": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "02:50": {
+                "distance": "5.5",
+                "direction": "-5"
+            },
+            "03:01": {
+                "distance": "5.5",
+                "direction": "-5"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the sink with a tap and facing the rectangular dining table, when the speech topic: \"instructing to turn off heat\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_312",
+    "video_id": "loc3_script2_seq3_rec2"
+}

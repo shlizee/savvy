@@ -1,0 +1,132 @@
+{
+    "event": "The speech topic 'predicting judgment for watching shrek' comes up.",
+    "start_time": "2:55",
+    "end_time": "2:59",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A young woman with long, dark brown hair, wearing a black short-sleeved crop top, light blue jeans, and glasses. She is barefoot.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:03": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:06": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "1.2",
+                "direction": "-60"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-75"
+            },
+            "0:25": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-85"
+            },
+            "1:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:12": {
+                "distance": "1.5",
+                "direction": "-85"
+            },
+            "1:35": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "1:40": {
+                "distance": "1.5",
+                "direction": "-85"
+            },
+            "1:45": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:19": {
+                "distance": "1.5",
+                "direction": "-85"
+            },
+            "2:25": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:31": {
+                "distance": "1.5",
+                "direction": "-85"
+            },
+            "2:47": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "2:55": {
+                "distance": "1.5",
+                "direction": "-85"
+            },
+            "3:00": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "3:09": {
+                "distance": "1.5",
+                "direction": "-85"
+            },
+            "3:13": {
+                "distance": "1.5",
+                "direction": "-80"
+            },
+            "4:24": {
+                "distance": "1.5",
+                "direction": "-85"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person wearing the camera, whose hands are sometimes visible holding a phone.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "N/A",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "0:00": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"predicting judgment for watching shrek\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_60",
+    "video_id": "loc1_script2_seq7_rec2"
+}

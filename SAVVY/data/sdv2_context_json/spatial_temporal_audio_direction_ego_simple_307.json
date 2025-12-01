@@ -1,0 +1,160 @@
+{
+    "event": "The speech topic 'describing current location as equidistant' comes up.",
+    "start_time": "2:00",
+    "end_time": "2:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly, light brown/blondish hair, wearing a dark (possibly navy or black) long-sleeved sweater or jacket over a light-colored collared shirt (visible at the neck), and blue jeans. They are also wearing light-colored socks. They are sitting on a light beige couch with a patterned pillow (red and white with small figures) behind them. Approximate height while sitting is around 1 meter.",
+        "is_static": false,
+        "key_frames": {
+            "0:03": {
+                "distance": "2.2",
+                "direction": "-40"
+            },
+            "0:05": {
+                "distance": "1.8",
+                "direction": "-65"
+            },
+            "0:08": {
+                "distance": "1.7",
+                "direction": "-70"
+            },
+            "0:15": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "0:30": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "0:45": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "1:00": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "1:15": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "1:30": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "1:45": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "2:00": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "2:04": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "2:15": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "2:30": {
+                "distance": "1.7",
+                "direction": "-75"
+            },
+            "2:45": {
+                "distance": "1.7",
+                "direction": "-75"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera is worn by a person. Parts of the person are visible, such as their hand holding a phone at the start, and later their legs (wearing blue jeans and light-colored socks) and a gold-colored watch on their left wrist.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:04": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "2:45": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "general forward direction (coffee table/windows)",
+        "description": "The camera's general forward direction is towards the center of the living room, encompassing the coffee table and the large windows beyond. The sounding object is to the left of this general forward direction.",
+        "key_frames": {
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:00": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "2:04": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"describing current location as equidistant\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_307",
+    "video_id": "loc3_script3_seq2_rec1"
+}

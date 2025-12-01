@@ -1,0 +1,87 @@
+{
+    "event": "A creak and thud sound, identified as a door closing.",
+    "start_time": "01:30",
+    "end_time": "01:32",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A dark brown wooden front door with a decorative wrought iron and frosted glass panel in its center, and a matching narrow sidelight panel to its right (from inside view). Approximate dimensions: 0.9m width x 2m height for the main door panel.",
+        "is_static": true,
+        "key_frames": {
+            "00:00": {
+                "distance": ">5.0",
+                "direction": "0"
+            },
+            "01:15": {
+                "distance": "3.0",
+                "direction": "0"
+            },
+            "01:18": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "01:22": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "01:25": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "01:31": {
+                "distance": "0.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangle wooden coffee table",
+        "description": "A large, dark brown, rectangular wooden coffee table, appearing to be a trunk-style. Approximate dimensions: 1.2m length x 0.6m width x 0.4m height.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "01:12": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "01:13": {
+                "distance": "2.0",
+                "direction": "170"
+            },
+            "01:14": {
+                "distance": "2.5",
+                "direction": "175"
+            },
+            "01:18": {
+                "distance": "5.0",
+                "direction": "180"
+            },
+            "01:31": {
+                "distance": "5.0",
+                "direction": "180"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 5.0,
+    "question": "When the creak and thud sound is happening, what is the distance between the rectangle wooden coffee table and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_155",
+    "video_id": "loc2_script2_seq8_rec2"
+}

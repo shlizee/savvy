@@ -1,0 +1,119 @@
+{
+    "event": "The speech topic: \"commenting that underdone meat is acceptable\" comes up.",
+    "start_time": "0:01:48",
+    "end_time": "0:01:59",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with a blurred face, wearing a grey short-sleeved collared shirt, dark shorts, and glasses. They have dark, curly hair and are wearing a wired earpiece in their left ear. Approximate height appears to be average adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:00:00": {
+                "distance": "1.6",
+                "direction": "0"
+            },
+            "0:00:05": {
+                "distance": "1.8",
+                "direction": "10"
+            },
+            "0:00:16": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:00:20": {
+                "distance": "0.6",
+                "direction": "15"
+            },
+            "0:00:31": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:00:37": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:01:02": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01:11": {
+                "distance": "0.4",
+                "direction": "0"
+            },
+            "0:01:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:01:55": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:06": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:19": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:30": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:40": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:02:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03:05": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03:18": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03:29": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03:41": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:03:50": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:04:01": {
+                "distance": "0.8",
+                "direction": "10"
+            },
+            "0:04:08": {
+                "distance": "0.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera",
+        "description": "The camera wearer.",
+        "key_frames": {
+            "0:00:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 0.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"commenting that underdone meat is acceptable\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_182",
+    "video_id": "loc2_script3_seq4_rec1"
+}

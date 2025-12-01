@@ -1,0 +1,140 @@
+{
+    "event": "Speaker states belief that coffee needs pouring into mugs.",
+    "start_time": "2:02",
+    "end_time": "2:04",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a yellow knitted vest over a white t-shirt, and light blue jeans. Approximate height 1.6-1.7m.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "3.0",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "2.8",
+                "direction": "-5"
+            },
+            "0:11": {
+                "distance": "1.8",
+                "direction": "-25"
+            },
+            "0:34": {
+                "distance": "0.8",
+                "direction": "-40"
+            },
+            "0:58": {
+                "distance": "0.7",
+                "direction": "-30"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "-35"
+            },
+            "1:33": {
+                "distance": "0.6",
+                "direction": "-15"
+            },
+            "2:03": {
+                "distance": "0.6",
+                "direction": "-20"
+            },
+            "2:10": {
+                "distance": "0.8",
+                "direction": "-5"
+            },
+            "2:35": {
+                "distance": "0.5",
+                "direction": "5"
+            },
+            "2:51": {
+                "distance": "0.7",
+                "direction": "-10"
+            },
+            "3:06": {
+                "distance": "0.9",
+                "direction": "-5"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "kitchen hob",
+        "description": "A stainless steel gas hob with multiple burners (appears to be 5 or 6), integrated into a white countertop. It has black grates and black control knobs. Approximate width 0.8m.",
+        "key_frames": {
+            "0:11": {
+                "distance": "1.2",
+                "direction": "30"
+            },
+            "0:34": {
+                "distance": "0.4",
+                "direction": "15"
+            },
+            "0:47": {
+                "distance": "0.2",
+                "direction": "0"
+            },
+            "1:25": {
+                "distance": "0.3",
+                "direction": "10"
+            },
+            "1:41": {
+                "distance": "0.1",
+                "direction": "5"
+            },
+            "2:03": {
+                "distance": "0.3",
+                "direction": "30"
+            },
+            "2:20": {
+                "distance": "0.4",
+                "direction": "25"
+            },
+            "2:55": {
+                "distance": "0.5",
+                "direction": "20"
+            },
+            "3:05": {
+                "distance": "0.6",
+                "direction": "15"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "window with balcony view",
+        "description": "Large floor-to-ceiling windows and a sliding glass door assembly. Located on the wall across from the main kitchen counter, past a kitchen island with a sink. The windows provide a view of outdoor scenery including trees. Approximate width of the visible glass area is 3-4 meters.",
+        "key_frames": {
+            "0:01": {
+                "distance": "5.0",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "4.5",
+                "direction": "50"
+            },
+            "0:19": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "3.0",
+                "direction": "15"
+            },
+            "1:30": {
+                "distance": "3.5",
+                "direction": "20"
+            },
+            "2:03": {
+                "distance": "3.0",
+                "direction": "5"
+            },
+            "2:45": {
+                "distance": "3.2",
+                "direction": "10"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are a robot standing by the kitchen hob and facing the window with a balcony view, when the speech topic: \"stating belief coffee needs pouring into mugs\" comes up, relative to where you are facing, where is the speaker: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_exo_hard_296",
+    "video_id": "loc3_script2_seq3_rec1"
+}

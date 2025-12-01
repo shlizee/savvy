@@ -1,0 +1,148 @@
+{
+    "event": "A person suggests sitting down to talk.",
+    "start_time": "0:55",
+    "end_time": "0:57",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male, face is blurred. He is wearing a short-sleeved green polo shirt, blue jeans, and light-colored socks. He has dark hair and is wearing glasses (which he later removes). He also has a wired earpiece in his left ear. He is the one who suggests sitting down to talk.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "0:06": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "3.5",
+                "direction": "-45"
+            },
+            "0:29": {
+                "distance": "5.0",
+                "direction": "-30"
+            },
+            "0:51": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "-35"
+            },
+            "1:20": {
+                "distance": "1.7",
+                "direction": "-40"
+            },
+            "1:52": {
+                "distance": "1.5",
+                "direction": "-45"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Rectangular Dining Table",
+        "description": "A dark brown wooden rectangular dining table with a smooth surface, accompanied by chairs. It is located in the dining area, between the kitchen island and the large windows leading to the deck.",
+        "key_frames": {
+            "0:07": {
+                "distance": "4.0",
+                "direction": "-60"
+            },
+            "0:08": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "0:11": {
+                "distance": "4.5",
+                "direction": "20"
+            },
+            "0:22": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "0:30": {
+                "distance": "6.5",
+                "direction": "-35"
+            },
+            "0:45": {
+                "distance": "7.0",
+                "direction": "-30"
+            },
+            "1:02": {
+                "distance": "6.0",
+                "direction": "-40"
+            },
+            "1:25": {
+                "distance": "6.5",
+                "direction": "-35"
+            },
+            "1:45": {
+                "distance": "7.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Gray Reclining Lounge Chair with Ottoman",
+        "description": "A dark gray or black outdoor reclining lounge chair, likely made of wicker or a similar synthetic material, with lighter gray or beige cushions. An ottoman of similar style may be present. It is situated on the outdoor wooden deck, visible through the large glass windows of the living area.",
+        "key_frames": {
+            "0:09": {
+                "distance": "7.0",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "6.5",
+                "direction": "-5"
+            },
+            "0:17": {
+                "distance": "8.0",
+                "direction": "0"
+            },
+            "0:21": {
+                "distance": "7.5",
+                "direction": "5"
+            },
+            "0:26": {
+                "distance": "8.5",
+                "direction": "0"
+            },
+            "0:41": {
+                "distance": "9.0",
+                "direction": "10"
+            },
+            "0:47": {
+                "distance": "8.0",
+                "direction": "5"
+            },
+            "0:56": {
+                "distance": "7.0",
+                "direction": "20"
+            },
+            "1:05": {
+                "distance": "7.5",
+                "direction": "15"
+            },
+            "1:19": {
+                "distance": "8.0",
+                "direction": "10"
+            },
+            "1:35": {
+                "distance": "8.5",
+                "direction": "5"
+            },
+            "1:50": {
+                "distance": "7.0",
+                "direction": "25"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the rectangular dining table and facing the gray reclining lounge chair with ottoman, when the speech topic: \"suggesting sitting down to talk\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_277",
+    "video_id": "loc3_script2_seq1_rec1"
+}

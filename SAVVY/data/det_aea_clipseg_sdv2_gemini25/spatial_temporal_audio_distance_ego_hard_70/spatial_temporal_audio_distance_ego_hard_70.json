@@ -1,0 +1,144 @@
+{
+    "event": "The speech topic 'instructing use of a coaster' comes up, specifically when the other person says the word 'coaster'.",
+    "start_time": "0:40",
+    "end_time": "0:40",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "Adult male, medium build, with short, dark hair. He is wearing a turquoise polo shirt and khaki shorts. He is the person who says 'coaster' while seated at a small table.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:36": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera is worn by the first-person perspective individual. The distances and directions are relative to this camera.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "The person the camera wearer is interacting with, who is also the sounding object for this event.",
+        "key_frames": {
+            "0:01": {
+                "distance": "2.0",
+                "direction": "-5"
+            },
+            "0:06": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "-15"
+            },
+            "0:20": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:23": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "1.0",
+                "direction": "5"
+            },
+            "0:36": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:38": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "1:15": {
+                "distance": "0.7",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "0.7",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing use of a coaster\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_70",
+    "video_id": "loc2_script2_seq3_rec2"
+}

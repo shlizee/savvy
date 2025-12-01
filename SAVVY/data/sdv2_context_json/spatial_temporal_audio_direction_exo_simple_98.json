@@ -1,0 +1,80 @@
+{
+    "event": "A person compliments a goal item (the door).",
+    "start_time": "0:13",
+    "end_time": "0:14",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "The speaker is a male, likely of Asian descent, wearing a light-colored (white/light pink) t-shirt and light blue shorts. He is barefoot. Average height and build.",
+        "is_static": false,
+        "key_frames": {
+            "0:04": {
+                "distance": "2.1",
+                "direction": "5"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:13": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:17": {
+                "distance": "3.0",
+                "direction": "-20"
+            },
+            "0:22": {
+                "distance": "3.5",
+                "direction": "-25"
+            },
+            "1:10": {
+                "distance": "3.2",
+                "direction": "-20"
+            },
+            "1:56": {
+                "distance": "3.0",
+                "direction": "-15"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Stainless steel refrigerator",
+        "description": "A large, Samsung brand, French door style stainless steel refrigerator with a bottom freezer drawer and an ice/water dispenser on the left door.",
+        "key_frames": {
+            "0:50": {
+                "distance": "1.2",
+                "direction": "15"
+            },
+            "0:52": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:01": {
+                "distance": "0.5",
+                "direction": "5"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A stainless steel, undermount, double-basin rectangular sink with a modern gooseneck tap. It is set into a granite countertop with a tiled backsplash.",
+        "key_frames": {
+            "0:45": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:47": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "1:03": {
+                "distance": "1.8",
+                "direction": "-25"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the stainless steel refrigerator and facing the double-basin rectangular sink and tap, when the speech topic: \"complimenting a goal item\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_98",
+    "video_id": "loc2_script2_seq1_rec2"
+}

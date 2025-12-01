@@ -1,0 +1,80 @@
+{
+    "event": "Imagine you are the camera wearer, when the speech topic: \"instructing item placement by the table\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "start_time": "0:15",
+    "end_time": "0:18",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person, likely an adult, wearing a grey t-shirt and dark shorts. He is sitting on a light-colored sofa in a living room.",
+        "is_static": false,
+        "key_frames": {
+            "0:10": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person holding the camera, wearing a teal t-shirt.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:08": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "0:27": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "other person",
+        "description": "A male person, likely an adult, wearing a grey t-shirt and dark shorts. He is sitting on a light-colored sofa in a living room.",
+        "key_frames": {
+            "0:10": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:26": {
+                "distance": "4.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "4.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": 4.5,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"instructing item placement by the table\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_116",
+    "video_id": "loc2_script3_seq1_rec1"
+}

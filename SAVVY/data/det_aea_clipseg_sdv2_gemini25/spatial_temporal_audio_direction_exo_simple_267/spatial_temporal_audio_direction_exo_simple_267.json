@@ -1,0 +1,104 @@
+{
+    "event": "Speaker states they took an allergy pill earlier.",
+    "start_time": "02:07",
+    "end_time": "02:08",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "Adult male with curly dark hair, wearing glasses, a grey short-sleeved polo shirt, and dark blue/black shorts. Approximate height 1.7-1.8m.",
+        "is_static": false,
+        "key_frames": {
+            "00:01": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "00:16": {
+                "distance": "2.5",
+                "direction": "20"
+            },
+            "00:55": {
+                "distance": "1.0",
+                "direction": "-15"
+            },
+            "02:07": {
+                "distance": "1.5",
+                "direction": "-5"
+            },
+            "02:18": {
+                "distance": "1.0",
+                "direction": "-20"
+            },
+            "03:25": {
+                "distance": "1.2",
+                "direction": "-15"
+            },
+            "03:45": {
+                "distance": "2.0",
+                "direction": "10"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "built-in stainless steel dishwasher",
+        "description": "Standard built-in dishwasher with a stainless steel front panel. Located to the right of the main kitchen sink (the one with the colorful backsplash).",
+        "key_frames": {
+            "00:24": {
+                "distance": "2.0",
+                "direction": "30"
+            },
+            "01:19": {
+                "distance": "0.8",
+                "direction": "40"
+            },
+            "02:16": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "02:47": {
+                "distance": "0.7",
+                "direction": "10"
+            },
+            "03:08": {
+                "distance": "0.6",
+                "direction": "5"
+            },
+            "03:37": {
+                "distance": "1.0",
+                "direction": "30"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "stainless steel double wall oven",
+        "description": "Built-in double wall oven with stainless steel finish. Located on the kitchen wall, to the left of the main kitchen sink area.",
+        "key_frames": {
+            "00:08": {
+                "distance": "4.0",
+                "direction": "-40"
+            },
+            "00:23": {
+                "distance": "3.5",
+                "direction": "-30"
+            },
+            "01:17": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "02:11": {
+                "distance": "3.0",
+                "direction": "-50"
+            },
+            "03:32": {
+                "distance": "3.5",
+                "direction": "-40"
+            },
+            "03:42": {
+                "distance": "4.0",
+                "direction": "-30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the stainless steel double wall oven, when the speech topic: \"stating taking allergy pill earlier\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_267",
+    "video_id": "loc2_script3_seq5_rec2"
+}

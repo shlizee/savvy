@@ -1,0 +1,172 @@
+{
+    "event": "The other person states they took an allergy pill earlier.",
+    "start_time": "02:07",
+    "end_time": "02:08",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with short, curly brown hair, wearing a grey short-sleeved polo shirt, dark blue or black shorts, and black sneakers with white soles. They are also wearing glasses and have a headset/earbuds with a wire. Approximate height seems average.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "00:05": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "00:15": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "00:31": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "00:45": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "00:50": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "01:15": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "01:25": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "01:35": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "02:01": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "02:07": {
+                "distance": "0.8",
+                "direction": "-20"
+            },
+            "02:11": {
+                "distance": "2.0",
+                "direction": "-60"
+            },
+            "02:17": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "02:37": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "02:46": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "03:05": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "03:13": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "03:25": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "03:37": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "03:42": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "03:47": {
+                "distance": "0.8",
+                "direction": "-20"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera wearer",
+        "description": "The person whose perspective the video is from. They are wearing a turquoise t-shirt and a gold-colored watch on their left wrist. Their hands are visible holding a phone and a power bank at the start, and later cleaning.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:10": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:25": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:55": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:07": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:40": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:20": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:40": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Camera's forward direction",
+        "description": "The direction the camera is pointing.",
+        "key_frames": {
+            "00:00": {
+                "distance": "N/A",
+                "direction": "0"
+            },
+            "02:07": {
+                "distance": "N/A",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "front-left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating taking allergy pill earlier\" comes up, relative to where you are facing, where is the other person: front-left, front-right, back-left, or back-right? The directions refer to the quadrants of a Cartesian plane (if you are standing at the origin and facing along the positive y-axis). Consider the center point location of the object as the its location.",
+    "qid": "spatial_temporal_audio_direction_ego_hard_253",
+    "video_id": "loc2_script3_seq5_rec2"
+}

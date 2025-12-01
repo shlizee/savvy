@@ -1,0 +1,164 @@
+{
+    "event": "The speech topic: \"offering coffee additions (cream)\" comes up.",
+    "start_time": "0:04",
+    "end_time": "0:07",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man wearing a teal/light blue short-sleeved polo shirt, khaki shorts, glasses, and has a dark beard. He is of average build. At the time of the event (0:04-0:07), he is seated at a wooden table.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.8",
+                "direction": "0"
+            },
+            "0:12": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "3.0",
+                "direction": "35"
+            },
+            "0:19": {
+                "distance": "3.5",
+                "direction": "45"
+            },
+            "0:25": {
+                "distance": "4.0",
+                "direction": "50"
+            },
+            "0:32": {
+                "distance": "3.8",
+                "direction": "40"
+            },
+            "0:37": {
+                "distance": "3.5",
+                "direction": "30"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "0:42": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "1:05": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:09": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:17": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:21": {
+                "distance": "1.2",
+                "direction": "10"
+            },
+            "1:23": {
+                "distance": "2.5",
+                "direction": "30"
+            },
+            "1:36": {
+                "distance": "2.0",
+                "direction": "15"
+            },
+            "1:38": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Built-in stainless steel dishwasher",
+        "description": "A built-in stainless steel dishwasher, located in the kitchen cabinetry. From the camera's initial perspective at the table, it is to the right of a stainless steel refrigerator, along the kitchen's back counter.",
+        "key_frames": {
+            "0:18": {
+                "distance": "3.8",
+                "direction": "55"
+            },
+            "0:25": {
+                "distance": "3.8",
+                "direction": "55"
+            },
+            "0:31": {
+                "distance": "3.8",
+                "direction": "55"
+            },
+            "0:35": {
+                "distance": "3.8",
+                "direction": "55"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Window with a pool view",
+        "description": "A large sliding glass window/door that provides a view of an outdoor pool area. It constitutes a major part of the wall facing the pool.",
+        "key_frames": {
+            "0:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:10": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:30": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:40": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are a robot standing by the built-in stainless steel dishwasher and facing the window with a pool view, when the speech topic: \"offering coffee additions (cream)\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_134",
+    "video_id": "loc2_script2_seq4_rec1"
+}

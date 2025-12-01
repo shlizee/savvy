@@ -1,0 +1,272 @@
+{
+    "event": "Stating belief coffee needs pouring into mugs",
+    "start_time": "02:02",
+    "end_time": "02:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white short-sleeved t-shirt under a yellow knitted vest, light blue jeans, and light-colored socks with a pattern. She has a tattoo on her left forearm. Approximate height appears average.",
+        "is_static": false,
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:07": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "00:10": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:20": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "00:33": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "00:43": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "00:57": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "01:06": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "01:12": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "01:20": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:27": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:33": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "01:43": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "01:53": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "01:58": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "02:03": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "02:08": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "02:12": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "02:23": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "02:30": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "02:40": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "02:50": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "02:59": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "03:05": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The first-person perspective of the camera wearer. We see their hands and arms. The wearer has a gold-colored watch on their left wrist and tattoos on their left forearm. They are wearing a green t-shirt and blue jeans.",
+        "key_frames": {
+            "00:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "00:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "01:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:03": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "02:30": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:00": {
+                "distance": "0",
+                "direction": "0"
+            },
+            "03:08": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Other Person",
+        "description": "A woman with long, dark, curly hair, wearing glasses, a white short-sleeved t-shirt under a yellow knitted vest, light blue jeans, and light-colored socks with a pattern. She has a tattoo on her left forearm. Approximate height appears average.",
+        "key_frames": {
+            "00:00": {
+                "distance": "2.0",
+                "direction": "45"
+            },
+            "00:04": {
+                "distance": "2.5",
+                "direction": "10"
+            },
+            "00:07": {
+                "distance": "3.0",
+                "direction": "-30"
+            },
+            "00:10": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "00:13": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "00:20": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "00:33": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "00:43": {
+                "distance": "1.0",
+                "direction": "-60"
+            },
+            "00:57": {
+                "distance": "1.0",
+                "direction": "-70"
+            },
+            "01:06": {
+                "distance": "0.8",
+                "direction": "-60"
+            },
+            "01:12": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "01:20": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:27": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "01:33": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "01:43": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "01:53": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "01:58": {
+                "distance": "0.6",
+                "direction": "-60"
+            },
+            "02:03": {
+                "distance": "0.7",
+                "direction": "-70"
+            },
+            "02:08": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "02:12": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "02:23": {
+                "distance": "0.5",
+                "direction": "-45"
+            },
+            "02:30": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "02:40": {
+                "distance": "0.6",
+                "direction": "-45"
+            },
+            "02:50": {
+                "distance": "0.7",
+                "direction": "-60"
+            },
+            "02:59": {
+                "distance": "0.8",
+                "direction": "-70"
+            },
+            "03:05": {
+                "distance": "1.0",
+                "direction": "-70"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"stating belief coffee needs pouring into mugs\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_255",
+    "video_id": "loc3_script2_seq3_rec1"
+}

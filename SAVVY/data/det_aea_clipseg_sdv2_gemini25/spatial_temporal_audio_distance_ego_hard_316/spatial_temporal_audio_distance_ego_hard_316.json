@@ -1,0 +1,106 @@
+{
+    "event": "The camera wearer is asked if there are drinks available.",
+    "start_time": "2:09",
+    "end_time": "2:11",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A person with curly dark hair, wearing glasses, a light blue collared shirt under a dark navy or black V-neck sweater, and blue jeans. Appears to be an adult male.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "0:05": {
+                "distance": "2.2",
+                "direction": "5"
+            },
+            "0:12": {
+                "distance": "1.0",
+                "direction": "-10"
+            },
+            "0:51": {
+                "distance": "2.5",
+                "direction": "-15"
+            },
+            "0:59": {
+                "distance": "2.0",
+                "direction": "-20"
+            },
+            "1:05": {
+                "distance": "0.7",
+                "direction": "-20"
+            },
+            "1:23": {
+                "distance": "1.2",
+                "direction": "-5"
+            },
+            "1:37": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "1:45": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:09": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:16": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "2:20": {
+                "distance": "1.2",
+                "direction": "5"
+            },
+            "2:26": {
+                "distance": "1.5",
+                "direction": "10"
+            },
+            "2:40": {
+                "distance": "3.0",
+                "direction": "-10"
+            },
+            "2:56": {
+                "distance": "0.8",
+                "direction": "5"
+            },
+            "3:30": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "3:43": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:00": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:12": {
+                "distance": "1.0",
+                "direction": "0"
+            },
+            "4:30": {
+                "distance": "1.0",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "camera wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {}
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 1.0,
+    "question": "Imagine you are the camera wearer, when the speech topic: \"inquiring about drink availability\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_316",
+    "video_id": "loc3_script3_seq4_rec2"
+}

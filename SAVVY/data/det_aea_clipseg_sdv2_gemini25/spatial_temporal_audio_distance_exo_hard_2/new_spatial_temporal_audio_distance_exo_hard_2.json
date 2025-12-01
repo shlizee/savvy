@@ -1,0 +1,99 @@
+{
+    "event": "Distance between nested coffee tables and the knocking front door when the knocking sound is happening.",
+    "start_time": "0:01",
+    "end_time": "0:03",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "The front door of the house. It is a dark brown, wooden door with an arched top. It features a small, rectangular, vertically-oriented window with a dark metal grille or bars. It has a dark-colored (likely black or dark bronze) doorknob/handle set. The door is the source of the knocking sound.",
+        "is_static": true,
+        "key_frames": {
+            "0:00": {
+                "distance": "4.0",
+                "direction": "60"
+            },
+            "0:04": {
+                "distance": "3.5",
+                "direction": "10"
+            },
+            "0:05": {
+                "distance": "2.5",
+                "direction": "5"
+            },
+            "0:06": {
+                "distance": "1.2",
+                "direction": "0"
+            },
+            "0:07": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:15": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "4.5",
+                "direction": "60"
+            },
+            "1:31": {
+                "distance": "4.5",
+                "direction": "70"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Nested Coffee Tables",
+        "description": "A set of two-tiered nested coffee tables. The tops are a light beige/cream colored stone-like or composite material. The larger, lower tier is oval or racetrack-shaped. The smaller, upper tier is circular and sits partially over the lower one. The frame is made of slim, dark metal (black or dark bronze). Items on the tables include a potted plant (succulent/aloe type in a dark bowl), two drink cans (one teal/green, one orange/yellow), TV remotes, and a magazine/book with a scenic cover.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:01": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:02": {
+                "distance": "0.8",
+                "direction": "-10"
+            },
+            "0:03": {
+                "distance": "1.0",
+                "direction": "-30"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-70"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "0:32": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "0:43": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:35": {
+                "distance": "0.5",
+                "direction": "0"
+            },
+            "1:54": {
+                "distance": "0.6",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "",
+        "description": "",
+        "key_frames": {}
+    },
+    "prediction": 4.0,
+    "question": "When the knocking door sound is happening, what is the distance between a set of nested coffee tables and the sounding object in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_exo_hard_2",
+    "video_id": "loc1_script2_seq1_rec1"
+}

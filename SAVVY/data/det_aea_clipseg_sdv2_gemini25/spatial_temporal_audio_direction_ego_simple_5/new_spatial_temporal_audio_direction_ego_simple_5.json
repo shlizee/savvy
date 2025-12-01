@@ -1,0 +1,168 @@
+{
+    "event": "The speech topic 'qualifying the flight experience as acceptable' comes up.",
+    "start_time": "0:48",
+    "end_time": "0:54",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A man with curly brown hair, wearing glasses, a light blue/green short-sleeved button-up shirt, and dark shorts. He is holding a beverage can and a smartphone, and has headphones around his neck.",
+        "is_static": false,
+        "key_frames": {
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:29": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:54": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:33": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:48": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "30"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera Wearer",
+        "description": "The person whose perspective the video is from.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "The Other Person",
+        "description": "A man with curly brown hair, wearing glasses, a light blue/green short-sleeved button-up shirt, and dark shorts. He is holding a beverage can and a smartphone, and has headphones around his neck.",
+        "key_frames": {
+            "0:09": {
+                "distance": "1.5",
+                "direction": "0"
+            },
+            "0:11": {
+                "distance": "1.0",
+                "direction": "10"
+            },
+            "0:16": {
+                "distance": "2.5",
+                "direction": "-10"
+            },
+            "0:29": {
+                "distance": "2.0",
+                "direction": "10"
+            },
+            "0:37": {
+                "distance": "1.5",
+                "direction": "-20"
+            },
+            "0:44": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "0:48": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:50": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:52": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "0:54": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:00": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:10": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:20": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:33": {
+                "distance": "2.0",
+                "direction": "-10"
+            },
+            "1:38": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:48": {
+                "distance": "1.5",
+                "direction": "30"
+            },
+            "1:55": {
+                "distance": "1.5",
+                "direction": "30"
+            }
+        }
+    },
+    "prediction": "left",
+    "question": "Imagine you are the camera wearer, when the speech topic \"qualifying the flight experience as acceptable\" comes up, relative to where you are facing, where is the other person : left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_ego_simple_5",
+    "video_id": "loc1_script2_seq1_rec1"
+}

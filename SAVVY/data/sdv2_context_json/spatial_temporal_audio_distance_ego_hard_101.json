@@ -1,0 +1,108 @@
+{
+    "event": "The distance between the camera wearer and the other person when the speech topic 'asking about readiness to start' comes up.",
+    "start_time": "0:02",
+    "end_time": "0:04",
+    "mode": "egocentric",
+    "sounding_object": {
+        "description": "A male person wearing a light-colored (beige/light grey) t-shirt, light blue shorts, and glasses. He has dark hair. He is the one who responds to the question about readiness.",
+        "is_static": false,
+        "key_frames": {
+            "0:01": {
+                "distance": "2.5",
+                "direction": "-45"
+            },
+            "0:02": {
+                "distance": "2.0",
+                "direction": "-30"
+            },
+            "0:03": {
+                "distance": "1.8",
+                "direction": "-20"
+            },
+            "0:04": {
+                "distance": "1.5",
+                "direction": "-15"
+            },
+            "0:07": {
+                "distance": "1.2",
+                "direction": "-10"
+            },
+            "0:10": {
+                "distance": "1.0",
+                "direction": "-5"
+            },
+            "0:16": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:33": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "0:46": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "1:55": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:08": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "2:50": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:05": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "3:12": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:30": {
+                "distance": "0.8",
+                "direction": "0"
+            },
+            "3:58": {
+                "distance": "0.7",
+                "direction": "0"
+            },
+            "4:13": {
+                "distance": "0.8",
+                "direction": "0"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Camera",
+        "description": "The camera wearer's perspective.",
+        "key_frames": {
+            "0:00": {
+                "distance": "0",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Kitchen Island Area",
+        "description": "The general area the camera is facing, where the other person is located.",
+        "key_frames": {
+            "0:02": {
+                "distance": "1.5",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "2.0",
+    "question": "Imagine you are the camera wearer, when the speech topic: \"asking about readiness to start\" comes up, relative to where you are standing, what is the distance between you and the other person in meters? Consider the center point location of the object as the its location. Answer in numeric format.",
+    "qid": "spatial_temporal_audio_distance_ego_hard_101",
+    "video_id": "loc2_script2_seq5_rec2"
+}

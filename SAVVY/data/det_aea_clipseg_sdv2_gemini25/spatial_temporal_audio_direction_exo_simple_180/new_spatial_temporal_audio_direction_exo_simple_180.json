@@ -1,0 +1,116 @@
+{
+    "event": "Determine the speaker's location relative to a robot. The robot is standing by the wall-mounted TV and facing the fireplace with a black metal screen. The speech topic is 'specifying the object as a rock formation'.",
+    "start_time": "0:35",
+    "end_time": "0:37",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A man with a blurred face, wearing a light blue polo shirt, khaki shorts, and glasses. He has short, dark hair. He is initially sitting on a grey couch to the left of the TV area.",
+        "is_static": false,
+        "key_frames": {
+            "0:00": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:08": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:15": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:26": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:36": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:45": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "0:55": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:05": {
+                "distance": "1.5",
+                "direction": "-40"
+            },
+            "1:12": {
+                "distance": "1.2",
+                "direction": "-50"
+            },
+            "1:14": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "1:17": {
+                "distance": "2.5",
+                "direction": "-75"
+            },
+            "1:24": {
+                "distance": "3.0",
+                "direction": "-80"
+            },
+            "1:28": {
+                "distance": "3.0",
+                "direction": "-80"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Wall-mounted TV",
+        "description": "A large, black, flat-screen television mounted on the wall, surrounded by wooden shelving units. Party banners are strung below it.",
+        "key_frames": {
+            "0:02": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:10": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:20": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:36": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:40": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "0:50": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:00": {
+                "distance": "2.5",
+                "direction": "0"
+            },
+            "1:08": {
+                "distance": "2.5",
+                "direction": "0"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Fireplace with a black metal screen",
+        "description": "A fireplace with a black metal screen. This object is not clearly visible in the video but is a defined facing reference for the robot. Its assumed location is to the right of the TV (from the camera's perspective when viewing the TV), in the general area of the window and white armchair seen when the camera pans right around 1:10. This assumed location defines the robot's forward direction.",
+        "key_frames": {
+            "1:10": {
+                "distance": "3.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "back",
+    "question": "Imagine you are a robot standing by the wall-mounted tv and facing the fireplace with a black metal screen, when the speech topic: \"specifying the object as a rock formation\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_180",
+    "video_id": "loc2_script2_seq8_rec2"
+}

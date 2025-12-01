@@ -1,0 +1,108 @@
+{
+    "event": "Speaker states refusal to eat/prepare more of the current food being cooked, by saying 'Let's just call it'.",
+    "start_time": "02:41",
+    "end_time": "02:43",
+    "mode": "allocentric",
+    "sounding_object": {
+        "description": "A male person, wearing a grey short-sleeved t-shirt and dark-colored shorts. He has dark, curly hair. Approximate height appears average adult male. He is mobile.",
+        "is_static": false,
+        "key_frames": {
+            "00:25": {
+                "distance": "0.7",
+                "direction": "45"
+            },
+            "00:31": {
+                "distance": "0.7",
+                "direction": "50"
+            },
+            "01:34": {
+                "distance": "1.5",
+                "direction": "70"
+            },
+            "01:35": {
+                "distance": "1.2",
+                "direction": "60"
+            },
+            "01:39": {
+                "distance": "0.8",
+                "direction": "45"
+            },
+            "02:25": {
+                "distance": "0.6",
+                "direction": "40"
+            },
+            "02:42": {
+                "distance": "0.6",
+                "direction": "40"
+            },
+            "02:49": {
+                "distance": "0.6",
+                "direction": "40"
+            }
+        }
+    },
+    "reference_object": {
+        "object_name": "Round sink with a tap",
+        "description": "A small, round, undermount prep sink, likely stainless steel (appears dark), embedded in a granite countertop on a kitchen island. It has a single, tall, gooseneck-style faucet. Approximate diameter 0.3-0.4 meters.",
+        "key_frames": {
+            "01:09": {
+                "distance": "1.5",
+                "direction": "-60"
+            },
+            "02:51": {
+                "distance": "0.5",
+                "direction": "-30"
+            },
+            "02:52": {
+                "distance": "0.3",
+                "direction": "-15"
+            },
+            "02:56": {
+                "distance": "0.1",
+                "direction": "0"
+            },
+            "02:57": {
+                "distance": "0.2",
+                "direction": "10"
+            }
+        }
+    },
+    "facing_object": {
+        "object_name": "Double-basin rectangular sink and tap",
+        "description": "A standard kitchen sink, appears to be stainless steel, with two rectangular basins. It is undermounted in a granite countertop against a wall. It has a faucet assembly. Approximate width 0.8-1 meter.",
+        "key_frames": {
+            "01:09": {
+                "distance": "2.5",
+                "direction": "-20"
+            },
+            "01:10": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "01:19": {
+                "distance": "3.0",
+                "direction": "-45"
+            },
+            "01:25": {
+                "distance": "3.5",
+                "direction": "-50"
+            },
+            "02:51": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "02:53": {
+                "distance": "2.0",
+                "direction": "0"
+            },
+            "02:57": {
+                "distance": "2.0",
+                "direction": "0"
+            }
+        }
+    },
+    "prediction": "right",
+    "question": "Imagine you are a robot standing by the round sink with a tap and facing the double-basin rectangular sink and tap, when the speech topic: \"stating refusal to eat current food\" comes up, relative to where you are facing, where is the speaker: left, right, or back? If the object is generally to your left and facing it requires turning less than 120 degrees left, choose 'left'. If the object is generally to your right and facing it requires turning less than 120 degrees right, choose 'right'. If the object is generally behind you and facing it requires turning 120 degrees or more, choose 'back'.",
+    "qid": "spatial_temporal_audio_direction_exo_simple_240",
+    "video_id": "loc2_script3_seq34_rec1"
+}
