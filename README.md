@@ -41,7 +41,7 @@ This project consists of three main components, each hosted in separate reposito
 | **SAVVY Algorithm** | [GitHub](https://github.com/yoyomimi/SAVVY) | Training-free spatial reasoning pipeline |
 | **SAVVY-Bench Dataset** | [HuggingFace](https://huggingface.co/datasets/ZijunCui/SAVVY-Bench) | Benchmark data, annotations, preprocessing tools |
 | **Evaluation Code** | [GitHub](https://github.com/yoyomimi/SAVVY-Bench) | Multi-model benchmarking framework |
-
+---
 
 ### [SAVVY Algorithm](https://github.com/yoyomimi/SAVVY)
 **Main Algorithm Repository** - Core SAVVY pipeline implementation
