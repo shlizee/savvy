@@ -104,6 +104,6 @@ If you use SAVVY or SAVVY-Bench in your research, please cite:
 Please refer to individual component licenses:
 - SAVVY Algorithm: See [LICENSE](https://github.com/yoyomimi/SAVVY/blob/master/LICENSE) 
 - Original Aria Dataset: [Project Aria License Agreement](https://www.projectaria.com/datasets/aea/license/)
-- EgoLifter submodule: Apache License 2.0
+- [EgoLifter submodule](https://github.com/facebookresearch/egolifter): [Apache License 2.0](https://github.com/facebookresearch/egolifter/blob/main/LICENSE)
 
 ---
