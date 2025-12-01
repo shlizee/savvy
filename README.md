@@ -39,12 +39,12 @@ This project consists of three main components, each hosted in separate reposito
 ### Quick Links
 | Component | Folder | Description |
 |-----------|------------|-------------|
-| **SAVVY Algorithm** | [SAVVY](https://github.com/shlizee/savvy/SAVVY/) | Training-free spatial reasoning pipeline; data preprocessing tools, benchmark data, annotations |
+| **SAVVY Algorithm** | [SAVVY](https://github.com/shlizee/savvy/tree/main/SAVVY/) | Training-free spatial reasoning pipeline; data preprocessing tools, benchmark data, annotations |
 | **SAVVY-Bench Dataset** | [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench) | Hugging Face Data Studio QA airs preview|
-| **Evaluation Code** | [SAVVY-Bench](https://github.com/shlizee/savvy/SAVVY-Bench/) | Multi-model benchmarking framework |
+| **Evaluation Code** | [SAVVY-Bench](https://github.com/shlizee/savvy/tree/main/SAVVY-Bench/) | Multi-model benchmarking framework |
 ---
 
-### [SAVVY Algorithm](https://github.com/shlizee/savvy/SAVVY/)
+### [SAVVY Algorithm](https://github.com/shlizee/savvy/tree/main/SAVVY/)
 **Main Algorithm Repository** - Core SAVVY pipeline implementation
 
 The SAVVY algorithm employs a multi-stage reasoning approach:
@@ -52,7 +52,7 @@ The SAVVY algorithm employs a multi-stage reasoning approach:
 - **Text-Guided Segmentation (Seg)**: Refines trajectories using visual foundation models (CLIPSeg, SAM2, ZoeDepth)
 - **Spatial Audio & Track Aggregation**: Fuses multi-modal cues into a unified 3D map for final predictions
 
-**Get Started**: Visit the [SAVVY repository](https://github.com/shlizee/savvy/SAVVY) for installation, usage instructions, and algorithm details.
+**Get Started**: Visit the [SAVVY repository](https://github.com/shlizee/savvy/tree/main/SAVVY) for installation, usage instructions, and algorithm details.
 
 ---
 
@@ -67,11 +67,11 @@ SAVVY-Bench is constructed through a four-stage pipeline combining automated too
 
 **Access Dataset**: 
 - Download from [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench)
-- Data preprocessing scripts available in the [SAVVY repository](https://github.com/shlizee/savvy/SAVVY) under `data_utils/` folder
+- Data preprocessing scripts available in the [SAVVY repository](https://github.com/shlizee/savvy/tree/main/SAVVY) under `data_utils/` folder
 
 ---
 
-### [AV-LLM Evaluation Code on SAVVY-Bench](https://github.com/shlizee/savvy/SAVVY-Bench)
+### [AV-LLM Evaluation Code on SAVVY-Bench](https://github.com/shlizee/savvy/tree/main/SAVVY-Bench)
 **Evaluation Repository** - We currently support the evaluation of the following AV-LLMs on SAVVY-Bench:
 - [VideoLLaMA2](https://github.com/DAMO-NLP-SG/VideoLLaMA2)
 - [MiniCPM-o2.6](https://github.com/OpenBMB/MiniCPM-o)
@@ -82,7 +82,7 @@ SAVVY-Bench is constructed through a four-stage pipeline combining automated too
 - [Longvale](https://github.com/ttgeng233/LongVALE)
 
 
-**Run Benchmarks**: Visit the [SAVVY-Bench evaluation repository](https://github.com/shlizee/savvy/SAVVY-Bench) for setup instructions and evaluation scripts.
+**Run Benchmarks**: Visit the [SAVVY-Bench evaluation repository](https://github.com/shlizee/savvy/tree/main/SAVVY-Bench) for setup instructions and evaluation scripts.
 
 
 
@@ -103,7 +103,7 @@ If you use SAVVY or SAVVY-Bench in your research, please cite:
 ## License
 
 Please refer to individual component licenses:
-- SAVVY Algorithm: See [LICENSE](https://github.com/shlizee/savvy/SAVVY/blob/master/LICENSE) 
+- SAVVY Algorithm: See [LICENSE](https://github.com/shlizee/savvy/tree/main/SAVVY/blob/master/LICENSE) 
 - Original Aria Dataset: [Project Aria License Agreement](https://www.projectaria.com/datasets/aea/license/)
 - [EgoLifter submodule](https://github.com/facebookresearch/egolifter): [Apache License 2.0](https://github.com/facebookresearch/egolifter/blob/main/LICENSE)
 
