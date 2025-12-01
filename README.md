@@ -1,7 +1,7 @@
 <h1 align="center">SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/NeurIPS%202025-Oral-7D3CFF?style=flat-square">
+  <a href="#"><img src="https://img.shields.io/badge/NeurIPS%202025-Oral-7D3CFF?style=flat-square"></a>
 </p>
 <p align="center">
   <a href="https://arxiv.org/abs/2506.05414">
@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/yang-caleb-zheng/" target="_blank"> Caleb Zheng </a>,
   <a href="https://christincha.github.io/" target="_blank"> Jingyuan Li </a>,
   <a href="https://faculty.washington.edu/shlizee/NW/team.html" target="_blank"> Eli Shlizerman </a> <br>
+  University of Washington
   * Equal contribution
 </h4>
 
@@ -38,8 +39,8 @@ This project consists of three main components, each hosted in separate reposito
 ### Quick Links
 | Component | Folder | Description |
 |-----------|------------|-------------|
-| **SAVVY Algorithm** | [SAVVY](https://github.com/shlizee/savvy/SAVVY/) | Training-free spatial reasoning pipeline |
-| **SAVVY-Bench Dataset** | [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench) | Benchmark data, annotations, preprocessing tools |
+| **SAVVY Algorithm** | [SAVVY](https://github.com/shlizee/savvy/SAVVY/) | Training-free spatial reasoning pipeline; data preprocessing tools, benchmark data, annotations |
+| **SAVVY-Bench Dataset** | [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench) | Hugging Face Data Studio QA airs preview|
 | **Evaluation Code** | [SAVVY-Bench](https://github.com/shlizee/savvy/SAVVY-Bench/) | Multi-model benchmarking framework |
 ---
 
