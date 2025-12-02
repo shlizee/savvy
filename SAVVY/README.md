@@ -99,3 +99,5 @@ If you use SAVVY or SAVVY-Bench in your research, please cite:
   journal={arXiv preprint arXiv:2506.05414},
   year={2025}
 }
+# This paper will appear in NeurIPS 2025
+```
