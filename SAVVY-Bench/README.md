@@ -5,7 +5,7 @@ This repository hosts the evaluation code for SAVVY-Bench proposed in the NeurIP
 # Benchmark Data
 There are two methods to set up the data part of the benchmark.
 
-Method 1: Follow [SAVVY-Bench](https://huggingface.co/datasets/shlizee/SAVVY-Bench) huggingface repo to set up. The eval QA file is [savvy_bench.json](data/spatial_avqa/test/savvy_bench.json).
+Method 1: Follow [SAVVY-Bench](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench) huggingface repo to set up. The eval QA file is [savvy_bench.json](data/spatial_avqa/test/savvy_bench.json).
 
 Method 2: Follow the benchmark and data guideline in [SAVVY](https://github.com/shlizee/savvy/tree/main/SAVVY/tree/master?tab=readme-ov-file#dataset-and-benchmark-setup) repository. 
 
