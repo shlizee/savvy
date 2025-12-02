@@ -1,3 +1,7 @@
+"""
+We modified paths in openllama.py to adapt VideoSalmonn code to SAVVY-Bench evalulation as well as video and audio paths.
+"""
+
 from lmms_eval.models.salmonn_configs.header import *
 from loguru import logger as eval_logger
 import sys; sys.path = ["third_party/SALMONN/model"] + sys.path

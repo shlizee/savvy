@@ -1,3 +1,9 @@
+"""
+DSP algorithms code to get spatial audio cues for SAVVY pipeline stage1 - part of "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing" 
+Copyright (c) 2024-2026 University of Washington. Developed in UW NeuroAI Lab by Mingfei Chen, Zijun Cui and Xiulong Liu.
+"""
+
+
 import numpy as np
 from numpy.fft import fft, ifft
 import librosa

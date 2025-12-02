@@ -1,3 +1,6 @@
+"""
+We modified the ola_arch.py changing the weights loading path for speech and music encoders to match with SAVVY-Bench evalulation.
+"""
 from abc import ABC, abstractmethod
 
 import torch

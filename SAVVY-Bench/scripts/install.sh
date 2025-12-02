@@ -1,5 +1,9 @@
-# conda create -p /pscratch/sd/x/xiuliu/savvy python=3.12 -y
-# conda activate /pscratch/sd/x/xiuliu/savvy
+# """
+# Install script for SAVVY-Bench evaluation - part of "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing" 
+# Copyright (c) 2024-2026 University of Washington. Developed in UW NeuroAI Lab by Mingfei Chen, Zijun Cui and Xiulong Liu.
+# """
+# conda create -n savvy python=3.12 -y
+# conda activate savvy
 
 # git clone git@github.com:xxx
 # cd SAVVY-Bench

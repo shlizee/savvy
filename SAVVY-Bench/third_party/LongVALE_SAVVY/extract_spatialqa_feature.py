@@ -1,3 +1,6 @@
+"""
+We adapted the extract_spatialqa_feature file to get input videos and audios from SAVVY-Bench data.
+"""
 import os
 import torchaudio.compliance.kaldi as ta_kaldi
 import torch.nn.functional as F

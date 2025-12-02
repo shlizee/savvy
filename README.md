@@ -40,7 +40,7 @@ This project consists of three main components, each hosted in separate reposito
 | Component | Folder | Description |
 |-----------|------------|-------------|
 | **SAVVY Algorithm** | [SAVVY](https://github.com/shlizee/savvy/tree/main/SAVVY/) | Training-free spatial reasoning pipeline; data preprocessing tools, benchmark data, annotations |
-| **SAVVY-Bench Dataset** | [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench) | Hugging Face Data Studio QA airs preview|
+| **SAVVY-Bench Dataset** | [HuggingFace](https://huggingface.co/datasets/shlizee/SAVVY-Bench) | Hugging Face Data Studio QA airs preview|
 | **Evaluation Code** | [SAVVY-Bench](https://github.com/shlizee/savvy/tree/main/SAVVY-Bench/) | Multi-model benchmarking framework |
 ---
 
@@ -56,7 +56,7 @@ The SAVVY algorithm employs a multi-stage reasoning approach:
 
 ---
 
-### [SAVVY-Bench Dataset](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench)
+### [SAVVY-Bench Dataset](https://huggingface.co/datasets/shlizee/SAVVY-Bench)
 **HuggingFace Repository** - Benchmark dataset, annotations, and data preprocessing tools
 
 SAVVY-Bench is constructed through a four-stage pipeline combining automated tools with human validation:
@@ -66,7 +66,7 @@ SAVVY-Bench is constructed through a four-stage pipeline combining automated too
 4. **Quality Review**: Human verification ensuring precision
 
 **Access Dataset**: 
-- Download from [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench)
+- Download from [HuggingFace](https://huggingface.co/datasets/shlizee/SAVVY-Bench)
 - Data preprocessing scripts available in the [SAVVY repository](https://github.com/shlizee/savvy/tree/main/SAVVY) under `data_utils/` folder
 
 ---

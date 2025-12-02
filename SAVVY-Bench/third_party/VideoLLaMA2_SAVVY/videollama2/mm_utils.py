@@ -1,3 +1,7 @@
+"""
+We modified the "load_audio_from_video" function in "videollama2/mm_utils.py" file - line 175, we use moviepy to extract audio track from the video input.
+"""
+
 import ast
 import os
 import math

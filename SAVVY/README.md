@@ -28,7 +28,7 @@
 
 3D spatial reasoning in dynamic audio-visual environments remains largely unexplored by current Audio-Visual LLMs (AV-LLMs). SAVVY is a training-free reasoning pipeline that enhances AV-LLMs by recovering object trajectories and constructing a unified global 3D map for spatial question answering.
 
-This repository contains only the code for the SAVVY algorithm. The benchmark dataset, annotations, and evaluation data for SAVVY-Bench are provided separately on [HuggingFace](https://huggingface.co/datasets/ZijunCui/SAVVY-Bench). In addition, we also host another repository for SAVVY-Bench evaluation code to support a variety of existing AV-LLMs, please refer to [repo](https://github.com/yoyomimi/SAVVY-Bench) for further details.
+This repository contains only the code for the SAVVY algorithm. The benchmark dataset, annotations, and evaluation data for SAVVY-Bench are provided separately on [HuggingFace](https://huggingface.co/datasets/shlizee/SAVVY-Bench). In addition, we also host another repository for SAVVY-Bench evaluation code to support a variety of existing AV-LLMs, please refer to [repo](https://github.com/shlizee/savvy/tree/main/SAVVY-Bench) for further details.
 
 If this repo or benchmark helps your research, a star ⭐ is appreciated.
 

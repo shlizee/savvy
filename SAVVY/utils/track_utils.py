@@ -1,3 +1,9 @@
+"""
+Tracking utils code for SAVVY pipeline dynamic tracks merging - part of "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing" 
+Copyright (c) 2024-2026 University of Washington. Developed in UW NeuroAI Lab by Mingfei Chen, Zijun Cui and Xiulong Liu.
+"""
+
+
 import numpy as np
 
 def get_nearest_times(time_keys, target_time, max_count=4):

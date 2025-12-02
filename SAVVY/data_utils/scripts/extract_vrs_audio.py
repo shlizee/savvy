@@ -1,4 +1,7 @@
-#!/usr/bin/env python3
+"""
+VRS audio extraction code for SAVVY-Bench data preprocessing - part of "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing" 
+Copyright (c) 2024-2026 University of Washington. Developed in UW NeuroAI Lab by Mingfei Chen, Zijun Cui and Xiulong Liu.
+"""
 import sys
 import os
 from projectaria_tools.core import data_provider

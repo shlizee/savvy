@@ -2,7 +2,7 @@
 
 This directory (`data_utils/`) contains data preprocessing tools for SAVVY-Bench, the first benchmark for dynamic 3D spatial reasoning in audio-visual environments, introduced in [SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing](https://arxiv.org/pdf/2506.05414). It provides downloading and preprocessing scripts for [Aria Everyday Activities Dataset, Meta Reality Labs-R](https://www.projectaria.com/datasets/aea/) videos used in SAVVY-Bench.
 
-**Note:** This is part of the [SAVVY repository](https://github.com/yoyomimi/SAVVY). For the main SAVVY algorithm code, see the parent directory.
+**Note:** This is part of the [SAVVY repository](https://github.com/shlizee/savvy/tree/main/SAVVY). For the main SAVVY algorithm code, see the parent directory.
 
 <!-- ## SAVVY-Bench Dataset
 

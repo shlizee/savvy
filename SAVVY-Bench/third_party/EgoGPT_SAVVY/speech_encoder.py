@@ -1,4 +1,7 @@
 # Adopted from https://github.com/ddlBoJack/SLAM-LLM/blob/main/src/slam_llm/models/encoder.py
+"""
+We modified the path of speech_encoder in speech_encoder.py to adapt SAVVY-Bench evaluation.
+"""
 
 import types
 

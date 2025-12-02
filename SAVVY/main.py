@@ -1,3 +1,8 @@
+"""
+Main code for SAVVY pipeline - part of "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing" 
+Copyright (c) 2024-2026 University of Washington. Developed in UW NeuroAI Lab by Mingfei Chen, Zijun Cui and Xiulong Liu.
+"""
+
 import os
 import json
 from tqdm import tqdm

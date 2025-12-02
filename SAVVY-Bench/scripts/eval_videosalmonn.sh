@@ -1,4 +1,8 @@
 #!/bin/bash
+# """
+# VideoSalmonn eval script for SAVVY-Bench evaluation - part of "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing" 
+# Copyright (c) 2024-2026 University of Washington. Developed in UW NeuroAI Lab by Mingfei Chen, Zijun Cui and Xiulong Liu.
+# """
 cd third_party/
 git clone https://github.com/bytedance/SALMONN.git
 cd SALMONN

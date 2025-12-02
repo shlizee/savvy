@@ -1,13 +1,13 @@
 # SAVVY-Bench
-This repository hosts the evaluation code for SAVVY-Bench proposed in the NeurIPS paper [SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing](https://arxiv.org/abs/2506.05414), supporting a wide variety of existing AV-LLMs evaluation on the benchmark. For the SAVVY pipeline code, please refer to the [repo](https://github.com/yoyomimi/SAVVY).
+This repository hosts the evaluation code for SAVVY-Bench proposed in the NeurIPS paper [SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing](https://arxiv.org/abs/2506.05414), supporting a wide variety of existing AV-LLMs evaluation on the benchmark. For the SAVVY pipeline code, please refer to the [repo](https://github.com/shlizee/savvy/tree/main/SAVVY).
 
 
 # Benchmark Data
 There are two methods to set up the data part of the benchmark.
 
-Method 1: Follow [SAVVY-Bench](https://huggingface.co/datasets/ZijunCui/SAVVY-Bench) huggingface repo to set up. The eval QA file is [savvy_bench.json](data/spatial_avqa/test/savvy_bench.json).
+Method 1: Follow [SAVVY-Bench](https://huggingface.co/datasets/shlizee/SAVVY-Bench) huggingface repo to set up. The eval QA file is [savvy_bench.json](data/spatial_avqa/test/savvy_bench.json).
 
-Method 2: Follow the benchmark and data guideline in [SAVVY](https://github.com/yoyomimi/SAVVY/tree/master?tab=readme-ov-file#dataset-and-benchmark-setup) repository. 
+Method 2: Follow the benchmark and data guideline in [SAVVY](https://github.com/shlizee/savvy/tree/main/SAVVY/tree/master?tab=readme-ov-file#dataset-and-benchmark-setup) repository. 
 
 Please note that you need to download the original Aria Everyday Activities Dataset including videos / audio / additional data and then perform data processing in order to convert to the data format required by SAVVY-Bench.
 

@@ -1,4 +1,8 @@
 #!/bin/bash
+# """
+# OLA eval script for SAVVY-Bench evaluation - part of "SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing" 
+# Copyright (c) 2024-2026 University of Washington. Developed in UW NeuroAI Lab by Mingfei Chen, Zijun Cui and Xiulong Liu.
+# """
 export LOWRES_RESIZE='384x32'
 export HIGHRES_BASE='0x32'
 export VIDEO_RESIZE="0x64"
