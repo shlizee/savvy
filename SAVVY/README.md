@@ -16,9 +16,9 @@
   <a href="https://zijuncui.com/" target="_blank"> Zijun Cui*</a>,
     <a href="https://dragonliu1995.github.io/" target="_blank">Xiulong Liu*</a>,
   <a href="https://xiangjinlin.com/" target="_blank"> Jinlin Xiang</a>,
-  <a href="https://www.linkedin.com/in/yang-caleb-zheng/" target="_blank"> Caleb Zheng </a>,
-  <a href="https://christincha.github.io/" target="_blank"> Jingyuan Li </a>,
-  <a href="https://faculty.washington.edu/shlizee/NW/team.html" target="_blank"> Eli Shlizerman </a> <br>
+  <a href="https://www.linkedin.com/in/yang-caleb-zheng/" target="_blank"> Caleb Zheng</a>,
+  <a href="https://christincha.github.io/" target="_blank"> Jingyuan Li</a>,
+  <a href="https://faculty.washington.edu/shlizee/NW/team.html" target="_blank"> Eli Shlizerman</a> <br>
   * Equal contribution
 </h4>
 
