@@ -8,6 +8,8 @@ import json
 import shutil
 import subprocess
 from pathlib import Path
+import numpy as np
+from PIL import Image
 
 def load_timestamps(timestamp_file):
     timestamps = {}
@@ -41,7 +43,8 @@ def convert_frames_to_video(source_video_id, output_video_id, start_time, end_ti
     for i, frame in enumerate(filtered_frames):
         src_path = source_dir / frame['file_path'].lstrip('./')
         dst_path = temp_dir / f"frame_{i:06d}.jpg"
-        shutil.copy2(src_path, dst_path)
+        image = np.array(Image.open(src_path).rotate(270))
+        Image.fromarray(image).save(dst_path)
 
     video_output_dir = Path(output_dir) / output_video_id / 'video'
     video_output_dir.mkdir(parents=True, exist_ok=True)
