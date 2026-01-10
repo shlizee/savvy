@@ -5,6 +5,7 @@
 # """
 cd third_party/
 git clone https://github.com/EvolvingLMMs-Lab/EgoLife.git
+pip install -e .
 cd ../
 
 cp models/egogpt.py third_party/lmms_eval/lmms_eval/models/egogpt.py
