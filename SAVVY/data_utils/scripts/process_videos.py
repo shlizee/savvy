@@ -35,17 +35,16 @@ def convert_frames_to_video(source_video_id, output_video_id, start_time, end_ti
         transforms = json.load(f)
 
     filtered_frames = [f for f in transforms['frames']
-                      if start_time <= f.get('timestamp_s', 0) <= end_time]
+                        if start_time <= f.get('timestamp', 0) <= end_time]
 
     temp_dir = Path(f"/tmp/{output_video_id}_frames")
     temp_dir.mkdir(parents=True, exist_ok=True)
 
     for i, frame in enumerate(filtered_frames):
-        src_path = source_dir / frame['file_path'].lstrip('./')
+        src_path = source_dir / frame['image_path'].lstrip('./')
         dst_path = temp_dir / f"frame_{i:06d}.jpg"
         image = np.array(Image.open(src_path).rotate(270))
         Image.fromarray(image).save(dst_path)
-
     video_output_dir = Path(output_dir) / output_video_id / 'video'
     video_output_dir.mkdir(parents=True, exist_ok=True)
     output_video_path = video_output_dir / f"{output_video_id}.mp4"
@@ -68,5 +67,6 @@ timestamps = load_timestamps('aea/video_timestamps.txt')
 for video_id in timestamps.keys():
     source_id = get_source_vrs_id(video_id)
     start, end = timestamps[video_id]
-    convert_frames_to_video(source_id, video_id, start, end,
+    start_ns, end_ns = int(start * 1e9), int(end * 1e9)
+    convert_frames_to_video(source_id, video_id, start_ns, end_ns,
                            aea_processed_dir, output_dir, fps)
