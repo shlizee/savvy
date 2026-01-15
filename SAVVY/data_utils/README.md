@@ -109,7 +109,7 @@ data_utils/aea/aea_processed/
 ├── loc1_script2_seq1_rec2/
 │   └── ...
 └── [56 total sequences including seq31-34 splits]
-
+```
 ## Merge audio and video
 
 After processing, audio and video for each sequence are stored separately under each sequence folder (`audio/` and `video/`). There's a helper script `scripts/merge.sh` that iterates over all processed sequences and muxes the trimmed audio back into the corresponding video files.
@@ -144,7 +144,6 @@ ffmpeg -i path/to/sequence/video/SEQ.mp4 -i path/to/sequence/audio/SEQ.wav \
 ```
 
 This is useful when you need the final muxed videos for visualization or downstream evaluation.
-```
 
 ## Citation
 
