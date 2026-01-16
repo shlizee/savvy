@@ -112,38 +112,26 @@ data_utils/aea/aea_processed/
 ```
 ## Merge audio and video
 
-After processing, audio and video for each sequence are stored separately under each sequence folder (`audio/` and `video/`). There's a helper script `scripts/merge.sh` that iterates over all processed sequences and muxes the trimmed audio back into the corresponding video files.
+Use `scripts/merge.sh` to iterate over all processed sequences (`audio/` and `video/`) and muxes the trimmed audio back into the corresponding video files.
 
-Prerequisites:
+**Prerequisites**:
 - `ffmpeg` must be installed and available on PATH.
-    - On Debian/Ubuntu (with sudo): `sudo apt install ffmpeg`
-    - If `sudo` is not available or you prefer a user install, you can install ffmpeg with conda:
-        `conda install -c conda-forge ffmpeg`
+    - On Debian/Ubuntu: `sudo apt install ffmpeg`
+    - Conda: `conda install -c conda-forge ffmpeg`
 
-What the script does:
+**Details**:
+- This is useful when you need the final muxed videos for visualization or downstream evaluation.
 - Reads `${sequence}/video/${sequence}.mp4` and `${sequence}/audio/${sequence}.wav` for every sequence directory under `aea/aea_processed`.
 - Copies the video stream, encodes audio to AAC (48 kHz, stereo), and writes the result to `${sequence}/video_merged/${sequence}.mp4`.
-- Existing files in `video_merged/` will be overwritten.
+- Existing files in `video_merged/` will be overwritten.  
 
-Run the script (from the repository root):
+**Usage**:
 
 ```bash
 # from repo root
 cd SAVVY/data_utils/scripts
 bash merge.sh
-
-# or run directly (script changes into the processed folder)
-./merge.sh
 ```
-
-Example (single-sequence manual ffmpeg command):
-
-```bash
-ffmpeg -i path/to/sequence/video/SEQ.mp4 -i path/to/sequence/audio/SEQ.wav \
-    -c:v copy -c:a aac -ar 48000 -ac 2 -map 0:v:0 -map 1:a:0 path/to/sequence/video_merged/SEQ.mp4 -y
-```
-
-This is useful when you need the final muxed videos for visualization or downstream evaluation.
 
 ## Citation
 
