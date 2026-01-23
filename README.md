@@ -41,7 +41,7 @@ This project consists of three main components, each hosted in separate reposito
 | Component | Folder | Description |
 |-----------|------------|-------------|
 | **SAVVY Algorithm** | [SAVVY](https://github.com/shlizee/savvy/tree/main/SAVVY/) | Training-free spatial reasoning pipeline; data preprocessing tools, benchmark data, annotations |
-| **SAVVY-Bench Dataset** | [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench) | Hugging Face Data Studio QA airs preview|
+| **SAVVY-Bench Dataset** | [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench) | Preview QA pairs in the Hugging Face Data Studio|
 | **Evaluation Code** | [SAVVY-Bench](https://github.com/shlizee/savvy/tree/main/SAVVY-Bench/) | Multi-model benchmarking framework |
 ---
 
@@ -58,7 +58,7 @@ The SAVVY algorithm employs a multi-stage reasoning approach:
 ---
 
 ### [SAVVY-Bench Dataset](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench)
-**HuggingFace Repository** - Benchmark dataset, annotations, and data preprocessing tools
+**Hugging Face Repository** - Benchmark dataset, annotations, and data preprocessing tools
 
 SAVVY-Bench is constructed through a four-stage pipeline combining automated tools with human validation:
 1. **Data Preprocessing**: Undistorts videos, aligns multi-stream recordings, processes sensor data
@@ -67,7 +67,7 @@ SAVVY-Bench is constructed through a four-stage pipeline combining automated too
 4. **Quality Review**: Human verification ensuring precision
 
 **Access Dataset**: 
-- Download from [HuggingFace](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench)
+- Download from [Hugging Face](https://huggingface.co/datasets/uwneuroai/SAVVY-Bench)
 - Data preprocessing scripts available in the [SAVVY repository](https://github.com/shlizee/savvy/tree/main/SAVVY) under `data_utils/` folder
 
 ---
@@ -99,7 +99,7 @@ If you use SAVVY or SAVVY-Bench in your research, please cite:
   journal={arXiv preprint arXiv:2506.05414},
   year={2025}
 }
-# This paper will appear in NeurIPS 2025
+% This paper will appear in NeurIPS 2025
 ```
 
 ## License
