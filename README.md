@@ -1,7 +1,8 @@
 <h1 align="center">SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing
 </h1>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/NeurIPS%202025-Oral-7D3CFF?style=flat-square"></a>
+  <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/115001">
+    <img src="https://img.shields.io/badge/NeurIPS%202025-Oral-7D3CFF?style=flat-square"></a>
 </p>
 <p align="center">
   <a href="https://arxiv.org/abs/2506.05414">
