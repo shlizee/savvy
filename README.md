@@ -93,13 +93,17 @@ SAVVY-Bench is constructed through a four-stage pipeline combining automated too
 If you use SAVVY or SAVVY-Bench in your research, please cite:
 
 ```bibtex
-@article{chen2025savvy,
-  title={SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing},
-  author={Chen, Mingfei and Cui, Zijun and Liu, Xiulong and Xiang, Jinlin and Zheng, Caleb and Li, Jingyuan and Shlizerman, Eli},
-  journal={arXiv preprint arXiv:2506.05414},
-  year={2025}
+@inproceedings{NEURIPS2025_ac895e51,
+ author = {Chen, Mingfei and Cui, Zijun and Liu, Xiulong and Xiang, Jinlin and Zheng, Yang and Li, Jingyuan and Shlizerman, Eli},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
+ pages = {118999--119038},
+ publisher = {Curran Associates, Inc.},
+ title = {SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/ac895e51849bfc99ae25e054fd4c2eda-Paper-Conference.pdf},
+ volume = {38},
+ year = {2025}
 }
-% This paper will appear in NeurIPS 2025
 ```
 
 ## License
