@@ -33,6 +33,8 @@
 
 ⭐ If this project helps your research, a star is appreciated!
 
+<img width="640" height="480" alt="savvy_oral_demo_under10mb" src="https://github.com/user-attachments/assets/4cf9339c-2390-4c79-85e5-89577b58b4c4" />
+
 
 
 
