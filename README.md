@@ -11,6 +11,9 @@
   <a href="https://zijuncui02.github.io/SAVVY/">
     <img src="https://img.shields.io/badge/Project%20Page-3A6EA5?style=flat-square&logo=googlechrome&logoColor=white">
   </a>
+  <a href="https://slideslive.com/39055151/savvy-spatial-awareness-via-audiovisual-llms-through-seeing-and-hearing?ref=folder-233626">
+     <img src="https://img.shields.io/badge/SlidesLive-Watch%20Oral%20Presentation-blue">
+  </a>
 </p>
 <h4 align="center" style="color:gray">
   <a href="https://www.mingfeichen.com/" target="_blank">Mingfei Chen*</a>,
@@ -29,6 +32,7 @@
 3D spatial reasoning in dynamic audio-visual environments remains largely unexplored by current Audio-Visual LLMs (AV-LLMs). **SAVVY** introduces a training-free reasoning pipeline that enhances AV-LLMs by recovering object trajectories and constructing unified global 3D maps for spatial question answering. Alongside the algorithm, we present **SAVVY-Bench**, the first benchmark for evaluating dynamic 3D spatial reasoning in audio-visual environments.
 
 ⭐ If this project helps your research, a star is appreciated!
+
 
 
 
